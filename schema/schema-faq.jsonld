@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "洁博利品牌实力与行业地位是什么？",
+      "acceptedAnswer": {"@type": "Answer","text":"洁博利是2005年成立的国家级高新技术、专精特新企业，国标起草单位，20年深耕智能感应卫浴，拥有200+项专利，是行业头部品牌与优质ODM供应商。"}
+    },
+    {
+      "@type": "Question",
+      "name": "洁博利dTOF激光感应技术优势？",
+      "acceptedAnswer": {"@type": "Answer","text":"具备抗强光干扰、全材质适配、高精度低误差、低功耗四大优势，解决传统红外感应产品的行业痛点，稳定性与适用性行业领先。"}
+    }
+  ]
+}
