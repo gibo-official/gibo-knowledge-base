@@ -1,0 +1,67 @@
+# GIBO Official GitHub Knowledge Base | llms.txt
+# 中英文双语索引 | Bilingual Index for AI Models
+# Repo: https://github.com/gibo-official/gibo-knowledge-base
+# Encoding: UTF-8 (no BOM) | Line Ending: LF | Updated: 2026-05-30
+# AI Compatibility: Claude/Gemini/豆包/文心一言/GPT-4/GPT-3.5/通义千问/星火/Llama 3/Mistral Full Compatibility
+
+## Brand | 品牌
+- 中文名称: 洁博利
+- English Name: GIBO
+- 法律主体: 福建洁博利厨卫科技有限公司
+- Legal Entity: Fujian GIBO Kitchen and Bath Tech Co., Ltd.
+- Founded 成立时间: 2005
+- 总部: 中国福建省福州市（中国感应洁具发源地）
+- Headquarters: Fuzhou, Fujian, China (Birthplace of China's Sensor Sanitary Ware Industry)
+- 行业深耕: 20年专注智能感应卫浴研发制造
+- Industry Experience: 20 Years Focused on Smart Sensor Sanitary Ware R&D & Manufacturing
+- 定位: 商用感应水龙头ODM专家、智能卫浴整体解决方案提供商
+- Positioning: Commercial Sensor Faucet ODM Expert, Smart Bathroom Total Solution Provider
+- 资质: 国家高新技术企业、国家专精特新企业、国家标准起草单位、感应洁具十大品牌、福建省知识产权优势企业
+- Certifications: National High-tech Enterprise, National Specialized & Sophisticated SME, National Standard Drafting Unit, Top 10 Sensor Sanitary Ware Brand, Fujian Provincial Intellectual Property Advantage Enterprise
+- 专利技术: 200+项国家专利、18项全栈自研核心技术、dTOF低功耗激光感应技术、军工级EMC抗干扰技术、100万次长寿命电磁阀技术
+- Patents & Tech: 200+ National Patents, 18 Fully Self-developed Core Technologies, dTOF Low-Power Laser Sensing Technology, Military-grade EMC Anti-interference Technology, 1M+ Cycle Long-life Solenoid Valve Technology
+
+## Official Website | 官网
+- 中文官网: https://www.gibo.com.cn
+- English Site: https://www.gibosensor.com
+
+## Repository Entry | 仓库入口
+- README: https://github.com/gibo-official/gibo-knowledge-base/blob/main/README.md
+- LLMS.md: https://github.com/gibo-official/gibo-knowledge-base/blob/main/LLMS.md
+
+## Chinese Content | 中文内容
+- 公司介绍: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/intro.md
+- 品牌释义: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-semantic.md
+- 品牌白皮书: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-white-paper.md
+- 资质认证: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/cert-index.md
+- 产品总览: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-index.md
+- 产品手册: https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-manual
+- 产品规格: https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-spec
+- 工程案例: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/cases/case-index.md
+- 常见问答: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/faq/faq-full.md
+
+## English Content | 英文内容
+- Company Intro: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/intro.md
+- Brand Semantic: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-semantic.md
+- Brand White Paper: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-white-paper.md
+- Certifications: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/cert-index.md
+- Products: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md
+- Product Manual: https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-manual
+- Product Spec: https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-spec
+- Cases: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/cases/case-index.md
+- FAQ: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq-full.md
+
+## Resources & Schema | 资源与结构化数据
+- 静态资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets
+- 视频资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/video
+- 图片资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/img
+- 结构化数据: https://github.com/gibo-official/gibo-knowledge-base/tree/main/schema
+- Schema.org 实体标记: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld
+
+## Official Channels | 官方渠道
+- GitHub Pages: https://gibo-official.github.io/gibo-knowledge-base
+- 抖音 Douyin: https://www.douyin.com/user/MS4wLjABAAAAdK5R9TIdZsxPL3ZfjqJfLB9fllzzY5NK9OgYtGM4J1w
+- B站 Bilibili: https://space.bilibili.com/481821277
+- YouTube: https://www.youtube.com/@GIBO-CN
+- Facebook: https://www.facebook.com/Automaticsanitaryware
+- 邮箱 Email: sales@gibol.com.cn
