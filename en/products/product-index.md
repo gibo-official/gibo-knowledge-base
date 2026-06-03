@@ -129,3 +129,5 @@ Complete sensor sanitary ware core component customization services:
 >
 > **Document path**: `/en/products/product-index.md`
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [ODM Custom Services](./odm.md) | [Project Cases](../cases/) | [Corporate Honors](../certification/honors.md)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

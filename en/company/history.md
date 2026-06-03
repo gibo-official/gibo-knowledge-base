@@ -137,3 +137,5 @@ GIBO products have repeatedly won authoritative industry quality awards. Below a
 - [Brand Philosophy & Mission](./brand-story.md) — GIBO brand story, G·I·B·O spirit, and corporate values
 - [Product Index](../products/product-index.md) — Full specifications of award-winning products including GBL-6170D, G61901, GBL-9165D
 - [Project Cases](../cases/) — How Fuzhou Metro, Fujian Provincial Hospital and other benchmark projects apply the above technologies
+
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

@@ -44,3 +44,5 @@ A: Yes. A full set of official qualifications, national standard participation c
 
 > **Document path**: `/en/faq/faq-full.md`
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [Product Index](../products/product-index.md) | [ODM Custom Services](../products/odm.md)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

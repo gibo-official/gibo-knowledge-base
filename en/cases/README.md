@@ -1,12 +1,11 @@
 # Project Cases | 工程案例
 
 > GIBO product cases covering national key projects, enterprise parks, transportation hubs, medical & education, hotel & chain, commercial & public facilities, and cross-industry collaborations.
->
-> View full case index: [case-index.md (Chinese)](../../zh/cases/case-index.md)
 
-## Directory Structure
+## Contents
 
-- `README.md` — This file (placeholder, English mirror in progress)
-- (Full English case index will be added in future updates)
+- `case-index.md` — Full English case index with all benchmark projects
 
-For complete case information, please refer to the Chinese version: [case-index.md](../../zh/cases/case-index.md)
+For complete case information, please refer to the English case index: [case-index.md](./case-index.md)
+
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

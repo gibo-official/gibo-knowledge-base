@@ -34,3 +34,5 @@ Products are widely used in hospitals, clean rooms, campuses, government/enterpr
 
 > **Document path**: `/en/company/intro.md`
 > **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

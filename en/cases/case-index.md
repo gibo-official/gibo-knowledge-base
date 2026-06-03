@@ -162,3 +162,5 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 >
 > **Document path**: `/en/cases/case-index.md`
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [Product Index](../products/product-index.md) | [ODM Custom Services](../products/odm.md)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

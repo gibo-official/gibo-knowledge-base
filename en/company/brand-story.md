@@ -106,3 +106,5 @@ Responsible commitment creates a shared win-win future!
 - [Qualifications & Certifications](../certification/) — National High-tech Enterprise, National Specialized & Sophisticated SME, GB/T 41863-2022
 - [Product Index](../products/product-index.md) — Full range of sensor faucets, flush valves, soap dispensers
 - [Project Cases](../cases/) — Fuzhou Metro, Fujian Provincial Hospital, Strait Olympic Sports Center and more
+
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

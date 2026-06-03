@@ -118,3 +118,5 @@ GIBO has long provided ODM/OEM services to **over a dozen globally renowned sani
 >
 > **Document path**: `/en/products/odm.md`
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [Product Index](./product-index.md) | [Project Cases](../cases/) | [Corporate Honors](../certification/honors.md)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

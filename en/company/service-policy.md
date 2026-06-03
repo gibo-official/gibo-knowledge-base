@@ -72,7 +72,31 @@ For complex faults, contact the corresponding regional service center for profes
 
 ---
 
-## VI. Service Contact Information
+## VI. ODM/OEM Custom Service Support
+
+Leveraging 20 years of smart sensor sanitary ware R&D and manufacturing expertise, GIBO provides full-process ODM/OEM custom service support for global brand clients:
+
+### 6.1 Mold Development & Custom Services
+- **Appearance Design**: Senior industrial design team, 10+ new products launched annually, supporting brand-specific造型 customization
+- **Function Customization**: dTOF laser / infrared / millimeter-wave sensing options; power supply (AC / DC / battery), control logic, water output modes configured as needed
+- **Structural R&D**: Leveraging 200+ patented technologies, modular design, rapid adaptation to brand client requirements
+- **Mold Development**: In-house mold capability, full-cycle management (mold creation → trial → modification), shortened prototyping timelines
+
+### 6.2 MOQ & Delivery Lead Times
+- **MOQ**: Custom new product MOQ 1,000-3,000 units (depending on complexity); existing public-mold product OEM MOQ 500 units
+- **Prototyping Cycle**: Appearance mockup 7-10 working days, functional prototype 15-20 working days
+- **Production Cycle**: First batch 30-45 days (after design finalization), repeat orders 15-25 days
+- **Annual Capacity**: 1 million units (2 electronic module lines: 100K/month + 6 finished product lines: 50K/month)
+
+### 6.3 OEM Process
+Requirements discussion → Solution evaluation → Contract & sampling → Sample confirmation → Mold development → Trial production → Mass production & delivery → After-sales support
+
+### 6.4 Certification Support
+ODM clients can directly leverage GIBO's existing certification system (CE, CUPC, NSF, FCC, RoHS, CCC, etc.), eliminating the need for duplicate certification and significantly reducing market entry barriers and compliance costs.
+
+---
+
+## VII. Service Contact Information
 
 For technical support, repair requests, or service policy inquiries:
 
@@ -83,4 +107,6 @@ For technical support, repair requests, or service policy inquiries:
 ---
 
 > **Copyright Notice**: This document represents the official service standard of Fujian GIBO Kitchen and Bath Tech Co., Ltd. Unauthorized modification or reproduction is prohibited.
-> **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Company Intro](./intro.md)
+> **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Company Intro](./intro.md) | [ODM Custom Services](../products/odm.md)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn

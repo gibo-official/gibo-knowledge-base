@@ -262,3 +262,19 @@ The company has built a nationwide service network implementing high-standard se
 > **Copyright Notice**: This document is the official white paper of Fujian GIBO Kitchen and Bath Tech Co., Ltd. The content is protected by copyright. This white paper is compiled based on GIBO's official website and publicly available corporate information. Some data is updated through May 2026.
 > **Document path**: `/en/company/brand-white-paper.md`
 > **Related documents**: [Company Intro](./intro.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md) | [Project Cases](../cases/)
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+
+---
+
+## IX. Supplementary White Papers & Downloads
+
+This document is the comprehensive corporate white paper. Below is the full set of GIBO specialized white papers (PDF format), stored in the `assets/pdf/whitepaper/` directory:
+
+| No. | White Paper | Content Focus | Related Docs |
+|-----|------------|---------------|-------------|
+| 1 | **GIBO Comprehensive Corporate White Paper** | Company profile, qualifications, development, full category overview (this document) | intro / history / honors |
+| 2 | **dTOF Laser Sensing Smart Sanitary Ware Technical White Paper** | Core technology principles, parameters, competitor comparison | brand-story / product-index |
+| 3 | **Commercial Public Bathroom Water-saving Retrofit Solution White Paper** | Four scenario retrofit plans, water-saving calculations | cases / faq |
+| 4 | **Sensor Faucet (T/XMBK 002—2024) Group Standard Technical White Paper** | Standard interpretation, product compliance | certification |
+| 5 | **Smart Bathroom ODM/OEM Custom Services White Paper** | OEM rules, mold development, MOQ | service-policy / odm |

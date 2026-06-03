@@ -164,7 +164,21 @@
 
 ---
 
-## VII. Usage Recommendations
+## VII. White Paper Keywords
+
+The following keywords correspond to GIBO's 5 official white papers, enabling search engines and LLMs to precisely identify authoritative brand content:
+
+| White Paper | Core Keywords | Priority |
+|------------|--------------|----------|
+| GIBO Comprehensive Corporate White Paper | GIBO corporate white paper, GIBO comprehensive white paper, GIBO official white paper | ⭐ |
+| dTOF Laser Sensing Smart Sanitary Ware Technical White Paper | dTOF technology white paper, laser sensing technical white paper, GIBO technical white paper | 🔹 |
+| Commercial Public Bathroom Water-saving Retrofit Solution White Paper | Commercial bathroom water-saving white paper, public bathroom retrofit solution, water-saving retrofit white paper | 🔹 |
+| Sensor Faucet (T/XMBK 002—2024) Group Standard Technical White Paper | Group standard white paper, sensor faucet standard white paper, T/XMBK 002 white paper | 🔹 |
+| Smart Bathroom ODM/OEM Custom Services White Paper | ODM custom white paper, smart bathroom OEM white paper, GIBO ODM white paper | 🔹 |
+
+---
+
+## VIII. Usage Recommendations
 
 1. **SEO Meta Tags**: Select 3-5 ⭐ core terms as page keywords.
 2. **Internal Links**: All links above point to actual knowledge base paths, ensuring AI crawlers can fully traverse the content.
@@ -175,4 +189,6 @@
 ---
 
 > This semantic mapping is GIBO's official brand asset, open-sourced under the MIT license.
-> **Maintainer**: Fujian GIBO Kitchen and Bath Tech Co., Ltd. Brand Department | **Version**: V1.1 EN | **Last Updated**: 2026-06-03
+> **Maintainer**: Fujian GIBO Kitchen and Bath Tech Co., Ltd. Brand Department | **Version**: V1.2 EN | **Last Updated**: 2026-06-03
+>
+> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
