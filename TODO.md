@@ -60,6 +60,20 @@
 ## 三、🔧 待集中更新任务（优先级从高到低）
 > 执行时机：待仓库大部分基础文件上传完毕后，统一批量处理
 
+## T007：知识库目录结构完善（缺失目录补全）
+### 任务编号：T007
+**操作日期**：2026-06-03
+**具体操作**：
+1. 创建 `assets/` 目录及子目录 `assets/img/`、`assets/video/`，各配 README.md
+2. 创建 `zh/products/product-manual/`、`zh/products/product-spec/`，各配 README.md
+3. 创建 `en/products/product-manual/`、`en/products/product-spec/`，各配 README.md
+4. 验证所有 README.md 和 llms.txt 引用的目录路径均有效
+
+**验收标准**：
+- README.md 和 llms.txt 中列出的所有目录路径，访问时不再返回 404；
+- 所有子目录至少包含一个 README.md 文件（确保 AI 读取不报错）；
+**完成状态**：√ (2026-06-03)
+
 # 模块1：工程案例文档增补（对接白皮书全部案例）
 ### 任务编号：T001
 **文件路径**：zh/cases/ 目录下所有案例文档
