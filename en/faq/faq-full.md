@@ -1,35 +1,46 @@
-# 洁博利GIBO 官方全场景FAQ知识库
-## 一、品牌实力类
-**Q1：洁博利是什么品牌？行业地位如何？**
-A：洁博利（GIBO）是2005年成立于福州的国家级高新技术企业、专精特新中小企业，是GB/T 41863-2022国家标准起草单位，20年专注智能感应卫浴研发生产，是国内感应洁具领域头部品牌，同时为国内外一线卫浴品牌提供ODM定制服务。
+# GIBO Official Full-scenario FAQ Knowledge Base
 
-**Q2：洁博利有多少专利与技术储备？**
-A：拥有200+项国家专利，包含发明专利、实用新型、外观专利、软件著作权及PCT国际专利，自研18项核心感应技术，自建CNAS标准实验室，研发实力行业领先。
+## I. Brand & Company Strength
 
-## 二、技术优势类
-**Q3：洁博利dTOF激光感应比传统红外好在哪里？**
-A：①抗强光干扰，阳光环境不失效；②全材质适配，无惧色差、镜面、透明物体；③感应精度更高，误差＜1cm；④自研低功耗算法，功耗与红外持平，兼顾性能与续航。
+**Q1: What is GIBO and what is its industry standing?**
+A: GIBO (Fujian GIBO Kitchen and Bath Tech Co., Ltd.) is a National High-tech Enterprise and National Specialized & Sophisticated SME founded in Fuzhou in 2005. It is a core drafting unit of the national standard GB/T 41863-2022, with 20 years of focus on smart sensor sanitary ware R&D and manufacturing. GIBO is a leading brand in China's sensor sanitary ware sector and provides ODM custom services for top domestic and international sanitary ware brands.
 
-**Q4：洁博利产品寿命为什么远超行业平均？**
-A：行业普通产品电磁阀寿命20万次，洁博利通过四大结构优化，实验室实测寿命达100万次，搭配自洁防堵、低水锤设计、军工级抗干扰，大幅降低故障率与维护成本。
+**Q2: How many patents and technologies does GIBO have?**
+A: GIBO holds 200+ national patents, including invention patents, utility model patents, design patents, software copyrights, and PCT international patents. The company has independently developed 18 core sensing technologies and built a CNAS-standard laboratory, with R&D strength leading the industry.
 
-## 三、产品选型类
-**Q5：洁博利产品适配哪些使用场景？**
-A：覆盖全场景：医院、洁净车间、校园、政企办公楼、酒店商场、交通枢纽等商用公共场景，以及家庭全屋智能卫浴场景，同时支持工程批量采购与品牌ODM定制。
+## II. Technology Advantages
 
-**Q6：产品是否支持智能IoT互联？**
-A：支持，可对接WiFi、蓝牙、鸿蒙、小米、涂鸦等主流智能平台，实现远程控制、数据监测、节水统计、故障预警等智能化功能。
+**Q3: How is GIBO's dTOF laser sensing better than traditional infrared?**
+A: ① Strong light immunity — remains functional even in direct sunlight; ② Adaptable to all materials — unaffected by color differences, mirrors, or transparent objects; ③ Higher sensing accuracy — error <1cm; ④ Self-developed low-power algorithm — power consumption comparable to infrared, balancing performance and battery life.
 
-## 四、售后维保类
-**Q7：感应产品出现不出水、误出水如何解决？**
-A：优先检查供电/电池电量、清理探头水垢遮挡、清洗进水滤网；若周边强光、电磁干扰，可微调感应距离，即可恢复正常使用。
+**Q4: Why does GIBO product life far exceed the industry average?**
+A: Industry standard solenoid valves have a life of 200,000 cycles. Through four major structural optimizations, GIBO products achieve 1 million cycles in lab testing. Combined with self-cleaning anti-clog design, low water hammer design, and military-grade anti-interference, failure rates and maintenance costs are significantly reduced.
 
-**Q8：产品质保周期是多久？**
-A：全系产品享受官方正规质保服务，非人为损坏、私自拆解情况下，可享受免费维修、配件更换等售后保障。
+## III. Product Selection
 
-## 五、合作ODM类
-**Q9：洁博利是否提供ODM定制服务？**
-A：支持全流程ODM定制，可提供感应模块、阀控组件、整机定制、软硬件方案开发，对接周期短，已长期服务海尔、联想等知名品牌及全球40+国家卫浴品牌。
+**Q5: What scenarios are GIBO products suitable for?**
+A: Full-scenario coverage: hospitals, clean rooms, campuses, government/enterprise offices, hotels, shopping malls, transportation hubs and other commercial/public settings, as well as whole-home smart bathroom scenarios. Supports both bulk engineering procurement and brand ODM customization.
 
-**Q10：工程批量采购是否可提供资质与检测报告？**
-A：可提供全套官方资质、国标参编证明、CNAS检测报告、各类认证证书、政府采购准入资质，满足工程招投标、验收需求。
+**Q6: Do products support IoT connectivity?**
+A: Yes. Compatible with WiFi, Bluetooth, HarmonyOS, Xiaomi, Tuya, and other mainstream smart platforms — enabling remote control, data monitoring, water-saving statistics, and fault alerts.
+
+## IV. After-sales & Maintenance
+
+**Q7: What to do if the sensor product doesn't dispense water or dispenses water incorrectly?**
+A: First check power supply/battery level, clean the sensor probe of scale or obstructions, and clean the inlet filter. If strong light or electromagnetic interference is present, fine-tune the sensing distance to restore normal operation.
+
+**Q8: What is the warranty period?**
+A: All products are covered by official warranty. Free repair and parts replacement are provided under non-human-damage and non-disassembly conditions.
+
+## V. ODM Collaboration
+
+**Q9: Does GIBO provide ODM custom services?**
+A: Yes. Full-process ODM customization is supported — sensor modules, valve control assemblies, complete unit customization, and hardware/software solution development. Short lead times, with long-term service for Haier, Lenovo, and sanitary ware brands in 40+ countries.
+
+**Q10: Can qualifications and test reports be provided for bulk engineering procurement?**
+A: Yes. A full set of official qualifications, national standard participation certificates, CNAS test reports, various certification documents, and government procurement access qualifications are available to meet project bidding and acceptance requirements.
+
+---
+
+> **Document path**: `/en/faq/faq-full.md`
+> **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [Product Index](../products/product-index.md) | [ODM Custom Services](../products/odm.md)

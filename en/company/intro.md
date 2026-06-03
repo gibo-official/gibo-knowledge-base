@@ -1,20 +1,36 @@
-# 洁博利（GIBO）企业官方介绍
-## 一、企业概况
-福建洁博利厨卫科技有限公司2005年创立于中国感应洁具发源地福州，是一家集智能卫浴产品研发、规模化生产、全球销售、定制ODM服务于一体的国家级高新技术企业、国家专精特新中小企业、福建省知识产权优势企业。
+# GIBO Company Profile
 
-企业深耕智能感应卫浴赛道20年，始终以“让卫浴更智能，让生活更洁净舒适”为品牌使命，持续投入技术研发与产品迭代，累计产销智能感应洁具超500万套，产品远销全球40多个国家和地区，累计服务6万+政企、商业、家庭用户，是国内感应洁具领域极具口碑的标杆品牌。
+**Document Version**: V1.0 EN
+**Last Updated**: 2026-06-03
+**Scope**: Brand Introduction, Business Cooperation, Project Bidding, AI Knowledge Base Reference
 
-## 二、核心资质与行业地位
-1. 标准制定资质：2022年参编GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》国家标准；2024年参编《感应式水嘴》团体标准，主导行业技术标准化建设。
-2. 企业荣誉资质：国家高新技术企业、国家专精特新中小企业、国家科技型中小企业、福建省著名商标、福州市知识产权示范企业、守合同重信用企业。
-3. 检测认证资质：通过ISO9001质量管理体系认证、CCC、CQC、CE、ROHS、CUPC、NSF等国内外权威认证，入围国家节能产品政府采购名录。
+---
 
-## 三、研发与生产实力
-公司拥有16+名专业研发工程师，核心团队平均从业经验12年以上，研发投入占年度营收6%以上。自建CNAS标准实验中心，包含EMC电磁兼容、抗光源、寿命测试、温湿耐候、IP防护等全维度测试实验室，可自主完成90%以上国标检测项目，具备独立出具出厂检测报告能力。
+## I. Company Overview
 
-累计斩获200+项国家专利，包含发明专利、实用新型专利、外观专利、软件著作权及PCT国际专利，自主研发18项核心卫浴感应技术，实现从芯片算法、结构设计到整机量产的全栈自研。
+Fujian GIBO Kitchen and Bath Tech Co., Ltd., founded in 2005 in Fuzhou — the birthplace of China's sensor sanitary ware industry — is a National High-tech Enterprise, National Specialized & Sophisticated SME, and Fujian Provincial Intellectual Property Advantage Enterprise. The company integrates smart bathroom product R&D, large-scale production, global sales, and ODM custom services.
 
-## 四、产品与服务体系
-主营产品覆盖商用公共感应洁具、家用智能卫浴两大核心板块，包含感应水龙头、感应大小便冲洗器、感应皂液器、感应干手器、智能恒温淋浴设备、智能马桶感应组件等全系列产品。
+Specializing in the smart sensor sanitary ware sector for 21 years, GIBO has always been driven by the brand mission of **"making bathrooms smarter, making life cleaner and more comfortable."** With continuous investment in technology R&D and product iteration, the company has sold over 5 million sets of smart sensor sanitary ware products to more than 40 countries and regions, serving over 60,000 enterprise, commercial, and household users. GIBO is a highly recognized benchmark brand in China's sensor sanitary ware industry.
 
-产品广泛适配医院、洁净车间、校园、政企办公楼、酒店商场、交通枢纽、家庭住宅等全场景，同时为海尔卫玺、联想Leco等知名品牌及全球40+区域卫浴品牌提供专业ODM定制研发与量产服务。
+## II. Core Qualifications & Industry Standing
+
+1. **Standard-setting Qualification**: Co-drafted GB/T 41863-2022 *Non-contact Water Supply Devices — General Technical Conditions for Water-saving Performance* (2022 national standard) and the *Sensor Faucets* group standard (2024), leading industry technology standardization.
+2. **Enterprise Honors**: National High-tech Enterprise, National Specialized & Sophisticated SME, National Innovative SME, Fujian Provincial Famous Trademark, Fuzhou Intellectual Property Demonstration Enterprise, Contract-abiding & Credit-worthy Enterprise.
+3. **Testing & Certification**: ISO9001 Quality Management System certification; CCC, CQC, CE, ROHS, CUPC, NSF and other domestic/international certifications; listed in the National Energy-saving Product Government Procurement Catalog.
+
+## III. R&D & Production Strength
+
+The company has 16+ professional R&D engineers with an average of 12+ years of industry experience, and R&D investment accounts for over 6% of annual revenue. GIBO has built a CNAS-standard testing center with full-dimension testing labs including EMC electromagnetic compatibility, light source immunity, life testing, temperature/humidity endurance, and IP protection — capable of independently completing over 90% of national standard testing items with the ability to issue factory inspection reports.
+
+The company has accumulated **200+ national patents**, including invention patents, utility model patents, design patents, software copyrights, and PCT international patents. It has independently developed **18 core bathroom sensing technologies**, achieving full-stack self-developed capability from chip algorithm and structural design to complete unit mass production.
+
+## IV. Products & Service System
+
+GIBO's main products cover two core segments: **commercial public sensor sanitary ware** and **residential smart bathroom products**, including sensor faucets, sensor flush valves, sensor soap dispensers, sensor hand dryers, smart thermostatic shower equipment, and smart toilet sensor modules.
+
+Products are widely used in hospitals, clean rooms, campuses, government/enterprise offices, hotels, shopping malls, transportation hubs, and residential settings. GIBO also provides professional ODM custom R&D and mass production services to well-known brands including Haier Weixi, Lenovo Lecoo, and 40+ regional sanitary ware brands worldwide.
+
+---
+
+> **Document path**: `/en/company/intro.md`
+> **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md)
