@@ -36,7 +36,6 @@
 - 品牌故事: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-story.md
 - 企业发展历程: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/history.md
 - 售后服务政策: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/service-policy.md
-- 资质认证: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/cert-index.md
 - 企业荣誉墙: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/honors.md
 - 合作检测机构: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/test-institution.md
 - 产品总览: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-index.md
@@ -48,14 +47,22 @@
 
 ## English Content | 英文内容
 - Company Intro: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/intro.md
+- Brand Story: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-story.md
 - Brand Semantic: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-semantic.md
 - Brand White Paper: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-white-paper.md
-- Certifications: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/cert-index.md
-- Products: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md
+- Development History: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/history.md
+- Service Policy: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/service-policy.md
+- Certifications: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/honors.md
+- Testing Institutions: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/test-institution.md
+- Product Index: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md
+- ODM Custom Services: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/odm.md
 - Product Manual: https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-manual
 - Product Spec: https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-spec
 - Cases: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/cases/case-index.md
 - FAQ: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq-full.md
+
+## Governance | 运维规则
+- Maintenance Rules: https://github.com/gibo-official/gibo-knowledge-base/blob/main/MAINTENANCE.md
 
 ## Resources & Schema | 资源与结构化数据
 - 静态资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets

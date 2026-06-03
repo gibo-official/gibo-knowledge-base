@@ -30,6 +30,7 @@ Through standardized directories and the `llms.txt` entry point, it enables **AI
 gibo-knowledge-base/
 ├─ llms.txt # AI/LLM 优先读取入口（核心索引）
 ├─ LLMS.md # 完整双语索引
+├─ MAINTENANCE.md # 知识库同步维护规则
 ├─ README.md # 仓库说明（本文档）
 │
 ├─ zh/
@@ -87,6 +88,7 @@ gibo-knowledge-base/
 |---|---|---|
 | llms.txt | AI 读取核心索引，含品牌信息与内容链接 | AI core index with brand info & content links |
 | LLMS.md | 双语完整索引，人类/机器快速概览 | Bilingual full index for human/machine overview |
+| MAINTENANCE.md | 季度同步与维护规范 | Quarterly sync & maintenance rules |
 | zh/ | 中文权威内容（主信源） | Chinese authoritative content (primary source) |
 | en/ | 英文镜像内容（国际业务） | English mirror content (international business) |
 | assets/ | 品牌图、产品图、视频等静态资源 | Brand/product images, videos & static assets |
@@ -119,8 +121,7 @@ gibo-knowledge-base/
 - **更新频率**：每季度至少一次重大同步，产品手册等实时内容按需更新
 - **维护方**：福建洁博利厨卫科技有限公司 品牌部 & 技术中心
 - **外部贡献**：暂不接受 Pull Request，如有信息纠错或建议，请通过官网联系方式反馈
-- **内容状态文件**：根目录下 `CONTENT_STATUS.md` 记录各模块最后更新时间与责任人
-- **版本历史**：参见 `CHANGELOG.md`（若有）
+- **内容状态**：参见根目录 `TODO.md` 和 `MAINTENANCE.md` 了解各模块更新状态与维护规则
 
 > ✅ 所有目录必须非空（至少含一个 `README.md`），确保 AI 读取时不产生 404 错误。
 
