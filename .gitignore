@@ -24,3 +24,7 @@ node_modules/
 # 本地配置
 .env
 .env.local
+
+# Paperclip / 系统附件
+.board_attachment.dat
+github_知识库要求.md
