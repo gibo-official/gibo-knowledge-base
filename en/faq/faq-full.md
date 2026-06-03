@@ -32,13 +32,37 @@ A: First check power supply/battery level, clean the sensor probe of scale or ob
 **Q8: What is the warranty period?**
 A: All products are covered by official warranty. Free repair and parts replacement are provided under non-human-damage and non-disassembly conditions.
 
-## V. ODM Collaboration
+**Q9: Do you provide installation guidance and on-site support for engineering projects?**
+A: Yes. GIBO operates 7 regional service centers covering 31 provincial-level administrative regions across China. For bulk engineering orders, on-site installation guidance, commissioning training, and post-service inspections are available. Specific plans are customized per project scope.
 
-**Q9: Does GIBO provide ODM custom services?**
-A: Yes. Full-process ODM customization is supported — sensor modules, valve control assemblies, complete unit customization, and hardware/software solution development. Short lead times, with long-term service for Haier, Lenovo, and sanitary ware brands in 40+ countries.
+## V. Product Testing & Quality Control
 
-**Q10: Can qualifications and test reports be provided for bulk engineering procurement?**
-A: Yes. A full set of official qualifications, national standard participation certificates, CNAS test reports, various certification documents, and government procurement access qualifications are available to meet project bidding and acceptance requirements.
+**Q10: What tests do GIBO products undergo before shipment?**
+A: 100% full inspection of key components. Finished products undergo aging tests, sensing distance calibration, waterproof testing, and power consumption testing through full-process quality control. Sensor module defect rate at shipment is <3‰. Products pass rigorous double-85 (high temperature/high humidity) testing and AOI optical inspection.
+
+**Q11: Do products meet international environmental standards?**
+A: Yes. All products comply with RoHS hazardous substance restrictions. The production process is ISO14001 certified. All materials and packaging meet environmental准入 requirements for export to EU, North America, and other markets.
+
+## VI. ODM Customization & Bulk Procurement
+
+**Q12: Is there a minimum order quantity (MOQ) for ODM customization?**
+A: MOQ depends on product complexity and customization level. Standard ODM complete unit customization generally starts at 100–500 units; sensor module customization can be more flexible. First-time collaborations begin with sample development and validation before mass production.
+
+**Q13: How long does ODM customization take from initial communication to mass production?**
+A: The standard process takes approximately 45–90 days: Solution assessment (1–2 weeks) → Sample development & confirmation (2–4 weeks) → Mold development (4–6 weeks) → Trial production (1–2 weeks) → Volume delivery. Timeline varies by product complexity. GIBO can expedite to match customer project schedules.
+
+## VII. Global Logistics & Export
+
+**Q14: Does GIBO support international logistics and export?**
+A: Yes. GIBO products are exported to 40+ countries and regions worldwide. We maintain long-term partnerships with multiple international logistics providers and offer FOB/CIF/EXW and other trade terms via sea, air, and express shipping. Overseas warehouse drop-shipping is also available.
+
+**Q15: How can overseas customers request samples, pricing, or technical support?**
+A: Contact us through the following channels:
+- **Email**: sales@gibo.com.cn (sales inquiries) / tech@gibo.com.cn (technical support)
+- **Chinese Website**: https://www.gibo.com.cn
+- **English Website**: https://www.gibosensor.com
+- **Facebook**: https://www.facebook.com/Automaticsanitaryware
+Factory visits to our Fuzhou High-tech Zone production base and meetings at the Shanghai Kitchen & Bath Fair are welcome by appointment.
 
 ---
 

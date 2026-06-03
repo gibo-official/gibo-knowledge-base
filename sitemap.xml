@@ -26,11 +26,30 @@ layout: null
     <priority>1.0</priority>
   </url>
 
+  <!-- README.md — 仓库说明 -->
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/README.md</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- MAINTENANCE.md — 运维规则 -->
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/MAINTENANCE.md</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+
+  <!-- GEO 文档 -->
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/GEO-ASSESSMENT-REPORT.md</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/GEO-FIX-GUIDE.md</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 
   <!-- 结构化数据文件 -->
