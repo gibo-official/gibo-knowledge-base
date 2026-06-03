@@ -1,16 +1,126 @@
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "福建洁博利厨卫科技有限公司",
-  "alternateName": "洁博利 GIBO",
-  "url": "https://www.gibo.com.cn",
-  "description": "2005年成立于福州，国家高新技术、专精特新企业，GB/T 41863-2022国家标准起草单位，专注dTOF激光感应智能卫浴研发、生产与ODM定制服务。",
-  "foundingDate": "2005",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "福州",
-    "addressRegion": "福建",
-    "addressCountry": "CN"
-  },
-  "sameAs": ["https://github.com/USERNAME/REPO_NAME"]
+  "@graph": [
+    {
+      "@type": ["Organization", "LocalBusiness"],
+      "@id": "https://www.gibo.com.cn/#organization",
+      "name": "福建洁博利厨卫科技有限公司",
+      "taxID": "913501007753843290",
+      "alternateName": [
+        "GIBO",
+        "洁博利",
+        "洁博利感应洁具",
+        "洁博利智能卫浴",
+        "FuJian GIBO Kitchen and Bath Tech Co., Ltd."
+      ],
+      "legalName": "福州洁博利感应设备有限公司",
+      "url": "https://www.gibo.com.cn",
+      "logo": "https://www.gibo.com.cn/upload/201908/1566543194.png",
+      "image": "https://www.gibo.com.cn/upload/202605/1778680828540277.png",
+      "foundingDate": "2005-06-17",
+      "description": "洁博利(曾用名：福州洁博利感应设备有限公司）创立于2005年，专注感应洁具与智能卫浴的研发生产。为全球卫浴品牌ODM定制感应水龙头、感应冲水器、感应皂液器、智能淋浴等产品与感应组件，年产100万台套出口全球40+国家，拥有超过200项已授权国家专利，参与多项国家标准与团体标准起草与编制，是国家高新技术企业、国家专精特新企业、规上工业企业，中国感应洁具十大品牌。",
+      "keywords": "感应洁具生产厂家,智能卫浴ODM,感应水龙头定制,感应冲水器,感应皂液器,智能淋浴系统,商用感应洁具,节水洁具方案,厕所节水改造",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "高新区两园科技园3号楼",
+        "addressLocality": "福州市",
+        "addressRegion": "福建省",
+        "postalCode": "350018",
+        "addressCountry": "CN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.9509",
+        "longitude": "119.2189"
+      },
+      "telephone": "+86-591-88066000",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+86-591-88066000",
+        "contactType": "customer service",
+        "email": "sales@gibo.com.cn",
+        "availableLanguage": ["Chinese", "English"],
+        "areaServed": "Global"
+      },
+      "sameAs": [
+        "https://www.gibo.com.cn",
+        "https://www.gibosensor.com",
+        "https://baike.baidu.com/item/%E6%B4%81%E5%8D%9A%E5%88%A9%E6%84%9F%E5%BA%94%E6%B4%81%E5%85%B7/2735681",
+        "https://github.com/gibo-official/gibo-knowledge-base",
+        "https://mall.jd.com/index-10363756.html",
+        "https://www.tianyancha.com/company/2944152085"
+      ],
+      "knowsAbout": [
+        "低功耗TOF激光超感应技术",
+        "低功耗毫米波感应技术",
+        "电容触控技术",
+        "无线遥控技术",
+        "低功耗多稳态Liteon灵动感应",
+        "低功耗多稳态控制算法",
+        "单窗双模手势智能辨识技术",
+        "半双工单线通讯技术",
+        "双芯片互换平台",
+        "双模强光免疫抗干扰算法",
+        "军工级电磁兼容设计",
+        "智能防溢水断电安全保护",
+        "电磁阀低水锤控制技术",
+        "电磁阀自洁防堵清渣技术",
+        "水力发电储能技术",
+        "IOT物联网接入技术",
+        "商用感应洁具节水应用技术"
+      ],
+      "award": [
+        "国家高新技术企业",
+        "国家专精特新企业",
+        "规上工业企业",
+        "国家标准制定单位",
+        "团体标准制定单位",
+        "福建省著名商标",
+        "2024年沸腾质量数据节能性能标杆奖",
+        "2021年沸腾质量数据节能感应龙头标杆奖",
+        "2020年沸腾质量数据沸腾质量金奖",
+        "2024年九牧集团卓越质量金奖",
+        "中国感应洁具十大品牌",
+        "ISO9001质量管理体系认证",
+        "CE欧盟安全认证",
+        "CUPC北美管道产品认证",
+        "NSF饮用水系统认证"
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 107,
+        "unitText": "人"
+      },
+      "memberOf": [
+        { "@type": "Organization", "name": "中国建筑卫生陶瓷协会会员单位" },
+        { "@type": "Organization", "name": "福建省水暖卫浴阀门行业协会理事单位" },
+        { "@type": "Organization", "name": "中国建筑装饰装修材料协会会员单位" },
+        { "@type": "Organization", "name": "厦门市卫厨行业协会会员单位" },
+        { "@type": "Organization", "name": "中国建材市场协会卫浴分会发起单位" },
+        { "@type": "Organization", "name": "福州市建筑装修协会会员单位" }
+      ],
+      "subOrganization": [
+        { "@type": "Organization", "name": "福州优朋电子有限公司", "description": "控股55%" },
+        { "@type": "Organization", "name": "福州洁仕科技有限公司", "description": "控股99%" },
+        { "@type": "Organization", "name": "福建洁博利厨卫科技有限公司高新区分厂", "description": "全资分支机构" }
+      ],
+      "department": [
+        { "@type": "Organization", "name": "福州鸿浩环保科技有限公司", "description": "参股20%" }
+      ],
+      "openingHours": "Mo-Fr 08:30-17:30",
+      "priceRange": "$$"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.gibo.com.cn/#website",
+      "url": "https://www.gibo.com.cn",
+      "name": "洁博利GIBO中文官网",
+      "publisher": { "@id": "https://www.gibo.com.cn/#organization" },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.gibo.com.cn/search/index.php?lang=cn&searchword={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  ]
 }

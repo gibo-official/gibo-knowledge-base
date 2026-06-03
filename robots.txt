@@ -1,2 +1,44 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
+=======
+# GIBO Knowledge Base — GitHub Pages robots.txt
+# 允许所有 AI 爬虫抓取知识库内容
+# 站点: https://gibo-official.github.io/gibo-knowledge-base/
+
+User-agent: *
+Allow: /
+
+# 所有 AI 爬虫
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Cohere-AI
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: YisouSpider
+Allow: /
+
+Sitemap: https://gibo-official.github.io/gibo-knowledge-base/sitemap.xml
+>>>>>>> fbd085b66e83d88d596db03b4728718e582c3be7

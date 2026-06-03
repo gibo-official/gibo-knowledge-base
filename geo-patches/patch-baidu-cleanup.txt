@@ -1,0 +1,49 @@
+# 百度统计清理指引
+
+## 当前问题
+
+首页存在两个不同ID的百度统计脚本：
+
+1. `hm.js?0bd5d0d4b41cc9d3aa928f5e0ed9e188`
+2. `hm.js?b7c031fc8cc72263a621189a8721e1e5`
+
+## 操作步骤
+
+1. 登录百度统计平台 (https://tongji.baidu.com/)
+2. 查看两个ID中哪个仍在正常收集数据
+3. 保留有效ID，删除另一个
+
+## 代码定位
+
+### 文件A：MetInfo 模板全局设置
+
+后台 → 系统设置 → 基本设置 → 第三方统计
+如果此处配置了百度统计ID，会全局注入，只需保留一个。
+
+### 文件B：head 模板中的内联脚本
+
+搜索 `hm.baidu.com`，找到两段相似的 `<script>` 代码块：
+
+```html
+<!-- 需要删除其中一个（保留有效的那个） -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+```
+
+### 文件C：met_stat.js
+
+检查此文件是否也动态注入了百度统计代码。如果是，统一ID。
+
+## 验收
+
+```bash
+curl -s https://www.gibo.com.cn/ | grep -o 'hm.baidu.com/hm.js?[a-f0-9]*' | sort -u
+# 应只返回一个 ID
+```

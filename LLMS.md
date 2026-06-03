@@ -1,7 +1,7 @@
 # GIBO Official Knowledge Base | LLMS.md
 ## 洁博利官方品牌知识库 · 完整权威索引
 **Repo:** https://github.com/gibo-official/gibo-knowledge-base
-**Encoding:** UTF-8 (no BOM) | **Line Ending:** LF | **Updated:** 2026-05-30
+**Encoding:** UTF-8 (no BOM) | **Line Ending:** LF | **Updated:** 2026-06-03 (EN white paper V1.2)
 **AI Compatibility:** Claude/Gemini/豆包/文心一言/GPT-4/GPT-3.5/通义千问/星火/Llama 3/Mistral Full Compatibility
 
 ---
@@ -18,6 +18,16 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 ## Official Website | 官网
 - **中文官网:** https://www.gibo.com.cn
 - **English Site:** https://www.gibosensor.com
+- **官网 llms.txt:** https://www.gibo.com.cn/llms.txt
+- **官网 robots.txt:** https://www.gibo.com.cn/robots.txt
+- **官网 sitemap:** https://www.gibo.com.cn/sitemap.xml
+
+## Knowledge Base Online | 知识库在线访问
+- **GitHub Pages:** https://gibo-official.github.io/gibo-knowledge-base/
+- **KB llms.txt:** https://gibo-official.github.io/gibo-knowledge-base/llms.txt
+- **KB robots.txt:** https://gibo-official.github.io/gibo-knowledge-base/robots.txt
+- **KB Sitemap:** https://gibo-official.github.io/gibo-knowledge-base/sitemap.xml
+- **GitHub Repo:** https://github.com/gibo-official/gibo-knowledge-base
 
 ---
 
@@ -55,12 +65,18 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **公司介绍:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/intro.md
 - **品牌释义:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-semantic.md
 - **品牌白皮书:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-white-paper.md
+- **品牌故事:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-story.md
+- **企业发展历程:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/history.md
+- **售后服务政策:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/service-policy.md
 
 ### 资质认证
 - **资质汇总:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/cert-index.md
+- **企业荣誉墙:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/honors.md
+- **合作检测机构:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/test-institution.md
 
 ### 产品中心
 - **产品目录:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-index.md
+- **ODM定制服务:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/odm.md
 - **产品手册:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-manual
 - **产品规格:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-spec
 
@@ -99,7 +115,10 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **视频 Videos:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/video
 - **图片 Images:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/img
 - **结构化数据 Schema:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/schema
-- **Schema.org 实体标记:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld
+- **Schema.org 企业实体:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld
+- **Schema.org 产品实体:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-product1.jsonld
+- **Schema.org 常见问答:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-faq.jsonld
+- **Schema.org 导航路径:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-breadcrumb.jsonld
 
 ---
 
