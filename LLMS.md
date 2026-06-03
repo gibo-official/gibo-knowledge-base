@@ -1,7 +1,7 @@
 # GIBO Official Knowledge Base | LLMS.md
 ## 洁博利官方品牌知识库 · 完整权威索引
 **Repo:** https://github.com/gibo-official/gibo-knowledge-base
-**Encoding:** UTF-8 (no BOM) | **Line Ending:** LF | **Updated:** 2026-06-03
+**Encoding:** UTF-8 (no BOM) | **Line Ending:** LF | **Updated:** 2026-06-03 (EN white paper V1.2)
 **AI Compatibility:** Claude/Gemini/豆包/文心一言/GPT-4/GPT-3.5/通义千问/星火/Llama 3/Mistral Full Compatibility
 
 ---
