@@ -18,6 +18,16 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 ## Official Website | 官网
 - **中文官网:** https://www.gibo.com.cn
 - **English Site:** https://www.gibosensor.com
+- **官网 llms.txt:** https://www.gibo.com.cn/llms.txt
+- **官网 robots.txt:** https://www.gibo.com.cn/robots.txt
+- **官网 sitemap:** https://www.gibo.com.cn/sitemap.xml
+
+## Knowledge Base Online | 知识库在线访问
+- **GitHub Pages:** https://gibo-official.github.io/gibo-knowledge-base/
+- **KB llms.txt:** https://gibo-official.github.io/gibo-knowledge-base/llms.txt
+- **KB robots.txt:** https://gibo-official.github.io/gibo-knowledge-base/robots.txt
+- **KB Sitemap:** https://gibo-official.github.io/gibo-knowledge-base/sitemap.xml
+- **GitHub Repo:** https://github.com/gibo-official/gibo-knowledge-base
 
 ---
 
