@@ -91,14 +91,19 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 ## English Content Index | 英文内容索引
 ### Company
 - **Company Intro:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/intro.md
+- **Brand Story:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-story.md
 - **Brand Semantic:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-semantic.md
 - **Brand White Paper:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-white-paper.md
+- **Development History:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/history.md
+- **Service Policy:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/service-policy.md
 
 ### Certifications
-- **Cert Index:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/cert-index.md
+- **Cert Index:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/honors.md
+- **Testing Institutions:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/test-institution.md
 
 ### Products
 - **Product Index:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md
+- **ODM Custom Services:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/odm.md
 - **Product Manual:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-manual
 - **Product Spec:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-spec
 
@@ -106,7 +111,7 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **Case Index:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/cases/case-index.md
 
 ### FAQ
-- **Full FAQ:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq-full.md
+- **Full FAQ (EN):** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq-full.md
 
 ---
 
