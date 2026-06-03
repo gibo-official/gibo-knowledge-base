@@ -1,0 +1,37 @@
+<!--
+  patch-h1-fix.html — H1标签修复补丁
+
+  问题：MetInfo导航中 logo 区域的 <h1 hidden> 每出现一次 nav 就重复一次，
+  导致首页2个H1、产品页3个H1。
+
+  修复：将 <h1 hidden> 替换为 <span class="sr-only"> 或移除H1标签。
+
+  应用位置：MetInfo后台 → 模板管理 → head_nav 组件 (met_11_3)
+
+  搜索关键词：<h1 hidden>
+-->
+
+<!-- 修改前（PC端导航logo区域）：
+<a href="" class="met-logo" title="GIBO洁博利智能卫浴官网">
+    <h1 hidden>GIBO洁博利智能卫浴官网</h1>
+    <div class="vertical-align-middle">
+        <img src="upload/201908/1566543194.png" alt="GIBO洁博利智能卫浴官网"/>
+    </div>
+</a>
+-->
+
+<!-- 修改后： -->
+<a href="" class="met-logo" title="GIBO洁博利智能卫浴官网" aria-label="GIBO洁博利智能卫浴官网">
+    <div class="vertical-align-middle">
+        <img src="upload/201908/1566543194.png" alt="GIBO洁博利智能卫浴官网"/>
+    </div>
+</a>
+
+<!-- 说明：
+     1. 删除了 <h1 hidden> 标签
+     2. 将 H1 文本迁移到 a 标签的 aria-label 属性中
+     3. 图片 alt 保持不变（作为后备文本）
+
+     注意：模板中所有出现 <h1 hidden> 的位置（PC端+移动端）
+     都需要做相同修改，确保整个页面只有一个 <h1>。
+-->
