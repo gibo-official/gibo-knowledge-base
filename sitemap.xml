@@ -26,6 +26,13 @@ layout: null
     <priority>1.0</priority>
   </url>
 
+  <!-- MAINTENANCE.md — 运维规则 -->
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/MAINTENANCE.md</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- 结构化数据文件 -->
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/schema/schema-organization.jsonld</loc>
@@ -65,7 +72,17 @@ layout: null
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/zh/company/brand-semantic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>{{ site.url }}{{ site.baseurl }}/zh/company/history.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/zh/company/service-policy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -75,12 +92,27 @@ layout: null
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/zh/products/odm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>{{ site.url }}{{ site.baseurl }}/zh/cases/case-index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/zh/faq/faq-full.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/zh/certification/honors.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/zh/certification/test-institution.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -97,12 +129,52 @@ layout: null
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/company/brand-story.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/company/brand-semantic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/company/history.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/company/service-policy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>{{ site.url }}{{ site.baseurl }}/en/products/product-index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/products/odm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/cases/case-index.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>{{ site.url }}{{ site.baseurl }}/en/faq/faq-full.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/certification/honors.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/certification/test-institution.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
