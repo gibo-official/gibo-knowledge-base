@@ -129,3 +129,5 @@
 >
 > **文档路径**：`/zh/products/product-index.md`
 > **关联文档**：[品牌白皮书](../company/brand-white-paper.md) | [ODM定制服务](./odm.md) | [工程案例](../cases/case-index.md) | [企业荣誉墙](../certification/honors.md)
+>
+> 更新日期：2026-06-03｜洁博利(GIBO)｜官网：https://www.gibo.com.cn

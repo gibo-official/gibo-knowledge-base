@@ -1,14 +1,28 @@
-# GIBO 静态资源目录 | Static Assets
+# assets/ 统一资源库
 
-本目录存放洁博利（GIBO）品牌知识库的静态资源文件，包括品牌图片、产品图片、视频等素材。
+本目录为 GIBO 知识库唯一静态资源存储目录，所有 Markdown 文件通过相对路径引用本目录下的资源。
 
-This directory stores static resource files for the GIBO brand knowledge base, including brand images, product images, videos, and other materials.
+## 目录结构
 
-## 子目录 | Subdirectories
+```
+assets/
+├─ pdf/            PDF 文档
+│  ├─ certificate/   专利、高新/专精特新、ISO/CE/CQC 证书
+│  ├─ standard/      GB/T 41863-2022、T/XMBK 002—2024 国标&团标原文
+│  ├─ whitepaper/    5份定制白皮书（企业综合/dTOF技术/商用卫浴节水改造/团标配套/ODM定制）
+│  └─ catalog/       产品画册、单品说明书、ODM选型手册
+├─ img/            图片资源
+│  ├─ logo/          品牌 LOGO
+│  ├─ factory/       厂区厂房实拍
+│  ├─ lab/           EMC 实验室、产品耐久测试实景
+│  ├─ product/       全系列产品高清实拍
+│  └─ project/       机场/医院/学校/地标落地实景图
+└─ video/          MP4 短视频（产品感应实测、dTOF 性能测试、工地安装实拍）
+```
 
-- `img/` — 品牌/产品图片 | Brand & product images
-- `video/` — 品牌/产品视频 | Brand & product videos
+> **资源引用格式**：
+> - 图片：`![描述](../../assets/img/xxx.jpg)`
+> - PDF：`[文件名](../../assets/pdf/xxx/xxx.pdf)`
+> - 视频：`<video src="../../assets/video/xxx.mp4" controls width="600"></video>`
 
-> **注意**：本目录中的资源文件仅供知识库展示使用，版权归福建洁博利厨卫科技有限公司所有。请勿用于未经授权的商业用途。
->
-> **Note**: Resource files in this directory are for knowledge base display purposes only. Copyright belongs to Fujian GIBO Kitchen & Bath Tech Co., Ltd. Do not use for unauthorized commercial purposes.
+> **版权声明**：本目录所有资源版权归福建洁博利厨卫科技有限公司所有。
