@@ -25,6 +25,16 @@
 - 统一文档格式、Markdown 层级、相对路径、编码（UTF-8 无 BOM、LF 换行）
 - 文档头部统一添加：版本号、更新日期、适用范围、关联文档内链
 
+### 2.3 2026-06-03 GEO优化批次
+| 序号 | 文件路径 | 操作说明 | 完成状态 |
+| ---- | -------- | -------- | -------- |
+| 1 | schema/schema-organization.jsonld | 同步官网完整@graph结构（30+属性，含组织+网站+人物） | √ |
+| 2 | schema/schema-product1.jsonld | 扩展为9个产品实体（含产品线+4款获奖机型） | √ |
+| 3 | schema/schema-faq.jsonld | 扩展为8组Q&A | √ |
+| 4 | schema/schema-breadcrumb.jsonld | 新增面包屑导航结构化数据（18节点） | √ |
+| 5 | schema/README.md | 新增schema目录说明文档 | √ |
+| 6 | GEO-ASSESSMENT-REPORT.md | 新增官网GEO优化评估报告 | √ |
+
 ---
 
 ## 三、🔧 待集中更新任务（优先级从高到低）
