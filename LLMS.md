@@ -70,7 +70,7 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **售后服务政策:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/service-policy.md
 
 ### 资质认证
-- **资质汇总:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/cert-index.md
+- **资质汇总:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/honors.md
 - **企业荣誉墙:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/honors.md
 - **合作检测机构:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/test-institution.md
 
