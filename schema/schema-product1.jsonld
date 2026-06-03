@@ -1,9 +1,149 @@
 {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "洁博利智能感应洁具",
-  "brand": "GIBO洁博利",
-  "description": "采用自研dTOF激光感应技术，军工级抗干扰、百万次耐久寿命，适配商用与家用全场景的智能节水卫浴产品，支持ODM定制。",
-  "category": "智能卫浴、感应洁具",
-  "manufacturer": "福建洁博利厨卫科技有限公司"
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#smart-sensor-faucet",
+      "name": "感应水龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "采用自研dTOF激光感应技术，军工级抗干扰、百万次耐久寿命，适配商用与家用全场景的智能节水卫浴产品，支持ODM定制。包含厨房感应龙头、浴室感应水龙头、单冷台面式感应龙头、单冷墙出式感应龙头、感应皂液龙头等产品线。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      },
+      "award": [
+        "2021年沸腾质量数据节能感应龙头标杆奖 - GBL-6170D",
+        "2024年沸腾质量数据节能性能标杆奖"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-flush-valve",
+      "name": "感应冲水器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应冲水器系列，包括暗装小便冲水器、明装小便冲水器、一体式小便冲水器、感应蹲便冲水器、沟槽式感应节水器。采用低功耗设计，节水节能，适用于公共卫生间、商场、医院、学校等场所。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#soap-dispenser",
+      "name": "感应皂液器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应皂液器/给皂器，采用红外感应技术，非接触式出液，避免交叉感染。适用于医院、餐饮、学校、办公楼等公共场所。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#hand-dryer",
+      "name": "感应干手器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应干手器，快速干手，节能环保，适用于商场、酒店、餐厅、办公楼等公共场所。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#intelligent-toilet",
+      "name": "智能座便器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利智能座便器，集成感应冲水、座圈加热、温水清洗等功能，提供舒适卫浴体验。",
+      "category": "智能卫浴",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-6170D",
+      "name": "GBL-6170D 爱尚-面盆感应龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "2021年沸腾质量数据节能感应龙头标杆奖获奖产品，采用dTOF激光感应技术，精准感应，节能节水。",
+      "sku": "GBL-6170D",
+      "category": "感应水龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-G61901",
+      "name": "G61901 MINI感应水嘴",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利MINI感应水嘴，紧凑设计，即装即用，适用于公共洗手间节水改造。",
+      "sku": "G61901",
+      "category": "感应水龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-9165D",
+      "name": "GBL-9165D 激光TOF感应厨房抽拉龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "采用激光TOF感应技术的厨房抽拉龙头，精准感应，方便厨房用水操作。",
+      "sku": "GBL-9165D",
+      "category": "厨房感应龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-6172A",
+      "name": "GBL-6172A TOF双感应数显激光龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "2024年沸腾质量数据节能性能标杆奖获奖产品，搭载TOF双感应技术，数显温度，智能节水。",
+      "sku": "GBL-6172A",
+      "category": "感应水龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      },
+      "award": ["2024年沸腾质量数据节能性能标杆奖"]
+    }
+  ]
 }
