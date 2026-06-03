@@ -74,6 +74,19 @@
 - 所有子目录至少包含一个 README.md 文件（确保 AI 读取不报错）；
 **完成状态**：√ (2026-06-03)
 
+## T008：知识库文档GEO优化（白皮书方案落地）
+### 任务编号：T008
+**操作日期**：2026-06-03
+**具体操作**：
+1. `assets/` 重构为完整资源目录结构（pdf/certificate/standard/whitepaper/catalog + img/logo/factory/lab/product/project）
+2. 全仓库 zh/ 文档统一添加 GEO 页脚：`更新日期｜洁博利(GIBO)｜官网`
+3. `brand-white-paper.md` 新增白皮书汇总板块（5份专题白皮书目录）
+4. `brand-semantic.md` 新增白皮书专项词条分类 + 版本升至 V1.2
+5. `service-policy.md` 新增 ODM/OEM 定制服务支撑章节（开模、MOQ、代工流程、认证支持）
+6. `intro.md` 更新企业简介（补充标准编号、全球布局数据、标杆项目等）
+
+**完成状态**：√ (2026-06-03)
+
 # 模块1：工程案例文档增补（对接白皮书全部案例）
 ### 任务编号：T001
 **文件路径**：zh/cases/ 目录下所有案例文档
