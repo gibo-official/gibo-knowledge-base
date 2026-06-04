@@ -77,6 +77,7 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 ### 产品中心
 - **产品目录:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-index.md
 - **ODM定制服务:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/odm.md
+- **产品对比矩阵:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-comparison.md
 - **产品手册:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-manual
 - **产品规格:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-spec
 
@@ -104,6 +105,7 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 ### Products
 - **Product Index:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md
 - **ODM Custom Services:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/odm.md
+- **Product Comparison:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-comparison.md
 - **Product Manual:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-manual
 - **Product Spec:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-spec
 

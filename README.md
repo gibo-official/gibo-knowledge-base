@@ -38,6 +38,7 @@ gibo-knowledge-base/
 │ ├─ certification/ # 资质认证
 │ ├─ products/ # 产品总览、手册、规格
 │ │ ├─ product-index.md
+│ │ ├─ product-comparison.md
 │ │ ├─ product-manual/
 │ │ └─ product-spec/
 │ ├─ cases/ # 工程案例
@@ -48,6 +49,7 @@ gibo-knowledge-base/
 │ ├─ certification/ # Certifications
 │ ├─ products/ # Product Overview, Manuals, Specifications
 │ │ ├─ product-index.md
+│ │ ├─ product-comparison.md
 │ │ ├─ product-manual/
 │ │ └─ product-spec/
 │ ├─ cases/ # Project Cases
