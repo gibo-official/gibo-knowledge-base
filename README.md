@@ -107,7 +107,7 @@ gibo-knowledge-base/
 
 ### 对开发者
 - 通过 GitHub Raw 直接获取原始 Markdown 内容  
-  示例：`https://raw.githubusercontent.com/gibo/gibo-knowledge-base/main/zh/company/brand.md`
+  示例：`https://raw.githubusercontent.com/gibo-official/gibo-knowledge-base/main/zh/company/intro.md`
 - 可编写脚本批量拉取 `llms.txt` 中列出的所有文件，构建本地知识库
 - 本仓库支持 `llms.txt` 标准协议，兼容 LangChain、LlamaIndex 等框架
 

@@ -2,6 +2,8 @@
 
 > **项目仓库**: https://github.com/gibo-official/gibo-knowledge-base
 > **基准版本**: 2026-06-04
+> **当前版本**: V1.1 (CEO验收后更新)
+> **更新说明**: 修正已完成任务状态；补充"验收中发现的问题"紧急修复任务
 > **制定依据**: 洁博利官网 www.gibo.com.cn + 企业微信微盘材料（E:\WXWork\...\洁博利智能厨卫\）
 > **核心目标**: 通过知识库建设，完善洁博利品牌统一的全网语义与认知，提高GEO优化效果，提升EEAT信源建设
 
@@ -20,43 +22,53 @@
 
 ## 一、现状评估
 
-### ✅ 已完成内容
+### ✅ 已完成内容（截至CEO验收 2026-06-04）
 
 | 模块 | 中文(zh/) | 英文(en/) |
 |------|-----------|-----------|
 | 公司介绍 (intro) | ✅ 完整 | ✅ 完整 |
-| 品牌故事 (brand-story) | ✅ 完整 | ❌ 缺失 |
+| 品牌故事 (brand-story) | ✅ 完整 | ✅ 完整 |
 | 品牌白皮书 (brand-white-paper) | ✅ V1.2 | ✅ V1.2 EN |
-| 品牌语义库 (brand-semantic) | ✅ V1.1 | ✅ 需同步 |
-| 发展历程 (history) | ✅ V1.1 | ❌ 缺失 |
-| 售后服务政策 (service-policy) | ✅ V1.0 | ❌ 缺失 |
-| 资质荣誉 (honors) | ✅ V1.0 | ❌ 缺失 |
-| 合作检测机构 (test-institution) | ✅ V1.0 | ❌ 缺失 |
-| 产品索引 (product-index) | ✅ V1.0 | ✅ 基础版 |
-| ODM服务 (odm) | ✅ V1.0 | ❌ 缺失 |
-| FAQ (faq-full) | ✅ 10组Q&A | ✅ 需同步 |
-| 工程案例 (cases) | ✅ case-index完整 | ❌ 仅占位文件 |
-| Schema结构化数据 | ✅ 完整(Org/Product/FAQ/Breadcrumb) | 共用 |
-| llms.txt / LLMS.md | ✅ 已配置 | ✅ 已配置 |
+| 品牌语义库 (brand-semantic) | ✅ V1.1 | ✅ 完整 |
+| 发展历程 (history) | ✅ V1.1 | ✅ 完整 |
+| 售后服务政策 (service-policy) | ✅ 完整 | ✅ 完整 |
+| 资质荣誉 (honors) | ✅ 完整 | ✅ 完整 |
+| 合作检测机构 (test-institution) | ✅ 完整 | ✅ 完整 |
+| 产品索引 (product-index) | ✅ 完整 | ✅ 完整 |
+| 产品对比矩阵 (product-comparison) | ✅ V1.0 | ✅ V1.0 |
+| ODM服务 (odm) | ✅ 完整 | ✅ 完整 |
+| FAQ (faq-full) | ✅ 10组Q&A | ✅ 同步完成 |
+| 工程案例 (cases) | ✅ case-index完整 | ✅ case-index完整 |
+| 产品手册 (product-manual/) | ✅ 4份手册+对比矩阵 | ✅ 4份手册 |
+| 产品规格 (product-spec/) | ✅ 索引已创建(30+PDF) | ✅ 索引已创建 |
+| Schema结构化数据 | ✅ 完整(Org 30+attr/Product×9/FAQ×8/Breadcrumb 18nodes) | 共用 |
+| llms.txt / LLMS.md / CITATION.cff | ✅ 已配置 | ✅ 已配置 |
 | GEO评估/修复文档 | ✅ GEO-ASSESSMENT + GEO-FIX-GUIDE | - |
+| CHANGELOG.md / CONTENT_STATUS.md | ✅ 已创建 | ✅ 已创建 |
+| YAML front matter (核心24文档) | ✅ 12个中文文档 | ✅ 12个英文文档 |
+| Assets (图片+PDF) | ✅ 47张图片 + 32份PDF + 1个视频 | - |
 
-### ❌ 缺失/待完善项
+### ❌ 缺失/待完善项（2026-06-04 更新）
 
 **高优先级：**
-1. en/ 英文内容严重缺失（品牌故事、发展历程、服务政策、资质、ODM、案例 — 总共6个文档缺失）
-2. 官网技术问题待修复（OG标签重复、H1超标、百度统计双ID等 — 需IT部门配合后台）
-3. WeDrive素材未整理入库（产品规格书、证书PDF、产品图、画册等）
+1. 🔴 **CEO验收发现：robots.txt/sitemap.xml合并冲突残留** — ✅ 已紧急修复提交
+2. 🔴 **CEO验收发现：README.md 链接URL错误**（gibo → gibo-official）— ✅ 已修复
+3. 🔴 官网技术问题待修复（OG标签重复、H1超标、百度统计双ID等 — 需IT部门配合后台）
+4. 🟡 **YAML front matter覆盖率68%(34/50)** — 剩余16个文件待添加
 
 **中优先级：**
-4. zh/products/product-manual/ 目录尚为空
-5. zh/products/product-spec/ 目录尚为空
-6. assets/img/ 仅有1张CE证书图，产品图严重不足
-7. WeDrive中有丰富的培训材料、国家标准PDF、检验报告等可纳入资源
+5. 🟡 全库文档内链有效性检查与修复
+6. 🟡 GIBO-KNOWLEDGE-BASE-BUILD-PLAN.md 状态刷新（更新真实进度）
+7. 🟡 LLMS.md / llms.txt 更新，覆盖所有新增文档路径
+8. 🟡 Schema扩展：Product 9→15+，FAQ 8→12，Brand Schema新增
+9. 🟡 AI模型召回测试（Claude/GPT/豆包/文心一言/通义千问）
 
 **低优先级：**
-8. CONTENT_STATUS.md 和 CHANGELOG.md 尚未创建
-9. 英文站 www.gibosensor.com 的GEO状态待评估
-10. Gitee镜像同步
+10. 📋 CONTENT_STATUS.md 更新至覆盖全部50个文档
+11. 📋 Gitee镜像同步
+12. 📋 自动化脚本（死链检查/sitemap生成/llms验证）
+13. 📋 英文站 www.gibosensor.com GEO状态评估
+14. 📋 L002 季度同步维护规则文档化
 
 ---
 
