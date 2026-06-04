@@ -323,7 +323,51 @@ Sitemap: https://www.gibosensor.com/sitemap.xml
 
 ---
 
-## 十、参考资源
+## 十、本轮心跳补充发现（2026-06-04）
+
+### 10.1 全站URL路由测试结果
+
+通过全站核心路径测试，发现英文站大量页面302→404：
+
+| URL | HTTP状态 | 备注 |
+|-----|---------|------|
+| `/` | ✅ 200 | 首页正常 |
+| `/about/` | ⚠️ 200 | 标题为中文"关于洁博利" |
+| `/about_us/` | ❌ 302→/404.html | 路由错误 |
+| `/contact/` | ❌ 302→/404.html | 路由错误 |
+| `/project/` | ❌ 302→/404.html | 路由错误 |
+| `/technology/` | ❌ 302→/404.html | 路由错误 |
+| `/product/list-5.html` | ❌ 302→/404.html | 产品分类页404 |
+| `/news/` | ✅ 200 | 正常 |
+| `/solution/` | ✅ 200 | 正常 |
+| `/support/` | ✅ 200 | 正常 |
+| `/LLMS.md` | ❌ 404 | 知识库已存在但未部署 |
+| `/geo/` | ❌ 404 | 目录缺失 |
+
+**根因**：英文站与中文站共用同一MetInfo CMS但URL路由配置不同，英文站缺少部分页面的路由映射。
+
+### 10.2 服务器技术栈确认
+- **前端代理**：openresty（nginx）
+- **后端**：Apache/2.4.38 (Debian) — 404错误页显示Apache
+- **PHP**：7.2.34（已停止安全支持）
+- **CMS**：MetInfo V8.1（与gibo.com.cn一致）
+
+### 10.3 JS动态OG脚本分析
+- 爬虫统计：首页有3组不同的OG标签（MetInfo模板 + 优化版静态 + JS动态）
+- JS动态脚本仅在`/`之外的子页面执行（有homepage跳过逻辑）
+- 动态脚本包含URL截取、防错逻辑，比gibo.com.cn版本更成熟
+
+### 10.4 Twitter/X账号验证需求
+- `twitter:site` → `@gibo`
+- `twitter:creator` → `@gibo_official`
+- **需确认**：这两个账号是否真实有效（未验证）
+
+### 10.5 P0修复内容已就绪
+详细修复文件见评估主体§9。
+
+---
+
+## 十一、参考资源
 
 - Schema.org 结构化数据：https://schema.org/
 - llms.txt 标准协议：https://llmstxt.org/
