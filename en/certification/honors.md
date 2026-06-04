@@ -14,13 +14,16 @@
 2. National Specialized & Sophisticated SME
 3. National Innovative SME
 4. Tax Credit Grade A Enterprise
+5. National Standard Drafting Unit
 
 ## II. Provincial-level Qualifications & Honors
 
-1. Fujian Provincial Intellectual Property Advantage Enterprise
-2. Fujian Provincial Famous Trademark
-3. Fujian Provincial Contract-abiding & Credit-worthy Enterprise
-4. Above-scale Industrial Enterprise
+1. Fuzhou Intellectual Property Demonstration Enterprise
+2. Fujian Provincial Intellectual Property Advantage Enterprise
+3. Fuzhou Famous Trademark
+4. Fujian Provincial Famous Trademark
+5. Fujian Provincial Contract-abiding & Credit-worthy Enterprise
+6. Above-scale Industrial Enterprise
 
 ## III. Industry Standard-setting Role
 
@@ -50,6 +53,7 @@ Awards are guided by the China Quality Certification Center (CQC) and organized 
 - Top 10 Sensor Sanitary Ware Brands in China
 - Government Procurement Recommended Energy-saving Product
 - National Campus Energy-saving Product Selected Brand
+- Most Distributor-preferred Sanitary Ware Brand
 
 ---
 

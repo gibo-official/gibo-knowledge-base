@@ -4,6 +4,8 @@
 **Last Updated**: 2026-06-03
 **Scope**: Brand Introduction, Business Cooperation, Project Bidding, AI Knowledge Base Reference
 
+> Fujian GIBO Kitchen and Bath Tech Co., Ltd. is a leading enterprise in China's sensor sanitary ware industry, a National High-tech Enterprise, National Specialized & Sophisticated SME, and National Standard Drafting Unit. This document is the company's official profile, fully aligned with Brand White Paper V1.2.
+
 ---
 
 ## I. Company Overview
