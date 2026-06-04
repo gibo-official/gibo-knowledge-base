@@ -1,3 +1,13 @@
+---
+title: 官网后台访问与问题诊断报告
+version: V1.0
+last_updated: 2026-06-04
+scope: 官网故障诊断、GEO技术问题清单、IT修复指引
+related:
+  - ../../geo-patches/README.md
+  - ../../schema/README.md
+---
+
 # 官网后台访问与问题诊断报告
 
 > **访问时间**: 2026-06-04

@@ -1,3 +1,9 @@
+---
+title: Standard PDF Directory | 标准原文PDF目录
+description: 洁博利参与起草的国家标准及团体标准原文PDF文件
+last_updated: 2026-06-04
+---
+
 # 标准原文 PDF 目录
 
 存放洁博利参与起草的国家标准及团体标准原文 PDF。

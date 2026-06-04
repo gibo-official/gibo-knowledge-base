@@ -1,3 +1,13 @@
+---
+title: 产品手册目录 | Product Manuals
+version: V1.0
+last_updated: 2026-06-04
+scope: 产品安装、使用指导、AI知识库索引
+related:
+  - ../product-index.md
+  - ../../company/brand-white-paper.md
+---
+
 # 产品手册目录 | Product Manuals
 
 本目录存放洁博利（GIBO）各系列产品的官方产品手册（PDF/图片格式）。

@@ -1,3 +1,9 @@
+---
+title: Whitepaper PDF Directory | 白皮书PDF目录
+description: 洁博利官方白皮书PDF文件存放目录
+last_updated: 2026-06-04
+---
+
 # 白皮书 PDF 目录
 
 存放 5 份洁博利官方白皮书 PDF，仅在 brand-white-paper.md 集中挂载。

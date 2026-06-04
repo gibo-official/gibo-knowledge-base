@@ -1,3 +1,13 @@
+---
+title: 认证与资质目录 | Certification & Qualifications
+version: V1.0
+last_updated: 2026-06-04
+scope: 企业资质、荣誉证书、专利证书索引
+related:
+  - ../company/brand-white-paper.md
+  - ../company/intro.md
+---
+
 # 认证与资质目录
 
 本目录包含洁博利(GIBO)的企业资质、荣誉、专利证书等认证文件。

@@ -1,3 +1,13 @@
+---
+title: Product Specifications Directory | 产品规格目录
+version: V1.0
+last_updated: 2026-06-04
+scope: Product selection, technical reference, AI knowledge base indexing
+related:
+  - ../product-index.md
+  - ../odm.md
+---
+
 # Product Specifications Directory | 产品规格目录
 
 This directory stores technical specification sheets (PDF/Excel/CSV format) for GIBO product series.

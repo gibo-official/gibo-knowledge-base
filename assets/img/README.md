@@ -1,3 +1,9 @@
+---
+title: Images Directory | 图片资源目录
+description: 洁博利品牌、产品、工厂、工程案例及证书图片素材
+last_updated: 2026-06-04
+---
+
 # GIBO 品牌/产品图片 | Brand & Product Images
 
 本目录存放洁博利（GIBO）品牌及产品相关图片素材，包括：

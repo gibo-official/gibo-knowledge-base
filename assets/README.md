@@ -1,3 +1,9 @@
+---
+title: Assets Directory | 静态资源目录
+description: 洁博利知识库静态资源存放目录
+last_updated: 2026-06-04
+---
+
 # assets/ 统一资源库
 
 本目录为 GIBO 知识库唯一静态资源存储目录，所有 Markdown 文件通过相对路径引用本目录下的资源。

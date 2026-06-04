@@ -1,3 +1,13 @@
+---
+title: 产品规格目录 | Product Specifications
+version: V1.0
+last_updated: 2026-06-04
+scope: 产品选型、技术参考、AI知识库索引
+related:
+  - ../product-index.md
+  - ../odm.md
+---
+
 # 产品规格目录 | Product Specifications
 
 本目录存放洁博利（GIBO）各系列产品的技术规格书（PDF/Excel/CSV格式）。

@@ -1,3 +1,12 @@
+---
+title: 工程案例目录 | Project Cases
+version: V1.0
+last_updated: 2026-06-04
+scope: 工程案例索引、项目参考、AI知识库检索
+related:
+  - ./case-index.md
+---
+
 # 工程案例目录 | Project Cases
 
 > 洁博利（GIBO）工程案例文档，涵盖国家级重点工程、企业园区、交通枢纽、医疗与教育、酒店与连锁、商业与公共设施、跨界合作等全场景标杆项目。

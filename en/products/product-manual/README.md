@@ -1,3 +1,13 @@
+---
+title: Product Manual Directory | 产品手册目录
+version: V1.0
+last_updated: 2026-06-04
+scope: Product installation, user guidance, AI knowledge base indexing
+related:
+  - ../product-index.md
+  - ../../company/brand-white-paper.md
+---
+
 # Product Manual Directory | 产品手册目录
 
 This directory stores official product manuals (PDF/image format) for GIBO product series.

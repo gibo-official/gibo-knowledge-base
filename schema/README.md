@@ -1,3 +1,13 @@
+---
+title: Schema.org 结构化数据目录
+version: V1.0
+last_updated: 2026-06-04
+scope: JSON-LD结构化数据、SEO优化、AI知识库增强
+related:
+  - ../geo-patches/README.md
+  - ../zh/company/website-fix-report.md
+---
+
 # Schema.org 结构化数据目录
 
 本目录包含 GIBO 洁博利的 Schema.org JSON-LD 结构化数据文件，用于提升搜索引擎和AI大模型的企业信息识别质量。

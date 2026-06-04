@@ -1,3 +1,9 @@
+---
+title: Video Directory | 视频资源目录
+description: 洁博利品牌推广及产品展示视频素材
+last_updated: 2026-06-04
+---
+
 # GIBO 品牌/产品视频 | Brand & Product Videos
 
 本目录存放洁博利（GIBO）品牌推广及产品展示视频素材。

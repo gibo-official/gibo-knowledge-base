@@ -1,3 +1,13 @@
+---
+title: GIBO GEO 修复补丁集
+version: V1.0
+last_updated: 2026-06-04
+scope: 官网GEO/SEO问题修复代码、部署指引、验收检查
+related:
+  - ../schema/README.md
+  - ../zh/company/website-fix-report.md
+---
+
 # GIBO GEO 修复补丁集 — 直接部署包
 
 ## 用途
