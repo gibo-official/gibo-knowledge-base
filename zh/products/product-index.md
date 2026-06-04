@@ -1,3 +1,16 @@
+---
+title: 洁博利全产品官方目录 | Product Index
+version: V1.0
+last_updated: 2026-06-03
+scope: 产品选型、工程配套、技术参考、AI知识库索引
+related:
+  - product-comparison.md
+  - odm.md
+  - ../certification/honors.md
+  - ../cases/case-index.md
+  - ../company/brand-white-paper.md
+---
+
 # 洁博利（GIBO）全产品官方目录
 
 **文档版本**：V1.0

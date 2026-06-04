@@ -1,3 +1,15 @@
+---
+title: 洁博利工程案例总览 | Project Cases
+version: V1.0
+last_updated: 2026-06-03
+scope: 项目参考、投标支持、AI知识库索引
+related:
+  - ../products/product-index.md
+  - ../company/intro.md
+  - ../certification/honors.md
+  - ../products/odm.md
+---
+
 # 洁博利（GIBO）工程案例总览
 
 **文档版本**：V1.0

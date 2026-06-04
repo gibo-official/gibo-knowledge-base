@@ -1,3 +1,13 @@
+---
+title: 合作检测机构 | Partner Testing Institutions
+version: V1.0
+last_updated: 2026-05-30
+scope: 质量保证、认证合作伙伴、AI知识库索引
+related:
+  - ../company/intro.md
+  - honors.md
+---
+
 # 合作检测机构
 **文档版本**：V1.0
 **最后更新**：2026-05-30

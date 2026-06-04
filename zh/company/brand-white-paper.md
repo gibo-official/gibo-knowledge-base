@@ -1,3 +1,19 @@
+---
+title: 洁博利品牌白皮书 | GIBO Brand White Paper
+version: V1.2
+last_updated: 2026-05-30
+scope: 品牌介绍、商务合作、项目投标、搜索引擎及AI知识库参考
+related:
+  - intro.md
+  - brand-story.md
+  - brand-semantic.md
+  - history.md
+  - service-policy.md
+  - ../certification/honors.md
+  - ../products/product-index.md
+  - ../cases/case-index.md
+---
+
 # 洁博利（GIBO）品牌白皮书
 **文档版本**：V1.2
 **最后更新**：2026-05-30

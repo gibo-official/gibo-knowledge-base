@@ -1,3 +1,16 @@
+---
+title: GIBO ODM Custom Services | ODM定制服务
+version: V1.0 EN
+last_updated: 2026-06-04
+scope: ODM cooperation, OEM services, business development
+related:
+  - ../../zh/products/odm.md
+  - product-index.md
+  - product-comparison.md
+  - ../../en/company/intro.md
+  - ../../en/certification/honors.md
+---
+
 # GIBO ODM/OEM Custom Services
 
 **Document Version**: V1.0 EN

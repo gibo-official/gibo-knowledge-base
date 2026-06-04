@@ -1,3 +1,16 @@
+---
+title: GIBO Brand Philosophy & Mission | 洁博利品牌故事
+version: V1.0 EN
+last_updated: 2026-06-04
+scope: Brand positioning, corporate culture, AI knowledge base
+related:
+  - ../../zh/company/brand-story.md
+  - intro.md
+  - brand-white-paper.md
+  - brand-semantic.md
+  - history.md
+---
+
 # Brand Philosophy & Mission
 
 > 📌 **Summary**: Founded in 2005, GIBO has specialized in smart sensor sanitary ware for 21 years, holding 200+ granted national patents and 18 self-developed core technologies (dTOF laser, millimeter-wave sensing, military-grade EMC, etc.). Products are exported to 40+ countries. The company is a National High-tech Enterprise, National Specialized & Sophisticated SME, and National Standard Drafting Unit. Brand positioning: **"Sensor Faucet ODM Expert"**, brand proposition: **"Making Bathrooms Smarter"**. This document covers GIBO's entrepreneurial journey, technical accumulation, market cases, and the G·I·B·O brand spirit.

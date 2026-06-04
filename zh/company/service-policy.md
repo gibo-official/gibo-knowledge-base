@@ -1,3 +1,14 @@
+---
+title: 售后服务政策 | Service Policy
+version: V1.0
+last_updated: 2026-05-30
+scope: 服务承诺、保修政策、售后流程
+related:
+  - brand-white-paper.md
+  - ../products/product-index.md
+  - ../products/odm.md
+---
+
 # 售后服务政策
 **文档版本**：V1.0
 **最后更新**：2026-05-30

@@ -1,3 +1,14 @@
+---
+title: 企业荣誉墙 | Honors & Certifications
+version: V1.0
+last_updated: 2026-05-30
+scope: 资质展示、项目投标、AI知识库索引
+related:
+  - ../company/intro.md
+  - test-institution.md
+  - ../company/brand-white-paper.md
+---
+
 # 企业荣誉墙
 **文档版本**：V1.0
 **最后更新**：2026-05-30

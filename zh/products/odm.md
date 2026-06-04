@@ -1,3 +1,15 @@
+---
+title: 洁博利ODM/OEM定制服务 | Custom ODM Services
+version: V1.0
+last_updated: 2026-06-03
+scope: ODM合作、OEM服务、商务拓展
+related:
+  - product-index.md
+  - product-comparison.md
+  - ../company/intro.md
+  - ../certification/honors.md
+---
+
 # 洁博利（GIBO）ODM/OEM 定制服务
 
 **文档版本**：V1.0

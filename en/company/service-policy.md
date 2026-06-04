@@ -1,22 +1,34 @@
-# After-sales Service Policy
+---
+title: GIBO After-Sales Service Policy | 售后服务政策
+version: V1.0 EN
+last_updated: 2026-06-04
+scope: Service commitment, warranty policy, after-sales procedures
+related:
+  - ../../zh/company/service-policy.md
+  - brand-white-paper.md
+  - ../../products/product-index.md
+  - ../../products/odm.md
+---
+
+# After-Sales Service Policy
 
 **Document Version**: V1.0 EN
-**Last Updated**: 2026-06-03
-**Scope**: Business Cooperation, Project Bidding, Customer Service, Knowledge Base Reference
+**Last Updated**: 2026-06-04
+**Scope**: Business cooperation, project bidding, customer service, AI knowledge base reference
 
-> This document is the official service standard of Fujian GIBO Kitchen and Bath Tech Co., Ltd., fully aligned with the brand white paper and company profile, uniformly implemented for all customers, engineering partners, and distributors.
+> This document is the official service policy of Fujian GIBO Kitchen & Bath Tech Co., Ltd., fully aligned with the brand white paper and corporate introduction, uniformly applicable to all customers, engineering partners, and distributors.
 
 ---
 
 ## I. Overall Service System
 
-GIBO has built a nationwide multi-tier service network, leveraging **7 regional service centers and 31 provincial service centers** covering major cities across China. This enables rapid response and local service for national engineering projects, retail customers, and partner brands, providing full-cycle pre-sale, in-sale, and after-sale integrated services.
+GIBO has built a nationwide three-dimensional service network, supported by **7 regional service centers and 31 provincial service centers**, covering all major cities in China. This enables rapid response and localized service, providing full-cycle pre-sales, in-sales, and after-sales integrated services for nationwide engineering projects, retail customers, and brand partners.
 
 ### 1.1 Service Network Layout
 
-- **Regional Service Centers**: 7 major centers covering North China, East China, South China, Central China, Southwest, Northwest, and Northeast
-- **Provincial Service Outlets**: 31 provincial-level service stations, extending to prefecture and county levels
-- **Service Response Modes**: Online remote support + on-site maintenance combined
+- **Regional Service Centers**: 7 regional centers covering North China, East China, South China, Central China, Southwest, Northwest, and Northeast
+- **Provincial Service Outlets**: 31 provincial service stations nationwide, extending to cities and counties
+- **Service Response Mode**: Online remote support + offline on-site maintenance
 
 ---
 
@@ -24,89 +36,69 @@ GIBO has built a nationwide multi-tier service network, leveraging **7 regional 
 
 ### 2.1 Product Warranty Standards
 
-1. Full series sensor sanitary ware: **Five-year quality assurance**
-2. Excludes man-made damage and non-original accessory damage; free repair and free replacement of parts within warranty period
-3. Post-warranty products: **Lifetime maintenance** — only parts cost and basic on-site service fees apply
+1. **Full series sensor sanitary ware**: **Five-year quality assurance** from date of purchase
+2. Exclusions: Human-inflicted damage or use of non-original accessories. Within warranty period: free repair and free replacement of parts
+3. Out-of-warranty products: **Lifetime maintenance** — only parts cost and basic service fees apply
 
-### 2.2 Value-added Services
+### 2.2 Value-Added Services
 
-- New product installation guidance: Free technical briefing, installation tutorials, and on-site instruction
-- Bulk engineering projects: Designated dedicated technical liaison for full delivery, installation, and acceptance tracking
-- ODM/OEM cooperation clients: Supporting technical documentation, debugging tools, and batch after-sales technical support
-
----
-
-## III. Three-card Joint Warranty System
-
-To ensure full product lifecycle traceability and verifiable service, the company fully implements the **Three-card Joint Warranty** system:
-
-1. **Product Certificate** (合格证): Supplied with each product, indicating model, batch number, and inspection info
-2. **Warranty Card** (保修卡): Records purchase info, warranty period, and service outlet contact details
-3. **User Manual** (使用说明书): Includes installation steps, routine maintenance, troubleshooting, and precautions
-
-The three cards accompany the product — one card per unit, valid for nationwide joint warranty service.
+- New product installation and commissioning guidance: Free technical handover, installation tutorials, and on-site guidance
+- Bulk engineering projects: Dedicated technical liaison assigned for full follow-through on delivery, installation, and acceptance
+- ODM/OEM cooperation clients: Supporting technical documentation, debugging tools, and bulk after-sales technical support provided
 
 ---
 
-## IV. Six Service Promises
+## III. Three-Card Joint Warranty System
 
-1. **Genuine Product Guarantee**: All shipped products are factory-original with complete qualification and inspection reports — no refurbished or modified parts
-2. **On-time Delivery**: Strict production and shipping schedules per contract terms; large engineering orders tracked with logistics updates
-3. **Rapid Response**: Routine issues responded to within 1 hour online; major on-site faults addressed by nearest service station within 24 hours
-4. **Professional Maintenance**: All maintenance personnel undergo standardized technical training with certification
-5. **Transparent Pricing**: Out-of-warranty repair, parts, and on-site service fees are nationally standardized with no hidden charges
-6. **Continuous Follow-up**: Key engineering projects receive regular post-service follow-ups to collect feedback and continuously improve products and services
+To ensure full lifecycle traceability and service accountability, the company implements a comprehensive **Three-Card Joint Warranty System**:
 
----
+1. **Product Certificate**: Included with every product, indicating model, batch number, and inspection information
+2. **Product Warranty Card**: Records purchase information, warranty period, and service outlet contact details
+3. **Product User Manual**: Includes installation steps, daily maintenance, troubleshooting, and safety precautions
 
-## V. Self-service Troubleshooting
-
-For mainstream products including sensor faucets, sensor flush valves, and sensor soap dispensers, simple self-check solutions are provided to reduce troubleshooting time:
-
-1. **No Sensor Response**: Check power supply, battery level, and wiring connections first
-2. **Frequent False Triggering**: Check ambient strong light sources and electrical appliance interference; verify installation environment
-3. **Abnormal Water Flow / Leakage**: Check solenoid valve and water circuit for blockages or aging
-4. **Sensing Distance Drift**: Clean the sensor window; check for dirt or obstructions
-
-For complex faults, contact the corresponding regional service center for professional technical support.
+These three cards accompany every product — one card set per unit, valid for nationwide joint warranty.
 
 ---
 
-## VI. ODM/OEM Custom Service Support
+## IV. Six Service Commitments
 
-Leveraging 20 years of smart sensor sanitary ware R&D and manufacturing expertise, GIBO provides full-process ODM/OEM custom service support for global brand clients:
-
-### 6.1 Mold Development & Custom Services
-- **Appearance Design**: Senior industrial design team, 10+ new products launched annually, supporting brand-specific造型 customization
-- **Function Customization**: dTOF laser / infrared / millimeter-wave sensing options; power supply (AC / DC / battery), control logic, water output modes configured as needed
-- **Structural R&D**: Leveraging 200+ patented technologies, modular design, rapid adaptation to brand client requirements
-- **Mold Development**: In-house mold capability, full-cycle management (mold creation → trial → modification), shortened prototyping timelines
-
-### 6.2 MOQ & Delivery Lead Times
-- **MOQ**: Custom new product MOQ 1,000-3,000 units (depending on complexity); existing public-mold product OEM MOQ 500 units
-- **Prototyping Cycle**: Appearance mockup 7-10 working days, functional prototype 15-20 working days
-- **Production Cycle**: First batch 30-45 days (after design finalization), repeat orders 15-25 days
-- **Annual Capacity**: 1 million units (2 electronic module lines: 100K/month + 6 finished product lines: 50K/month)
-
-### 6.3 OEM Process
-Requirements discussion → Solution evaluation → Contract & sampling → Sample confirmation → Mold development → Trial production → Mass production & delivery → After-sales support
-
-### 6.4 Certification Support
-ODM clients can directly leverage GIBO's existing certification system (CE, CUPC, NSF, FCC, RoHS, CCC, etc.), eliminating the need for duplicate certification and significantly reducing market entry barriers and compliance costs.
+1. **Genuine Product Guarantee**: All products are original factory units with complete certifications and test reports. No refurbished or modified parts.
+2. **On-Time Delivery**: Production and shipping strictly follow contract schedules. Large engineering orders include logistics tracking.
+3. **Rapid Response**: General issues receive online responses within 1 hour. For critical on-site failures, the nearest service station arrives within 24 hours.
+4. **Professional Maintenance**: All service personnel undergo standardized technical training and certification before deployment.
+5. **Transparent Pricing**: Out-of-warranty repair, parts, and service fees follow uniform national standards. No hidden charges.
+6. **Continuous Follow-Up**: Key engineering projects receive regular after-sales follow-up visits to collect feedback and continuously improve products and services.
 
 ---
 
-## VII. Service Contact Information
+## V. Common Troubleshooting Guide
 
-For technical support, repair requests, or service policy inquiries:
+For sensor faucets, sensor flush valves, sensor soap dispensers, and other mainstream products, the following self-check methods can help reduce resolution time:
 
-- **National Service Hotline**: [0591-88066000]
-- **Regional Service Centers**: Refer to the warranty card and published regional office information
-- **Online Technical Support**: Enterprise-specific communication groups, WeChat online customer service
+1. **No sensor response**: Check power supply, battery level, and wiring connections first
+2. **Frequent false triggering**: Check for strong light sources or electrical interference in the installation environment
+3. **Abnormal water flow or leakage**: Check the solenoid valve and water pipes for blockages or aging
+4. **Sensor distance deviation**: Clean the sensor window to remove dirt or obstructions
+
+For complex issues, contact your regional service center for professional technical support.
 
 ---
 
-> **Copyright Notice**: This document represents the official service standard of Fujian GIBO Kitchen and Bath Tech Co., Ltd. Unauthorized modification or reproduction is prohibited.
-> **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Company Intro](./intro.md) | [ODM Custom Services](../products/odm.md)
+## VI. Service Contact Information
+
+For technical support, repairs, or warranty policy inquiries:
+
+- **National Service Hotline**: [+86-591-88066000]
+- **Regional Service Centers**: See product warranty card or local office announcements
+- **Online Technical Support**: Enterprise dedicated group chat or WeChat online customer service
+
+---
+
+> **Copyright Notice**: This document is the official service standard of Fujian GIBO Kitchen & Bath Tech Co., Ltd. Unauthorized modification or reproduction is prohibited.
 >
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> **Related Documents**: [Brand White Paper](./brand-white-paper.md) | [Company Introduction](./intro.md)
+
+---
+
+> **Document Path**: `/en/company/service-policy.md`
+> **Version**: V1.0 EN | **Last Updated**: 2026-06-04

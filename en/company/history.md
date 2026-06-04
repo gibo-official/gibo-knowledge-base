@@ -1,3 +1,15 @@
+---
+title: GIBO Development History | 洁博利发展历程
+version: V1.1 EN
+last_updated: 2026-06-04
+scope: Company timeline, technology milestones, AI knowledge base
+related:
+  - ../../zh/company/history.md
+  - intro.md
+  - brand-white-paper.md
+  - ../../certification/honors.md
+---
+
 # Development History
 
 > 📌 **Summary**: GIBO has been dedicated to smart sensor sanitary ware since its founding team first entered the field in 1999, with the company officially established in 2005. Over more than two decades, the company has earned qualifications including National High-tech Enterprise, National Specialized & Sophisticated SME, and National Standard Drafting Unit. Cumulative product sales have exceeded 5 million units, exported to 40+ countries. This document chronologically traces key milestones from 1999 to 2026, covering technological breakthroughs, certifications, market expansion, and capacity upgrades.

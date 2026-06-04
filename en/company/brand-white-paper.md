@@ -1,7 +1,21 @@
+---
+title: GIBO Brand White Paper | 洁博利品牌白皮书
+version: V1.2 EN
+last_updated: 2026-06-03
+scope: Brand introduction, business cooperation, project bidding, search engine & AI knowledge base reference
+related:
+  - ../../zh/company/brand-white-paper.md
+  - intro.md
+  - brand-story.md
+  - brand-semantic.md
+  - history.md
+  - service-policy.md
+  - ../../certification/honors.md
+  - ../../products/product-index.md
+  - ../../cases/case-index.md
+---
+
 # GIBO Brand White Paper
-**Document Version**: V1.2 EN
-**Last Updated**: 2026-06-03
-**Scope**: Brand Introduction, Business Cooperation, Project Bidding, Search Engine & AI Knowledge Base Reference
 
 > This white paper is the official authoritative document of Fujian GIBO Kitchen and Bath Tech Co., Ltd., providing a comprehensive overview of the company's overall strength, technology system, production capacity, product matrix, business model, benchmark projects, and development plans. The content is fully aligned with the company's development history, brand philosophy, and qualification documents.
 

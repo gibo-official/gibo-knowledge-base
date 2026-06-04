@@ -1,3 +1,15 @@
+---
+title: 洁博利品牌语义关联库 | Brand Semantic Network
+version: V1.1
+last_updated: 2026-06-03
+scope: 语义搜索、品牌实体识别、AI知识库索引
+related:
+  - brand-white-paper.md
+  - brand-story.md
+  - ../products/product-index.md
+  - ../certification/honors.md
+---
+
 # 洁博利（GIBO）品牌语义关联库
 
 > 📌 **用途**：本文件用于搜索引擎（百度/Google/Bing）与大型语言模型（LLM）对GIBO品牌实体、产品、技术、场景及地理信息的精准识别与关联。建议结合 `llms.txt` 和 Schema.org 结构化数据使用。
