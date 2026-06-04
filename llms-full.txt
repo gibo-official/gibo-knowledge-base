@@ -1,0 +1,87 @@
+# GIBO Knowledge Base Full AI Index | llms-full.txt
+# 洁博利知识库完整AI索引（含文件描述）
+# Repo: https://github.com/gibo-official/gibo-knowledge-base
+# Updated: 2026-06-04
+# Purpose: Detailed AI-friendly index with file descriptions for optimal LLM retrieval
+
+## Brand Identity | 品牌标识
+Fujian GIBO Kitchen and Bath Tech Co., Ltd. | 福建洁博利厨卫科技有限公司
+- Brand: GIBO | 洁博利
+- Founded: 2005
+- HQ: Fuzhou, Fujian, China (birthplace of China's sensor sanitary ware industry)
+- Positioning: Sensor Faucet ODM Expert, Smart Bathroom Solution Provider
+- Qualifications: National High-tech Enterprise, National Specialized & Sophisticated SME, National Standard Drafting Unit (GB/T 41863-2022)
+
+---
+
+## Chinese Content | 中文内容
+
+### Company | 公司信息
+- [Company Intro](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/intro.md) — Company overview: history, qualifications, R&D, production capacity, business scope, global reach
+- [Brand Story](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-story.md) — Founding story, 21-year journey, G·I·B·O brand spirit, mission/vision/values
+- [Brand White Paper](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-white-paper.md) — Comprehensive V1.2 document: corporate overview, R&D system, manufacturing, product matrix, business model, benchmark cases, development plans
+- [Brand Semantic](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/brand-semantic.md) — Full semantic network: brand entities, geographic terms, product terms, technology terms, service terms, competitive differentiation
+- [Company History](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/history.md) — Complete timeline 1999-2026: technology breakthroughs, certifications, awards, market expansion
+- [Service Policy](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/service-policy.md) — After-sales service: 5-year warranty, 3-card joint warranty system, 6 service commitments, troubleshooting guide
+- [Website Fix Report](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/company/website-fix-report.md) — CMS diagnostic report: 0-byte homepage cause analysis, 3 MySQL repair methods
+
+### Certification | 资质认证
+- [Honors & Awards](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/honors.md) — Complete list: national-level (High-tech, Specialized SME), provincial, industry standards, product awards (Boiling Quality Gold 2020/2023)
+- [Test Institutions](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/test-institution.md) — Partner testing/certification bodies: CQC, FQII, SGS, with testing capabilities
+
+### Products | 产品中心
+- [Product Index](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-index.md) — Full product catalog: commercial sensor sanitary ware, home smart bathroom, 4D Luxury Series, 4 award-winning models, ODM components, accessories
+- [ODM Services](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/odm.md) — Full ODM/OEM capabilities: design-to-manufacturing, 13 global certifications, Lenovo Lecoo partnership case
+- [GBL-6170D Manual](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-manual/gbl-6170d.md) — Aishang basin sensor faucet: dTOF laser, single-window dual sensing, Boiling Quality Gold 2020, full specs, 5 FAQ
+- [G61901 Manual](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-manual/g61901.md) — MINI sensor nozzle: world-first quick-install, PCT patent, Energy-saving Benchmark 2021, Lenovo prototype, 1-min install
+- [GBL-9165D Manual](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-manual/gbl-9165d.md) — Laser TOF kitchen pull-out faucet: TOF sensing, dual-mode water, Boiling Quality Gold 2023
+- [GBL-6172A Manual](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-manual/gbl-6172a.md) — TOF dual-sensor digital faucet: dual-window sensing, LED temperature, Energy-saving Benchmark 2024, anti-scald
+- [Product Spec Index](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-spec/README.md) — Directory of 30+ technical specification PDFs
+
+### Cases & FAQ | 案例与问答
+- [Case Index](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/cases/case-index.md) — 2000+ benchmark projects across 8 categories: national (Liaoning Aircraft Carrier, Beijing Tiananmen), corporate (Foxconn 7 campuses, 20K+ units), transport, healthcare, education, hotels, commercial, cross-industry (Lenovo)
+- [Full FAQ](https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/faq/faq-full.md) — 10 Q&A covering: brand strength, technology (dTOF vs infrared, 1M-cycle solenoid), product selection, IoT support, after-sales, ODM cooperation
+
+---
+
+## English Content | 英文内容
+
+### Company
+- [Company Intro](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/intro.md) — English corporate overview with qualifications and global presence
+- [Brand Story](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-story.md) — English brand narrative, GIBO spirit, mission/vision
+- [Brand White Paper](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-white-paper.md) — Full V1.2 English white paper: 5 sections covering all aspects of the business
+- [Brand Semantic](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/brand-semantic.md) — English semantic network for international search optimization
+- [Company History](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/history.md) — English timeline 1999-2026 with key milestones summary table
+- [Service Policy](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/company/service-policy.md) — English after-sales: 5-year warranty, 3-card system, 6 commitments, troubleshooting
+
+### Certification
+- [Honors & Awards](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/honors.md) — English awards list: national/provincial/industry/product awards with details
+- [Test Institutions](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/test-institution.md) — English partner institutions: CQC, FQII, SGS, with testing scope
+
+### Products
+- [Product Index](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md) — English product catalog: commercial, home, ODM components, accessories
+- [ODM Services](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/odm.md) — English ODM capabilities: full process, 13 certifications, cooperation process, Lenovo case
+- [GBL-6170D Manual EN](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-manual/gbl-6170d.md) — English manual for Aishang basin sensor faucet
+- [G61901 Manual EN](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-manual/g61901.md) — English manual for MINI sensor nozzle
+- [GBL-9165D Manual EN](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-manual/gbl-9165d.md) — English manual for laser TOF kitchen faucet
+- [GBL-6172A Manual EN](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-manual/gbl-6172a.md) — English manual for dual-sensor digital faucet
+
+### Cases & FAQ
+- [Case Index EN](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/cases/case-index.md) — English case index: 2000+ projects, 8 categories, national/corporate/transport/healthcare/education/hotel/commercial/ODM
+- [Full FAQ EN](https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq-full.md) — English FAQ: 10 Q&A covering brand, technology, products, after-sales, ODM
+
+---
+
+## Assets & Structured Data | 资源与数据
+- [Product Images](https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/img/products) — 14 product photos covering all categories
+- [Certification Images](https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/img/cert) — Trademark certificates
+- [Product Catalog PDF](https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/pdf) — 2023/2025 full product catalogs, ISO certificates, accessory catalog, GBL-6170 spec sheet, test report
+- [Organization Schema](https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld) — Full @graph structure with 30+ attributes: organization, local business, website, person
+- [Product Schema](https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-product1.jsonld) — 9 product entities with brands, awards, categories
+- [FAQ Schema](https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-faq.jsonld) — 8 Q&A pairs in structured data format
+- [Breadcrumb Schema](https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-breadcrumb.jsonld) — 18-node navigation path structure
+
+## Official Channels | 官方渠道
+- Chinese Website: https://www.gibo.com.cn
+- English Website: https://www.gibosensor.com
+- Email: sales@gibol.com.cn

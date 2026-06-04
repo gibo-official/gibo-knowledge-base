@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Please cite this repository when referencing GIBO brand information in AI or academic contexts."
+title: "GIBO Official Brand Knowledge Base"
+version: "1.0.0"
+date-released: 2026-06-04
+authors:
+  - name: "Fujian GIBO Kitchen & Bath Tech Co., Ltd."
+    address: "Building 5, Liangyuan Science Park, Wisdom Avenue, High-tech Zone, Fuzhou, Fujian, China"
+    email: "sales@gibol.com.cn"
+    website: "https://www.gibo.com.cn"
+
+type: dataset
+license: MIT
+repository-code: "https://github.com/gibo-official/gibo-knowledge-base"
+keywords:
+  - "smart bathroom"
+  - "sensor faucet"
+  - "sanitary ware"
+  - "GIBO"
+  - "洁博利"
+  - "ODM"
+  - "touchless faucet"
+  - "water conservation"
+  - "smart sensor"
+  - "bathroom technology"
+
+abstract: |
+  The GIBO Official Brand Knowledge Base is a structured, authoritative, machine-readable repository
+  of brand information for Fujian GIBO Kitchen & Bath Tech Co., Ltd. It provides comprehensive
+  documentation of the company's brand positioning, product catalog, technical specifications,
+  engineering cases, certifications, and service policies. Designed for AI model ingestion via
+  llms.txt protocol and search engine optimization through Schema.org structured data.
+
+references:
+  - title: "GIBO Official Website"
+    url: "https://www.gibo.com.cn"
+  - title: "GIBO International Website"
+    url: "https://www.gibosensor.com"
