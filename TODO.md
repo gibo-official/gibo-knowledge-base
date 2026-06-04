@@ -221,6 +221,48 @@
 
 ---
 
+## 七、✅ 2026-06-04 本轮新增完成
+
+### 阶段一：资产整理入库
+| 序号 | 操作 | 完成状态 |
+| ---- | ---- | -------- |
+| 1 | 创建 assets/img/{products,company,cert,cases}/ 子目录 | √ |
+| 2 | 导入14张产品图到 assets/img/products/ | √ |
+| 3 | 导入商标证书到 assets/img/cert/ | √ |
+| 4 | 导入2025产品画册(Gibo catalog-2025.pdf) | √ |
+| 5 | 导入2023产品画册(Gibo-Catalog-2023.pdf) | √ |
+| 6 | 导入配件画册 | √ |
+| 7 | 导入ISO证书(2021/2022/14001+45000) | √ |
+| 8 | 创建zh/products/product-spec/README.md索引 | √ |
+
+### 阶段二：英文内容同步
+| 序号 | 文件路径 | 文档名称 | 完成状态 |
+| ---- | -------- | -------- | -------- |
+| 1 | en/company/brand-story.md | Brand Story (英文品牌故事) | √ |
+| 2 | en/company/history.md | Development History (英文发展历程) | √ |
+| 3 | en/company/service-policy.md | Service Policy (英文售后服务政策) | √ |
+| 4 | en/certification/honors.md | Honors & Awards (英文荣誉墙) | √ |
+| 5 | en/certification/test-institution.md | Test Institutions (英文检测机构) | √ |
+| 6 | en/products/odm.md | ODM Custom Services (英文ODM服务) | √ |
+| 7 | en/cases/case-index.md | Project Cases (英文案例索引) | √ |
+|  | **已修复的英文文件（原为中文）** | | |
+| 8 | en/products/product-index.md | 修复为英文内容 | √ |
+| 9 | en/faq/faq-full.md | 修复为英文内容 | √ |
+| 10 | en/cases/README.md | 更新指向新案例文件 | √ |
+
+### 阶段四：GEO优化与基础设施
+| 序号 | 操作 | 完成状态 |
+| ---- | ---- | -------- |
+| 1 | llms.txt 新增7个英文文档路径 | √ |
+| 2 | LLMS.md 同步更新英文文档索引 | √ |
+| 3 | CONTENT_STATUS.md 创建(26文档+5Schema+资产状态) | √ |
+| 4 | CITATION.cff 创建(学术引用格式,提升AI引用权重) | √ |
+| 5 | zh/products/product-manual/README.md 创建(占位) | √ |
+| 6 | zh/products/product-spec/README.md 创建(规格索引) | √ |
+| 7 | GIBO-KNOWLEDGE-BASE-BUILD-PLAN.md 完整计划文档 | √ |
+
+---
+
 ## 五、Git 提交规范（统一格式，每次修改必遵守）
 1. 单模块完成后单独提交，不要一次性合并大量修改；
 2. 提交备注格式：`模块名称 + 任务编号 + 简要说明`
