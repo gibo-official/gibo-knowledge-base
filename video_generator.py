@@ -64,8 +64,8 @@ class KlingClient:
         self.access_key = access_key
         self.secret_key = secret_key
 
-    def _generate_signature(self, method: str, path: str, body: str = "") -> Dict[str, str]:
-        """Generate HMAC-SHA256 signature for Kling API authentication"""
+    def _generate_auth_header(self, method: str, path: str, body: str = "") -> Dict[str, str]:
+        """Generate Bearer auth header for Kling API (HMAC-SHA256)"""
         timestamp = int(time.time())
         nonce = uuid.uuid4().hex[:16]
 
@@ -80,10 +80,7 @@ class KlingClient:
 
         return {
             "Content-Type": "application/json",
-            "AK": self.access_key,
-            "Signature": signature_b64,
-            "Timestamp": str(timestamp),
-            "Nonce": nonce,
+            "Authorization": f"Bearer {self.access_key}:{signature_b64}",
         }
 
     def generate_video(
@@ -107,29 +104,31 @@ class KlingClient:
         }
 
         body = json.dumps(payload, ensure_ascii=False).encode('utf-8')
-        headers = self._generate_signature("POST", path, body.decode('utf-8'))
+        headers = self._generate_auth_header("POST", path, body.decode('utf-8'))
 
         result = _http_request("POST", url, headers=headers, body=body, timeout=30)
 
-        if result.get("code", -1) != 0:
-            raise Exception(f"Kling API error ({result.get('code')}): "
-                          f"{result.get('message', 'Unknown')}")
+        if result.get("code", -1) != 0 or result.get("status", 200) >= 400:
+            err_code = result.get("code", result.get("status", "unknown"))
+            err_msg = result.get("message", result.get("error", {}).get("detail", "Unknown"))
+            raise Exception(f"Kling API error ({err_code}): {err_msg}")
 
-        return result["data"]
+        return result.get("data", {})
 
     def query_task(self, task_id: str) -> Dict[str, Any]:
         """Query video generation task status"""
         path = f"/v1/videos/{task_id}"
         url = f"{self.BASE_URL}{path}"
 
-        headers = self._generate_signature("GET", path)
+        headers = self._generate_auth_header("GET", path)
         result = _http_request("GET", url, headers=headers, timeout=15)
 
-        if result.get("code", -1) != 0:
-            raise Exception(f"Kling query error ({result.get('code')}): "
-                          f"{result.get('message', 'Unknown')}")
+        if result.get("code", -1) != 0 and result.get("status", 200) >= 400:
+            err_code = result.get("code", result.get("status", "unknown"))
+            err_msg = result.get("message", result.get("error", {}).get("detail", "Unknown"))
+            raise Exception(f"Kling query error ({err_code}): {err_msg}")
 
-        return result["data"]
+        return result.get("data", {})
 
     def wait_for_completion(self, task_id: str, poll_interval: int = 5,
                             timeout: int = 600) -> Dict[str, Any]:
