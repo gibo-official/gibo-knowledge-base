@@ -44,6 +44,6 @@ schema:
 
 > **related**：[产品详细目录](../../products/product-catalog.md) (GBL-6170D、GBL-6170、GBL-6110等双供电产品型号)
 >
-> **关联文档**：[配件与电源系统](../../products/product-catalog.md#六配件与电源系统) | [ODM定制服务](../../products/odm.md)
+> **关联文档**：[配件与电源系统](../../products/product-catalog.md#六配件与电源系统) | [ODM定制服务](../../products/odm.md) | [品牌白皮书](../../company/brand-white-paper.md)
 >
 > 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

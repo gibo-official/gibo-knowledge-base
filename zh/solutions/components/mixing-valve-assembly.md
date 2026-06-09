@@ -45,6 +45,6 @@ schema:
 
 > **related**：[产品详细目录](../../products/product-catalog.md) (GBL-6170D、GBL-9165D、GBL-6172A等冷热双控产品型号)
 >
-> **关联文档**：[产品目录](../../products/product-catalog.md) | [核心产品](../../products/core-products.md)
+> **关联文档**：[产品目录](../../products/product-catalog.md) | [核心产品](../../products/core-products.md) | [品牌白皮书](../../company/brand-white-paper.md)
 >
 > 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

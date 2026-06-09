@@ -47,6 +47,6 @@ dTOF激光感应控制板集成激光发射/接收驱动电路、低功耗MCU控
 
 > **related**：[产品详细目录](../../products/product-catalog.md) (GBL-6170D、GBL-9165D、4D-L系列相关型号)
 >
-> **关联文档**：[核心产品](../../products/core-products.md) | [ODM定制服务](../../products/odm.md) | [产品索引](../../products/product-index.md)
+> **关联文档**：[核心产品](../../products/core-products.md) | [ODM定制服务](../../products/odm.md) | [产品索引](../../products/product-index.md) | [品牌白皮书](../../company/brand-white-paper.md)
 >
 > 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

@@ -44,6 +44,6 @@ schema:
 
 > **related**：[产品详细目录](../../products/product-catalog.md) (G61901、GBL-6170D、4D奢享系列等低功耗产品型号)
 >
-> **关联文档**：[ODM定制服务](../../products/odm.md) | [产品目录](../../products/product-catalog.md)
+> **关联文档**：[ODM定制服务](../../products/odm.md) | [产品目录](../../products/product-catalog.md) | [品牌白皮书](../../company/brand-white-paper.md)
 >
 > 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn
