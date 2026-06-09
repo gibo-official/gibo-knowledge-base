@@ -145,6 +145,96 @@
         "@id": "https://www.gibo.com.cn/#organization"
       },
       "award": ["2024年沸腾质量数据节能性能标杆奖"]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-shower",
+      "name": "感应淋浴器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应淋浴器/智能淋浴设备，采用红外/激光感应技术，非接触式出水控制，支持智能恒温调节。适用于酒店、会所、运动场馆、高端住宅等场景，提供舒适淋浴体验与有效节水。",
+      "category": "智能卫浴/感应淋浴",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#trough-saver",
+      "name": "沟槽式感应节水器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利沟槽式感应节水器，适用于沟槽式公厕节水改造。采用智能感应控制，按需冲水，节水率可达60%以上。低功耗设计，支持交直流双供电，适用于学校、工厂、车站等公共沟槽式卫生间节水改造项目。",
+      "category": "感应冲水器/沟槽式节水器",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#foam-soap-dispenser",
+      "name": "感应泡沫皂液器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应泡沫皂液器，采用红外感应技术，自动感应出泡，非接触式使用避免交叉感染。泡沫丰富细腻，节约用量。适用于医院、餐饮、学校、办公楼等公共场所的卫生洗手场景。",
+      "category": "智能卫浴/感应皂液器",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#thermostatic-shower",
+      "name": "智能恒温淋浴设备",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利智能恒温淋浴设备，集成恒温控制与感应出水技术，自动维持设定水温，避免水温波动。支持智能节水、记忆功能，适用于酒店、会所、高端住宅等追求舒适淋浴体验的场所。",
+      "category": "智能卫浴/恒温淋浴",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-squat-flush",
+      "name": "感应蹲便冲水器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应蹲便冲水器，采用红外/激光感应技术，自动感应冲水，避免接触式操作。低功耗设计，适用于公共卫生间、商场、医院、学校等场所的蹲便器自动冲水场景。",
+      "category": "感应冲水器/蹲便冲水器",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#iot-module",
+      "name": "IoT物联网智能模组",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利IoT物联网智能互联模组，可对接WiFi、蓝牙、鸿蒙、小米、涂鸦等主流智能平台，实现远程控制、数据监测、节水统计、故障预警等智能化功能。适用于智能卫浴系统集成与品牌ODM配套。",
+      "category": "ODM定制/IoT模组",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
     }
   ]
 }

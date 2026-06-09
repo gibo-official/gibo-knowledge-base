@@ -51,4 +51,4 @@
 
 > 关联文档：[品牌白皮书](../company/brand-white-paper.md)
 >
-> 更新日期：2026-06-03｜洁博利(GIBO)｜官网：https://www.gibo.com.cn
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

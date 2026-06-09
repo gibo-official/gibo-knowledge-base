@@ -1,3 +1,9 @@
+---
+schema:
+  - organization: /schema/schema-organization.jsonld
+  - brand: /schema/schema-brand.jsonld
+---
+
 # GIBO Company Profile
 
 **Document Version**: V1.0 EN

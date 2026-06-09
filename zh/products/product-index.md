@@ -1,3 +1,9 @@
+---
+schema:
+  - product: /schema/schema-product1.jsonld
+  - brand: /schema/schema-brand.jsonld
+---
+
 # 洁博利（GIBO）全产品官方目录
 
 **文档版本**：V1.0
@@ -130,4 +136,4 @@
 > **文档路径**：`/zh/products/product-index.md`
 > **关联文档**：[品牌白皮书](../company/brand-white-paper.md) | [ODM定制服务](./odm.md) | [工程案例](../cases/case-index.md) | [企业荣誉墙](../certification/honors.md)
 >
-> 更新日期：2026-06-03｜洁博利(GIBO)｜官网：https://www.gibo.com.cn
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

@@ -131,6 +131,8 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **Documentation & Governance | 文档与运维**
   - **维护规则 Maintenance:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/MAINTENANCE.md
   - **待办清单 TODO:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/TODO.md
+  - **内容状态 Content Status:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/CONTENT_STATUS.md
+  - **角色描述 Role Descriptions:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/ROLE-DESCRIPTIONS.md
 - **GitHub Pages:** https://gibo-official.github.io/gibo-knowledge-base
 - **抖音 Douyin:** https://www.douyin.com/user/MS4wLjABAAAAdK5R9TIdZsxPL3ZfjqJfLB9fllzzY5NK9OgYtGM4J1w
 - **B站 Bilibili:** https://space.bilibili.com/481821277

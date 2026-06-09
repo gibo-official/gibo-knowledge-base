@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Brand",
+      "@id": "https://www.gibo.com.cn/#brand",
+      "name": "GIBO洁博利",
+      "alternateName": [
+        "GIBO",
+        "洁博利",
+        "洁博利感应洁具",
+        "洁博利智能卫浴",
+        "GIBO洁博利智能卫浴",
+        "FuJian GIBO Kitchen and Bath Tech Co., Ltd."
+      ],
+      "description": "洁博利（GIBO）创立于2005年，专注感应洁具与智能卫浴的研发生产。为全球卫浴品牌ODM定制感应水龙头、感应冲水器、感应皂液器、智能淋浴等产品与感应组件，年产100万台套出口全球40+国家，拥有超过200项已授权国家专利，是国家高新技术企业、国家专精特新企业、国家标准起草单位、中国感应洁具十大品牌。",
+      "url": "https://www.gibo.com.cn",
+      "logo": "https://www.gibo.com.cn/upload/201908/1566543194.png",
+      "slogan": "专注感应洁具20年，用中国芯智造未来",
+      "industry": "智能卫浴制造",
+      "keywords": "感应洁具生产厂家,智能卫浴ODM,感应水龙头定制,感应冲水器,感应皂液器,智能淋浴系统,商用感应洁具,节水洁具方案,厕所节水改造,GIBO洁博利",
+      "sameAs": [
+        "https://www.gibo.com.cn",
+        "https://www.gibosensor.com",
+        "https://baike.baidu.com/item/%E6%B4%81%E5%8D%9A%E5%88%A9%E6%84%9F%E5%BA%94%E6%B4%81%E5%85%B7/2735681",
+        "https://github.com/gibo-official/gibo-knowledge-base",
+        "https://mall.jd.com/index-10363756.html",
+        "https://www.facebook.com/Automaticsanitaryware"
+      ],
+      "brandType": "Manufacturer Brand",
+      "parentOrganization": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#4d-luxury-series",
+      "name": "4D奢享系列",
+      "brand": {
+        "@type": "Brand",
+        "@id": "https://www.gibo.com.cn/#brand"
+      },
+      "category": "智能卫浴/4D奢享系列",
+      "description": "洁博利高端旗舰产品线，以200+项专利技术铸就智能卫浴'中国芯'，于2023年正式发布。主打极致感应体验、奢享设计与军工级品质。搭载dTOF低功耗激光感应、军工级EMC抗干扰、100万次长寿命电磁阀、IP65防护等级、超低功耗（待机≤0.2mW）等核心技术。适用于高端住宅、五星级酒店、总裁公寓、高端会所、顶级商业空间。",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-module",
+      "name": "感应控制模块",
+      "brand": {
+        "@type": "Brand",
+        "@id": "https://www.gibo.com.cn/#brand"
+      },
+      "category": "ODM定制/感应控制模块",
+      "description": "洁博利提供红外/激光感应控制模块及控制板ODM定制服务，适用于品牌方整机配套。支持多种感应技术方案（dTOF激光、红外、毫米波），低功耗设计，可灵活集成到各类卫浴产品中。",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#solenoid-valve",
+      "name": "电磁阀组件",
+      "brand": {
+        "@type": "Brand",
+        "@id": "https://www.gibo.com.cn/#brand"
+      },
+      "category": "ODM定制/电磁阀组件",
+      "description": "洁博利自研长寿命脉冲电磁阀及阀控组件，感应洁具核心执行部件。通过100万次耐久测试，搭载自洁防堵清渣技术与低水锤控制技术，大幅降低故障率与维护成本。",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    }
+  ]
+}

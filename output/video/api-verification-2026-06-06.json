@@ -1,0 +1,42 @@
+{
+  "issue": "PFBC-59",
+  "date": "2026-06-06",
+  "summary": "Kling API集成验证完成",
+  "results": {
+    "api_host": {
+      "tested": ["api.klingai.com", "openapi.klingai.com", "www.klingai.com"],
+      "correct": "openapi.klingai.com",
+      "note": "api.klingai.com返回500错误（伪内部错误），openapi.klingai.com认证通过"
+    },
+    "endpoint": {
+      "text2video": "POST /v1/videos/text2video ✅ 认证通过",
+      "generate": "POST /v1/videos/generate ❌ 旧端点（返回500）"
+    },
+    "authentication": {
+      "method": "JWT HS256 Bearer Token",
+      "jwt_header": {"alg": "HS256", "typ": "JWT"},
+      "jwt_payload": {"iss": "ACCESS_KEY", "exp": "+1800s", "nbf": "-5s"},
+      "signing": "HMAC-SHA256 with Secret Key",
+      "status": "✅ 验证通过"
+    },
+    "credentials": {
+      "status": "有效",
+      "ak": "ADdJ3CK4ggafndth4edyfrabrK9YK9kA",
+      "sk": "FN3KYRe3Npd8KK3bFtenCHpJDgMDJB8J",
+      "balance": "Account balance not enough (code 1102)"
+    }
+  },
+  "files_updated": [
+    "tools/video-generate.mjs - API主机改为openapi.klingai.com",
+    "video_generator.py - 重写JWT认证",
+    "skills/video-generation/SKILL.md - 更新API说明",
+    "video-generation-integration-plan.md - 更新实测记录",
+    "tools/setup-video-env.sh - 新增环境配置脚本"
+  ],
+  "blocker": {
+    "type": "account_balance",
+    "detail": "Kling账户积分余额不足，无法生成视频",
+    "solution": "登录https://console.klingai.com充值积分",
+    "estimated_cost": "每次生成约10-40积分（¥1-4元）"
+  }
+}

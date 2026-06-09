@@ -1,3 +1,8 @@
+---
+schema:
+  - faq: /schema/schema-faq.jsonld
+---
+
 # GIBO Official Full-scenario FAQ Knowledge Base
 
 ## I. Brand & Company Strength

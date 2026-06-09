@@ -75,13 +75,17 @@
 在Paperclip环境变量中配置：
 
 ```bash
-# 可灵 Kling API
-export KLING_ACCESS_KEY="your_access_key"
-export KLING_SECRET_KEY="your_secret_key"
-
-# 或 Runway API
-export RUNWAY_API_KEY="your_runway_key"
+# 可灵 Kling API (JWT认证方式)
+export KLING_AK="your_access_key"
+export KLING_SK="your_secret_key"
 ```
+
+> **⚠️ 2026年6月验证发现**:
+> - API主机: `openapi.klingai.com`（不是 `api.klingai.com`）
+> - 认证方式: JWT HS256 Token（`Authorization: Bearer {jwt}`）
+> - 端点: `POST /v1/videos/text2video`（文本生视频）
+> - 环境变量: 推荐统一使用 `KLING_AK` / `KLING_SK`
+> - Python包装器也兼容 `KLING_ACCESS_KEY` / `KLING_SECRET_KEY`
 
 Kling API密钥申请: https://console.klingai.com (需要注册开发者账号)
 
@@ -546,47 +550,47 @@ python video_generator.py \
 
 | 测试项 | 结果 | 说明 |
 |-------|------|------|
-| API URL | ✅ `https://api.klingai.com/v1/videos/generate` | 生产环境API端点 |
-| 认证方式 | ✅ Bearer AK:Signature | HMAC-SHA256签名放Authorization头 |
-| 签名格式 | `Authorization: Bearer {access_key}:{base64_hmac_sha256}` | 已验证通过 |
-| 请求方法 | POST | 支持JSON body |
-| 认证结果 | ✅ 通过401阶段 | 签名验证通过，请求到达业务层 |
+| API主机 | ✅ `https://openapi.klingai.com` | `api.klingai.com` 返回500错误 |
+| 文本生视频端点 | ✅ `POST /v1/videos/text2video` | `v1/videos/generate` 为旧端点 |
+| 认证方式 | ✅ JWT HS256 Bearer Token | 非HMAC-SHA256签名 |
+| JWT生成 | `{\"alg\":\"HS256\",\"typ\":\"JWT\"}` + `{\"iss\":AK,\"exp\":+1800,\"nbf\":-5}` | SK用于HMAC签名 |
+| 认证结果 | ✅ 通过 | API返回业务错误 `Account balance not enough` |
+| 账户余额 | ❌ `Account balance not enough` (code 1102) | 账号无积分余额，无法生成视频 |
 
-### 9.2 API响应问题
+### 9.2 当前阻塞项
 
-实际测试发现API返回HTTP 500 (code: 1200)，可能原因：
+**唯一阻塞：Kling账户积分余额不足**（code 1102）
 
-1. **API Key未激活** ⬅️ 最可能
-   - 密钥需要先在 [console.klingai.com](https://console.klingai.com) 开发者控制台激活
-   - console.klingai.com 当前返回nginx默认页，可能DNS未配置或需额外配置
-   
-2. **需要IP白名单绑定**
-   - Kling API可能要求绑定调用方IP地址
-   - 需要在控制台添加当前服务器IP
+Kling API认证和端点已完全验证通过，但当前账号没有积分余额。
+需要充值或等待赠送积分后才能生成视频。
 
-3. **API版本升级中**
-   - 当前端点返回500而非参数校验错误，可能API版本正在迭代
+解决方案：
+1. 登录 https://console.klingai.com 充值积分
+2. Kling新用户通常赠送100积分（约10次生成）
+3. 或在控制台查看当前积分和购买套餐
 
-### 9.3 修复后的 `video_generator.py` 变更
+### 9.3 已验证的API调用流程
 
-| 变更 | 说明 |
-|------|------|
-| 认证头格式 | `AK+Signature` 独立头 → `Bearer AK:Signature` 统一Authorization头 |
-| BASE_URL | `api.klingai.com`（已验证） |
-| 错误处理 | 增强JSON错误解析，支持Kling JSON错误体 |
-| 请求参数 | 精简payload，移除可能引起500的字段 |
+```
+1. 生成JWT: header(alg:HS256) + payload(iss:AK, exp:now+1800, nbf:now-5) → HMAC-SHA256签名
+2. POST https://openapi.klingai.com/v1/videos/text2video
+   Authorization: Bearer {jwt}
+   Body: {"model_name":"kling-v1-6","prompt":"描述","duration":5,"mode":"pro","resolution":"720p","cfg":0.5}
+3. 响应: task_id → 轮询 GET /v1/videos/{task_id} → 获取视频URL
+```
 
-### 9.4 API就绪检查清单
+### 9.4 修复后的文件变更
 
-- [ ] 访问 https://console.klingai.com 并登录
-- [ ] 检查API Key状态是否active
-- [ ] 如需IP白名单，添加当前服务器IP
-- [ ] 如控制台不可用，联系Kling技术支持确认API状态
-- [ ] 执行验证：`python video_generator.py --prompt "test" --duration 5`
+| 文件 | 变更内容 |
+|------|---------|
+| `tools/video-generate.mjs` | `api.klingai.com` → `openapi.klingai.com` |
+| `video_generator.py` | 重写auth为JWT方式，更新API主机和端点 |
+| `skills/video-generation/SKILL.md` | 更新API主机说明和环境变量名称 |
+| 环境变量 | 推荐使用 `KLING_AK` / `KLING_SK`（Node.js工具标准） |
 
 ### 9.5 备选方案：Runway Gen-3
 
-如果Kling API长时间不可用，可切换至Runway Gen-3：
+如果Kling API因余额问题无法使用，可切换至Runway Gen-3：
 ```bash
 export RUNWAY_API_KEY="your_runway_key"
 python video_generator.py --prompt "test video" --model runway

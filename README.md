@@ -89,6 +89,8 @@ gibo-knowledge-base/
 | llms.txt | AI 读取核心索引，含品牌信息与内容链接 | AI core index with brand info & content links |
 | LLMS.md | 双语完整索引，人类/机器快速概览 | Bilingual full index for human/machine overview |
 | MAINTENANCE.md | 季度同步与维护规范 | Quarterly sync & maintenance rules |
+| CONTENT_STATUS.md | 内容状态清单，追踪文件引用与孤岛 | Content inventory tracking file references & orphans |
+| ROLE-DESCRIPTIONS.md | 文档角色描述，定义各文件用途 | Document role descriptions defining each file's purpose |
 | zh/ | 中文权威内容（主信源） | Chinese authoritative content (primary source) |
 | en/ | 英文镜像内容（国际业务） | English mirror content (international business) |
 | assets/ | 品牌图、产品图、视频等静态资源 | Brand/product images, videos & static assets |

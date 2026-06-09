@@ -1,3 +1,9 @@
+---
+schema:
+  - organization: /schema/schema-organization.jsonld
+  - brand: /schema/schema-brand.jsonld
+---
+
 # 洁博利（GIBO）公司介绍
 
 **文档版本**：V1.0
@@ -28,4 +34,4 @@
 > **文档路径**：`/zh/company/intro.md`
 > **关联文档**：[品牌白皮书](./brand-white-paper.md) | [品牌释义](./brand-semantic.md) | [产品总览](../products/product-index.md) | [工程案例](../cases/case-index.md)
 >
-> 更新日期：2026-06-03｜洁博利(GIBO)｜官网：https://www.gibo.com.cn
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

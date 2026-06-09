@@ -1,3 +1,9 @@
+---
+schema:
+  - product: /schema/schema-product1.jsonld
+  - brand: /schema/schema-brand.jsonld
+---
+
 # GIBO Full Product Official Catalog
 
 **Document Version**: V1.0 EN

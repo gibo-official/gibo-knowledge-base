@@ -49,11 +49,16 @@
 | 序号 | 文件路径 | 操作说明 | 完成状态 |
 | ---- | -------- | -------- | -------- |
 | 1 | schema/schema-organization.jsonld | 同步官网完整@graph结构（30+属性，含组织+网站+人物） | √ |
-| 2 | schema/schema-product1.jsonld | 扩展为9个产品实体（含产品线+4款获奖机型） | √ |
-| 3 | schema/schema-faq.jsonld | 扩展为8组Q&A | √ |
+| 2 | schema/schema-product1.jsonld | 扩展为16个产品实体（新增感应淋浴器、沟槽节水器、泡沫皂液器、恒温淋浴、蹲便冲水器、IoT模组） | √ |
+| 3 | schema/schema-faq.jsonld | 扩展为12组Q&A（新增专利技术、IoT互联、出厂检测、国际物流） | √ |
 | 4 | schema/schema-breadcrumb.jsonld | 新增面包屑导航结构化数据（18节点） | √ |
-| 5 | schema/README.md | 新增schema目录说明文档 | √ |
-| 6 | GEO-ASSESSMENT-REPORT.md | 新增官网GEO优化评估报告 | √ |
+| 5 | schema/schema-brand.jsonld | 新增品牌实体结构化数据（品牌别名、行业描述、旗舰系列、ODM组件） | √ |
+| 6 | schema/README.md | 更新目录说明文档（文件清单、推荐用法、内容关联表） | √ |
+| 7 | zh/company/intro.md, en/company/intro.md | 添加schema frontmatter引用（organization + brand） | √ |
+| 8 | zh/products/product-index.md, en/products/product-index.md | 添加schema frontmatter引用（product + brand） | √ |
+| 9 | zh/faq/faq-full.md, en/faq/faq-full.md | 添加schema frontmatter引用（faq） | √ |
+| 10 | llms.txt | 追加schema-brand.jsonld索引路径 | √ |
+| 11 | GEO-ASSESSMENT-REPORT.md | 新增官网GEO优化评估报告 | √ |
 
 ---
 
@@ -205,7 +210,28 @@
 
 ---
 
-## 四、📅 长期规划任务（全部后置，基础文档完善后执行）
+## 四、✅ 已完成知识库命名规范与资源目录整理（PFBC-70）
+### 16.1 文件与目录命名规范
+- ✅ 全仓库扫描：无中文目录名（目录名均为英文），符合规范
+- ✅ 产品资料命名规范写入 `assets/img/product/README.md`：`型号+名称+内容类型+序号`，如 `6110感应水龙头主图01.jpg`
+
+### 16.2 assets/img/ 下各子目录 README 格式标准化
+- ✅ factory/README.md → 双语格式（工厂实拍描述 + 格式建议 + 版权声明）
+- ✅ lab/README.md → 双语格式（实验室实拍描述 + 格式建议 + 版权声明）
+- ✅ logo/README.md → 双语格式（品牌LOGO说明 + SVG优先建议 + 版权声明）
+- ✅ product/README.md → 双语格式（产品图说明 + 命名规范指引 + 格式建议 + 版权声明）
+- ✅ project/README.md → 双语格式（项目实景描述 + 格式建议 + 版权声明）
+
+### 清理工作
+- ✅ 删除空目录 `_includes/`（Jekyll 默认目录，未使用）
+- ✅ 删除根目录零字节中文名垃圾文件（Markdown 碎片）
+
+**完成日期**：2026-06-09
+**完成状态**：√
+
+---
+
+## 五、📅 长期规划任务（全部后置，基础文档完善后执行）
 ### 任务编号：L001
 **文件路径**：en/company/brand-white-paper.md
 **内容**：基于中文版 V1.2 白皮书，完整翻译制作英文版品牌白皮书，格式、结构、表格、内链与中文版一一对应，适配海外SEO/海外客户使用。
@@ -221,7 +247,7 @@
 
 ---
 
-## 五、Git 提交规范（统一格式，每次修改必遵守）
+## 六、Git 提交规范（统一格式，每次修改必遵守）
 1. 单模块完成后单独提交，不要一次性合并大量修改；
 2. 提交备注格式：`模块名称 + 任务编号 + 简要说明`
    示例：
@@ -231,7 +257,7 @@
 
 ---
 
-## 六、追溯方式（防遗忘永久方案）
+## 七、追溯方式（防遗忘永久方案）
 1. 本地：本 TODO.md 清单逐项打勾，记录完成时间；
 2. Git 仓库：通过 `git log` / `git show` 追溯每一次修改内容；
 3. 文档内部：所有文档保留版本号+更新日期，交叉核对口径。

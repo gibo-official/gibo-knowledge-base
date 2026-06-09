@@ -53,46 +53,61 @@ def _http_request(method: str, url: str, headers: dict = None,
         return {"code": -1, "message": f"Connection error: {e.reason}"}
 
 
+# ─── JWT Helper ──────────────────────────────────────────────────
+
+def _b64url_encode(data: bytes) -> str:
+    """Base64url encode without padding"""
+    return base64.urlsafe_b64encode(data).rstrip(b'=').decode('utf-8')
+
+
+def _generate_kling_jwt(access_key: str, secret_key: str) -> str:
+    """Generate JWT token for Kling API (HS256)"""
+    header = _b64url_encode(json.dumps({"alg": "HS256", "typ": "JWT"}).encode('utf-8'))
+    payload_data = {
+        "iss": access_key,
+        "exp": int(time.time()) + 1800,
+        "nbf": int(time.time()) - 5,
+    }
+    payload = _b64url_encode(json.dumps(payload_data, separators=(',', ':')).encode('utf-8'))
+    signature = hmac.new(
+        secret_key.encode('utf-8'),
+        f"{header}.{payload}".encode('utf-8'),
+        hashlib.sha256
+    ).digest()
+    sig_b64 = _b64url_encode(signature)
+    return f"{header}.{payload}.{sig_b64}"
+
+
 # ─── Kling API Client ────────────────────────────────────────────
 
 class KlingClient:
     """Kling AI Video Generation API Client"""
 
-    BASE_URL = "https://api.klingai.com"
+    BASE_URL = "https://openapi.klingai.com"
 
     def __init__(self, access_key: str, secret_key: str):
         self.access_key = access_key
         self.secret_key = secret_key
 
-    def _generate_auth_header(self, method: str, path: str, body: str = "") -> Dict[str, str]:
-        """Generate Bearer auth header for Kling API (HMAC-SHA256)"""
-        timestamp = int(time.time())
-        nonce = uuid.uuid4().hex[:16]
-
-        sign_str = f"{method}\n{path}\n{timestamp}\n{nonce}\n{body}\n"
-
-        signature = hmac.new(
-            self.secret_key.encode('utf-8'),
-            sign_str.encode('utf-8'),
-            hashlib.sha256
-        ).digest()
-        signature_b64 = base64.b64encode(signature).decode('utf-8')
-
+    def _get_auth_headers(self) -> Dict[str, str]:
+        """Generate JWT Bearer auth headers for Kling API"""
+        token = _generate_kling_jwt(self.access_key, self.secret_key)
         return {
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {self.access_key}:{signature_b64}",
+            "Authorization": f"Bearer {token}",
         }
 
     def generate_video(
         self,
         prompt: str,
-        model_name: str = "kling-v1",
+        model_name: str = "kling-v1-6",
         duration: int = 5,
         mode: str = "pro",
+        resolution: str = "720p",
         **kwargs,
     ) -> Dict[str, Any]:
         """Submit video generation task"""
-        path = "/v1/videos/generate"
+        path = "/v1/videos/text2video"
         url = f"{self.BASE_URL}{path}"
 
         payload = {
@@ -100,17 +115,18 @@ class KlingClient:
             "prompt": prompt,
             "duration": duration,
             "mode": mode,
-            "cfg_scale": kwargs.get("cfg_scale", 0.5),
+            "resolution": resolution,
+            "cfg": kwargs.get("cfg", 0.5),
         }
 
-        body = json.dumps(payload, ensure_ascii=False).encode('utf-8')
-        headers = self._generate_auth_header("POST", path, body.decode('utf-8'))
+        body = json.dumps(payload).encode('utf-8')
+        headers = self._get_auth_headers()
 
         result = _http_request("POST", url, headers=headers, body=body, timeout=30)
 
-        if result.get("code", -1) != 0 or result.get("status", 200) >= 400:
-            err_code = result.get("code", result.get("status", "unknown"))
-            err_msg = result.get("message", result.get("error", {}).get("detail", "Unknown"))
+        if result.get("code", 0) != 0:
+            err_code = result.get("code", "unknown")
+            err_msg = result.get("message", "Unknown error")
             raise Exception(f"Kling API error ({err_code}): {err_msg}")
 
         return result.get("data", {})
@@ -120,12 +136,12 @@ class KlingClient:
         path = f"/v1/videos/{task_id}"
         url = f"{self.BASE_URL}{path}"
 
-        headers = self._generate_auth_header("GET", path)
+        headers = self._get_auth_headers()
         result = _http_request("GET", url, headers=headers, timeout=15)
 
-        if result.get("code", -1) != 0 and result.get("status", 200) >= 400:
-            err_code = result.get("code", result.get("status", "unknown"))
-            err_msg = result.get("message", result.get("error", {}).get("detail", "Unknown"))
+        if result.get("code", 0) != 0:
+            err_code = result.get("code", "unknown")
+            err_msg = result.get("message", "Unknown error")
             raise Exception(f"Kling query error ({err_code}): {err_msg}")
 
         return result.get("data", {})

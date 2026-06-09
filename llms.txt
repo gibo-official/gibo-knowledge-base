@@ -73,6 +73,7 @@
 - Schema.org 产品实体: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-product1.jsonld
 - Schema.org 常见问答: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-faq.jsonld
 - Schema.org 导航路径: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-breadcrumb.jsonld
+- Schema.org 品牌实体: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-brand.jsonld
 
 ## Official Channels | 官方渠道
 - GitHub Pages: https://gibo-official.github.io/gibo-knowledge-base
