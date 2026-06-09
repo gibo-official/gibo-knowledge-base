@@ -49,4 +49,4 @@ dTOF激光感应控制板集成激光发射/接收驱动电路、低功耗MCU控
 >
 > **关联文档**：[核心产品](../../products/core-products.md) | [ODM定制服务](../../products/odm.md) | [产品索引](../../products/product-index.md)
 >
-> 更新日期：2026-06-09｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

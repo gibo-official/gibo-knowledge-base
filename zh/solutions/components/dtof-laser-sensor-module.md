@@ -46,4 +46,4 @@ schema:
 >
 > **关联文档**：[核心产品](../../products/core-products.md) | [ODM定制服务](../../products/odm.md)
 >
-> 更新日期：2026-06-09｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn
