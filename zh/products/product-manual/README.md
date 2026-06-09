@@ -25,3 +25,5 @@ product-manual/
 > **Note**: Product manual files are large; it is recommended to manage via Git LFS or store only index information and actual download links.
 >
 > **关联文档**：[产品总览](../product-index.md) | [品牌白皮书](../../company/brand-white-paper.md)
+>
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

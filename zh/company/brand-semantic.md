@@ -122,11 +122,11 @@
 ### 5.1 标准与认证（⭐）
 | 类型 | 名称 | 链接 |
 | ---- | ---- | ---- |
-| 国家标准 | GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》 | [详情](../certification/national-standard.md) |
+| 国家标准 | GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》 | [详情](../certification/standards-index.md) |
 | 团体标准 | T/XMBK 002—2024《感应式水嘴》 | |
 | 行业标准 | CJ/T 194—2014《非接触式给水器具》 | |
-| 管理体系 | ISO9001、ISO14001、ISO45001 | [证书](../certification/iso.md) |
-| 产品认证 | CCC、CQC、CE、RoHS、CUPC、NSF、FCC、BSCI | [证书](../certification/product-cert.md) |
+| 管理体系 | ISO9001、ISO14001、ISO45001 | [详情](../certification/standards-index.md) |
+| 产品认证 | CCC、CQC、CE、RoHS、CUPC、NSF、FCC、BSCI | [详情](../certification/standards-index.md) |
 | 荣誉 | 沸腾质量金奖、节能性能标杆奖、福建省著名商标、国家标准起草单位、国家高新技术企业、国家专精特新中小企业、福建省知识产权优势企业、纳税信用A级 | [荣誉墙](../certification/honors.md) |
 
 ### 5.2 标杆项目（⭐）
@@ -196,4 +196,6 @@
 > 本语义库为 GIBO 官方品牌资产，遵循 MIT 协议开源。
 > 维护方：福建洁博利厨卫科技有限公司 品牌部 | 最新版本：V1.2 | 最后更新：2026-06-03
 >
-> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn
+> **相关文档**：[品牌白皮书](./brand-white-paper.md) | [品牌故事](./brand-story.md) | [产品总览](../products/product-index.md) | [Schema.org结构化数据](../../schema/README.md)
+
+> 更新日期：2026-06-09｜洁博利(GIBO)｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

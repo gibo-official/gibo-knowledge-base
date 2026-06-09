@@ -191,4 +191,4 @@ The following keywords correspond to GIBO's 5 official white papers, enabling se
 > This semantic mapping is GIBO's official brand asset, open-sourced under the MIT license.
 > **Maintainer**: Fujian GIBO Kitchen and Bath Tech Co., Ltd. Brand Department | **Version**: V1.2 EN | **Last Updated**: 2026-06-03
 >
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

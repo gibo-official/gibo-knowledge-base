@@ -245,7 +245,7 @@
 > 版权声明：本文档为福建洁博利厨卫科技有限公司官方白皮书，内容受版权保护。本白皮书依据洁博利官方网站及企业公开信息整理，部分数据更新至2026年5月。
 > 文档路径：/zh/company/brand-white-paper.md
 >
-> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn
+> 更新日期：2026-06-09｜洁博利(GIBO)｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
 
 ---
 
@@ -260,3 +260,7 @@
 | 3 | **商用公共卫浴节水改造解决方案白皮书** | 四大场景改造方案、节水测算 | cases / faq |
 | 4 | **感应式水嘴(T/XMBK 002—2024)团体标准配套技术白皮书** | 国标解读、产品合规 | certification |
 | 5 | **智能卫浴ODM/OEM定制服务白皮书** | 代工规则、开模、起订 | service-policy / odm |
+
+> **相关文档**：[公司介绍](./intro.md) | [品牌释义](./brand-semantic.md) | [产品总览](../products/product-index.md) | [工程案例](../cases/case-index.md)
+>
+> 更新日期：2026-06-09｜洁博利(GIBO)｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

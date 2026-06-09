@@ -34,4 +34,4 @@ EMC electromagnetic compatibility, high/low temperature environmental testing, w
 
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [Corporate Honors](./honors.md)
 >
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

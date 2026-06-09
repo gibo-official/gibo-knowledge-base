@@ -58,4 +58,4 @@ As of 2026, GIBO holds **200+ granted national patents**, covering invention pat
 
 > Related Docs: [Honors](./honors.md) | [Standards Index](./standards-index.md) | [Brand White Paper](../company/brand-white-paper.md) | [Development History](../company/history.md)
 >
-> Updated: 2026-06-09｜GIBO | ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

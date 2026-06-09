@@ -22,3 +22,5 @@ product-spec/
 > **Note**: Technical specifications in these documents align with Brand White Paper V1.2. For detailed product specifications, please refer to the official website or contact the GIBO sales team.
 >
 > **关联文档**：[产品总览](../product-index.md) | [ODM定制服务](../odm.md)
+>
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

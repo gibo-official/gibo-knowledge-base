@@ -263,7 +263,7 @@ The company has built a nationwide service network implementing high-standard se
 > **Document path**: `/en/company/brand-white-paper.md`
 > **Related documents**: [Company Intro](./intro.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md) | [Project Cases](../cases/)
 >
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com
 
 ---
 
@@ -278,3 +278,7 @@ This document is the comprehensive corporate white paper. Below is the full set 
 | 3 | **Commercial Public Bathroom Water-saving Retrofit Solution White Paper** | Four scenario retrofit plans, water-saving calculations | cases / faq |
 | 4 | **Sensor Faucet (T/XMBK 002—2024) Group Standard Technical White Paper** | Standard interpretation, product compliance | certification |
 | 5 | **Smart Bathroom ODM/OEM Custom Services White Paper** | OEM rules, mold development, MOQ | service-policy / odm |
+
+> **Related documents**: [Company Intro](./intro.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md) | [Project Cases](../cases/case-index.md)
+>
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

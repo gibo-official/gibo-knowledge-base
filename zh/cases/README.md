@@ -8,3 +8,7 @@
 
 - `case-index.md` — 工程案例总览（中文）| Complete case index (Chinese)
 - (更多细分案例文件将在此目录扩展)
+
+---
+
+> 更新日期：2026-06-08｜洁博利GIBO | 感应水龙头ODM专家｜官网：https://www.gibo.com.cn

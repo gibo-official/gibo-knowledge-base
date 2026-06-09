@@ -109,4 +109,4 @@ For technical support, repair requests, or service policy inquiries:
 > **Copyright Notice**: This document represents the official service standard of Fujian GIBO Kitchen and Bath Tech Co., Ltd. Unauthorized modification or reproduction is prohibited.
 > **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Company Intro](./intro.md) | [ODM Custom Services](../products/odm.md)
 >
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

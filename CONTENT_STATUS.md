@@ -10,22 +10,24 @@
 | # | 文件路径 | LLMS.md 索引 | 文件级引用 | 孤岛状态 |
 |---|----------|:-----------:|:---------:|:--------:|
 | 1 | zh/company/intro.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 2 | zh/company/brand-story.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 3 | zh/company/brand-semantic.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 4 | zh/company/brand-white-paper.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 5 | zh/company/history.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
+| 2 | zh/company/brand-story.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
+| 3 | zh/company/brand-semantic.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
+| 4 | zh/company/brand-white-paper.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
+| 5 | zh/company/history.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
 | 6 | zh/company/service-policy.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
 | 7 | zh/certification/honors.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
 | 8 | zh/certification/test-institution.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
 | 9 | zh/products/product-index.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 10 | zh/products/odm.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 11 | zh/cases/case-index.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 12 | zh/faq/faq-full.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 13 | en/company/intro.md | ✅ | ✅ 有 related: | 正常 |
-| 14 | en/company/brand-story.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 15 | en/company/brand-semantic.md | ✅ | ✅ 有 related: | 正常 |
+| 10 | zh/products/product-catalog.md | ✅ （新索引） | ✅ 有 related: | 正常 |
+| 11 | zh/products/core-products.md | ✅ （新索引） | ✅ 有 related: | 正常 |
+| 12 | zh/products/odm.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
+| 13 | zh/cases/case-index.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
+| 14 | zh/faq/faq-full.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
+| 15 | en/company/intro.md | ✅ | ✅ 有 related: | 正常 |
+| 16 | en/company/brand-story.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
+| 17 | en/company/brand-semantic.md | ✅ | ✅ 有 related: | 正常 |
 | 16 | en/company/brand-white-paper.md | ✅ | ✅ 有 related: | 正常 |
-| 17 | en/company/history.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
+| 17 | en/company/history.md | ✅ | ✅ 现已添加 related: | ✅ 已修复 |
 | 18 | en/company/service-policy.md | ✅ | ✅ 有 related: | 正常 |
 | 19 | en/certification/honors.md | ✅ | ✅ 有 related: | 正常 |
 | 20 | en/certification/test-institution.md | ✅ | ✅ 有 related: | 正常 |
@@ -35,7 +37,7 @@
 | 24 | en/faq/faq-full.md | ✅ | ✅ 有 related: | 正常 |
 | 25 | MAINTENANCE.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
 | 26 | TODO.md | ✅ | ❌ 无 related: | ⚠️ 孤岛 |
-| 27 | ROLE-DESCRIPTIONS.md | ❌ 尚未创建 | ❌ | ➕ 待创建 |
+| 27 | ROLE-DESCRIPTIONS.md | ✅ 已在 LLMS.md 中引用 | ✅ 已在 README.md 中引用 | ✅ 已创建 |
 | 28 | GEO-ASSESSMENT-REPORT.md | ❌ | ❌ | ⚠️ 孤岛 |
 | 29 | GEO-ASSESSMENT-GIBOSENSOR.md | ❌ | ❌ | ⚠️ 孤岛 |
 | 30 | GEO-FIX-GUIDE.md | ❌ | ❌ | ⚠️ 孤岛 |
@@ -80,18 +82,22 @@
 
 ## 四、修复计划
 
-### 4.1 优先修复（PFBC-80 范围）
-| 序号 | 文件 | 操作 | 预计修改 |
-|------|------|------|----------|
-| 1 | zh/company/ 系列 (6个文件) | 添加 `> **相关文档**:` 尾注 | 每个文件加1行 |
-| 2 | zh/certification/ 系列 (2个文件) | 添加 `> **相关文档**:` 尾注 | 每个文件加1行 |
-| 3 | zh/products/ 系列 (2个文件) | 添加 `> **相关文档**:` 尾注 | 每个文件加1行 |
-| 4 | zh/cases/case-index.md | 添加 `> **相关文档**:` 尾注 | 加1行 |
-| 5 | zh/faq/faq-full.md | 添加 `> **相关文档**:` 尾注 | 加1行 |
-| 6 | en/company/brand-story.md | 添加 `> **Related documents**:` 尾注 | 加1行 |
-| 7 | en/company/history.md | 添加 `> **Related documents**:` 尾注 | 加1行 |
+### 4.1 已完成修复（PFBC-80）
+| 序号 | 文件 | 操作 | 状态 |
+|------|------|------|:----:|
+| 1 | zh/company/brand-story.md | 添加 `> **相关文档**:` 尾注 | ✅ |
+| 2 | zh/company/brand-semantic.md | 添加 `> **相关文档**:` 尾注 | ✅ |
+| 3 | zh/company/brand-white-paper.md | 添加 `> **相关文档**:` 尾注 | ✅ |
+| 4 | zh/company/history.md | 添加 `> **相关文档**:` 尾注 | ✅ |
+| 5 | zh/faq/faq-full.md | 添加 `> **相关文档**:` 尾注 | ✅ |
+| 6 | en/company/brand-story.md | 添加 `> **Related documents**:` 尾注 | ✅ |
+| 7 | en/company/history.md | 添加 `> **Related documents**:` 尾注 | ✅ |
+| 8 | README.md | 添加 CONTENT_STATUS.md 和 ROLE-DESCRIPTIONS.md 引用 | ✅ |
+| 9 | LLMS.md | 添加 CONTENT_STATUS.md 和 ROLE-DESCRIPTIONS.md 引用 | ✅ |
+| 10 | CONTENT_STATUS.md | 新创建，内容清单 | ✅ |
+| 11 | ROLE-DESCRIPTIONS.md | 新创建，角色描述 | ✅ |
 
-### 4.2 后续可考虑
+### 4.2 后续可考虑（非 PFBC-80 范围）
 | 序号 | 操作 |
 |------|------|
 | 1 | GEO系列文档可统一由 README.md 或 GEO-ASSESSMENT-REPORT.md 自身索引 |

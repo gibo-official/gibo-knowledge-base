@@ -19,3 +19,5 @@ product-manual/
 ```
 
 > **Related Documents**: [Product Index](../product-index.md) | [Brand White Paper](../../company/brand-white-paper.md)
+>
+> Update：2026-06-08｜GIBO | Sensor Faucet ODM Expert｜官网：https://www.gibosensor.com

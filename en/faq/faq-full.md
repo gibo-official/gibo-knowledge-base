@@ -74,4 +74,4 @@ Factory visits to our Fuzhou High-tech Zone production base and meetings at the 
 > **Document path**: `/en/faq/faq-full.md`
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [Product Index](../products/product-index.md) | [ODM Custom Services](../products/odm.md)
 >
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

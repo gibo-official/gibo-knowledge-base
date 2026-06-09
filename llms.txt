@@ -39,6 +39,8 @@
 - 企业荣誉墙: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/honors.md
 - 合作检测机构: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/certification/test-institution.md
 - 产品总览: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-index.md
+- 产品详细目录: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-catalog.md
+- 核心产品分类: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/core-products.md
 - ODM定制服务: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/odm.md
 - 产品手册: https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-manual
 - 产品规格: https://github.com/gibo-official/gibo-knowledge-base/tree/main/zh/products/product-spec
@@ -55,6 +57,8 @@
 - Certifications: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/honors.md
 - Testing Institutions: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/certification/test-institution.md
 - Product Index: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/product-index.md
+- Product Catalog: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/product-catalog.md
+- Core Products: https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/products/core-products.md
 - ODM Custom Services: https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/products/odm.md
 - Product Manual: https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-manual
 - Product Spec: https://github.com/gibo-official/gibo-knowledge-base/tree/main/en/products/product-spec

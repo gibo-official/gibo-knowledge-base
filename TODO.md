@@ -247,6 +247,23 @@
 
 ---
 
+## 五、✅ 已完成孤岛文件链接补充（PFBC-80 | 2026-06-09）
+
+| 序号 | 文件 | 操作 | 完成状态 |
+| ---- | ---- | ---- | -------- |
+| — | CONTENT_STATUS.md | 新建内容状态清单，追踪所有文件的索引与引用状态 | √ |
+| — | ROLE-DESCRIPTIONS.md | 新建角色描述文档，定义各文件用途 | √ |
+| 14 | zh/company/brand-story.md | 添加 `相关文档`（品牌白皮书/品牌释义/企业历程） | √ |
+| 14 | zh/company/brand-semantic.md | 添加 `相关文档`（品牌白皮书/品牌故事/产品总览/Schema） | √ |
+| 14 | zh/company/brand-white-paper.md | 添加 `相关文档`（公司介绍/品牌释义/产品总览/工程案例） | √ |
+| 14 | zh/company/history.md | 添加 `相关文档`（品牌白皮书/品牌故事/企业荣誉墙） | √ |
+| 14 | zh/faq/faq-full.md | 添加 `相关文档`（品牌白皮书/产品总览/ODM定制/售后服务） | √ |
+| 15 | README.md + LLMS.md | 在两者中添加 CONTENT_STATUS.md 和 ROLE-DESCRIPTIONS.md 引用 | √ |
+| — | en/company/brand-story.md | 添加 `Related documents`（Brand White Paper/Brand Semantic/History） | √ |
+| — | en/company/history.md | 添加 `Related documents`（Brand White Paper/Brand Story/Corporate Honors） | √ |
+
+---
+
 ## 六、Git 提交规范（统一格式，每次修改必遵守）
 1. 单模块完成后单独提交，不要一次性合并大量修改；
 2. 提交备注格式：`模块名称 + 任务编号 + 简要说明`

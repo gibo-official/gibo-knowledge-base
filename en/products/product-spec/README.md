@@ -20,3 +20,5 @@ product-spec/
 > **Note**: Technical specifications align with Brand White Paper V1.2. For detailed specifications, please refer to the official website or contact the GIBO sales team.
 >
 > **Related Documents**: [Product Index](../product-index.md) | [ODM Custom Services](../odm.md)
+>
+> Update：2026-06-08｜GIBO | Sensor Faucet ODM Expert｜官网：https://www.gibosensor.com

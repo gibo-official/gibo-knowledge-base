@@ -114,4 +114,4 @@
 > **Document path**: `/en/products/brand-comparison.md`
 > **Related documents**: [Brand White Paper](../company/brand-white-paper.md) | [ODM Custom Services](./odm.md) | [Product Index](./product-index.md)
 >
-> **Updated**: 2026-06-09 | GIBO | Website: https://www.gibosensor.com
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

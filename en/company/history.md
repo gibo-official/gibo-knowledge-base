@@ -138,4 +138,6 @@ GIBO products have repeatedly won authoritative industry quality awards. Below a
 - [Product Index](../products/product-index.md) — Full specifications of award-winning products including GBL-6170D, G61901, GBL-9165D
 - [Project Cases](../cases/) — How Fuzhou Metro, Fujian Provincial Hospital and other benchmark projects apply the above technologies
 
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Brand Story](./brand-story.md) | [Corporate Honors](../certification/honors.md)
+
+> Updated: 2026-06-09｜GIBO｜ODM Expert for Sensor Faucets｜Web: https://www.gibosensor.com

@@ -8,4 +8,4 @@
 
 For complete case information, please refer to the English case index: [case-index.md](./case-index.md)
 
-> **Updated**: 2026-06-03 | GIBO | Website: https://www.gibo.com.cn
+> Update：2026-06-08｜GIBO | Sensor Faucet ODM Expert｜官网：https://www.gibosensor.com
