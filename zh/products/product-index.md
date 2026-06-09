@@ -134,6 +134,6 @@ schema:
 > **版权说明**：本文档为福建洁博利厨卫科技有限公司官方产品目录，内容与品牌白皮书 V1.2 保持一致。
 >
 > **文档路径**：`/zh/products/product-index.md`
-> **关联文档**：[品牌白皮书](../company/brand-white-paper.md) | [ODM定制服务](./odm.md) | [工程案例](../cases/case-index.md) | [企业荣誉墙](../certification/honors.md)
+> **关联文档**：[品牌白皮书](../company/brand-white-paper.md) | [核心产品推荐](./core-products.md) | [ODM定制服务](./odm.md) | [工程案例](../cases/case-index.md) | [企业荣誉墙](../certification/honors.md)
 >
 > 更新日期：2026-06-09｜洁博利(GIBO)｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
