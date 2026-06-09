@@ -141,8 +141,8 @@ Copyright © 2026 福建洁博利厨卫科技有限公司 (GIBO)
 ## 📞 联系我们 | Contact Us
 - **中文官网**：https://www.gibo.com.cn
 - **English Website**：https://www.gibosensor.com
-- **邮箱**：sales@gibol.com.cn
 - **Email**：sales@gibol.com.cn
+- **Tel**：+86 591 88066000
 - **地址**：福建省福州市高新区智慧大道两园科技园5号楼
 - **Address**：Building 5, Liangyuan Science Park, Wisdom Avenue, High-tech Zone, Fuzhou, Fujian, China
 
