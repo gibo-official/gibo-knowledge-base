@@ -385,7 +385,7 @@ priority: high
 | **Body Material** | All-Brass Chrome-Plated |
 | **Product Dimensions** | 48×160×150mm |
 | **Reference Price** | $86 / ¥602 |
-| **Product Images** | `assets/img/product/GBL-6170D_Aishang-Basin-Sensor-Faucet.jpg`, `GBL-6170D_Aishang-Basin-Sensor-Faucet_1.jpg` (3 images) |
+| **Product Images** | `assets/products/GBL-6170D_Aishang-Basin-Sensor-Faucet.jpg`, `GBL-6170D_Aishang-Basin-Sensor-Faucet_1.jpg` (3 images) |
 | **Product Manual** | [View](product-manual/gbl-6170d.md) |
 
 **Core Selling Points:**
@@ -412,7 +412,7 @@ Winner of the 2020 "Boiling Quality Gold Award," redefining the public water exp
 | **Body Material** | ABS Engineering Plastic |
 | **Product Dimensions** | 68×33×418mm |
 | **Reference Price** | $20 / ¥140 |
-| **Product Images** | `assets/img/product/G61901_MINI-Sensor-Nozzle.jpg` (to be verified) |
+| **Product Images** | `assets/products/G61901_MINI-Sensor-Nozzle.jpg` (to be verified) |
 | **Product Manual** | [View](product-manual/g61901.md) |
 
 **Core Selling Points:**
@@ -436,7 +436,7 @@ Winner of the 2021 Energy-Saving Sensor Faucet Benchmark Award. World's first qu
 | **Core Technology** | Laser TOF Sensing, Pull-Out Dual Mode, 2-in-1 Water Outlet |
 | **Power Supply** | DC Battery/AC Adapter |
 | **Body Material** | All-Brass H59 |
-| **Product Images** | `assets/img/product/GBL-9165D_Laser-TOF-Sensor-Kitchen-Pull-Out-Faucet.jpg` (to be verified) |
+| **Product Images** | `assets/products/GBL-9165D_Laser-TOF-Sensor-Kitchen-Pull-Out-Faucet.jpg` (to be verified) |
 | **Product Manual** | [View](product-manual/gbl-9165d.md) |
 
 **Core Selling Points:**
@@ -459,7 +459,7 @@ Equipped with cutting-edge TOF laser sensing technology, perfectly combining the
 | **Core Technology** | TOF Dual-Sensing Technology, LED Digital Temperature Display, Ultra-Low Power Consumption |
 | **Power Supply** | DC Battery/AC Adapter |
 | **Body Material** | All-Brass H59 |
-| **Product Images** | `assets/img/product/GBL-6172A_TOF-Dual-Sensor-Digital-Display-Laser-Faucet.jpg` (to be verified) |
+| **Product Images** | `assets/products/GBL-6172A_TOF-Dual-Sensor-Digital-Display-Laser-Faucet.jpg` (to be verified) |
 | **Product Manual** | [View](product-manual/gbl-6172a.md) |
 
 **Core Selling Points:**
@@ -502,7 +502,7 @@ Industry-first integrated design in 2012, highly integrating sensor, power suppl
 | **Year of Innovation** | 2018 |
 | **Core Scenario** | Old restroom water-saving renovation, kindergartens, schools, homes |
 | **Core Technology** | Quick-Install Structure, Bottom Sensing, Flow Restriction Design |
-| **Product Images** | `assets/img/product/GBL-6195D_Dual-Sensor-Faucet-Rechargeable.jpg` (3 images) |
+| **Product Images** | `assets/products/GBL-6195D_Dual-Sensor-Faucet-Rechargeable.jpg` (3 images) |
 
 **Core Selling Points:**
 Launched in 2018, condensing complex sensor faucet technology into a compact nozzle. No need to replace the faucet body — simply unscrew the original nozzle and replace it to upgrade from "manual" to "automatic." Optimized downward sensing mode, water flows when hands approach, matching the natural hand-washing posture.
@@ -566,7 +566,7 @@ A 2023 innovative work. Equipped with TOF laser sensor enabling gesture control 
 | **Power Supply** | DC6V (AC110-240V customizable) |
 | **Product Dimensions** | 58×153×328mm |
 | **Reference Price** | $56 / ¥392 |
-| **Product Images** | `assets/img/product/GBL-6110_All-Brass-Sensor-Basin-Faucet-Split.jpg` (3 images) |
+| **Product Images** | `assets/products/GBL-6110_All-Brass-Sensor-Basin-Faucet-Split.jpg` (3 images) |
 
 **Core Selling Points:**
 A market legend in continuous production for 20 years. Circuit design and material craftsmanship refined to maturity, with extremely low failure rates. High cost-performance ratio, ample spare parts, easy maintenance. Sturdy enclosure with good internal component sealing, adaptable to complex water quality and climatic conditions.
@@ -588,7 +588,7 @@ A market legend in continuous production for 20 years. Circuit design and materi
 | **Sensing Distance** | 15cm±2cm (upper) / 7cm±1cm (lower) |
 | **Power Supply** | DC4.5V (3x AAA batteries) |
 | **Reference Price** | $26 / ¥182 |
-| **Product Images** | `assets/img/product/GBL-6193DB_Dual-Sensor-Faucet.jpg` (3 images) |
+| **Product Images** | `assets/products/GBL-6193DB_Dual-Sensor-Faucet.jpg` (3 images) |
 
 **Core Selling Points:**
 Designed specifically for stringent environments like operating rooms. Dual-sensing mode completely eliminates secondary contamination — first sensor zone activates water for hand-washing, second sensor zone with knee/body trigger stops water,throughout zero-contact. SUS304 stainless steel material resists strong disinfectant corrosion, smooth surfaceresists bacteria adhesion.
@@ -610,7 +610,7 @@ Designed specifically for stringent environments like operating rooms. Dual-sens
 | **Power Supply** | DC6V (AC110-240V customizable) |
 | **Product Dimensions** | 45×144×165mm |
 | **Reference Price** | $35 / ¥245 |
-| **Product Images** | `assets/img/product/GBL-6127_Stainless-Steel-Sensor-Basin-Faucet-Split.jpg` (to be verified) |
+| **Product Images** | `assets/products/GBL-6127_Stainless-Steel-Sensor-Basin-Faucet-Split.jpg` (to be verified) |
 
 **Core Selling Points:**
 Antibacterial elements added to SUS304 stainless steel effectivelyinhibit the growth of common bacteria such as E. coli and Staphylococcus aureus. Food-grade safety standards, lead-free. Brushed finish and integrated welding technology create a dense, smooth surface where bacteria and dirt cannot adhere.
@@ -692,7 +692,7 @@ Design simplified to theextreme, shaped like a swan neck with no superfluous lin
 | **Market Reputation** | **The most widely used concealed urinal model in public restrooms** |
 | **Core Scenario** | Airports, train stations, large shopping malls, office buildings and other public restrooms |
 | **Body Material** | Brass Valve |
-| **Product Images** | `assets/img/product/GBL-6213AD_Concealed-Urinal-Flush-Valve-Brass.jpg` (3 images) |
+| **Product Images** | `assets/products/GBL-6213AD_Concealed-Urinal-Flush-Valve-Brass.jpg` (3 images) |
 
 **Core Selling Points:**
 Best-selling model. All core components including sensor, solenoid valve, and power supply box are pre-embedded in the wall, leaving only a sleek control panel visible. Frees up restroom space for a more open visual effect with no hygiene dead corners. Core components hidden in the wall to the fullest extent prevent vandalism. The panel design seamlessly integrates with modern wall designs.
@@ -745,7 +745,7 @@ Specifically designed to solve low water pressure flushing challenges. Even with
 | **Product Type** | Triangulation Ranging Toilet Sensor |
 | **Core Scenario** | High-traffic public restrooms such as high-speed rail stations, bullet train stations, airport terminals |
 | **Featured Technology** | Triangulation Ranging Sensing, Precision Distance Measurement, Adjustable Zone |
-| **Product Images** | `assets/img/product/GBL-8300AD_Concealed-Toilet-Flush-Valve-Brass.jpg` (to be verified) |
+| **Product Images** | `assets/products/GBL-8300AD_Concealed-Toilet-Flush-Valve-Brass.jpg` (to be verified) |
 
 **Core Selling Points:**
 Utilizing advanced triangulation ranging technology to precisely measure target distance, activating flushing only when the user is detected in the "use zone." Effectively prevents false flushing in cramped stalls like those at train stations, avoiding startling users and saving water. The detection zone can be precisely set via remote control.
@@ -787,7 +787,7 @@ A complete "hand-washing solution" — sensor faucet and sensor foam soap dispen
 | **Body Material** | ABS Chrome-Plated |
 | **Power Supply** | Lithium Battery 400mAh (USB Type-C Charging) |
 | **Reference Price** | $21 / ¥147 |
-| **Product Images** | `assets/img/product/GBL-6197D_Sensor-Nozzle-Rechargeable.jpg` (3 images) |
+| **Product Images** | `assets/products/GBL-6197D_Sensor-Nozzle-Rechargeable.jpg` (3 images) |
 
 **Core Selling Points:**
 The kitchen edition "Xiaoxibao," optimized specifically for complex kitchen faucet nozzle interfaces, comes with multiple universal adapters compatible with 99% of kitchen faucets. The sensor window is resistant to grease and high-temperature steam. Offers dual modes: downward sensing (hand-washing) and side hand-wave (continuous flow). No need to replace the entire faucet — upgrade your old kitchen intelligently for just a few hundred yuan.
@@ -859,7 +859,7 @@ A smart aging-friendly renovation kit designed specifically for regular toilets.
 | **Power Supply** | Lithium Battery 3.7V/1200mA Rechargeable |
 | **Product Dimensions** | 76×115×185mm |
 | **Reference Price** | $14 / ¥98 |
-| **Product Images** | `assets/img/product/G33608_Sensor-Foam-Soap-Dispenser-White.jpg` (3 images) |
+| **Product Images** | `assets/products/G33608_Sensor-Foam-Soap-Dispenser-White.jpg` (3 images) |
 
 **Core Selling Points:**
 Co-produced on the same line as major brand OEMs, with reliable quality. Built-in precision foam generator produces fine, dense foam. Built-in large-capacity lithium battery, no installation required — place it anywhere on the countertop, fully charged for months of use. Minimalist cylindrical design with transparent window for easy visibility of remaining capacity.
@@ -1003,7 +1003,7 @@ The built-inwater tank design eliminates the smart toilet's dependence on water 
 
 ## VII. Core Product Image Index
 
-> The following are the archived core product images, named in the format「Product Model_Product Name_Sequence.jpg」, located in the `assets/img/product/` directory.
+> The following are the archived core product images, named in the format「Product Model_Product Name_Sequence.jpg」, located in the `assets/products/` directory.
 
 | Product Model | Images In Stock |
 |---------------|------------|

@@ -1,28 +1,22 @@
-# assets/ 统一资源库
+# GIBO 知识库资产目录 | Assets Directory
 
-本目录为 GIBO 知识库唯一静态资源存储目录，所有 Markdown 文件通过相对路径引用本目录下的资源。
+推荐使用如下扁平结构（2026-06-10 新版，不再使用 img/ + pdf/ 双层结构）：
 
-## 目录结构
-
-```
-assets/
-├─ pdf/            PDF 文档
-│  ├─ certificate/   专利、高新/专精特新、ISO/CE/CQC 证书
-│  ├─ standard/      GB/T 41863-2022、T/XMBK 002—2024 国标&团标原文
-│  ├─ whitepaper/    5份定制白皮书（企业综合/dTOF技术/商用卫浴节水改造/团标配套/ODM定制）
-│  └─ catalog/       产品画册、单品说明书、ODM选型手册
-├─ img/            图片资源
-│  ├─ logo/          品牌 LOGO
-│  ├─ factory/       厂区厂房实拍
-│  ├─ lab/           EMC 实验室、产品耐久测试实景
-│  ├─ product/       全系列产品高清实拍
-│  └─ project/       机场/医院/学校/地标落地实景图
-└─ video/          MP4 短视频（产品感应实测、dTOF 性能测试、工地安装实拍）
-```
-
-> **资源引用格式**：
-> - 图片：`![描述](../../assets/img/xxx.jpg)`
-> - PDF：`[文件名](../../assets/pdf/xxx/xxx.pdf)`
-> - 视频：`<video src="../../assets/video/xxx.mp4" controls width="600"></video>`
-
-> **版权声明**：本目录所有资源版权归福建洁博利厨卫科技有限公司所有。
+| 目录 | 内容类型 | 说明 |
+|------|----------|------|
+| products/ | 图片 | 产品高清实拍图（原 img/product/） |
+| projects/ | 图片 | 工程案例实景图（原 img/project/） |
+| exhibitions/ | 图片 | 展会照片（原 img/exhibition/） |
+| factory/ | 图片 | 工厂/车间/产线照片（原 img/factory/） |
+| company/ | 图片 | 公司形象照（原 img/company/） |
+| equipment/ | 图片 | 设备照片（原 img/equipment/） |
+| lab/ | 图片 | 实验室照片（原 img/lab/） |
+| team/ | 图片 | 团队照片（原 img/team/） |
+| brand/ | 图片 | 品牌Logo/图标（原 img/logo/） |
+| qc/ | 图片 | 质检相关截图（原 img/qc/） |
+| certificates/ | 图片+PDF | 证书类，含 img/ 和 pdf/ 子目录 |
+| manuals/ | PDF | 产品安装使用说明书（原 pdf/manual/） |
+| specifications/ | PDF | 产品规格书（原 pdf/spec/） |
+| catalogs/ | PDF | 产品画册（原 pdf/catalog/） |
+| whitepapers/ | PDF | 白皮书（原 pdf/whitepaper/） |
+| videos/ | 视频 | 宣传/产品视频（原 video/） |

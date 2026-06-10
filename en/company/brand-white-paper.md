@@ -269,7 +269,7 @@ The company has built a nationwide service network implementing high-standard se
 
 ## IX. Supplementary White Papers & Downloads
 
-This document is the comprehensive corporate white paper. Below is the full set of GIBO specialized white papers (PDF format), stored in the `assets/pdf/whitepaper/` directory:
+This document is the comprehensive corporate white paper. Below is the full set of GIBO specialized white papers (PDF format), stored in the `assets/whitepapers/` directory:
 
 | No. | White Paper | Content Focus | Related Docs |
 |-----|------------|---------------|-------------|

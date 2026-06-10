@@ -75,8 +75,8 @@
 
 ## Resources & Schema | 资源与结构化数据
 - 静态资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets
-- 视频资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/video
-- 图片资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/img
+- 视频资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/videos
+- 图片资源: https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/products
 - 结构化数据: https://github.com/gibo-official/gibo-knowledge-base/tree/main/schema
 - Schema.org 企业实体: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld
 - Schema.org 产品实体: https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-product1.jsonld
