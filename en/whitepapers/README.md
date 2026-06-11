@@ -13,10 +13,10 @@
 | # | White Paper Title | Status | File Location | Description |
 |:-:|-----------------|:------:|-------------|-------------|
 | 1 | GIBO Brand White Paper | ✅ Published | `en/company/brand-white-paper.md` | Enterprise overview, technology system, manufacturing, product matrix |
-| 2 | 2-in-1 Soap Dispenser Sensor Faucet Industry White Paper | ✅ Published | TBD | Industry analysis of soap-dispenser integrated faucet category |
-| 3 | Smart Thermostatic Shower & Cold Water Pre-drainage White Paper | ✅ Published | TBD | Smart shower temperature control and cold water pre-drainage |
-| 4 | dTOF Laser Sensing Smart Sanitary Application Technology White Paper | 📝 Pending | — | dTOF laser sensing applications in sanitary ware |
-| 5 | Sensor Sanitary Industry Development White Paper | 📝 Pending | — | Scenario-based solutions: hospitals, schools, homes, hotels |
+| 2 | 2-in-1 Soap Dispenser Sensor Faucet Industry White Paper | ✅ Found | `assets/whitepapers/皂液二合一智能感应水龙头产品白皮书.docx` | Original filename: "产品白皮书" (Product White Paper) |
+| 3 | Smart Thermostatic Shower & Cold Water Pre-drainage White Paper | ✅ Found | `assets/whitepapers/智能淋浴产品白皮书.docx` | Original filename: "产品白皮书" |
+| 4 | Sensor Sanitary Industry Development White Paper | ✅ Found | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` | Complete version (12,600 chars), already written |
+| 5 | dTOF Laser Sensing Smart Sanitary Application Technology White Paper | 📝 Pending | — | dTOF laser sensing applications in sanitary ware |
 | 6 | Commercial Public Sanitary Water-saving Retrofit Solutions White Paper | 📝 Pending | — | Water-saving retrofit technology and engineering practice |
 | 7 | Sensor Faucet Nozzle (T/XMBK 002-2024) Group Standard White Paper | 📝 Pending | — | Group standard technical implementation guide |
 
