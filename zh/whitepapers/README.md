@@ -13,26 +13,42 @@
 | 序号 | 白皮书名称 | 状态 | 文件位置 | 说明 |
 |:----:|-----------|:----:|---------|------|
 | 1 | 洁博利品牌白皮书 | ✅ 已编写 | `zh/company/brand-white-paper.md` | 企业综合实力、技术体系、生产能力、产品矩阵全貌 |
-| 2 | 皂液二合一智能感应水龙头行业白皮书 | ✅ 已编写 | `assets/whitepapers/皂液二合一智能感应水龙头产品白皮书.docx` | 皂液二合一品类行业分析，原文件名含"产品白皮书" |
-| 3 | 智能恒温淋浴与冷水预排白皮书 | ✅ 已编写 | `assets/whitepapers/智能淋浴产品白皮书.docx` + `assets/whitepapers/en/smart-shower-white-paper.md` | 智能淋浴恒温技术及冷水预排方案，含英文完整版 |
-| 4 | 感应洁具行业发展白皮书 | ✅ 已编写 | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` + `assets/whitepapers/en/industry-development-white-paper.md` | 已完成的完整版白皮书（12,600字），含英文版 |
-| 5 | **dTOF激光感应智能卫浴应用技术白皮书** | ✅ **已找到！** | `assets/whitepapers/en/technical-white-paper.md` | 从EEAT内容创作工作区发现英文完整版（14KB） |
-| 6 | **商用公共卫浴节水改造解决方案白皮书** | ✅ **已找到！** | `assets/whitepapers/en/water-saving-solution.md` | 从EEAT内容创作工作区发现英文完整版（28KB） |
-| 7 | **感应式水嘴（T/XMBK 002—2024）团体标准配套技术白皮书** | ✅ **已找到！** | `assets/whitepapers/en/standard-white-paper.md` | 从EEAT内容创作工作区发现英文完整版（12KB） |
+| 2 | 皂液二合一智能感应水龙头行业白皮书 | ✅ 中英文 | `./皂液二合一智能感应水龙头行业白皮书.md` + `en/soap-faucet-2in1-white-paper.md` | 中文MD+英文MD+DOCX三版 |
+| 3 | 智能恒温淋浴与冷水预排白皮书 | ✅ 中英文 | `./智能恒温淋浴与冷水预排白皮书.md` + `en/smart-shower-white-paper.md` | 中文MD+英文MD+DOCX三版 |
+| 4 | 感应洁具行业发展白皮书 | ✅ 中英文 | `./感应洁具行业发展白皮书.md` + `en/industry-development-white-paper.md` | 中文MD+英文MD+DOCX三版 |
+| 5 | dTOF激光感应智能卫浴应用技术白皮书 | ✅ 中英文 | `./dTOF激光感应智能卫浴应用技术白皮书.md` + `en/technical-white-paper.md` | 中文完整翻译（25KB）+ 英文版 |
+| 6 | 商用公共卫浴节水改造解决方案白皮书 | ✅ 中英文 | `./商用公共卫浴节水改造解决方案白皮书.md` + `en/water-saving-solution.md` | 中文完整翻译（24KB）+ 英文版 |
+| 7 | 感应式水嘴团体标准配套技术白皮书 | ✅ 中英文 | `./感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md` + `en/standard-white-paper.md` | 中文完整翻译（9KB）+ 英文版 |
+| 8 | ODM白皮书 | ✅ 中文 | `./ODM白皮书.md` + `en/odm-white-paper.md` | 完整ODM指南+英文版 |
+| 9 | 技术白皮书（整合版） | ✅ 中文 | `./技术白皮书.md` | 感应技术+EMC+低功耗三合一 |
 
 ### 已编写白皮书快速索引
 
-- [品牌白皮书](../company/brand-white-paper.md) — 企业综合信息
-- [品牌白皮书（英文）](../../en/company/brand-white-paper.md) — English version
-- [**ODM白皮书（完整版）**](./ODM白皮书.md) — 309行，7大章节 ✅ 新整合
-- [**技术白皮书（完整版）**](./技术白皮书.md) — 311行，3大技术领域 ✅ 新整合
-- [皂液二合一白皮书(DOCX)](../../assets/whitepapers/%E7%9A%82%E6%B6%B2%E4%BA%8C%E5%90%88%E4%B8%80%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E9%BE%99%E5%A4%B4%E4%BA%A7%E5%93%81%E7%99%BD%E7%9A%AE%E4%B9%A6.docx) — 518KB
-- [智能淋浴白皮书(DOCX)](../../assets/whitepapers/%E6%99%BA%E8%83%BD%E6%B7%8B%E6%B5%B4%E4%BA%A7%E5%93%81%E7%99%BD%E7%9A%AE%E4%B9%A6.docx) — 16KB
-- [感应洁具行业发展白皮书(DOCX)](../../assets/whitepapers/%E5%95%86%E7%94%A8%E6%84%9F%E5%BA%94%E6%B4%81%E5%85%B7%E4%B8%8E%E6%84%9F%E5%BA%94%E6%B0%B4%E9%BE%99%E5%A4%B4%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%A0%87%E5%87%86%E3%80%81%E5%B7%A5%E7%A8%8B%E5%AE%89%E8%A3%85%E3%80%81%E9%80%89%E5%9E%8B%E8%A7%84%E8%8C%83%E5%8F%8A%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%C2%B712600%E5%AD%97%EF%BC%89.docx) — 25KB（12,600字完整版）
-- [dTOF技术白皮书（英文）](../../assets/whitepapers/en/technical-white-paper.md) — 14KB ✅ 新发现
-- [节水改造白皮书（英文）](../../assets/whitepapers/en/water-saving-solution.md) — 28KB ✅ 新发现
-- [团体标准白皮书（英文）](../../assets/whitepapers/en/standard-white-paper.md) — 12KB ✅ 新发现
-- [英文白皮书目录](../../assets/whitepapers/en/) — 共8篇
+#### 中文MD版（zh/whitepapers/）
+- [品牌白皮书](../company/brand-white-paper.md)
+- [ODM白皮书](./ODM白皮书.md) — ODM合作完整指南
+- [技术白皮书](./技术白皮书.md) — 感应技术+EMC+低功耗
+- [dTOF激光感应智能卫浴应用技术白皮书](./dTOF激光感应智能卫浴应用技术白皮书.md) — 25KB ✅ 新翻译
+- [商用公共卫浴节水改造解决方案白皮书](./商用公共卫浴节水改造解决方案白皮书.md) — 24KB ✅ 新翻译
+- [感应式水嘴团体标准配套技术白皮书](./感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md) — 9KB ✅ 新翻译
+- [皂液二合一智能感应水龙头行业白皮书](./皂液二合一智能感应水龙头行业白皮书.md) — 31KB
+- [智能恒温淋浴与冷水预排白皮书](./智能恒温淋浴与冷水预排白皮书.md) — 23KB
+- [感应洁具行业发展白皮书](./感应洁具行业发展白皮书.md) — 14KB
+
+#### 英文MD版（en/whitepapers/）
+- [品牌白皮书（英文）](../../en/company/brand-white-paper.md)
+- [Technical White Paper](../../en/whitepapers/technical-white-paper.md)
+- [Water Saving Solution](../../en/whitepapers/water-saving-solution.md)
+- [Standard White Paper](../../en/whitepapers/standard-white-paper.md)
+- [ODM White Paper](../../en/whitepapers/odm-white-paper.md)
+- [Soap Faucet 2-in-1](../../en/whitepapers/soap-faucet-2in1-white-paper.md)
+- [Smart Shower](../../en/whitepapers/smart-shower-white-paper.md)
+- [Industry Development](../../en/whitepapers/industry-development-white-paper.md)
+- [Industry Standards](../../en/whitepapers/industry-standards-white-paper.md)
+
+#### 源文件（assets/whitepapers/）
+- DOCX源文件目录：[assets/whitepapers/](../../assets/whitepapers/)
+- 英文白皮书目录：[assets/whitepapers/en/](../../assets/whitepapers/en/)
 
 ---
 

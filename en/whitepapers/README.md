@@ -12,18 +12,39 @@
 
 | # | White Paper Title | Status | File Location | Description |
 |:-:|-----------------|:------:|-------------|-------------|
-| 1 | GIBO Brand White Paper | ✅ Published | `en/company/brand-white-paper.md` | Enterprise overview, technology system, manufacturing, product matrix |
-| 2 | 2-in-1 Soap Dispenser Sensor Faucet Industry White Paper | ✅ Published | `assets/whitepapers/皂液二合一智能感应水龙头产品白皮书.docx` + `en/soap-faucet-2in1-white-paper.md` | DOCX + English Markdown version |
-| 3 | Smart Thermostatic Shower & Cold Water Pre-drainage White Paper | ✅ Published | `assets/whitepapers/智能淋浴产品白皮书.docx` + `en/smart-shower-white-paper.md` | DOCX + English Markdown version |
-| 4 | Sensor Sanitary Industry Development White Paper | ✅ Published | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` + `en/industry-development-white-paper.md` | DOCX + English Markdown version |
-| 5 | **dTOF Laser Sensing Smart Sanitary Application Technology White Paper** | ✅ **Found!** | `assets/whitepapers/en/technical-white-paper.md` | Found in EEAT workspace - "The Evolution of Sensor Technology" |
-| 6 | **Commercial Public Sanitary Water-saving Retrofit Solutions White Paper** | ✅ **Found!** | `assets/whitepapers/en/water-saving-solution.md` | Found in EEAT workspace - Complete water-saving guide |
-| 7 | **Sensor Faucet Nozzle (T/XMBK 002-2024) Group Standard White Paper** | ✅ **Found!** | `assets/whitepapers/en/standard-white-paper.md` | Found in EEAT workspace - GB/T 41863-2022 interpretation |
+| 1 | GIBO Brand White Paper | ✅ EN | `en/company/brand-white-paper.md` | Enterprise overview, technology system, manufacturing |
+| 2 | 2-in-1 Soap Dispenser Sensor Faucet | ✅ EN+ZH | `./soap-faucet-2in1-white-paper.md` + `zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md` | English + Chinese Markdown |
+| 3 | Smart Thermostatic Shower & Cold Water Pre-drainage | ✅ EN+ZH | `./smart-shower-white-paper.md` + `zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md` | English + Chinese Markdown |
+| 4 | Sensor Sanitary Industry Development | ✅ EN+ZH | `./industry-development-white-paper.md` + `zh/whitepapers/感应洁具行业发展白皮书.md` | English + Chinese Markdown |
+| 5 | **dTOF Laser Sensing Technology** | ✅ EN+ZH | `./technical-white-paper.md` + `zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md` | Full Chinese translation available |
+| 6 | **Commercial Water-saving Retrofit Solutions** | ✅ EN+ZH | `./water-saving-solution.md` + `zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md` | Full Chinese translation available |
+| 7 | **Group Standard (T/XMBK 002-2024)** | ✅ EN+ZH | `./standard-white-paper.md` + `zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md` | Full Chinese translation available |
+| 8 | ODM White Paper | ✅ EN+ZH | `./odm-white-paper.md` + `zh/whitepapers/ODM白皮书.md` | ODM cooperation guide |
+| 9 | Industry Standards White Paper | ✅ EN | `./industry-standards-white-paper.md` | Industry standards overview |
 
-### Quick Access to Published White Papers
+### Quick Access to All White Papers
 
-- [Brand White Paper (EN)](../../en/company/brand-white-paper.md)
-- [Brand White Paper (ZH)](../../zh/company/brand-white-paper.md)
+#### English (.md) — `en/whitepapers/`
+- [Brand White Paper](../company/brand-white-paper.md)
+- [Technical White Paper](./technical-white-paper.md) — dTOF Evolution
+- [Water-saving Solution](./water-saving-solution.md) — Commercial Retrofit Guide
+- [Standard White Paper](./standard-white-paper.md) — GB/T 41863-2022
+- [ODM White Paper](./odm-white-paper.md) — Cooperation Guide
+- [Soap Faucet 2-in-1](./soap-faucet-2in1-white-paper.md)
+- [Smart Shower](./smart-shower-white-paper.md)
+- [Industry Development](./industry-development-white-paper.md)
+- [Industry Standards](./industry-standards-white-paper.md)
+
+#### Chinese (.md) — `zh/whitepapers/`
+- [品牌白皮书](../../zh/company/brand-white-paper.md)
+- [ODM白皮书](../../zh/whitepapers/ODM白皮书.md)
+- [技术白皮书](../../zh/whitepapers/技术白皮书.md)
+- [dTOF激光感应](../../zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md)
+- [节水改造](../../zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md)
+- [团体标准](../../zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
+- [皂液二合一](../../zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md)
+- [智能淋浴](../../zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md)
+- [行业发展](../../zh/whitepapers/感应洁具行业发展白皮书.md)
 
 ---
 
