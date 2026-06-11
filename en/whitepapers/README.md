@@ -13,12 +13,12 @@
 | # | White Paper Title | Status | File Location | Description |
 |:-:|-----------------|:------:|-------------|-------------|
 | 1 | GIBO Brand White Paper | ✅ Published | `en/company/brand-white-paper.md` | Enterprise overview, technology system, manufacturing, product matrix |
-| 2 | 2-in-1 Soap Dispenser Sensor Faucet Industry White Paper | ✅ Found | `assets/whitepapers/皂液二合一智能感应水龙头产品白皮书.docx` | Original filename: "产品白皮书" (Product White Paper) |
-| 3 | Smart Thermostatic Shower & Cold Water Pre-drainage White Paper | ✅ Found | `assets/whitepapers/智能淋浴产品白皮书.docx` | Original filename: "产品白皮书" |
-| 4 | Sensor Sanitary Industry Development White Paper | ✅ Found | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` | Complete version (12,600 chars), already written |
-| 5 | dTOF Laser Sensing Smart Sanitary Application Technology White Paper | 📝 Pending | — | dTOF laser sensing applications in sanitary ware |
-| 6 | Commercial Public Sanitary Water-saving Retrofit Solutions White Paper | 📝 Pending | — | Water-saving retrofit technology and engineering practice |
-| 7 | Sensor Faucet Nozzle (T/XMBK 002-2024) Group Standard White Paper | 📝 Pending | — | Group standard technical implementation guide |
+| 2 | 2-in-1 Soap Dispenser Sensor Faucet Industry White Paper | ✅ Published | `assets/whitepapers/皂液二合一智能感应水龙头产品白皮书.docx` + `en/soap-faucet-2in1-white-paper.md` | DOCX + English Markdown version |
+| 3 | Smart Thermostatic Shower & Cold Water Pre-drainage White Paper | ✅ Published | `assets/whitepapers/智能淋浴产品白皮书.docx` + `en/smart-shower-white-paper.md` | DOCX + English Markdown version |
+| 4 | Sensor Sanitary Industry Development White Paper | ✅ Published | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` + `en/industry-development-white-paper.md` | DOCX + English Markdown version |
+| 5 | **dTOF Laser Sensing Smart Sanitary Application Technology White Paper** | ✅ **Found!** | `assets/whitepapers/en/technical-white-paper.md` | Found in EEAT workspace - "The Evolution of Sensor Technology" |
+| 6 | **Commercial Public Sanitary Water-saving Retrofit Solutions White Paper** | ✅ **Found!** | `assets/whitepapers/en/water-saving-solution.md` | Found in EEAT workspace - Complete water-saving guide |
+| 7 | **Sensor Faucet Nozzle (T/XMBK 002-2024) Group Standard White Paper** | ✅ **Found!** | `assets/whitepapers/en/standard-white-paper.md` | Found in EEAT workspace - GB/T 41863-2022 interpretation |
 
 ### Quick Access to Published White Papers
 

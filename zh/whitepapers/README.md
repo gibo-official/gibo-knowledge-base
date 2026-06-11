@@ -14,11 +14,11 @@
 |:----:|-----------|:----:|---------|------|
 | 1 | 洁博利品牌白皮书 | ✅ 已编写 | `zh/company/brand-white-paper.md` | 企业综合实力、技术体系、生产能力、产品矩阵全貌 |
 | 2 | 皂液二合一智能感应水龙头行业白皮书 | ✅ 已编写 | `assets/whitepapers/皂液二合一智能感应水龙头产品白皮书.docx` | 皂液二合一品类行业分析，原文件名含"产品白皮书" |
-| 3 | 智能恒温淋浴与冷水预排白皮书 | ✅ 已编写 | `assets/whitepapers/智能淋浴产品白皮书.docx` | 智能淋浴恒温技术及冷水预排方案，原文件名含"产品白皮书" |
-| 4 | 感应洁具行业发展白皮书 | ✅ 已编写 | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` | 已完成的完整版白皮书（12,600字） |
-| 5 | dTOF激光感应智能卫浴应用技术白皮书 | 📝 待编写 | — | dTOF激光感应技术在卫浴领域的应用详解 |
-| 6 | 商用公共卫浴节水改造解决方案白皮书 | 📝 待编写 | — | 公共卫浴节水改造技术方案与工程实践 |
-| 7 | 感应式水嘴（T/XMBK 002—2024）团体标准配套技术白皮书 | 📝 待编写 | — | 团体标准技术配套详解 |
+| 3 | 智能恒温淋浴与冷水预排白皮书 | ✅ 已编写 | `assets/whitepapers/智能淋浴产品白皮书.docx` + `assets/whitepapers/en/smart-shower-white-paper.md` | 智能淋浴恒温技术及冷水预排方案，含英文完整版 |
+| 4 | 感应洁具行业发展白皮书 | ✅ 已编写 | `assets/whitepapers/商用感应洁具与感应水龙头行业技术标准、工程安装、选型规范及产业发展白皮书（完整版·12600字）.docx` + `assets/whitepapers/en/industry-development-white-paper.md` | 已完成的完整版白皮书（12,600字），含英文版 |
+| 5 | **dTOF激光感应智能卫浴应用技术白皮书** | ✅ **已找到！** | `assets/whitepapers/en/technical-white-paper.md` | 从EEAT内容创作工作区发现英文完整版（14KB） |
+| 6 | **商用公共卫浴节水改造解决方案白皮书** | ✅ **已找到！** | `assets/whitepapers/en/water-saving-solution.md` | 从EEAT内容创作工作区发现英文完整版（28KB） |
+| 7 | **感应式水嘴（T/XMBK 002—2024）团体标准配套技术白皮书** | ✅ **已找到！** | `assets/whitepapers/en/standard-white-paper.md` | 从EEAT内容创作工作区发现英文完整版（12KB） |
 
 ### 已编写白皮书快速索引
 
@@ -27,6 +27,10 @@
 - [皂液二合一白皮书(DOCX)](../../assets/whitepapers/%E7%9A%82%E6%B6%B2%E4%BA%8C%E5%90%88%E4%B8%80%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E9%BE%99%E5%A4%B4%E4%BA%A7%E5%93%81%E7%99%BD%E7%9A%AE%E4%B9%A6.docx) — 518KB
 - [智能淋浴白皮书(DOCX)](../../assets/whitepapers/%E6%99%BA%E8%83%BD%E6%B7%8B%E6%B5%B4%E4%BA%A7%E5%93%81%E7%99%BD%E7%9A%AE%E4%B9%A6.docx) — 16KB
 - [感应洁具行业发展白皮书(DOCX)](../../assets/whitepapers/%E5%95%86%E7%94%A8%E6%84%9F%E5%BA%94%E6%B4%81%E5%85%B7%E4%B8%8E%E6%84%9F%E5%BA%94%E6%B0%B4%E9%BE%99%E5%A4%B4%E8%A1%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E6%A0%87%E5%87%86%E3%80%81%E5%B7%A5%E7%A8%8B%E5%AE%89%E8%A3%85%E3%80%81%E9%80%89%E5%9E%8B%E8%A7%84%E8%8C%83%E5%8F%8A%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E7%99%BD%E7%9A%AE%E4%B9%A6%EF%BC%88%E5%AE%8C%E6%95%B4%E7%89%88%C2%B712600%E5%AD%97%EF%BC%89.docx) — 25KB（12,600字完整版）
+- [dTOF技术白皮书（英文）](../../assets/whitepapers/en/technical-white-paper.md) — 14KB ✅ 新发现
+- [节水改造白皮书（英文）](../../assets/whitepapers/en/water-saving-solution.md) — 28KB ✅ 新发现
+- [团体标准白皮书（英文）](../../assets/whitepapers/en/standard-white-paper.md) — 12KB ✅ 新发现
+- [英文白皮书目录](../../assets/whitepapers/en/) — 共8篇
 
 ---
 
@@ -58,20 +62,6 @@
 
 ---
 
-## 三、待补充白皮书（曾在规划中列出，实际文件未生成）
-
-以下3篇白皮书曾在历史版本（[commit 78d4fc4](https://github.com/gibo-official/gibo-knowledge-base/commit/78d4fc4)）的 `assets/pdf/whitepaper/README.md` 中列为规划内容，但**实际PDF文件并未生成/提交**。它们未被提交到GitHub仓库，也未在WeDrive源目录中找到。
-
-| 白皮书名称 | 预计内容 | 建议 |
-|-----------|---------|:----:|
-| dTOF激光感应智能卫浴应用技术白皮书 | dTOF技术原理、卫浴应用场景、与传统方案对比、性能参数 | ⭐ 需基于现有技术内容重新编写 |
-| 商用公共卫浴节水改造解决方案白皮书 | 节水改造技术路线、工程方案、选型规范、经济效益分析 | ⭐ 需基于现有方案内容重新编写 |
-| 感应式水嘴（T/XMBK 002—2024）团体标准配套技术白皮书 | 标准解读、技术实现、检测方法、合规指南 | ⭐ 有团体标准PDF可参考，需编写解读内容 |
-
-> **现状**：以上3篇白皮书在2026-06-04的GEO优化阶段被列为规划产出，列入当时的 `assets/pdf/whitepaper/README.md`，但实际内容从未完成创建。如果您确认写过，可能需要检查个人电脑或其他备份位置。或者我可以基于现有知识库内容重新创建它们。
-
----
-
-> **关联文档**：[18项核心技术](../technology/core-technologies.md) | [知识产权清单](../certification/patents.md) | [解决方案索引](../solutions/README.md)
+> **关联文档**：[18项核心技术](../technology/core-technologies.md) | [知识产权清单](../certification/patents.md) | [解决方案索引](../solutions/README.md) | [英文白皮书目录](../../assets/whitepapers/en/)
 >
 > 更新日期：2026-06-11｜洁博利(GIBO)｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
