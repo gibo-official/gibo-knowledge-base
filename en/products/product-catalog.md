@@ -1,5 +1,5 @@
 ---
-<<<<<<< HEAD
+---
 schema:
   - product: /schema/schema-product1.jsonld
   - brand: /schema/schema-brand.jsonld
@@ -159,7 +159,8 @@ Quick product lookup by tag:
 > **Related Documents**: [Brand White Paper](../company/brand-white-paper.md) | [Product Index](./product-index.md) | [ODM Custom Services](./odm.md) | [Project Cases](../cases/case-index.md) | [Honors & Certifications](../certification/honors.md) | [Core Product Classification](./core-products.md)
 >
 > Update: 2026-06-08｜GIBO | Sensor Faucet ODM Expert｜Website: https://www.gibo.com.cn
-=======
+
+---
 title: GIBO Product Catalog | Full Series Product Directory (2026 Edition)
 version: V2.1
 last_updated: 2026-06-08
@@ -576,4 +577,3 @@ Carto | 1. Swimming pool forced shower;                          <br>2. Power: A
 ---
 
 > Update: 2026-06-06｜GIBO | Sensor Faucet ODM Expert | Website: https://www.gibo.com.cn
->>>>>>> 25c9483 (docs: PFBCGITH-3 核心产品目录+产品清单V2.1+产品手册补充)
