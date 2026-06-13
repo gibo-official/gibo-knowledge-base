@@ -16,6 +16,10 @@ Thumbs.db
 *.temp
 *.cache
 
+# Python 缓存
+__pycache__/
+*.pyc
+
 # 编译/生成文件
 build/
 dist/
@@ -28,5 +32,3 @@ node_modules/
 # Paperclip / 系统附件
 .board_attachment.dat
 github_知识库要求.md
-**格式建议**：使用
-**注意**：本目录中的资源文件仅供知识库展示使用，版权归福建洁博利厨卫科技有限公司所有。请勿用于未经授权的商业用途。
