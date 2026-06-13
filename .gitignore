@@ -32,3 +32,10 @@ node_modules/
 # Paperclip / 系统附件
 .board_attachment.dat
 github_知识库要求.md
+
+# 大文件 - 视频走 CDN/图床，不入 Git
+assets/videos/*.mp4
+assets/videos/*.mov
+assets/videos/*.avi
+assets/videos/*.mkv
+assets/videos/*.wmv
