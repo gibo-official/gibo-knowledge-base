@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">双芯片引脚映射 — 功能兼容布局</text>
+    <text x="150" y="80" class="label" fill="#0f4c4c">芯片A（STM8S003）</text>
+    <rect x="80" y="100" width="60" height="20" class="box"/><text x="110" y="115" class="val" text-anchor="middle">P0</text>
+    <rect x="80" y="130" width="60" height="20" class="box"/><text x="110" y="145" class="val" text-anchor="middle">P1</text>
+    <rect x="80" y="160" width="60" height="20" class="box"/><text x="110" y="175" class="val" text-anchor="middle">P2</text>
+    <text x="90" y="120" class="val">VCC</text><text x="90" y="150" class="val">GND</text><text x="90" y="180" class="val">TXD</text>
+    <text x="400" y="150" class="val" text-anchor="middle" fill="#20a0a0">引脚功能映射 →</text>
+    <text x="550" y="80" class="label" fill="#e65100">芯片B（N76E003）</text>
+    <rect x="480" y="100" width="60" height="20" class="box2"/><text x="510" y="115" class="val" text-anchor="middle">P0</text>
+    <rect x="480" y="130" width="60" height="20" class="box2"/><text x="510" y="145" class="val" text-anchor="middle">P1</text>
+    <rect x="480" y="160" width="60" height="20" class="box2"/><text x="510" y="175" class="val" text-anchor="middle">P2</text>
+    <text x="490" y="120" class="val">VDD</text><text x="490" y="150" class="val">GND</text><text x="490" y="180" class="val">TX</text>
+    <rect x="150" y="250" width="500" height="60" class="box3"/>
+    <text x="400" y="275" class="label" text-anchor="middle">双芯片引脚映射兼容 → 外围电路无需修改 → 降低库存压力</text>
+    <text x="400" y="305" class="val" text-anchor="middle">PCB设计时同时放置两种芯片焊盘（可选焊）→ 一颗板适用两种芯片</text>
+</svg>

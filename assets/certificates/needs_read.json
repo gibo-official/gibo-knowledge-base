@@ -1,0 +1,1703 @@
+[
+  {
+    "subdir": "专利",
+    "old_name": "cert_invention-san-he-yi-zhi-neng-xi-shou-qi_01.jpg",
+    "old_path": "专利\\cert_invention-san-he-yi-zhi-neng-xi-shou-qi_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "发明"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_invention-san-he-yi-zhi-neng-xi-shou-qi_02.jpg",
+    "old_path": "专利\\cert_invention-san-he-yi-zhi-neng-xi-shou-qi_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "发明"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_invention-ye-ping-qi-ya-ping-heng-chu-ye-qi.jpg",
+    "old_path": "专利\\cert_invention-ye-ping-qi-ya-ping-heng-chu-ye-qi.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "发明"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_invention-yi-dong-xi-zao-ji.jpg",
+    "old_path": "专利\\cert_invention-yi-dong-xi-zao-ji.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "发明"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_invention-zao-ye-pao-mo-fa-sheng-shui-long-tou.jpg",
+    "old_path": "专利\\cert_invention-zao-ye-pao-mo-fa-sheng-shui-long-tou.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "发明"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_invention-zhi-neng-gan-ying-shui-zui_02.jpg",
+    "old_path": "专利\\cert_invention-zhi-neng-gan-ying-shui-zui_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "发明"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_pct-cover_01.jpg",
+    "old_path": "专利\\cert_pct-cover_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_pct-cover_02.jpg",
+    "old_path": "专利\\cert_pct-cover_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-dan-pian-ji-di-gong-hao-suan-fa.jpg",
+    "old_path": "专利\\cert_software-dan-pian-ji-di-gong-hao-suan-fa.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-duo-tong-dao-gan-ying-wen-du-xian-shi.jpg",
+    "old_path": "专利\\cert_software-duo-tong-dao-gan-ying-wen-du-xian-shi.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-gan-ying-zao-ye-xi-shou-ji-kong-zhi.jpg",
+    "old_path": "专利\\cert_software-gan-ying-zao-ye-xi-shou-ji-kong-zhi.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-hong-wai-gan-ying-kang-gan-rao.jpg",
+    "old_path": "专利\\cert_software-hong-wai-gan-ying-kang-gan-rao.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-hong-wai-gan-ying-zi-shi-ying-tiao-ju.jpg",
+    "old_path": "专利\\cert_software-hong-wai-gan-ying-zi-shi-ying-tiao-ju.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-lin-yu-qi-duo-mo-kong-shui-heng-wen.jpg",
+    "old_path": "专利\\cert_software-lin-yu-qi-duo-mo-kong-shui-heng-wen.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-san-he-yi-xi-shou-qi-kong-zhi.jpg",
+    "old_path": "专利\\cert_software-san-he-yi-xi-shou-qi-kong-zhi.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_software-zhi-neng-shou-shi-gan-ying-kong-zhi.jpg",
+    "old_path": "专利\\cert_software-zhi-neng-shou-shi-gan-ying-kong-zhi.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "软著"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_unknown-001.jpg",
+    "old_path": "专利\\cert_unknown-001.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_unknown-002.jpg",
+    "old_path": "专利\\cert_unknown-002.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_unknown-007.jpg",
+    "old_path": "专利\\cert_unknown-007.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_wecom-1778210641906.jpg",
+    "old_path": "专利\\cert_wecom-1778210641906.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_wecom-17782107394912.png",
+    "old_path": "专利\\cert_wecom-17782107394912.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_wecom-17782108037775.jpg",
+    "old_path": "专利\\cert_wecom-17782108037775.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "cert_wecom-17782108565227.jpg",
+    "old_path": "专利\\cert_wecom-17782108565227.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "fm_cert_design-patent-cover.jpg",
+    "old_path": "专利\\fm_cert_design-patent-cover.jpg",
+    "category": "cover_page",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "fm_cert_invention-cover.jpg",
+    "old_path": "专利\\fm_cert_invention-cover.jpg",
+    "category": "cover_page",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "fm_cert_software-cover.jpg",
+    "old_path": "专利\\fm_cert_software-cover.jpg",
+    "category": "cover_page",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "fm_cert_utility-cover.jpg",
+    "old_path": "专利\\fm_cert_utility-cover.jpg",
+    "category": "cover_page",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种便携式泡沫洗手机.jpg",
+    "old_path": "专利\\一种便携式泡沫洗手机.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种便携式清洗器.jpg",
+    "old_path": "专利\\一种便携式清洗器.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种单流道电磁阀.jpg",
+    "old_path": "专利\\一种单流道电磁阀.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种双模水龙头（20）.jpg",
+    "old_path": "专利\\一种双模水龙头（20）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种双稳态电磁阀及感应出水装置.jpg",
+    "old_path": "专利\\一种双稳态电磁阀及感应出水装置.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种壁挂式给液器.jpg",
+    "old_path": "专利\\一种壁挂式给液器.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种小便冲水器一体化装置（20）.jpg",
+    "old_path": "专利\\一种小便冲水器一体化装置（20）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种应用于厕位门胡启闭消毒装置（21）.jpg",
+    "old_path": "专利\\一种应用于厕位门胡启闭消毒装置（21）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种快捷式安装龙头感应装置.jpg",
+    "old_path": "专利\\一种快捷式安装龙头感应装置.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种感应厨用水龙头给液一体装置.jpg",
+    "old_path": "专利\\一种感应厨用水龙头给液一体装置.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种感应式龙头出水装置（20）.jpg",
+    "old_path": "专利\\一种感应式龙头出水装置（20）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种感应水龙头.jpg",
+    "old_path": "专利\\一种感应水龙头.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种感应洁具冲洗阀.jpg",
+    "old_path": "专利\\一种感应洁具冲洗阀.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种抽拉式厨房水龙头装置.jpg",
+    "old_path": "专利\\一种抽拉式厨房水龙头装置.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种挂墙式洗手机.jpg",
+    "old_path": "专利\\一种挂墙式洗手机.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种明装式感应蹲便冲水器（20）.jpg",
+    "old_path": "专利\\一种明装式感应蹲便冲水器（20）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能净水感应水龙头.jpg",
+    "old_path": "专利\\一种智能净水感应水龙头.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能前置净水过滤装置.jpg",
+    "old_path": "专利\\一种智能前置净水过滤装置.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能感应水嘴.jpg",
+    "old_path": "专利\\一种智能感应水嘴.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能感应水嘴及其智能感应水龙头.jpg",
+    "old_path": "专利\\一种智能感应水嘴及其智能感应水龙头.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能感应泡沫洗手机.jpg",
+    "old_path": "专利\\一种智能感应泡沫洗手机.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能收纳旋转水龙头.jpg",
+    "old_path": "专利\\一种智能收纳旋转水龙头.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种智能调温双阀一体水龙头（20.jpg",
+    "old_path": "专利\\一种智能调温双阀一体水龙头（20.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种杂质自动分离的电磁阀.jpg",
+    "old_path": "专利\\一种杂质自动分离的电磁阀.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种洗澡搓背装置（21）.jpg",
+    "old_path": "专利\\一种洗澡搓背装置（21）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种用于出泡沫胡装置（20）.jpg",
+    "old_path": "专利\\一种用于出泡沫胡装置（20）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种电磁阀的自动试水试压控制系统.jpg",
+    "old_path": "专利\\一种电磁阀的自动试水试压控制系统.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种自动冲刷式洗脸盆.jpg",
+    "old_path": "专利\\一种自动冲刷式洗脸盆.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种触控及手控水龙头.jpg",
+    "old_path": "专利\\一种触控及手控水龙头.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种触控龙头控制装置及其控制方法.jpg",
+    "old_path": "专利\\一种触控龙头控制装置及其控制方法.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种阀控式马桶水箱的水件.jpg",
+    "old_path": "专利\\一种阀控式马桶水箱的水件.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种防外溅的冲水小便器.jpg",
+    "old_path": "专利\\一种防外溅的冲水小便器.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种防臭杀菌式地漏.jpg",
+    "old_path": "专利\\一种防臭杀菌式地漏.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种隔污器.jpg",
+    "old_path": "专利\\一种隔污器.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "一种马桶感应出水装置（20）.jpg",
+    "old_path": "专利\\一种马桶感应出水装置（20）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": "实用新型"
+  },
+  {
+    "subdir": "专利",
+    "old_name": "小便感应器不锈钢面板（钻石形）.jpg",
+    "old_path": "专利\\小便感应器不锈钢面板（钻石形）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "感应小便器面板.jpg",
+    "old_path": "专利\\感应小便器面板.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "感应水嘴（3.3）.jpg",
+    "old_path": "专利\\感应水嘴（3.3）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "感应水嘴（小洗宝A款）.jpg",
+    "old_path": "专利\\感应水嘴（小洗宝A款）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "感应给液器.jpg",
+    "old_path": "专利\\感应给液器.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "水嘴.jpg",
+    "old_path": "专利\\水嘴.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "红外感应便器冲水器面板.jpg",
+    "old_path": "专利\\红外感应便器冲水器面板.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "红外感应水龙头.jpg",
+    "old_path": "专利\\红外感应水龙头.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "专利",
+    "old_name": "给皂器.jpg",
+    "old_path": "专利\\给皂器.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_ip-protection-australia-03.jpg",
+    "old_path": "商标\\cert_ip-protection-australia-03.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标保护"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_ip-protection-eu-03.jpg",
+    "old_path": "商标\\cert_ip-protection-eu-03.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标保护"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_ip-protection-turkey-02.jpg",
+    "old_path": "商标\\cert_ip-protection-turkey-02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标保护"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_ip-protection-us-01.jpg",
+    "old_path": "商标\\cert_ip-protection-us-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标保护"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_ip-protection-us-02.jpg",
+    "old_path": "商标\\cert_ip-protection-us-02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标保护"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_ip-protection-us-03.jpg",
+    "old_path": "商标\\cert_ip-protection-us-03.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标保护"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_trademark-gibo-01.jpg",
+    "old_path": "商标\\cert_trademark-gibo-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_trademark-gibo-02-01.jpg",
+    "old_path": "商标\\cert_trademark-gibo-02-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "cert_trademark-madrid-04.jpg",
+    "old_path": "商标\\cert_trademark-madrid-04.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标"
+  },
+  {
+    "subdir": "商标",
+    "old_name": "商标13083133.jpg",
+    "old_path": "商标\\商标13083133.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "商标",
+    "old_name": "商标51348829.jpg",
+    "old_path": "商标\\商标51348829.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "6195.6197节水认证证书.jpg",
+    "old_path": "产品认证\\6195.6197节水认证证书.jpg",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "6195.6197英文版节水认证证书.jpg",
+    "old_path": "产品认证\\6195.6197英文版节水认证证书.jpg",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ccc-hand-dryer.jpg",
+    "old_path": "产品认证\\cert_ccc-hand-dryer.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CCC认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-33604-33606_01.jpg",
+    "old_path": "产品认证\\cert_ce-33604-33606_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-6101-6108_01.png",
+    "old_path": "产品认证\\cert_ce-6101-6108_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-6195_01.jpg",
+    "old_path": "产品认证\\cert_ce-6195_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-6197.jpg",
+    "old_path": "产品认证\\cert_ce-6197.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-6630-soap_01.jpg",
+    "old_path": "产品认证\\cert_ce-6630-soap_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-9160-control-assembly_01.jpg",
+    "old_path": "产品认证\\cert_ce-9160-control-assembly_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-cold-faucet_01.png",
+    "old_path": "产品认证\\cert_ce-cold-faucet_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-emc-6108_01.jpg",
+    "old_path": "产品认证\\cert_ce-emc-6108_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-emc-6150_01.jpg",
+    "old_path": "产品认证\\cert_ce-emc-6150_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-emc-6195d_01.jpg",
+    "old_path": "产品认证\\cert_ce-emc-6195d_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-emc-dz-dy-204_01.jpg",
+    "old_path": "产品认证\\cert_ce-emc-dz-dy-204_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-emc-heated-lid_01.jpg",
+    "old_path": "产品认证\\cert_ce-emc-heated-lid_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-flusher_01.png",
+    "old_path": "产品认证\\cert_ce-flusher_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-flusher_02.png",
+    "old_path": "产品认证\\cert_ce-flusher_02.png",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-ip54-dz-dy-204_01.jpg",
+    "old_path": "产品认证\\cert_ce-ip54-dz-dy-204_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce-lvd-heated-lid_01.jpg",
+    "old_path": "产品认证\\cert_ce-lvd-heated-lid_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce_02.jpg",
+    "old_path": "产品认证\\cert_ce_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_ce_03.jpg",
+    "old_path": "产品认证\\cert_ce_03.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CE认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_copyright-xmhl2102000638_01.jpg",
+    "old_path": "产品认证\\cert_copyright-xmhl2102000638_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_cupc-2015_01.jpg",
+    "old_path": "产品认证\\cert_cupc-2015_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "CUPC认证"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_fcc-33604-33606_01.jpg",
+    "old_path": "产品认证\\cert_fcc-33604-33606_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_fcc-dss-18401_01.png",
+    "old_path": "产品认证\\cert_fcc-dss-18401_01.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_fcc-dss-18401_03.png",
+    "old_path": "产品认证\\cert_fcc-dss-18401_03.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_fcc-dss-18401_04.png",
+    "old_path": "产品认证\\cert_fcc-dss-18401_04.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_fcc-dss-hsv_01.png",
+    "old_path": "产品认证\\cert_fcc-dss-hsv_01.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-010.jpg",
+    "old_path": "产品认证\\cert_honor-corp-010.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-011.jpg",
+    "old_path": "产品认证\\cert_honor-corp-011.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-012.jpg",
+    "old_path": "产品认证\\cert_honor-corp-012.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-013.jpg",
+    "old_path": "产品认证\\cert_honor-corp-013.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-016.jpg",
+    "old_path": "产品认证\\cert_honor-corp-016.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-017.jpg",
+    "old_path": "产品认证\\cert_honor-corp-017.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_honor-corp-018.jpg",
+    "old_path": "产品认证\\cert_honor-corp-018.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_nsf-2015_01.jpg",
+    "old_path": "产品认证\\cert_nsf-2015_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_pct-cn2019097390-en_01.jpg",
+    "old_path": "产品认证\\cert_pct-cn2019097390-en_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-33605-cn.jpg",
+    "old_path": "产品认证\\cert_rohs-33605-cn.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-33605-en.jpg",
+    "old_path": "产品认证\\cert_rohs-33605-en.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-61901-en.jpg",
+    "old_path": "产品认证\\cert_rohs-61901-en.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-6197_01.jpg",
+    "old_path": "产品认证\\cert_rohs-6197_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-69491-tuv_01.jpg",
+    "old_path": "产品认证\\cert_rohs-69491-tuv_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-9106-control-assembly_01.jpg",
+    "old_path": "产品认证\\cert_rohs-9106-control-assembly_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_rohs-pcb_01.jpg",
+    "old_path": "产品认证\\cert_rohs-pcb_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_upc-2015-79681.jpg",
+    "old_path": "产品认证\\cert_upc-2015-79681.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-6195-2026-en_01.jpg",
+    "old_path": "产品认证\\cert_water-save-6195-2026-en_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-6195-2026_01.jpg",
+    "old_path": "产品认证\\cert_water-save-6195-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-6195-6197.jpg",
+    "old_path": "产品认证\\cert_water-save-6195-6197.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-faucet-2026-en_01.jpg",
+    "old_path": "产品认证\\cert_water-save-faucet-2026-en_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-faucet-2026_01.jpg",
+    "old_path": "产品认证\\cert_water-save-faucet-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-flusher-2026-en_01.jpg",
+    "old_path": "产品认证\\cert_water-save-flusher-2026-en_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-flusher-2026_01.jpg",
+    "old_path": "产品认证\\cert_water-save-flusher-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-fujian_01.jpg",
+    "old_path": "产品认证\\cert_water-save-fujian_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-fujian_02.jpg",
+    "old_path": "产品认证\\cert_water-save-fujian_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-fujian_03.jpg",
+    "old_path": "产品认证\\cert_water-save-fujian_03.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-urinal-2026-en_01.jpg",
+    "old_path": "产品认证\\cert_water-save-urinal-2026-en_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "cert_water-save-urinal-2026_01.jpg",
+    "old_path": "产品认证\\cert_water-save-urinal-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "感应便器冲水器2024.jpg",
+    "old_path": "产品认证\\感应便器冲水器2024.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "感应便器冲水器（英文）.jpg",
+    "old_path": "产品认证\\感应便器冲水器（英文）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "感应小便冲水器2024.jpg",
+    "old_path": "产品认证\\感应小便冲水器2024.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "感应小便冲水器（英文）.jpg",
+    "old_path": "产品认证\\感应小便冲水器（英文）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "感应水龙头2024.jpg",
+    "old_path": "产品认证\\感应水龙头2024.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "感应水龙头（英文）.jpg",
+    "old_path": "产品认证\\感应水龙头（英文）.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "产品认证",
+    "old_name": "洁博利保修承诺2022.jpg",
+    "old_path": "产品认证\\洁博利保修承诺2022.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_product-1936-6173_01.jpg",
+    "old_path": "检测报告\\cert_product-1936-6173_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "产品认证"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_product-2379-6197_01.jpg",
+    "old_path": "检测报告\\cert_product-2379-6197_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "产品认证"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_product-3512-6161_01.jpg",
+    "old_path": "检测报告\\cert_product-3512-6161_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "产品认证"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_product-6755-61901_01.jpg",
+    "old_path": "检测报告\\cert_product-6755-61901_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "产品认证"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_product-9086-6150_01.jpg",
+    "old_path": "检测报告\\cert_product-9086-6150_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "产品认证"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_shipping-air-6197d_01.jpg",
+    "old_path": "检测报告\\cert_shipping-air-6197d_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "运输检测"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_shipping-air-6197d_02.jpg",
+    "old_path": "检测报告\\cert_shipping-air-6197d_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "运输检测"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_shipping-sea-6197d_01.jpg",
+    "old_path": "检测报告\\cert_shipping-sea-6197d_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "运输检测"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_shipping-sea-g61901d_01.jpg",
+    "old_path": "检测报告\\cert_shipping-sea-g61901d_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "运输检测"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_specialized-16.jpg",
+    "old_path": "检测报告\\cert_specialized-16.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "专精特新"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-6015-6016-6238-salt-spray-2022_02.jpg",
+    "old_path": "检测报告\\cert_test-report-6015-6016-6238-salt-spray-2022_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-6124ad-2025_01.png",
+    "old_path": "检测报告\\cert_test-report-6124ad-2025_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-68431-03511-01a_01.png",
+    "old_path": "检测报告\\cert_test-report-68431-03511-01a_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-cnsx0220358-k02_01.png",
+    "old_path": "检测报告\\cert_test-report-cnsx0220358-k02_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-cnsx0220359-x12_01.png",
+    "old_path": "检测报告\\cert_test-report-cnsx0220359-x12_01.png",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-en15091-thermostatic_01.jpg",
+    "old_path": "检测报告\\cert_test-report-en15091-thermostatic_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g11100-undercounter-basin-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g11100-undercounter-basin-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g11301-pedestal-basin-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g11301-pedestal-basin-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g11807-stainless-sink-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g11807-stainless-sink-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g12310-urinal-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g12310-urinal-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g13105t-squat-pan-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g13105t-squat-pan-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g13213-toilet-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g13213-toilet-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g13213-toilet-water-eff-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g13213-toilet-water-eff-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g19101-mop-sink-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g19101-mop-sink-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g21218-basin-faucet-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g21218-basin-faucet-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g23208-delay-valve-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g23208-delay-valve-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g24303-shower-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g24303-shower-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_test-report-g31500-cistern-2026_01.jpg",
+    "old_path": "检测报告\\cert_test-report-g31500-cistern-2026_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "检测报告"
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_water-save-6133-test_01.png",
+    "old_path": "检测报告\\cert_water-save-6133-test_01.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_water-save-8200ad-test_01.png",
+    "old_path": "检测报告\\cert_water-save-8200ad-test_01.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "检测报告",
+    "old_name": "cert_water-save-8300ad-test_01.png",
+    "old_path": "检测报告\\cert_water-save-8300ad-test_01.png",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-6172a-tof.png",
+    "old_path": "第三方认可\\cert_award-feiteng-6172a-tof.png",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-benchmark-6172a-2024.jpg",
+    "old_path": "第三方认可\\cert_award-feiteng-benchmark-6172a-2024.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-benchmark-g61901-2021.jpg",
+    "old_path": "第三方认可\\cert_award-feiteng-benchmark-g61901-2021.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-gold-6170d-2020.jpeg",
+    "old_path": "第三方认可\\cert_award-feiteng-gold-6170d-2020.jpeg",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-gold-9165d-2023.jpg",
+    "old_path": "第三方认可\\cert_award-feiteng-gold-9165d-2023.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-gold-9165d.jpg",
+    "old_path": "第三方认可\\cert_award-feiteng-gold-9165d.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_award-feiteng-gold.jpg",
+    "old_path": "第三方认可\\cert_award-feiteng-gold.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "获奖"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_honor-corp-009.jpg",
+    "old_path": "第三方认可\\cert_honor-corp-009.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_specialized-214.jpg",
+    "old_path": "第三方认可\\cert_specialized-214.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "专精特新"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_standard-group-t-xmbk002-2024_01.jpg",
+    "old_path": "第三方认可\\cert_standard-group-t-xmbk002-2024_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "团体标准"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_standard-group-t-xmbk002-2024_02.jpg",
+    "old_path": "第三方认可\\cert_standard-group-t-xmbk002-2024_02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "团体标准"
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_unknown-003.jpg",
+    "old_path": "第三方认可\\cert_unknown-003.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_unknown-004_01.jpg",
+    "old_path": "第三方认可\\cert_unknown-004_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "cert_unknown-005_01.jpg",
+    "old_path": "第三方认可\\cert_unknown-005_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "中小企业声明函201907.jpg",
+    "old_path": "第三方认可\\中小企业声明函201907.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "第三方认可",
+    "old_name": "第24期节能政采清单0001副本.jpg",
+    "old_path": "第三方认可\\第24期节能政采清单0001副本.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "CE.JPG",
+    "old_path": "资质荣誉\\CE.JPG",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_cupc_01.JPG",
+    "old_path": "资质荣誉\\cert_cupc_01.JPG",
+    "category": "cert_prefix",
+    "inferred_type": "CUPC认证"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_dealer-favorite-brand-2010.jpg",
+    "old_path": "资质荣誉\\cert_dealer-favorite-brand-2010.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "经销商荣誉"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_government-procurement.JPG",
+    "old_path": "资质荣誉\\cert_government-procurement.JPG",
+    "category": "cert_prefix",
+    "inferred_type": "政府采购"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_high-tech-2020_01.jpg",
+    "old_path": "资质荣誉\\cert_high-tech-2020_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "高新技术企业"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_high-tech-2023-2026.jpg",
+    "old_path": "资质荣誉\\cert_high-tech-2023-2026.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "高新技术企业"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_high-tech-fujian-2014-2017.jpg",
+    "old_path": "资质荣誉\\cert_high-tech-fujian-2014-2017.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "高新技术企业"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_high-tech_01.jpg",
+    "old_path": "资质荣誉\\cert_high-tech_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "高新技术企业"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_honor-corp-008.jpg",
+    "old_path": "资质荣誉\\cert_honor-corp-008.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "荣誉"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_innovative-enterprise-2020.jpg",
+    "old_path": "资质荣誉\\cert_innovative-enterprise-2020.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "创新型企业"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_ip-advantage-enterprise-fujian.jpg",
+    "old_path": "资质荣誉\\cert_ip-advantage-enterprise-fujian.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_ip-demo-enterprise-fuzhou-01.jpg",
+    "old_path": "资质荣誉\\cert_ip-demo-enterprise-fuzhou-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_ip-demo-enterprise-fuzhou-02.jpg",
+    "old_path": "资质荣誉\\cert_ip-demo-enterprise-fuzhou-02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_ip-demo-enterprise-fuzhou-03.jpg",
+    "old_path": "资质荣誉\\cert_ip-demo-enterprise-fuzhou-03.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_ip-management-system.jpg",
+    "old_path": "资质荣誉\\cert_ip-management-system.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_iso-2024_01.jpg",
+    "old_path": "资质荣誉\\cert_iso-2024_01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "ISO认证"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_iso-9001.JPG",
+    "old_path": "资质荣誉\\cert_iso-9001.JPG",
+    "category": "cert_prefix",
+    "inferred_type": "ISO认证"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-cbda-kitchen-bath-unit.jpg",
+    "old_path": "资质荣誉\\cert_membership-cbda-kitchen-bath-unit.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-cbda-kitchen-bath.jpg",
+    "old_path": "资质荣誉\\cert_membership-cbda-kitchen-bath.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-cbda-unit.jpg",
+    "old_path": "资质荣誉\\cert_membership-cbda-unit.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-cbda.jpg",
+    "old_path": "资质荣誉\\cert_membership-cbda.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-ceramic-tile-association.jpg",
+    "old_path": "资质荣誉\\cert_membership-ceramic-tile-association.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-ceramic-tile-director.jpg",
+    "old_path": "资质荣誉\\cert_membership-ceramic-tile-director.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-fjut-research-base.jpg",
+    "old_path": "资质荣誉\\cert_membership-fjut-research-base.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-fujian-building-materials.jpg",
+    "old_path": "资质荣誉\\cert_membership-fujian-building-materials.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-fujian-quality.jpg",
+    "old_path": "资质荣誉\\cert_membership-fujian-quality.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-plumbing-director.JPG",
+    "old_path": "资质荣誉\\cert_membership-plumbing-director.JPG",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-quality-credit.jpg",
+    "old_path": "资质荣誉\\cert_membership-quality-credit.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_membership-xiamen-kitchen-bath.JPG",
+    "old_path": "资质荣誉\\cert_membership-xiamen-kitchen-bath.JPG",
+    "category": "cert_prefix",
+    "inferred_type": "知识产权"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_product-summary-9.jpg",
+    "old_path": "资质荣誉\\cert_product-summary-9.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "产品认证"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_specialized-04.jpg",
+    "old_path": "资质荣誉\\cert_specialized-04.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "专精特新"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_specialized-fujian-01.jpg",
+    "old_path": "资质荣誉\\cert_specialized-fujian-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "专精特新"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_specialized-fujian-02.jpg",
+    "old_path": "资质荣誉\\cert_specialized-fujian-02.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "专精特新"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_standard-group-drafter-01.jpg",
+    "old_path": "资质荣誉\\cert_standard-group-drafter-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "团体标准"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_standard-national-drafter.jpg",
+    "old_path": "资质荣誉\\cert_standard-national-drafter.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "团体标准"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_tech-sme.jpg",
+    "old_path": "资质荣誉\\cert_tech-sme.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_top10-brand-01.JPG",
+    "old_path": "资质荣誉\\cert_top10-brand-01.JPG",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_top10-brand-02-gibo.jpg",
+    "old_path": "资质荣誉\\cert_top10-brand-02-gibo.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_top10-dealer-favorite-brand-2009.jpg",
+    "old_path": "资质荣誉\\cert_top10-dealer-favorite-brand-2009.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "经销商荣誉"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_top10-sensor-sanitary-brand.jpg",
+    "old_path": "资质荣誉\\cert_top10-sensor-sanitary-brand.jpg",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_trademark-fujian-famous-01.jpg",
+    "old_path": "资质荣誉\\cert_trademark-fujian-famous-01.jpg",
+    "category": "cert_prefix",
+    "inferred_type": "商标"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_trademark-fujian-famous.JPG",
+    "old_path": "资质荣誉\\cert_trademark-fujian-famous.JPG",
+    "category": "cert_prefix",
+    "inferred_type": "商标"
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "cert_water-save.JPG",
+    "old_path": "资质荣誉\\cert_water-save.JPG",
+    "category": "cert_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "ISO 14001.jpg",
+    "old_path": "资质荣誉\\ISO 14001.jpg",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "ISO 45001.jpg",
+    "old_path": "资质荣誉\\ISO 45001.jpg",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "NEW 14001与45000证书洁博利_页面_1.jpg",
+    "old_path": "资质荣誉\\NEW 14001与45000证书洁博利_页面_1.jpg",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "NEW 14001与45000证书洁博利_页面_3.jpg",
+    "old_path": "资质荣誉\\NEW 14001与45000证书洁博利_页面_3.jpg",
+    "category": "english_name",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "两化融合证书.jpg",
+    "old_path": "资质荣誉\\两化融合证书.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "福州市建筑装饰协会.jpg",
+    "old_path": "资质荣誉\\福州市建筑装饰协会.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  },
+  {
+    "subdir": "资质荣誉",
+    "old_name": "福建省水暖阀门行业协会.jpg",
+    "old_path": "资质荣誉\\福建省水暖阀门行业协会.jpg",
+    "category": "chinese_no_prefix",
+    "inferred_type": null
+  }
+]

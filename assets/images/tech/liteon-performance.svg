@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">Liteon灵动感应性能曲线 — 探测距离 vs 环境光</text>
+    <line x1="80" y1="400" x2="720" y2="400" stroke="#333" stroke-width="2"/>
+    <text x="720" y="415" class="val">环境光强度(lux)</text>
+    <line x1="80" y1="400" x2="80" y2="100" stroke="#333" stroke-width="2"/>
+    <text x="65" y="105" class="val" text-anchor="end">距离(m)</text>
+    <polyline points="80,200 200,200 350,200 500,200 650,200" stroke="#c62828" stroke-width="2" fill="none" stroke-dasharray="6 3"/>
+    <text x="660" y="195" class="val" fill="#c62828">普通（固定）</text>
+    <polyline points="80,150 200,160 350,180 500,210 650,250" stroke="#2e7d32" stroke-width="2" fill="none"/>
+    <text x="660" y="245" class="val" fill="#2e7d32">Liteon（自适应）</text>
+    <rect x="150" y="440" width="500" height="30" class="box3"/>
+    <text x="400" y="460" class="val" text-anchor="middle">Liteon：弱光0.1m → 强光0.7m自适应调节，全程稳定感应</text>
+</svg>

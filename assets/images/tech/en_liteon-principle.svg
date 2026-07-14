@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">Liteon灵动感应原理 — 环境光自适应+人体感应</text>
+    <rect x="80" y="120" width="90" height="50" class="box2"/><text x="125" y="150" class="label" text-anchor="middle">环境光传感器</text>
+    <rect x="80" y="210" width="90" height="50" class="box"/><text x="125" y="240" class="label" text-anchor="middle">人体感应模块</text>
+    <rect x="300" y="150" width="130" height="70" class="box3"/>
+    <text x="365" y="175" class="label" text-anchor="middle">Liteon融合算法</text>
+    <text x="365" y="200" class="val" text-anchor="middle">环境光自适应</text>
+    <text x="365" y="225" class="val" text-anchor="middle">+人体感应</text>
+    <line x1="170" y1="145" x2="300" y2="175" stroke="#20a0a0" stroke-width="1"/>
+    <line x1="170" y1="235" x2="300" y2="205" stroke="#20a0a0" stroke-width="1"/>
+    <rect x="520" y="150" width="100" height="70" class="box"/><text x="570" y="175" class="label" text-anchor="middle">感应输出</text>
+    <text x="570" y="200" class="val" text-anchor="middle">稳定触发</text>
+    <text x="570" y="225" class="val" text-anchor="middle">无误触发</text>
+    <line x1="430" y1="185" x2="520" y2="185" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <text x="400" y="300" class="val" text-anchor="middle">强光环境：降低灵敏度防止误触发  |  弱光环境：提高灵敏度确保响应</text>
+    <rect x="100" y="340" width="600" height="50" class="box3"/>
+    <text x="400" y="365" class="label" text-anchor="middle">Liteon技术：通过环境光自适应调节感应距离，避免强光下误触发、弱光下漏触发</text>
+    <text x="400" y="395" class="val" text-anchor="middle">误触发率：普通方案15% → Liteon方案&lt;1%</text>
+</svg>

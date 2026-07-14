@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">双芯片互换平台架构 — PCB兼容设计</text>
+    <rect x="150" y="100" width="500" height="240" fill="#1a1a2e" stroke="#333" stroke-width="2" rx="8"/>
+    <text x="400" y="125" class="label" text-anchor="middle" fill="#e0f7fa">PCB兼容设计（同一块PCB支持两种芯片）</text>
+    <rect x="250" y="160" width="100" height="80" fill="none" stroke="#20a0a0" stroke-width="2" stroke-dasharray="6 3" rx="4"/>
+    <text x="300" y="205" class="val" text-anchor="middle" fill="#e0f7fa">芯片A焊盘</text>
+    <rect x="450" y="160" width="100" height="80" fill="none" stroke="#e65100" stroke-width="2" stroke-dasharray="6 3" rx="4"/>
+    <text x="500" y="205" class="val" text-anchor="middle" fill="#e0f7fa">芯片B焊盘</text>
+    <rect x="300" y="270" width="200" height="40" fill="#0f4c4c" stroke="#20a0a0" rx="4"/>
+    <text x="400" y="295" class="val" text-anchor="middle" fill="#e0f7fa">共用外围电路（晶振/电源/接口）</text>
+    <text x="400" y="380" class="val" text-anchor="middle">PCB兼容：同一块板可焊接A或B芯片 → 供应链风险降低80%</text>
+    <text x="400" y="410" class="val" text-anchor="middle">BOM成本降低15% | 生产灵活性大幅提升</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+
+    <defs>
+        <style>
+            .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+            .label { font: 12px sans-serif; fill: #333; }
+            .val { font: 11px monospace; fill: #555; }
+            .arrow { stroke: #20a0a0; stroke-width: 2; marker-end: url(#arrowhead); }
+            .dashed { stroke: #888; stroke-width: 1.5; stroke-dasharray: 6 3; }
+            .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+            .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+            .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+            .target { fill: #ffcc80; stroke: #e65100; stroke-width: 2; }
+            .dim { stroke: #aaa; stroke-width: 1; }
+        </style>
+        <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+        </marker>
+    </defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">图1：dTOF飞行时间测距原理 — 激光脉冲往返时间测量</text>
+    <!-- 发射器 -->
+    <rect x="60" y="200" width="70" height="45" class="box" />
+    <text x="95" y="228" class="label" text-anchor="middle" fill="#0f4c4c">激光发射</text>
+    <!-- 目标 -->
+    <ellipse cx="500" cy="220" rx="50" ry="70" class="target" />
+    <text x="500" y="224" class="label" text-anchor="middle">目标</text>
+    <!-- 接收器 -->
+    <rect x="680" y="200" width="70" height="45" class="box" />
+    <text x="715" y="228" class="label" text-anchor="middle" fill="#0f4c4c">SPAD接收</text>
+    <!-- 发射光束 -->
+    <line x1="130" y1="212" x2="450" y2="212" stroke="#e65100" stroke-width="2" marker-end="url(#arrowhead)" />
+    <text x="290" y="205" class="val" text-anchor="middle">发射脉冲 t₀</text>
+    <!-- 反射光束 -->
+    <line x1="550" y1="228" x2="680" y2="212" stroke="#20a0a0" stroke-width="2" marker-end="url(#arrowhead)" />
+    <text x="620" y="218" class="val" text-anchor="middle">回波 t₁</text>
+    <!-- 时间轴 -->
+    <line x1="80" y1="350" x2="720" y2="350" stroke="#333" stroke-width="2" />
+    <text x="80" y="345" class="val" text-anchor="start">t₀</text>
+    <text x="720" y="345" class="val" text-anchor="end">t₁</text>
+    <line x1="80" y1="330" x2="80" y2="370" stroke="#333" stroke-width="1" />
+    <line x1="720" y1="330" x2="720" y2="370" stroke="#333" stroke-width="1" />
+    <line x1="80" y1="340" x2="720" y2="340" stroke="#e65100" stroke-width="3" />
+    <text x="400" y="375" class="val" text-anchor="middle">Δt = t₁ - t₀  →  距离 d = c·Δt/2</text>
+    <!-- 公式框 -->
+    <rect x="260" y="395" width="280" height="45" class="box2" />
+    <text x="400" y="420" class="label" text-anchor="middle" fill="#1a1a2e">d = c · Δt / 2</text>
+    <text x="400" y="435" class="val" text-anchor="middle">c = 3×10⁸ m/s  |  精度 ±1cm</text>
+</svg>

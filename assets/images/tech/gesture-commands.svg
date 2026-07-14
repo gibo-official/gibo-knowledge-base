@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">单窗双模手势辨识 — 手势命令映射</text>
+      <style>
+    <rect x="80" y="80" width="100" height="80" class="box2"/><text x="130" y="110" class="val" text-anchor="middle">← 左挥</text><text x="130" y="135" class="val" text-anchor="middle">减少/降温</text>
+    <rect x="220" y="80" width="100" height="80" class="box2"/><text x="270" y="110" class="val" text-anchor="middle">→ 右挥</text><text x="270" y="135" class="val" text-anchor="middle">增加/升温</text>
+    <rect x="360" y="80" width="100" height="80" class="box2"/><text x="410" y="110" class="val" text-anchor="middle">↑ 上挥</text><text x="410" y="135" class="val" text-anchor="middle">开启</text>
+    <rect x="500" y="80" width="100" height="80" class="box2"/><text x="550" y="110" class="val" text-anchor="middle">↓ 下挥</text><text x="550" y="135" class="val" text-anchor="middle">关闭</text>
+    <rect x="640" y="80" width="100" height="80" class="box2"/><text x="690" y="110" class="val" text-anchor="middle">○ 停留</text><text x="690" y="135" class="val" text-anchor="middle">切换模式</text>
+    <rect x="100" y="220" width="280" height="100" class="box"/><text x="240" y="245" class="label" text-anchor="middle">感应水龙头</text><text x="120" y="270" class="val">左挥：减少水流量</text><text x="120" y="295" class="val">右挥：增加水流量</text>
+    <rect x="420" y="220" width="280" height="100" class="box"/><text x="560" y="245" class="label" text-anchor="middle">智能淋浴</text><text x="440" y="270" class="val">左挥：降低水温</text><text x="440" y="295" class="val">右挥：升高水温</text>
+    <rect x="150" y="370" width="500" height="50" class="box3"/><text x="400" y="395" class="label" text-anchor="middle">非接触式控制 | 卫生 | 响应&lt;50ms | 准确率&gt;95%</text>
+</svg>

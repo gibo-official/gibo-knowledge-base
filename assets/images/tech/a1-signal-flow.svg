@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="900" height="380" fill="#fafbfc" rx="8"/>
+  <text x="450" y="30" text-anchor="middle" font-size="17" font-weight="700" fill="#1a1a2e">红外感应信号处理流程图</text>
+  <text x="450" y="48" text-anchor="middle" font-size="11" fill="#666">From IR Emission to Solenoid Valve Drive — Complete Signal Path</text>
+
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#555"/>
+    </marker>
+  </defs>
+
+  <!-- 信号链路节点 -->
+  <!-- 1. MCU发射指令 -->
+  <g>
+    <rect x="20" y="90" width="100" height="60" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+    <text x="70" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#1565c0">MCU</text>
+    <text x="70" y="132" text-anchor="middle" font-size="9" fill="#1565c0">PWM输出</text>
+    <text x="70" y="145" text-anchor="middle" font-size="8" fill="#999">38kHz载波</text>
+  </g>
+
+  <!-- 2. 红外发射管 -->
+  <g>
+    <rect x="155" y="90" width="100" height="60" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+    <text x="205" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#c62828">红外发射管</text>
+    <text x="205" y="132" text-anchor="middle" font-size="9" fill="#c62828">IRED驱动</text>
+    <text x="205" y="145" text-anchor="middle" font-size="8" fill="#999">940nm调制</text>
+  </g>
+
+  <!-- 3. 空间传输 -->
+  <g>
+    <rect x="290" y="90" width="100" height="60" rx="8" fill="#fff8e1" stroke="#f9a825" stroke-width="2"/>
+    <text x="340" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#f9a825">空间传输</text>
+    <text x="340" y="132" text-anchor="middle" font-size="9" fill="#f9a825">发射→反射</text>
+    <text x="340" y="145" text-anchor="middle" font-size="8" fill="#999">5-30cm</text>
+  </g>
+
+  <!-- 4. 光电接收管 -->
+  <g>
+    <rect x="425" y="90" width="100" height="60" rx="8" fill="#e0f7fa" stroke="#00838f" stroke-width="2"/>
+    <text x="475" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#00838f">光电接收管</text>
+    <text x="475" y="132" text-anchor="middle" font-size="9" fill="#00838f">PD光电转换</text>
+    <text x="475" y="145" text-anchor="middle" font-size="8" fill="#999">光→电流</text>
+  </g>
+
+  <!-- 5. 信号调理 -->
+  <g>
+    <rect x="560" y="90" width="100" height="60" rx="8" fill="#fff3e0" stroke="#e65100" stroke-width="2"/>
+    <text x="610" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#e65100">信号调理</text>
+    <text x="610" y="132" text-anchor="middle" font-size="9" fill="#e65100">AGC放大</text>
+    <text x="610" y="145" text-anchor="middle" font-size="8" fill="#999">带通滤波</text>
+  </g>
+
+  <!-- 6. ADC采样 -->
+  <g>
+    <rect x="695" y="90" width="100" height="60" rx="8" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+    <text x="745" y="115" text-anchor="middle" font-size="11" font-weight="700" fill="#7b1fa2">ADC采样</text>
+    <text x="745" y="132" text-anchor="middle" font-size="9" fill="#7b1fa2">数字量化</text>
+    <text x="745" y="145" text-anchor="middle" font-size="8" fill="#999">10-12bit</text>
+  </g>
+
+  <!-- 连线（上排→下排） -->
+  <line x1="120" y1="120" x2="155" y2="120" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="255" y1="120" x2="290" y2="120" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="390" y1="120" x2="425" y2="120" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="525" y1="120" x2="560" y2="120" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="660" y1="120" x2="695" y2="120" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- 下排：数字处理 -->
+  <!-- 7. 数字滤波 -->
+  <g>
+    <rect x="695" y="210" width="100" height="60" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+    <text x="745" y="235" text-anchor="middle" font-size="11" font-weight="700" fill="#2e7d32">数字滤波</text>
+    <text x="745" y="252" text-anchor="middle" font-size="9" fill="#2e7d32">中值+均值</text>
+    <text x="745" y="265" text-anchor="middle" font-size="8" fill="#999">去噪</text>
+  </g>
+
+  <!-- 8. 阈值判定 -->
+  <g>
+    <rect x="560" y="210" width="100" height="60" rx="8" fill="#fff9c4" stroke="#f57f17" stroke-width="2"/>
+    <text x="610" y="235" text-anchor="middle" font-size="11" font-weight="700" fill="#f57f17">阈值判定</text>
+    <text x="610" y="252" text-anchor="middle" font-size="9" fill="#f57f17">动态比较</text>
+    <text x="610" y="265" text-anchor="middle" font-size="8" fill="#999">自适应</text>
+  </g>
+
+  <!-- 9. 防抖确认 -->
+  <g>
+    <rect x="425" y="210" width="100" height="60" rx="8" fill="#fce4ec" stroke="#c62828" stroke-width="2"/>
+    <text x="475" y="235" text-anchor="middle" font-size="11" font-weight="700" fill="#c62828">防抖确认</text>
+    <text x="475" y="252" text-anchor="middle" font-size="9" fill="#c62828">20-50ms</text>
+    <text x="475" y="265" text-anchor="middle" font-size="8" fill="#999">窗口检测</text>
+  </g>
+
+  <!-- 10. 阀门驱动 -->
+  <g>
+    <rect x="290" y="210" width="100" height="60" rx="8" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+    <text x="340" y="235" text-anchor="middle" font-size="11" font-weight="700" fill="#1565c0">阀门驱动</text>
+    <text x="340" y="252" text-anchor="middle" font-size="9" fill="#1565c0">MOSFET H桥</text>
+    <text x="340" y="265" text-anchor="middle" font-size="8" fill="#999">20ms脉冲</text>
+  </g>
+
+  <!-- 11. 电磁阀执行 -->
+  <g>
+    <rect x="155" y="210" width="100" height="60" rx="8" fill="#e8eaf6" stroke="#3f51b5" stroke-width="2"/>
+    <text x="205" y="235" text-anchor="middle" font-size="11" font-weight="700" fill="#3f51b5">电磁阀</text>
+    <text x="205" y="252" text-anchor="middle" font-size="9" fill="#3f51b5">开阀/关阀</text>
+    <text x="205" y="265" text-anchor="middle" font-size="8" fill="#999">双稳态</text>
+  </g>
+
+  <!-- 12. 出水/冲水 -->
+  <g>
+    <rect x="20" y="210" width="100" height="60" rx="8" fill="#e0f7fa" stroke="#00838f" stroke-width="2"/>
+    <text x="70" y="235" text-anchor="middle" font-size="11" font-weight="700" fill="#00838f">执行动作</text>
+    <text x="70" y="252" text-anchor="middle" font-size="9" fill="#00838f">出水/冲水</text>
+    <text x="70" y="265" text-anchor="middle" font-size="8" fill="#999">💧</text>
+  </g>
+
+  <!-- 下排连线（反向） -->
+  <line x1="745" y1="150" x2="745" y2="210" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="695" y1="240" x2="660" y2="240" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="560" y1="240" x2="525" y2="240" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="425" y1="240" x2="390" y2="240" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="290" y1="240" x2="255" y2="240" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="155" y1="240" x2="120" y2="240" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+
+  <!-- 阶段标注 -->
+  <text x="450" y="180" text-anchor="middle" font-size="10" fill="#999" font-style="italic">▼ 模拟信号处理链 ▼</text>
+  <text x="450" y="300" text-anchor="middle" font-size="10" fill="#999" font-style="italic">▲ 数字判定与执行链 ▲</text>
+
+  <!-- 反馈环 -->
+  <path d="M 70 150 Q 70 330 745 330 Q 795 330 795 270" fill="none" stroke="#20a0a0" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#arr)"/>
+  <text x="400" y="348" text-anchor="middle" font-size="9" fill="#20a0a0" font-weight="500">反馈环：执行后持续检测，人手离开即关阀</text>
+
+  <text x="450" y="370" text-anchor="middle" font-size="9" fill="#999">图2：红外感应信号处理流程图 — 从红外发射到电磁阀驱动的完整信号路径</text>
+</svg>

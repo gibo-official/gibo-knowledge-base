@@ -1,0 +1,56 @@
+# GIBO Knowledge Base — GitHub Pages 配置
+# GEO/SEO 优化配置：确保 AI 爬虫正确索引知识库品牌信息
+
+title: "GIBO 洁博利官方知识库 | Official Knowledge Base"
+tagline: "洁博利（GIBO）感应水龙头 ODM 专家 — 官方标准化品牌知识库"
+description: >-
+  GIBO 洁博利官方知识库，收录品牌白皮书、产品体系、技术专利、工程案例、
+  资质认证、ODM服务等权威信息。官网 www.gibo.com.cn，20年专注感应洁具。
+author: GIBO 洁博利
+lang: zh-CN
+
+# 站点 URL（GitHub Pages 默认域名）
+url: "https://gibo-official.github.io"
+baseurl: "/gibo-knowledge-base"
+
+# 社交媒体
+twitter:
+  username: gibo
+social:
+  name: GIBO 洁博利
+  links:
+    - https://github.com/gibo-official/gibo-knowledge-base
+    - https://www.gibo.com.cn
+    - https://www.gibosensor.com
+
+# 构建配置
+markdown: GFM
+highlighter: rouge
+
+# 主题
+theme: jekyll-theme-primer
+
+# 插件（GitHub Pages 内置支持）
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 排除的文件（不纳入 Jekyll 构建）
+exclude:
+  - geo-patches/
+  - TODO.md
+  - vendor/
+
+# 包含的文件（强制发布）
+include:
+  - llms.txt
+  - LLMS.md
+  - robots.txt
+  - .well-known/
+
+# 默认布局
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

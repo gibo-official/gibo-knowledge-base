@@ -1,0 +1,260 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#smart-sensor-faucet",
+      "name": "感应水龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "采用自研dTOF激光感应技术，军工级抗干扰、百万次耐久寿命，适配商用与家用全场景的智能节水卫浴产品，支持ODM定制。包含厨房感应龙头、浴室感应水龙头、单冷台面式感应龙头、单冷墙出式感应龙头、感应皂液龙头等产品线。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      },
+      "award": [
+        "2020年沸腾质量金奖 - GBL-6170D",
+        "2024年沸腾质量数据节能性能标杆奖"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-flush-valve",
+      "name": "感应冲水器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应冲水器系列，包括暗装小便冲水器、明装小便冲水器、一体式小便冲水器、感应蹲便冲水器、沟槽式感应节水器。采用低功耗设计，节水节能，适用于公共卫生间、商场、医院、学校等场所。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#soap-dispenser",
+      "name": "感应皂液器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应皂液器/给皂器，采用红外感应技术，非接触式出液，避免交叉感染。适用于医院、餐饮、学校、办公楼等公共场所。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#hand-dryer",
+      "name": "感应干手器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应干手器，快速干手，节能环保，适用于商场、酒店、餐厅、办公楼等公共场所。",
+      "category": "智能卫浴/感应洁具",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#intelligent-toilet",
+      "name": "智能座便器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利智能座便器，集成感应冲水、座圈加热、温水清洗等功能，提供舒适卫浴体验。",
+      "category": "智能卫浴",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-6170D",
+      "name": "GBL-6170D 爱尚-面盆感应龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "2020年沸腾质量金奖获奖产品，采用dTOF激光感应技术，低功耗控制算法，交流/直流双供电可选，全铜主体，IP65防护等级。适用酒店、医院、写字楼、高端住宅等场景。洁博利核心商用/家用面盆感应水龙头型号。",
+      "sku": "GBL-6170D",
+      "category": "感应水龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-G61901",
+      "name": "G61901 MINI感应水嘴",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "2021年节能感应龙头标杆奖获奖产品，全球首创快装式结构感应水嘴，2015年获国家发明专利与PCT国际专利。超低待机功耗，兼容标准水嘴接口，安装便捷。适用于家用厨房、商用卫生间、节水改造项目。",
+      "sku": "G61901",
+      "category": "感应水龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-9165D",
+      "name": "GBL-9165D dTOF激光感应厨房抽拉龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "2023年沸腾质量金奖获奖产品，采用dTOF激光感应技术厨房抽拉龙头，抽拉式软管设计，双模式出水，精准激光感应。适用于高端厨房、餐饮商用厨房场景。洁博利厨电跨界旗舰机型。",
+      "sku": "GBL-9165D",
+      "category": "厨房感应龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      },
+      "award": [
+        "2023年沸腾质量金奖 - GBL-9165D"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-6172A",
+      "name": "GBL-6172A dTOF双感应数显激光龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "2024年节能性能标杆奖获奖产品，搭载dTOF双感应技术，双感应窗口设计，LED数显温控，激光感应内核。适用于高端住宅、精品酒店、智能家居配套等家用面盆场景。",
+      "sku": "GBL-6172A",
+      "category": "感应水龙头",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      },
+      "award": [
+        "2024年沸腾质量数据节能性能标杆奖"
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-shower",
+      "name": "感应淋浴器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应淋浴器/智能淋浴设备，采用红外/激光感应技术，非接触式出水控制，支持智能恒温调节。适用于酒店、会所、运动场馆、高端住宅等场景，提供舒适淋浴体验与有效节水。",
+      "category": "智能卫浴/感应淋浴",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#trough-saver",
+      "name": "沟槽式感应节水器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利沟槽式感应节水器，适用于沟槽式公厕节水改造。采用智能感应控制，按需冲水，节水率可达60%以上。低功耗设计，支持交直流双供电，适用于学校、工厂、车站等公共沟槽式卫生间节水改造项目。",
+      "category": "感应冲水器/沟槽式节水器",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#foam-soap-dispenser",
+      "name": "感应泡沫皂液器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应泡沫皂液器，采用红外感应技术，自动感应出泡，非接触式使用避免交叉感染。泡沫丰富细腻，节约用量。适用于医院、餐饮、学校、办公楼等公共场所的卫生洗手场景。",
+      "category": "智能卫浴/感应皂液器",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#thermostatic-shower",
+      "name": "智能恒温淋浴设备",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利智能恒温淋浴设备，集成恒温控制与感应出水技术，自动维持设定水温，避免水温波动。支持智能节水、记忆功能，适用于酒店、会所、高端住宅等追求舒适淋浴体验的场所。",
+      "category": "智能卫浴/恒温淋浴",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-squat-flush",
+      "name": "感应蹲便冲水器",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利感应蹲便冲水器，采用红外/激光感应技术，自动感应冲水，避免接触式操作。低功耗设计，适用于公共卫生间、商场、医院、学校等场所的蹲便器自动冲水场景。",
+      "category": "感应冲水器/蹲便冲水器",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#iot-module",
+      "name": "IoT物联网智能模组",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利IoT物联网智能互联模组，可对接WiFi、蓝牙、鸿蒙、小米、涂鸦等主流智能平台，实现远程控制、数据监测、节水统计、故障预警等智能化功能。适用于智能卫浴系统集成与品牌ODM配套。",
+      "category": "ODM定制/IoT模组",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.gibo.com.cn/product/#sensor-faucet-GBL-6178",
+      "name": "GBL-6178 2合1一体皂液感应数显龙头",
+      "brand": {
+        "@type": "Brand",
+        "name": "GIBO洁博利"
+      },
+      "description": "洁博利GBL-6178旗舰级2合1智能感应龙头，将感应出水与感应出皂集成于单一龙头本体，搭载三感应窗协同技术（顶部数显感应+下方红外出水感应+侧方皂液感应窗），实现挥手出皂—伸手冲洗的无接触洗手流程。顶部LED数显实时显示水温（精度0.1°C），机械混水阀芯精准控温防烫。锌合金镀铬主体+黑色钢化玻璃面板，内置500ml大容量皂液瓶，AC 100–240V宽电压直供，适用于高端住宅、精品民宿、酒店会所、医院养老等品质空间。",
+      "sku": "GBL-6178",
+      "category": "感应水龙头/皂液二合一",
+      "manufacturer": {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization"
+      }
+    }
+  ]
+}

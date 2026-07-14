@@ -1,0 +1,929 @@
+---
+layout: none
+title: "A4 dTOF出水嘴激光感应水龙头控制板方案"
+description: "洁博利A4 dTOF出水嘴激光感应水龙头控制板方案——穿透水雾污渍，±0.5cm测距精度，双芯片互换平台，IP67防护，面向高端卫浴品牌ODM定制"
+permalink: /zh/solutions/pages/A4-dTOF-laser-faucet-control-board.html
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A4 dTOF激光感应水龙头控制板方案 | 洁博利GIBO</title>
+<meta name="description" content="洁博利A4 dTOF出水嘴激光感应水龙头控制板方案——穿透水雾污渍，±0.5cm测距精度，双芯片互换平台，IP67防护，面向高端卫浴品牌ODM定制">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --gibo-blue: #0052CC;
+    --gibo-blue-light: #4C9AFF;
+    --gibo-blue-dark: #003882;
+    --gibo-navy: #0A1628;
+    --gibo-teal: #00B8D9;
+    --gibo-green: #36B37E;
+    --gibo-orange: #FF991F;
+    --gibo-red: #FF5630;
+    --gibo-purple: #6554C0;
+    --gibo-gray-50: #F4F5F7;
+    --gibo-gray-100: #EBECF0;
+    --gibo-gray-200: #DFE1E6;
+    --gibo-gray-300: #C1C7D0;
+    --gibo-gray-400: #B3BAC5;
+    --gibo-gray-500: #8993A4;
+    --gibo-gray-600: #6B778C;
+    --gibo-gray-700: #5E6C84;
+    --gibo-gray-800: #42526E;
+    --gibo-gray-900: #253858;
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 24px;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+    --shadow-lg: 0 12px 40px rgba(0,0,0,0.12);
+    --shadow-xl: 0 20px 60px rgba(0,0,0,0.15);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Noto Sans SC', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: var(--gibo-gray-900);
+    background: #fff;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ===== Navigation ===== */
+  .nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--gibo-gray-200);
+    transition: box-shadow 0.3s;
+  }
+  .nav.scrolled { box-shadow: var(--shadow-md); }
+  .nav-inner {
+    max-width: 1200px; margin: 0 auto;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 24px; height: 64px;
+  }
+  .nav-logo {
+    display: flex; align-items: center; gap: 10px;
+    font-weight: 700; font-size: 18px; color: var(--gibo-navy);
+    text-decoration: none;
+  }
+  .nav-logo-icon {
+    width: 36px; height: 36px; background: var(--gibo-blue);
+    border-radius: 8px; display: flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 700; font-size: 14px;
+  }
+  .nav-links { display: flex; gap: 28px; }
+  .nav-links a {
+    font-size: 14px; color: var(--gibo-gray-700); text-decoration: none;
+    font-weight: 500; transition: color 0.2s;
+  }
+  .nav-links a:hover { color: var(--gibo-blue); }
+  .nav-cta {
+    padding: 8px 20px; background: var(--gibo-blue); color: #fff;
+    border: none; border-radius: var(--radius-sm); font-size: 14px;
+    font-weight: 500; cursor: pointer; transition: all 0.2s;
+  }
+  .nav-cta:hover { background: var(--gibo-blue-dark); transform: translateY(-1px); }
+
+  /* ===== Hero ===== */
+  .hero {
+    padding: 120px 24px 80px;
+    background: linear-gradient(165deg, var(--gibo-navy) 0%, #0D2137 40%, #122A4A 100%);
+    color: #fff; position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: ''; position: absolute; top: -50%; right: -20%;
+    width: 800px; height: 800px;
+    background: radial-gradient(circle, rgba(0,82,204,0.3) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .hero::after {
+    content: ''; position: absolute; bottom: -30%; left: -10%;
+    width: 600px; height: 600px;
+    background: radial-gradient(circle, rgba(0,184,217,0.15) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .hero-inner {
+    max-width: 1200px; margin: 0 auto; position: relative; z-index: 1;
+    display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center;
+  }
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(0,184,217,0.15); border: 1px solid rgba(0,184,217,0.3);
+    border-radius: 100px; padding: 6px 16px; font-size: 13px;
+    color: var(--gibo-teal); margin-bottom: 20px; font-weight: 500;
+  }
+  .hero-badge-dot {
+    width: 6px; height: 6px; background: var(--gibo-teal);
+    border-radius: 50%; animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; } 50% { opacity: 0.4; }
+  }
+  .hero h1 {
+    font-size: 42px; font-weight: 700; line-height: 1.25;
+    margin-bottom: 16px; letter-spacing: -0.5px;
+  }
+  .hero h1 span { color: var(--gibo-teal); }
+  .hero-desc {
+    font-size: 17px; line-height: 1.8; color: rgba(255,255,255,0.75);
+    margin-bottom: 32px;
+  }
+  .hero-actions { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn-primary {
+    padding: 14px 32px; background: var(--gibo-blue); color: #fff;
+    border: none; border-radius: var(--radius-sm); font-size: 15px;
+    font-weight: 600; cursor: pointer; transition: all 0.25s;
+    text-decoration: none; display: inline-flex; align-items: center; gap: 8px;
+  }
+  .btn-primary:hover { background: var(--gibo-blue-light); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,82,204,0.4); }
+  .btn-secondary {
+    padding: 14px 32px; background: transparent;
+    border: 1px solid rgba(255,255,255,0.3); color: #fff;
+    border-radius: var(--radius-sm); font-size: 15px; font-weight: 500;
+    cursor: pointer; transition: all 0.25s; text-decoration: none;
+    display: inline-flex; align-items: center; gap: 8px;
+  }
+  .btn-secondary:hover { background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.5); }
+  .hero-visual {
+    background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1);
+    border-radius: var(--radius-xl); padding: 32px; position: relative;
+    backdrop-filter: blur(10px);
+  }
+  .hero-visual-img {
+    width: 100%; border-radius: var(--radius-lg);
+    background: linear-gradient(135deg, #1a2d4a 0%, #0d1b30 100%);
+    aspect-ratio: 4/3; display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+  }
+  .hero-visual-img img { width: 100%; height: 100%; object-fit: cover; }
+  .hero-visual-label {
+    position: absolute; bottom: -16px; left: 50%; transform: translateX(-50%);
+    background: var(--gibo-blue); color: #fff; padding: 8px 20px;
+    border-radius: 100px; font-size: 13px; font-weight: 500;
+    white-space: nowrap; box-shadow: var(--shadow-lg);
+  }
+
+  /* ===== Stats Bar ===== */
+  .stats-bar {
+    background: #fff; border-bottom: 1px solid var(--gibo-gray-200);
+    padding: 0 24px;
+  }
+  .stats-inner {
+    max-width: 1200px; margin: 0 auto;
+    display: grid; grid-template-columns: repeat(4, 1fr);
+  }
+  .stat-item {
+    padding: 28px 20px; text-align: center;
+    border-right: 1px solid var(--gibo-gray-200);
+  }
+  .stat-item:last-child { border-right: none; }
+  .stat-value {
+    font-size: 32px; font-weight: 700; color: var(--gibo-blue);
+    line-height: 1.2;
+  }
+  .stat-value small { font-size: 16px; font-weight: 500; }
+  .stat-label { font-size: 13px; color: var(--gibo-gray-600); margin-top: 4px; }
+
+  /* ===== Section Common ===== */
+  .section {
+    padding: 80px 24px;
+  }
+  .section-inner {
+    max-width: 1200px; margin: 0 auto;
+  }
+  .section-tag {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 13px; font-weight: 600; color: var(--gibo-blue);
+    text-transform: uppercase; letter-spacing: 1px; margin-bottom: 12px;
+  }
+  .section-tag::before {
+    content: ''; width: 20px; height: 2px; background: var(--gibo-blue);
+    border-radius: 1px;
+  }
+  .section-title {
+    font-size: 32px; font-weight: 700; color: var(--gibo-navy);
+    margin-bottom: 12px; letter-spacing: -0.3px;
+  }
+  .section-desc {
+    font-size: 16px; color: var(--gibo-gray-600);
+    max-width: 640px; margin-bottom: 48px;
+  }
+
+  /* ===== Problem Section ===== */
+  .problem { background: var(--gibo-gray-50); }
+  .problem-grid {
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;
+  }
+  .problem-card {
+    background: #fff; border-radius: var(--radius-lg); padding: 32px;
+    border: 1px solid var(--gibo-gray-200); transition: all 0.3s;
+  }
+  .problem-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+  .problem-icon {
+    width: 48px; height: 48px; border-radius: var(--radius-md);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px; margin-bottom: 16px;
+  }
+  .problem-icon.red { background: #FFEBE6; color: var(--gibo-red); }
+  .problem-icon.orange { background: #FFF7E6; color: var(--gibo-orange); }
+  .problem-card h3 {
+    font-size: 18px; font-weight: 600; color: var(--gibo-navy);
+    margin-bottom: 10px;
+  }
+  .problem-card p { font-size: 14px; color: var(--gibo-gray-600); line-height: 1.7; }
+
+  /* ===== Solution Section ===== */
+  .solution-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+  }
+  .solution-card {
+    background: #fff; border-radius: var(--radius-lg); padding: 32px 28px;
+    border: 1px solid var(--gibo-gray-200); transition: all 0.3s;
+    position: relative; overflow: hidden;
+  }
+  .solution-card:hover { box-shadow: var(--shadow-md); transform: translateY(-3px); }
+  .solution-card::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px; background: var(--gibo-blue); opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .solution-card:hover::before { opacity: 1; }
+  .solution-num {
+    font-size: 48px; font-weight: 800; color: var(--gibo-gray-100);
+    line-height: 1; margin-bottom: 12px;
+  }
+  .solution-card h3 {
+    font-size: 17px; font-weight: 600; color: var(--gibo-navy);
+    margin-bottom: 10px;
+  }
+  .solution-card p { font-size: 14px; color: var(--gibo-gray-600); line-height: 1.7; }
+
+  /* ===== Specs Table ===== */
+  .specs-table-wrapper {
+    background: #fff; border-radius: var(--radius-lg);
+    border: 1px solid var(--gibo-gray-200); overflow: hidden;
+  }
+  .specs-table {
+    width: 100%; border-collapse: collapse;
+  }
+  .specs-table th {
+    background: var(--gibo-navy); color: #fff; padding: 14px 20px;
+    font-size: 14px; font-weight: 600; text-align: left;
+    white-space: nowrap;
+  }
+  .specs-table td {
+    padding: 14px 20px; font-size: 14px;
+    border-bottom: 1px solid var(--gibo-gray-100);
+  }
+  .specs-table tr:nth-child(even) td { background: var(--gibo-gray-50); }
+  .specs-table .param-cat {
+    font-weight: 600; color: var(--gibo-blue); background: rgba(0,82,204,0.04);
+    border-right: 3px solid var(--gibo-blue);
+  }
+  .specs-table .param-name { color: var(--gibo-gray-700); font-weight: 500; }
+  .specs-table .param-val { color: var(--gibo-gray-900); font-weight: 500; }
+
+  /* ===== Scenarios ===== */
+  .scenarios-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px;
+  }
+  .scenario-card {
+    border-radius: var(--radius-lg); overflow: hidden;
+    border: 1px solid var(--gibo-gray-200); transition: all 0.3s;
+    background: #fff;
+  }
+  .scenario-card:hover { box-shadow: var(--shadow-lg); transform: translateY(-4px); }
+  .scenario-img {
+    height: 180px; background: linear-gradient(135deg, var(--gibo-gray-100), var(--gibo-gray-200));
+    display: flex; align-items: center; justify-content: center;
+    font-size: 48px; position: relative; overflow: hidden;
+  }
+  .scenario-img-overlay {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    height: 60px; background: linear-gradient(transparent, rgba(0,0,0,0.4));
+  }
+  .scenario-body { padding: 24px; }
+  .scenario-body h3 {
+    font-size: 17px; font-weight: 600; color: var(--gibo-navy);
+    margin-bottom: 8px;
+  }
+  .scenario-body p { font-size: 14px; color: var(--gibo-gray-600); line-height: 1.7; }
+
+  /* ===== Products ===== */
+  .products { background: var(--gibo-gray-50); }
+  .products-grid {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;
+  }
+  .product-card {
+    background: #fff; border-radius: var(--radius-lg);
+    border: 1px solid var(--gibo-gray-200); overflow: hidden;
+    transition: all 0.3s;
+  }
+  .product-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+  .product-img {
+    height: 200px; background: linear-gradient(135deg, #f0f4f8, #e4eaf0);
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+  }
+  .product-img img { width: 100%; height: 100%; object-fit: contain; padding: 16px; }
+  .product-info { padding: 16px 20px; }
+  .product-model {
+    font-size: 12px; font-weight: 600; color: var(--gibo-blue);
+    margin-bottom: 4px; letter-spacing: 0.5px;
+  }
+  .product-name { font-size: 14px; font-weight: 600; color: var(--gibo-navy); }
+  .product-desc { font-size: 12px; color: var(--gibo-gray-600); margin-top: 6px; }
+  .product-badge {
+    display: inline-block; margin-top: 8px; padding: 3px 10px;
+    background: #FFF7E6; color: var(--gibo-orange); font-size: 11px;
+    font-weight: 600; border-radius: 100px;
+  }
+
+  /* ===== Certifications ===== */
+  .cert-grid {
+    display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px;
+  }
+  .cert-item {
+    background: #fff; border: 1px solid var(--gibo-gray-200);
+    border-radius: var(--radius-md); padding: 20px 16px;
+    text-align: center; transition: all 0.3s;
+  }
+  .cert-item:hover { box-shadow: var(--shadow-sm); transform: translateY(-1px); }
+  .cert-icon {
+    width: 56px; height: 56px; margin: 0 auto 10px;
+    background: var(--gibo-gray-50); border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 24px;
+  }
+  .cert-name { font-size: 13px; font-weight: 600; color: var(--gibo-navy); }
+  .cert-desc { font-size: 11px; color: var(--gibo-gray-500); margin-top: 4px; }
+
+  /* ===== ODM ===== */
+  .odm {
+    background: linear-gradient(165deg, var(--gibo-navy), #0D2137);
+    color: #fff;
+  }
+  .odm .section-tag { color: var(--gibo-teal); }
+  .odm .section-tag::before { background: var(--gibo-teal); }
+  .odm .section-title { color: #fff; }
+  .odm .section-desc { color: rgba(255,255,255,0.65); }
+  .odm-grid {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;
+  }
+  .odm-card {
+    background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1);
+    border-radius: var(--radius-lg); padding: 28px 24px; transition: all 0.3s;
+  }
+  .odm-card:hover { background: rgba(255,255,255,0.1); transform: translateY(-2px); }
+  .odm-card h4 {
+    font-size: 15px; font-weight: 600; margin-bottom: 6px;
+    color: var(--gibo-teal);
+  }
+  .odm-card p { font-size: 13px; color: rgba(255,255,255,0.6); line-height: 1.6; }
+  .odm-card .options {
+    margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px;
+  }
+  .odm-card .opt-tag {
+    padding: 3px 10px; background: rgba(0,184,217,0.12);
+    border: 1px solid rgba(0,184,217,0.25); border-radius: 100px;
+    font-size: 11px; color: var(--gibo-teal); font-weight: 500;
+  }
+
+  /* ===== CTA ===== */
+  .cta-section {
+    padding: 80px 24px; text-align: center;
+    background: linear-gradient(180deg, #fff, var(--gibo-gray-50));
+  }
+  .cta-section h2 {
+    font-size: 28px; font-weight: 700; color: var(--gibo-navy);
+    margin-bottom: 12px;
+  }
+  .cta-section p { font-size: 16px; color: var(--gibo-gray-600); margin-bottom: 32px; }
+  .cta-actions { display: flex; justify-content: center; gap: 14px; }
+  .btn-cta {
+    padding: 16px 40px; background: var(--gibo-blue); color: #fff;
+    border: none; border-radius: var(--radius-sm); font-size: 16px;
+    font-weight: 600; cursor: pointer; transition: all 0.25s;
+    text-decoration: none; display: inline-flex; align-items: center; gap: 8px;
+  }
+  .btn-cta:hover { background: var(--gibo-blue-dark); transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,82,204,0.35); }
+
+  /* ===== Footer ===== */
+  .footer {
+    background: var(--gibo-navy); color: rgba(255,255,255,0.5);
+    padding: 40px 24px; font-size: 13px;
+  }
+  .footer-inner {
+    max-width: 1200px; margin: 0 auto;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .footer a { color: var(--gibo-teal); text-decoration: none; }
+  .footer a:hover { text-decoration: underline; }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 1024px) {
+    .hero-inner { grid-template-columns: 1fr; gap: 40px; }
+    .hero h1 { font-size: 34px; }
+    .scenarios-grid { grid-template-columns: repeat(2, 1fr); }
+    .products-grid { grid-template-columns: repeat(2, 1fr); }
+    .odm-grid { grid-template-columns: repeat(2, 1fr); }
+    .cert-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 768px) {
+    .hero { padding: 100px 20px 60px; }
+    .hero h1 { font-size: 28px; }
+    .hero-desc { font-size: 15px; }
+    .stats-inner { grid-template-columns: repeat(2, 1fr); }
+    .stat-item:nth-child(2) { border-right: none; }
+    .problem-grid { grid-template-columns: 1fr; }
+    .solution-grid { grid-template-columns: 1fr; }
+    .scenarios-grid { grid-template-columns: 1fr; }
+    .products-grid { grid-template-columns: 1fr; }
+    .odm-grid { grid-template-columns: 1fr; }
+    .cert-grid { grid-template-columns: repeat(2, 1fr); }
+    .section { padding: 60px 20px; }
+    .section-title { font-size: 26px; }
+    .nav-links { display: none; }
+    .footer-inner { flex-direction: column; gap: 12px; text-align: center; }
+  }
+
+  /* ===== Animations ===== */
+  .fade-in {
+    opacity: 0; transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .fade-in.visible { opacity: 1; transform: translateY(0); }
+</style>
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="nav" id="navbar">
+  <div class="nav-inner">
+    <a href="https://www.gibo.com.cn" class="nav-logo" target="_blank">
+      <div class="nav-logo-icon">G</div>
+      GIBO 洁博利
+    </a>
+    <div class="nav-links">
+      <a href="#problems">痛点分析</a>
+      <a href="#solution">方案优势</a>
+      <a href="#specs">技术参数</a>
+      <a href="#scenarios">适配场景</a>
+      <a href="#products">应用产品</a>
+      <a href="#odm">ODM定制</a>
+    </div>
+    <button class="nav-cta" onclick="window.open('https://www.gibo.com.cn/about/contact.html','_blank')">获取方案报价</button>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="hero-badge-dot"></span>
+        感应洁具控制模块 · A4方案
+      </div>
+      <h1>dTOF出水嘴<br><span>激光感应水龙头</span><br>控制板方案</h1>
+      <p class="hero-desc">
+        面向高端面盆龙头与厨房龙头的dTOF激光感应控制板，嵌入出水嘴实现一体化设计。激光测距穿透水雾、蒸汽和污渍，从根本上杜绝传统红外感应的误出水与断水不及时问题。
+      </p>
+      <div class="hero-actions">
+        <a href="#specs" class="btn-primary">查看技术参数 →</a>
+        <a href="#odm" class="btn-secondary">ODM定制咨询</a>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-visual-img">
+        <img src="https://raw.githubusercontent.com/gibo-official/gibo-knowledge-base/main/assets/brand/brand_gibo设计智能卫浴首页banner图3.png" alt="GIBO dTOF激光感应水龙头" onerror="this.parentElement.innerHTML='<div style=\'color:rgba(255,255,255,0.3);font-size:16px;text-align:center;padding:40px;\'>dTOF激光感应水龙头<br>产品示意图</div>'">
+      </div>
+      <div class="hero-visual-label">940nm VCSEL · Class 1人眼安全 · IP67防护</div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats -->
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat-item">
+      <div class="stat-value">±0.5<small>cm</small></div>
+      <div class="stat-label">测距精度</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">≤20<small>μA</small></div>
+      <div class="stat-label">待机功耗</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">IP67</div>
+      <div class="stat-label">防护等级</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-value">100<small>万次</small></div>
+      <div class="stat-label">电磁阀寿命</div>
+    </div>
+  </div>
+</div>
+
+<!-- Problems -->
+<section class="section problem" id="problems">
+  <div class="section-inner">
+    <div class="section-tag">痛点分析</div>
+    <h2 class="section-title">传统红外感应龙头的致命缺陷</h2>
+    <p class="section-desc">在高端卫浴场景中，面盆龙头出水嘴位置距盆底仅15-25cm，长期处于高湿度、多溅水环境，传统红外方案频繁失效。</p>
+    <div class="problem-grid">
+      <div class="problem-card fade-in">
+        <div class="problem-icon red">❌</div>
+        <h3>不出水 —— 感应窗口被污物覆盖</h3>
+        <p>感应窗口附着水垢、皂液残留时，红外信号衰减，手部伸入无法触发出水。在厨房场景中，油污和洗洁精更是红外感应的"天敌"。</p>
+      </div>
+      <div class="problem-card fade-in">
+        <div class="problem-icon orange">⚠️</div>
+        <h3>不关水 —— 水雾折射虚假信号</h3>
+        <p>水雾凝结造成红外信号折射产生虚假触发，手部已离开但龙头持续出水，不仅浪费水资源，更可能导致无人时的溢水事故。</p>
+      </div>
+      <div class="problem-card fade-in">
+        <div class="problem-icon red">🔄</div>
+        <h3>台盆反射干扰</h3>
+        <p>出水嘴安装位置的台盆反射、下水器反射、水柱自感等问题，导致红外感应频繁误判。白色/镜面台盆干扰尤为严重。</p>
+      </div>
+      <div class="problem-card fade-in">
+        <div class="problem-icon orange">🧪</div>
+        <h3>化学残留物腐蚀</h3>
+        <p>频繁接触洗面奶、洗手液等化学残留物，红外感应窗口透明度下降，长期使用后感应性能持续衰减，维护成本高。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Solution -->
+<section class="section" id="solution">
+  <div class="section-inner">
+    <div class="section-tag">方案优势</div>
+    <h2 class="section-title">dTOF激光感应，六大核心技术突破</h2>
+    <p class="section-desc">不挑材质、无惧色差：黑色/白色/灰色感应距离误差小于10mm，不锈钢/陶瓷/镜面/玻璃均可精准感应，不同肤色手部感应距离误差小于10mm。</p>
+    <div class="solution-grid">
+      <div class="solution-card fade-in">
+        <div class="solution-num">01</div>
+        <h3>dTOF激光精准测距</h3>
+        <p>直接飞行时间测量原理，940nm红外激光脉冲纳秒级测距。±0.5cm精度确保手部距离判断准确无误，杜绝距离误判导致的误出水或断水延迟。</p>
+      </div>
+      <div class="solution-card fade-in">
+        <div class="solution-num">02</div>
+        <h3>穿透水雾污渍免疫</h3>
+        <p>激光窄波束+时间测量原理，窗口覆盖0.5mm水膜测距偏差仍小于1cm。牙膏残留、油膜、面粉等污物完全不影响感应性能。</p>
+      </div>
+      <div class="solution-card fade-in">
+        <div class="solution-num">03</div>
+        <h3>微型化嵌入式设计</h3>
+        <p>控制板直径≤20mm、高度≤12mm，直接嵌入标准出水嘴壳体内部。龙头制造商无需修改现有模具即可集成dTOF感应功能。</p>
+      </div>
+      <div class="solution-card fade-in">
+        <div class="solution-num">04</div>
+        <h3>双芯片互换平台</h3>
+        <p>双供应商方案互换，不修改PCB即可换用兼容芯片，规避芯片供应链风险。在全球芯片波动背景下为ODM客户提供关键生产保障。</p>
+      </div>
+      <div class="solution-card fade-in">
+        <div class="solution-num">05</div>
+        <h3>超低功耗+锂电池充电</h3>
+        <p>待机20μA，电池版续航12-18个月。锂电版USB Type-C充电1.5小时使用9个月，厨房场景零耗材维护。</p>
+      </div>
+      <div class="solution-card fade-in">
+        <div class="solution-num">06</div>
+        <h3>感应距离自适应校准</h3>
+        <p>安装后自动检测盆底距离、背景反射率、安装高度，自动设定最优感应参数。无需人工调节电位器，降低安装调试门槛。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Specs -->
+<section class="section" id="specs" style="background:var(--gibo-gray-50);">
+  <div class="section-inner">
+    <div class="section-tag">技术参数</div>
+    <h2 class="section-title">完整性能规格表</h2>
+    <p class="section-desc">所有参数基于实验室标准环境测试，dTOF激光模组性能数据来源于洁博利产品规格文档。</p>
+    <div class="specs-table-wrapper fade-in">
+      <table class="specs-table">
+        <thead>
+          <tr><th style="width:140px;">参数类别</th><th style="width:200px;">参数项</th><th>规格</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="param-cat" rowspan="6">电气参数</td><td class="param-name">供电电压</td><td class="param-val">DC 6V（4×AA电池）/ DC 3.7V锂电池</td></tr>
+          <tr><td class="param-name">待机电流</td><td class="param-val">≤20μA（dTOF休眠模式）</td></tr>
+          <tr><td class="param-name">工作电流</td><td class="param-val">≤200mA（电磁阀驱动）</td></tr>
+          <tr><td class="param-name">感应技术</td><td class="param-val">dTOF激光测距（940nm VCSEL）</td></tr>
+          <tr><td class="param-name">激光安全等级</td><td class="param-val">Class 1（IEC 60825-1）</td></tr>
+          <tr><td class="param-name">感应距离 / 测距精度</td><td class="param-val">3-20cm可调 / ±0.5cm（10cm基准）</td></tr>
+          <tr><td class="param-cat" rowspan="4">环境参数</td><td class="param-name">工作温度 / 湿度</td><td class="param-val">-10℃~60℃ / ≤95% RH</td></tr>
+          <tr><td class="param-name">防护等级</td><td class="param-val">IP67（灌胶密封）</td></tr>
+          <tr><td class="param-name">抗干扰特性</td><td class="param-val">免疫水雾/蒸汽/皂垢/强光/弱光</td></tr>
+          <tr><td class="param-name">响应时间</td><td class="param-val">≤0.15s</td></tr>
+          <tr><td class="param-cat" rowspan="3">出水参数</td><td class="param-name">适配水压 / 流量</td><td class="param-val">0.05-0.8MPa / 3-6L/min</td></tr>
+          <tr><td class="param-name">超时保护</td><td class="param-val">30s/60s/120s/180s可设</td></tr>
+          <tr><td class="param-name">自适应水压稳流</td><td class="param-val">PWM脉冲宽度调节，宽水压范围稳定出水</td></tr>
+          <tr><td class="param-cat" rowspan="3">机械参数</td><td class="param-name">控制板尺寸</td><td class="param-val">直径≤20mm × 高度≤12mm</td></tr>
+          <tr><td class="param-name">充电方式（锂电版）</td><td class="param-val">USB Type-C（5V/500mA）</td></tr>
+          <tr><td class="param-name">续航（锂电版）</td><td class="param-val">充电1.5小时使用9个月</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- Scenarios -->
+<section class="section" id="scenarios">
+  <div class="section-inner">
+    <div class="section-tag">适配场景</div>
+    <h2 class="section-title">五大核心应用场景</h2>
+    <p class="section-desc">从高端酒店到医疗场所，A4方案覆盖全场景精准感应需求。</p>
+    <div class="scenarios-grid">
+      <div class="scenario-card fade-in">
+        <div class="scenario-img">🏨
+          <div class="scenario-img-overlay"></div>
+        </div>
+        <div class="scenario-body">
+          <h3>高端酒店面盆龙头</h3>
+          <p>嵌入出水嘴实现"无感集成"，外观与传统龙头无异但具备dTOF精准感应。高频使用中长期稳定，大幅降低客房运维投诉。</p>
+        </div>
+      </div>
+      <div class="scenario-card fade-in">
+        <div class="scenario-img">🍳
+          <div class="scenario-img-overlay"></div>
+        </div>
+        <div class="scenario-body">
+          <h3>厨房感应龙头</h3>
+          <p>油污、洗洁精、面粉等传统红外"天敌"场景，激光穿透能力发挥最大优势。锂电充电版让厨房使用者零耗材维护。</p>
+        </div>
+      </div>
+      <div class="scenario-card fade-in">
+        <div class="scenario-img">🏠
+          <div class="scenario-img-overlay"></div>
+        </div>
+        <div class="scenario-body">
+          <h3>精装住宅卫浴工程</h3>
+          <p>适配全铜、不锈钢、锌合金等多种龙头材质，AC/DC双供电兼容不同楼盘电工配置。统一规格简化工程安装和维护。</p>
+        </div>
+      </div>
+      <div class="scenario-card fade-in">
+        <div class="scenario-img">🏥
+          <div class="scenario-img-overlay"></div>
+        </div>
+        <div class="scenario-body">
+          <h3>医院手术室/无菌洗手台</h3>
+          <p>频繁消毒擦拭环境中，感应窗口污损免疫能力强。含氯消毒剂清洁表面感应性能不衰减，IP67确保消毒液浸泡环境安全运行。</p>
+        </div>
+      </div>
+      <div class="scenario-card fade-in">
+        <div class="scenario-img">🔧
+          <div class="scenario-img-overlay"></div>
+        </div>
+        <div class="scenario-body">
+          <h3>ODM品牌集成方案</h3>
+          <p>标准化电气接口和机械安装尺寸，品牌方可快速增加dTOF激光感应功能。双芯片互换平台降低供应链风险，批量成本可控。</p>
+        </div>
+      </div>
+      <div class="scenario-card fade-in">
+        <div class="scenario-img">✈️
+          <div class="scenario-img-overlay"></div>
+        </div>
+        <div class="scenario-body">
+          <h3>机场/商业综合体</h3>
+          <p>高人流量公共场所，100K Lux强光免疫确保全天候稳定运行。超低功耗设计降低大规模部署的电池更换运维成本。</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Products -->
+<section class="section products" id="products">
+  <div class="section-inner">
+    <div class="section-tag">应用产品</div>
+    <h2 class="section-title">搭载A4控制板的产品系列</h2>
+    <p class="section-desc">A4控制板已成功应用于洁博利多款获奖产品，涵盖面盆龙头、厨房龙头、数显龙头等品类。</p>
+    <div class="products-grid">
+      <div class="product-card fade-in">
+        <div class="product-img">
+          <img src="https://raw.githubusercontent.com/gibo-official/gibo-knowledge-base/main/assets/products/GBL-6172_%E5%8F%8C%E6%84%9F%E5%BA%94%E9%9D%A2%E7%9B%86%E9%BE%99%E5%A4%B4_2.jpg" alt="GBL-6170D dTOF感应面盆龙头" onerror="this.style.display='none'">
+        </div>
+        <div class="product-info">
+          <div class="product-model">GBL-6170D</div>
+          <div class="product-name">dTOF感应面盆龙头（爱尚系列）</div>
+          <div class="product-desc">沸腾质量金奖产品，dTOF激光感应嵌入出水嘴</div>
+          <div class="product-badge">沸腾质量金奖</div>
+        </div>
+      </div>
+      <div class="product-card fade-in">
+        <div class="product-img">
+          <img src="https://raw.githubusercontent.com/gibo-official/gibo-knowledge-base/main/assets/products/GBL-91606_%E4%B8%8D%E9%94%88%E9%92%A2%E6%84%9F%E5%BA%94%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4_3.png" alt="GBL-91606 不锈钢感应厨房龙头" onerror="this.style.display='none'">
+        </div>
+        <div class="product-info">
+          <div class="product-model">GBL-91604/91605/91606</div>
+          <div class="product-name">不锈钢感应厨房龙头</div>
+          <div class="product-desc">SUS304材质，AC/DC双供电，沸腾质量金奖2023系列</div>
+          <div class="product-badge">沸腾质量金奖</div>
+        </div>
+      </div>
+      <div class="product-card fade-in">
+        <div class="product-img">
+          <img src="https://raw.githubusercontent.com/gibo-official/gibo-knowledge-base/main/assets/products/GBL-6172_%E5%8F%8C%E6%84%9F%E5%BA%94%E9%9D%A2%E7%9B%86%E9%BE%99%E5%A4%B4_2.jpg" alt="GBL-6172 双感应面盆龙头" onerror="this.style.display='none'">
+        </div>
+        <div class="product-info">
+          <div class="product-model">GBL-6172 / GBL-6173</div>
+          <div class="product-name">双感应面盆龙头</div>
+          <div class="product-desc">锌合金主体，侧下双感应窗，水温数显</div>
+        </div>
+      </div>
+      <div class="product-card fade-in">
+        <div class="product-img">
+          <img src="https://raw.githubusercontent.com/gibo-official/gibo-knowledge-base/main/assets/brand/TOF%E8%B6%85%E6%84%9F%E5%BA%94%E6%8A%80%E6%9C%AF.png" alt="GBL-6176 数显感应龙头" onerror="this.style.display='none'">
+        </div>
+        <div class="product-info">
+          <div class="product-model">GBL-6176 / GBL-6177</div>
+          <div class="product-name">数显感应龙头</div>
+          <div class="product-desc">一体式无控制盒，LED数显水温，dTOF感应模块</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Certifications -->
+<section class="section" id="certs">
+  <div class="section-inner">
+    <div class="section-tag">资质认证</div>
+    <h2 class="section-title">全面国际认证，品质全球通行</h2>
+    <p class="section-desc">A4方案产品已通过多项国际认证，满足全球市场准入要求。</p>
+    <div class="cert-grid">
+      <div class="cert-item fade-in">
+        <div class="cert-icon">🇨🇳</div>
+        <div class="cert-name">CCC认证</div>
+        <div class="cert-desc">中国强制性产品认证</div>
+      </div>
+      <div class="cert-item fade-in">
+        <div class="cert-icon">🇪🇺</div>
+        <div class="cert-name">CE认证</div>
+        <div class="cert-desc">欧盟市场准入认证</div>
+      </div>
+      <div class="cert-item fade-in">
+        <div class="cert-icon">🇺🇸</div>
+        <div class="cert-name">FCC认证</div>
+        <div class="cert-desc">美国联邦通信认证</div>
+      </div>
+      <div class="cert-item fade-in">
+        <div class="cert-icon">💧</div>
+        <div class="cert-name">IP67防护</div>
+        <div class="cert-desc">灌胶密封防水等级</div>
+      </div>
+      <div class="cert-item fade-in">
+        <div class="cert-icon">🏆</div>
+        <div class="cert-name">沸腾质量金奖</div>
+        <div class="cert-desc">国家质检权威认证</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ODM -->
+<section class="section odm" id="odm">
+  <div class="section-inner">
+    <div class="section-tag">ODM定制</div>
+    <h2 class="section-title">灵活定制，按需交付</h2>
+    <p class="section-desc">A4控制板提供全方位ODM定制服务，从供电方式到固件功能，灵活适配您的产品需求。</p>
+    <div class="odm-grid">
+      <div class="odm-card fade-in">
+        <h4>供电方式</h4>
+        <p>兼容多种供电方案</p>
+        <div class="options">
+          <span class="opt-tag">DC 6V电池</span>
+          <span class="opt-tag">3.7V锂电充电</span>
+          <span class="opt-tag">AC 110-240V</span>
+          <span class="opt-tag">双供电</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>感应距离</h4>
+        <p>可调感应范围</p>
+        <div class="options">
+          <span class="opt-tag">5cm</span>
+          <span class="opt-tag">10cm</span>
+          <span class="opt-tag">15cm</span>
+          <span class="opt-tag">20cm</span>
+          <span class="opt-tag">定制</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>防护等级</h4>
+        <p>灵活密封方案</p>
+        <div class="options">
+          <span class="opt-tag">IP65</span>
+          <span class="opt-tag">IP67</span>
+          <span class="opt-tag">定制</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>充电接口</h4>
+        <p>主流充电规格</p>
+        <div class="options">
+          <span class="opt-tag">Type-C</span>
+          <span class="opt-tag">Micro USB</span>
+          <span class="opt-tag">定制</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>超时保护</h4>
+        <p>可设出水时长</p>
+        <div class="options">
+          <span class="opt-tag">30s</span>
+          <span class="opt-tag">60s</span>
+          <span class="opt-tag">120s</span>
+          <span class="opt-tag">180s</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>芯片方案</h4>
+        <p>双平台保障供应</p>
+        <div class="options">
+          <span class="opt-tag">标准芯片</span>
+          <span class="opt-tag">指定品牌</span>
+          <span class="opt-tag">双芯片互换</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>控制板尺寸</h4>
+        <p>灵活适配壳体</p>
+        <div class="options">
+          <span class="opt-tag">标准≤20mm</span>
+          <span class="opt-tag">定制尺寸</span>
+        </div>
+      </div>
+      <div class="odm-card fade-in">
+        <h4>固件功能</h4>
+        <p>感应逻辑深度定制</p>
+        <div class="options">
+          <span class="opt-tag">感应模式</span>
+          <span class="opt-tag">出水逻辑</span>
+          <span class="opt-tag">指示灯模式</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section">
+  <h2>获取A4方案完整技术文档与报价</h2>
+  <p>我们的工程师团队将在24小时内为您提供详细的技术方案和ODM定制建议</p>
+  <div class="cta-actions">
+    <a href="https://www.gibo.com.cn/about/contact.html" class="btn-cta" target="_blank">联系我们获取报价 →</a>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div>© 2026 洁博利(GIBO) 感应水龙头ODM专家 | <a href="https://www.gibo.com.cn" target="_blank">www.gibo.com.cn</a></div>
+    <div>核心技术：dTOF激光超感应 #2 · 双芯片互换平台 #10 · 智能防溢水安全保护 #13</div>
+  </div>
+</footer>
+
+<script>
+// Navbar scroll effect
+window.addEventListener('scroll', () => {
+  const nav = document.getElementById('navbar');
+  nav.classList.toggle('scrolled', window.scrollY > 20);
+});
+
+// Fade-in animation
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+
+document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+// Smooth scroll for anchor links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function(e) {
+    e.preventDefault();
+    const target = document.querySelector(this.getAttribute('href'));
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+});
+</script>
+
+</body>
+</html>

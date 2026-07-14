@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360">
+  <rect width="520" height="360" fill="#f8f9fa" stroke="#dee2e6" stroke-width="1"/>
+  <text x="260" y="25" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#333">塑料包装回收标志编码详解（1-7号）</text>
+
+  <!-- 01 PET -->
+  <g transform="translate(30,50)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#228B22">01</text>
+    <text x="35" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">PET</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">聚酯</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">饮料瓶</text>
+  </g>
+
+  <!-- 02 HDPE -->
+  <g transform="translate(120,50)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#228B22">02</text>
+    <text x="35" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">HDPE</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">高密度PE</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">洗护瓶</text>
+  </g>
+
+  <!-- 03 PVC -->
+  <g transform="translate(210,50)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#228B22">03</text>
+    <text x="35" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">PVC</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">聚氯乙烯</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">管道/膜</text>
+  </g>
+
+  <!-- 04 LDPE -->
+  <g transform="translate(300,50)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#228B22">04</text>
+    <text x="35" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">LDPE</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">低密度PE</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">保鲜膜</text>
+  </g>
+
+  <!-- 05 PP -->
+  <g transform="translate(390,50)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#228B22">05</text>
+    <text x="35" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">PP</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">聚丙烯</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">微波餐盒</text>
+  </g>
+
+  <!-- 06 PS -->
+  <g transform="translate(75,170)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#228B22">06</text>
+    <text x="35" y="78" text-anchor="middle" font-size="11" font-weight="bold" fill="#333">PS</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">聚苯乙烯</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">快餐盒</text>
+  </g>
+
+  <!-- 07 OTHER -->
+  <g transform="translate(165,170)">
+    <polygon points="35,5 60,20 60,50 35,65 10,50 10,20" fill="none" stroke="#228B22" stroke-width="2"/>
+    <text x="35" y="35" text-anchor="middle" font-size="14" font-weight="bold" fill="#228B22">07</text>
+    <text x="35" y="78" text-anchor="middle" font-size="10" font-weight="bold" fill="#333">OTHER</text>
+    <text x="35" y="92" text-anchor="middle" font-size="9" fill="#666">其他塑料</text>
+    <text x="35" y="106" text-anchor="middle" font-size="8" fill="#999">PC/PLA</text>
+  </g>
+
+  <!-- 说明区 -->
+  <g transform="translate(260,160)">
+    <rect x="0" y="0" width="230" height="120" fill="#fff" stroke="#ccc" stroke-width="1" rx="5"/>
+    <text x="115" y="20" text-anchor="middle" font-size="12" font-weight="bold" fill="#333">安全提示</text>
+    <text x="10" y="40" font-size="10" fill="#666">★ 05号PP：唯一可微波加热</text>
+    <text x="10" y="56" font-size="10" fill="#666">★ 01号PET：不耐热，不宜装热水</text>
+    <text x="10" y="72" font-size="10" fill="#666">★ 03号PVC：高温释放有害物</text>
+    <text x="10" y="88" font-size="10" fill="#666">★ 06号PS：高温释放苯乙烯</text>
+    <text x="10" y="104" font-size="10" fill="#666">★ 07号PC：含双酚A，慎用</text>
+  </g>
+
+  <!-- 洁博利包装应用 -->
+  <g transform="translate(30,270)">
+    <rect x="0" y="0" width="460" height="70" fill="#e8f5e9" stroke="#4caf50" stroke-width="1" rx="5"/>
+    <text x="230" y="20" text-anchor="middle" font-size="12" font-weight="bold" fill="#2e7d32">洁博利产品包装应用</text>
+    <text x="10" y="40" font-size="10" fill="#555">外包装纸箱：20 PAP（瓦楞纸板），可100%回收</text>
+    <text x="10" y="55" font-size="10" fill="#555">内衬泡沫：06 PS（聚苯乙烯泡沫），缓冲保护</text>
+    <text x="240" y="40" font-size="10" fill="#555">说明书塑封袋：04 LDPE（低密度PE）</text>
+    <text x="240" y="55" font-size="10" fill="#555">配件袋：05 PP（聚丙烯），可回收</text>
+  </g>
+</svg>

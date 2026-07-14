@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+
+    <defs>
+        <style>
+            .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+            .label { font: 12px sans-serif; fill: #333; }
+            .val { font: 11px monospace; fill: #555; }
+            .arrow { stroke: #20a0a0; stroke-width: 2; marker-end: url(#arrowhead); }
+            .dashed { stroke: #888; stroke-width: 1.5; stroke-dasharray: 6 3; }
+            .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+            .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+            .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+            .target { fill: #ffcc80; stroke: #e65100; stroke-width: 2; }
+            .dim { stroke: #aaa; stroke-width: 1; }
+        </style>
+        <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+        </marker>
+    </defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">图1：毫米波FMCW调频连续波测距原理 — 频率差测距</text>
+    <!-- 发射信号 -->
+    <text x="80" y="80" class="label" fill="#e65100">发射 FMCW 调频连续波</text>
+    <polyline points="80,110 150,110 200,90 250,110 300,90 350,110 400,90 450,110 500,90 550,110" stroke="#e65100" stroke-width="2" fill="none" />
+    <text x="80" y="130" class="val">f₀ → f₀+Δf  锯齿波调制</text>
+    <!-- 接收信号（延迟） -->
+    <text x="80" y="200" class="label" fill="#20a0a0">接收信号（延迟 Δt）</text>
+    <polyline points="80,230 150,230 200,210 250,230 300,210 350,230 400,210 450,230 500,210 550,230" stroke="#20a0a0" stroke-width="2" fill="none" />
+    <text x="80" y="250" class="val">延迟 Δt = 2d/c</text>
+    <!-- 混频器 -->
+    <rect x="300" y="280" width="80" height="40" class="box" />
+    <text x="340" y="305" class="label" text-anchor="middle" fill="#0f4c4c">混频器</text>
+    <line x1="200" y1="130" x2="300" y2="295" stroke="#e65100" stroke-width="1" />
+    <line x1="200" y1="250" x2="300" y2="305" stroke="#20a0a0" stroke-width="1" />
+    <!-- 中频信号 -->
+    <text x="450" y="305" class="label" fill="#2e7d32">中频信号 IF = f_tx - f_rx</text>
+    <line x1="380" y1="300" x2="450" y2="300" stroke="#2e7d32" stroke-width="2" marker-end="url(#arrowhead)" />
+    <polyline points="450,300 480,290 510,310 540,290 570,310 600,295 630,305 660,295 690,305" stroke="#2e7d32" stroke-width="2" fill="none" />
+    <!-- 公式 -->
+    <rect x="250" y="390" width="300" height="55" class="box2" />
+    <text x="400" y="415" class="label" text-anchor="middle" fill="#1a1a2e">Δf = S · Δt = S · 2d/c</text>
+    <text x="400" y="435" class="val" text-anchor="middle">d = Δf · c / (2S)  S:调频斜率</text>
+    <text x="400" y="450" class="val" text-anchor="middle">24GHz/60GHz频段  精度 ±3cm</text>
+</svg>

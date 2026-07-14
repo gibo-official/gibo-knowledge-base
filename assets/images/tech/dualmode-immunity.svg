@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">双模强光免疫效果 — 普通 vs 双模算法对比</text>
+    <polyline points="80,150 200,148 220,155 290,160 360,170 430,185 500,200 570,220 640,250 710,280" stroke="#c62828" stroke-width="2" fill="none"/>
+    <text x="720" y="275" class="val" fill="#c62828">普通：感应距离↓</text>
+    <polyline points="80,150 150,150 220,149 290,150 360,150 430,149 500,150 570,150 640,149 710,150" stroke="#2e7d32" stroke-width="2" fill="none"/>
+    <text x="720" y="145" class="val" fill="#2e7d32">双模：感应距离稳定</text>
+    <line x1="80" y1="320" x2="710" y2="320" stroke="#333" stroke-width="1"/>
+    <text x="720" y="315" class="val">环境光(lux)→</text>
+    <polyline points="80,320 200,310 350,290 500,260 600,230 710,200" stroke="#e65100" stroke-width="1.5" fill="none" stroke-dasharray="4 2"/>
+    <text x="720" y="195" class="val" fill="#e65100">环境光↑</text>
+    <rect x="150" y="380" width="500" height="50" class="box3"/>
+    <text x="400" y="405" class="label" text-anchor="middle">双模强光免疫：环境光变化对感应距离影响&lt;5%（普通≥50%）</text>
+    <text x="400" y="435" class="val" text-anchor="middle">测试标准：100k lux强光下，感应距离变化率≤5%</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+
+    <defs>
+        <style>
+            .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+            .label { font: 12px sans-serif; fill: #333; }
+            .val { font: 11px monospace; fill: #555; }
+            .arrow { stroke: #20a0a0; stroke-width: 2; marker-end: url(#arrowhead); }
+            .dashed { stroke: #888; stroke-width: 1.5; stroke-dasharray: 6 3; }
+            .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+            .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+            .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+            .target { fill: #ffcc80; stroke: #e65100; stroke-width: 2; }
+            .dim { stroke: #aaa; stroke-width: 1; }
+        </style>
+        <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+        </marker>
+    </defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">图2：毫米波感应硬件架构 — 天线+射频+MCU</text>
+    <!-- 天线 -->
+    <rect x="80" y="120" width="80" height="50" class="box" />
+    <text x="120" y="150" class="label" text-anchor="middle" fill="#0f4c4c">毫米波天线</text>
+    <!-- 射频前端 -->
+    <rect x="220" y="120" width="100" height="50" class="box" />
+    <text x="270" y="150" class="label" text-anchor="middle" fill="#0f4c4c">射频前端</text>
+    <line x1="160" y1="145" x2="220" y2="145" stroke="#20a0a0" stroke-width="2" marker-end="url(#arrowhead)" />
+    <!-- 混频器 -->
+    <rect x="370" y="120" width="80" height="50" class="box" />
+    <text x="410" y="150" class="label" text-anchor="middle" fill="#0f4c4c">混频器</text>
+    <line x1="320" y1="145" x2="370" y2="145" stroke="#20a0a0" stroke-width="2" marker-end="url(#arrowhead)" />
+    <!-- ADC -->
+    <rect x="500" y="120" width="70" height="50" class="box" />
+    <text x="535" y="150" class="label" text-anchor="middle" fill="#0f4c4c">ADC</text>
+    <line x1="450" y1="145" x2="500" y2="145" stroke="#20a0a0" stroke-width="2" marker-end="url(#arrowhead)" />
+    <!-- MCU -->
+    <rect x="620" y="120" width="90" height="50" class="box3" />
+    <text x="665" y="150" class="label" text-anchor="middle" fill="#1a1a2e">MCU</text>
+    <line x1="570" y1="145" x2="620" y2="145" stroke="#20a0a0" stroke-width="2" marker-end="url(#arrowhead)" />
+    <!-- FFT处理 -->
+    <rect x="620" y="210" width="90" height="45" class="box3" />
+    <text x="665" y="238" class="label" text-anchor="middle" fill="#1a1a2e">FFT处理</text>
+    <line x1="665" y1="170" x2="665" y2="210" stroke="#20a0a0" stroke-width="1" />
+    <!-- 距离解算 -->
+    <rect x="620" y="290" width="90" height="45" class="box3" />
+    <text x="665" y="318" class="label" text-anchor="middle" fill="#1a1a2e">距离解算</text>
+    <line x1="665" y1="255" x2="665" y2="290" stroke="#20a0a0" stroke-width="1" />
+    <!-- 输出 -->
+    <rect x="620" y="380" width="90" height="45" class="box" />
+    <text x="665" y="408" class="label" text-anchor="middle" fill="#0f4c4c">UART/I²C输出</text>
+    <line x1="665" y1="335" x2="665" y2="380" stroke="#20a0a0" stroke-width="1" />
+    <!-- 电源 -->
+    <rect x="80" y="380" width="90" height="45" class="box2" />
+    <text x="125" y="408" class="label" text-anchor="middle" fill="#1a1a2e">电源管理</text>
+    <line x1="125" y1="380" x2="125" y2="170" stroke="#e65100" stroke-width="1" stroke-dasharray="4 2" />
+    <text x="60" y="280" class="val" text-anchor="start">3.3V</text>
+    <!-- 标注 -->
+    <text x="400" y="470" class="val" text-anchor="middle">24GHz/60GHz频段 | 探测距离0.1-10m | 精度±3cm | 不受温度/湿度影响</text>
+</svg>

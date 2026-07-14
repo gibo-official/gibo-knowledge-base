@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">IoT通信协议栈 — MQTT/CoAP/LwM2M对比</text>
+    <rect x="80" y="100" width="180" height="80" class="box"/><text x="170" y="125" class="label" text-anchor="middle">MQTT</text><text x="170" y="150" class="val" text-anchor="middle">TCP/发布订阅</text><text x="170" y="175" class="val" text-anchor="middle">适合Wi-Fi/4G</text>
+    <rect x="310" y="100" width="180" height="80" class="box2"/><text x="400" y="125" class="label" text-anchor="middle">CoAP</text><text x="400" y="150" class="val" text-anchor="middle">UDP/RESTful</text><text x="400" y="175" class="val" text-anchor="middle">适合NB-IoT</text>
+    <rect x="540" y="100" width="180" height="80" class="box3"/><text x="630" y="125" class="label" text-anchor="middle">LwM2M</text><text x="630" y="150" class="val" text-anchor="middle">UDP/轻量级M2M</text><text x="630" y="175" class="val" text-anchor="middle">适合NB-IoT</text>
+    <rect x="80" y="220" width="640" height="120" class="box3"/>
+    <text x="400" y="245" class="label" text-anchor="middle">协议对比</text>
+    <text x="170" y="275" class="val">MQTT：QoS 0-2，带宽占用低，适合移动网络</text>
+    <text x="400" y="275" class="val" text-anchor="middle">CoAP：可选确认，低功耗，UDP传输</text>
+    <text x="630" y="275" class="val" text-anchor="middle">LwM2M：可靠传输，设备管理标准化</text>
+    <text x="400" y="330" class="val" text-anchor="middle">洁博利方案：Wi-Fi→MQTT | NB-IoT→LwM2M | 云平台：阿里云IoT/腾讯云IoT</text>
+    <text x="400" y="370" class="val" text-anchor="middle">远程监控：用水量统计/故障报警/固件OTA升级/用能分析</text>
+</svg>

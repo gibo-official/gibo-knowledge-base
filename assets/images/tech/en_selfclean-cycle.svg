@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">自洁防堵工作流程 — 正常→检测→自洁→恢复</text>
+    <rect x="80" y="100" width="140" height="50" class="box3"/><text x="150" y="130" class="label" text-anchor="middle">正常出水</text>
+    <path d="M 220,125 L 280,125 L 280,125 L 350,125" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <rect x="350" y="100" width="140" height="50" class="box"/><text x="420" y="130" class="label" text-anchor="middle">检测水压降</text>
+    <path d="M 490,125 L 550,125 L 550,125 L 620,125" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <rect x="620" y="100" width="140" height="50" class="box2"/><text x="690" y="130" class="label" text-anchor="middle">反向冲洗</text>
+    <path d="M 620,150 L 550,150 L 550,150 L 420,150 L 420,170 L 350,170" stroke="#2e7d32" stroke-width="2"/>
+    <rect x="350" y="170" width="140" height="50" class="box3"/><text x="420" y="200" class="label" text-anchor="middle">恢复出水</text>
+    <path d="M 690,150 L 690,230 L 550,230" stroke="#c62828" stroke-width="1" stroke-dasharray="4 2"/>
+    <rect x="420" y="240" width="140" height="50" fill="#ffcdd2" stroke="#c62828" rx="4"/>
+    <text x="490" y="265" class="val" text-anchor="middle" fill="#c62828">自洁无效→报警</text>
+    <text x="400" y="370" class="val" text-anchor="middle">自洁防堵：反向冲洗+脉冲震动→清除过滤网杂质→维护周期延长5倍</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">低水锤电磁阀设计 — 分段关闭+缓冲结构</text>
+    <text x="200" y="80" class="label" text-anchor="middle" fill="#c62828">普通电磁阀（快速关闭）</text>
+    <polyline points="80,150 200,150 200,250 250,250" stroke="#c62828" stroke-width="2" fill="none"/>
+    <text x="260" y="245" class="val" fill="#c62828">关闭10ms</text>
+    <polyline points="80,320 150,320 200,280 250,350 300,320" stroke="#e65100" stroke-width="2" fill="none"/>
+    <text x="200" y="275" class="val" fill="#e65100">压力峰值1.5MPa</text>
+    <text x="600" y="80" class="label" text-anchor="middle" fill="#2e7d32">低水锤电磁阀（分段关闭）</text>
+    <polyline points="480,150 550,150 600,180 650,220 700,250" stroke="#2e7d32" stroke-width="2" fill="none"/>
+    <text x="710" y="245" class="val" fill="#2e7d32">关闭80ms（分段）</text>
+    <polyline points="480,320 520,320 580,310 640,315 700,320" stroke="#20a0a0" stroke-width="2" fill="none"/>
+    <text x="600" y="305" class="val" fill="#20a0a0">压力峰值0.4MPa</text>
+    <rect x="150" y="400" width="500" height="50" class="box3"/>
+    <text x="400" y="425" class="label" text-anchor="middle">分段关闭：先快关70%→慢关30% → 压力峰值降低70%</text>
+    <text x="400" y="455" class="val" text-anchor="middle">噪音&lt;35dB（普通&gt;60dB）| 管道寿命延长3倍</text>
+</svg>

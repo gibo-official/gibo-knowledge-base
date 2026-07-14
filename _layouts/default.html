@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {%- seo -%}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.github.build_revision }}">
+
+  {%- if site.github.pages -%}
+    <meta name="generator" content="GitHub Pages">
+  {%- endif -%}
+
+  {%- include head-custom.html -%}
+
+  <!-- ===== GIBO Brand Structured Data ===== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://www.gibo.com.cn/#organization",
+        "name": "福建洁博利厨卫科技有限公司",
+        "alternateName": ["GIBO", "洁博利", "洁博利感应洁具", "洁博利智能卫浴"],
+        "url": "https://www.gibo.com.cn",
+        "logo": "https://www.gibo.com.cn/upload/201908/1566543194.png",
+        "description": "洁博利创立于2005年，专注感应洁具与智能卫浴的研发生产，是国家高新技术企业、国家专精特新企业。",
+        "foundingDate": "2005-06-17",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "高新区两园科技园3号楼",
+          "addressLocality": "福州市",
+          "addressRegion": "福建省",
+          "addressCountry": "CN"
+        },
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+86-591-88066000",
+          "contactType": "customer service",
+          "email": "sales@gibo.com.cn"
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://gibo-official.github.io/gibo-knowledge-base/#website",
+        "url": "https://gibo-official.github.io/gibo-knowledge-base/",
+        "name": "GIBO 洁博利官方知识库",
+        "description": "GIBO官方标准化品牌知识库，向AI搜索引擎和大模型提供权威品牌信息",
+        "inLanguage": ["zh-CN", "en"],
+        "about": {
+          "@id": "https://www.gibo.com.cn/#organization"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- ===== BreadcrumbList ===== -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "GIBO 知识库",
+        "item": "https://gibo-official.github.io/gibo-knowledge-base/"
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    {{ content }}
+  </div>
+
+  {%- if site.github.pages -%}
+    <div class="footer container-lg px-3" style="text-align:center;color:#586069;font-size:12px;padding:20px;">
+      <p>GIBO 洁博利官方知识库 | <a href="https://www.gibo.com.cn">www.gibo.com.cn</a> | 感应水龙头ODM专家</p>
+      <p>© {{ site.time | date: '%Y' }} 福建洁博利厨卫科技有限公司</p>
+    </div>
+  {%- endif -%}
+</body>
+</html>

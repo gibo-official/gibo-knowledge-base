@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+
+    <defs>
+        <style>
+            .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+            .label { font: 12px sans-serif; fill: #333; }
+            .val { font: 11px monospace; fill: #555; }
+            .arrow { stroke: #20a0a0; stroke-width: 2; marker-end: url(#arrowhead); }
+            .dashed { stroke: #888; stroke-width: 1.5; stroke-dasharray: 6 3; }
+            .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+            .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+            .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+            .target { fill: #ffcc80; stroke: #e65100; stroke-width: 2; }
+            .dim { stroke: #aaa; stroke-width: 1; }
+        </style>
+        <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+            <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+        </marker>
+    </defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">图2：电容触控面板布局 — 感应电极排列</text>
+    <!-- 3x3电极阵列 -->
+    <text x="400" y="70" class="label" text-anchor="middle" fill="#1a1a2e">自电容扫描电极阵列（3×3示例）</text>
+    <!-- 画电极 -->
+    <rect x="200" y="120" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="200" y="180" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="200" y="240" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="260" y="120" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="260" y="180" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="260" y="240" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="320" y="120" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="320" y="180" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" /><rect x="320" y="240" width="50" height="50" fill="none" stroke="#20a0a0" stroke-width="2" rx="4" />
+    <text x="225" y="150" class="val" text-anchor="middle" fill="#555">A1</text><text x="225" y="210" class="val" text-anchor="middle" fill="#555">A2</text><text x="225" y="270" class="val" text-anchor="middle" fill="#555">A3</text><text x="285" y="150" class="val" text-anchor="middle" fill="#555">B1</text><text x="285" y="210" class="val" text-anchor="middle" fill="#555">B2</text><text x="285" y="270" class="val" text-anchor="middle" fill="#555">B3</text><text x="345" y="150" class="val" text-anchor="middle" fill="#555">C1</text><text x="345" y="210" class="val" text-anchor="middle" fill="#555">C2</text><text x="345" y="270" class="val" text-anchor="middle" fill="#555">C3</text>
+    <!-- 扫描顺序箭头 -->
+    <path d="M 225,105 L 285,105 L 285,95 L 305,110 L 285,125 L 285,115 L 225,115 Z" fill="#e65100" />
+    <text x="270" y="90" class="val" text-anchor="middle" fill="#e65100">扫描</text>
+    <!-- 感应线 -->
+    <text x="80" y="160" class="label" fill="#0f4c4c">感应线</text>
+    <line x1="80" y1="145" x2="200" y2="145" stroke="#20a0a0" stroke-width="1" stroke-dasharray="3 2" /><line x1="80" y1="205" x2="200" y2="205" stroke="#20a0a0" stroke-width="1" stroke-dasharray="3 2" /><line x1="80" y1="265" x2="200" y2="265" stroke="#20a0a0" stroke-width="1" stroke-dasharray="3 2" />
+    <!-- 驱动线 -->
+    <text x="420" y="330" class="label" fill="#0f4c4c">驱动线</text>
+    <line x1="200" y1="330" x2="200" y2="120" stroke="#e65100" stroke-width="1" stroke-dasharray="3 2" /><line x1="260" y1="330" x2="260" y2="120" stroke="#e65100" stroke-width="1" stroke-dasharray="3 2" /><line x1="320" y1="330" x2="320" y2="120" stroke="#e65100" stroke-width="1" stroke-dasharray="3 2" />
+    <!-- MCU -->
+    <rect x="600" y="180" width="100" height="60" class="box3" />
+    <text x="650" y="215" class="label" text-anchor="middle" fill="#1a1a2e">MCU扫描控制</text>
+    <!-- 连接 -->
+    <line x1="250" y1="145" x2="600" y2="195" stroke="#20a0a0" stroke-width="1" /><line x1="250" y1="205" x2="600" y2="205" stroke="#20a0a0" stroke-width="1" /><line x1="250" y1="265" x2="600" y2="215" stroke="#20a0a0" stroke-width="1" />
+    <!-- 多点触控检测 -->
+    <rect x="150" y="400" width="500" height="70" class="box2" />
+    <text x="400" y="425" class="label" text-anchor="middle" fill="#1a1a2e">多点触控检测：同时扫描多行多列</text>
+    <text x="400" y="450" class="val" text-anchor="middle">互电容模式：Tx驱动 + Rx接收  |  自电容模式：单电极对地电容</text>
+    <text x="400" y="470" class="val" text-anchor="middle">防水设计：使用虚拟电极消除水膜干扰</text>
+</svg>

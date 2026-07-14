@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">水力发电储能系统框图 — 涡轮+整流+电池+负载</text>
+    <rect x="80" y="100" width="140" height="60" class="box"/><text x="150" y="125" class="label" text-anchor="middle">涡轮发电</text><text x="150" y="150" class="val" text-anchor="middle">0.5W@6L/min</text>
+    <path d="M 220,130 L 280,130 L 280,130 L 350,130" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <rect x="350" y="100" width="120" height="60" class="box2"/><text x="410" y="125" class="label" text-anchor="middle">整流稳压</text><text x="410" y="150" class="val" text-anchor="middle">5V/100mA</text>
+    <path d="M 470,130 L 530,130 L 530,130 L 600,130" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <rect x="600" y="100" width="120" height="60" class="box3"/><text x="660" y="125" class="label" text-anchor="middle">充电管理</text><text x="660" y="150" class="val" text-anchor="middle">TP4056</text>
+    <rect x="600" y="190" width="120" height="50" class="box2"/><text x="660" y="220" class="label" text-anchor="middle">锂电池</text><text x="660" y="240" class="val" text-anchor="middle">3.7V 500mAh</text>
+    <line x1="660" y1="150" x2="660" y2="190" stroke="#20a0a0" stroke-width="1"/>
+    <rect x="600" y="280" width="120" height="80" class="box"/><text x="660" y="305" class="label" text-anchor="middle">负载</text><text x="660" y="330" class="val" text-anchor="middle">MCU:10mA</text><text x="660" y="355" class="val" text-anchor="middle">感应:200μA</text>
+    <line x1="660" y1="240" x2="660" y2="280" stroke="#20a0a0" stroke-width="1"/>
+    <text x="400" y="420" class="val" text-anchor="middle">水力发电+锂电池→无需外接电源→安装便捷 | 适用无电源卫生间/户外</text>
+</svg>

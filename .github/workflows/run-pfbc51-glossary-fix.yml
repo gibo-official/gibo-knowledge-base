@@ -1,0 +1,116 @@
+# =============================================================================
+# run-pfbc51-glossary-fix.yml — 手动触发：部署产品分类术语对齐修复
+# =============================================================================
+# 修复:
+#   1. Shower Sensor → Sensor Shower (分类 ID=154)
+#   2. Concealed Toilet Cistern → Concealed Sensor Water Tank (分类 ID=249)
+#   3. 同步更新分类下产品名称
+# =============================================================================
+name: 📋 Deploy PFBC-51 Glossary Fix
+
+on:
+  workflow_dispatch:
+
+env:
+  PROD_HOST: www.gibo.com.cn
+  PROD_USER: root
+  CONTAINER: gibo2_905xu
+  REMOTE_SCRIPT: /tmp/pfbc51_glossary_fix.php
+
+jobs:
+  deploy-glossary-fix:
+    name: 📋 部署产品分类术语对齐修复
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🔑 Set up SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ env.PROD_HOST }} >> ~/.ssh/known_hosts
+
+      - name: 📤 Upload fix script to container
+        run: |
+          cat ops/fix-pfbc51-glossary.php | ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec -i ${{ env.CONTAINER }} sh -c 'cat > ${{ env.REMOTE_SCRIPT }} && echo Upload OK && wc -c ${{ env.REMOTE_SCRIPT }}'"
+
+      - name: ⚡ Execute fix script
+        run: |
+          echo "=== 执行分类术语修复 ==="
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} php ${{ env.REMOTE_SCRIPT }}"
+
+      - name: ✅ Verify category 154 (Sensor Shower)
+        run: |
+          echo "=== 验证分类 154 (Sensor Shower) ==="
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} sh -c 'curl -s http://localhost/product/list-154.html | grep -o \"Sensor Shower\" | head -3'"
+          echo ""
+          echo "=== 确认旧名称无残留 ==="
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} sh -c 'curl -s http://localhost/product/list-154.html | grep -c \"Shower Sensor\"'"
+          FIX154=$(ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} sh -c 'curl -s http://localhost/product/list-154.html | grep -c \"Shower Sensor\"'")
+          if [ "$FIX154" -le 1 ]; then
+            echo "✅ 分类 154 修复成功"
+          else
+            echo "⚠️  分类 154 仍有 $FIX154 处旧名称残留"
+          fi
+
+      - name: ✅ Verify category 249 (Concealed Sensor Water Tank)
+        run: |
+          echo "=== 验证分类 249 (Concealed Sensor Water Tank) ==="
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} sh -c 'curl -s http://localhost/product/list-249.html | grep -o \"Concealed Sensor Water Tank\" | head -3'"
+          echo ""
+          echo "=== 确认旧名称无残留 ==="
+          FIX249=$(ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} sh -c 'curl -s http://localhost/product/list-249.html | grep -c \"Concealed Toilet Cistern\"'")
+          if [ "$FIX249" -le 1 ]; then
+            echo "✅ 分类 249 修复成功"
+          else
+            echo "⚠️  分类 249 仍有 $FIX249 处旧名称残留"
+          fi
+
+      - name: 🌐 Verify from external
+        run: |
+          echo "=== 外网验证 ==="
+          echo "--- 分类 154 (Sensor Shower) ---"
+          curl -sk https://www.gibosensor.com/product/list-154.html 2>/dev/null | grep -o 'Sensor Shower' | head -3 || echo "⚠️  外网不可达或 CDN 缓存未更新"
+
+          echo ""
+          echo "--- 分类 249 (Concealed Sensor Water Tank) ---"
+          curl -sk https://www.gibosensor.com/product/list-249.html 2>/dev/null | grep -o 'Concealed Sensor Water Tank' | head -3 || echo "⚠️  外网不可达或 CDN 缓存未更新"
+
+      - name: 🔍 Check PHP errors
+        run: |
+          echo "=== 检查 PHP 错误 ==="
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} tail -5 /var/log/php_errors.log 2>/dev/null || echo '无 PHP 错误日志'"
+          echo ""
+          echo "=== 检查 Apache 错误 ==="
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} tail -5 /var/log/apache2/error.log 2>/dev/null || echo '无 Apache 错误日志'"
+
+      - name: 🧹 Cleanup
+        run: |
+          ssh ${{ env.PROD_USER }}@${{ env.PROD_HOST }} \
+            "docker exec ${{ env.CONTAINER }} rm -f ${{ env.REMOTE_SCRIPT }} && echo Cleanup OK"
+
+      - name: 📊 Summary
+        run: |
+          echo "========================================"
+          echo "  部署完成"
+          echo "========================================"
+          echo "  修复内容:"
+          echo "    - Shower Sensor → Sensor Shower (ID=154)"
+          echo "    - Concealed Toilet Cistern → Concealed Sensor Water Tank (ID=249)"
+          echo "    - 同步更新分类下产品名称"
+          echo "  验证链接:"
+          echo "    - https://www.gibosensor.com/product/list-154.html"
+          echo "    - https://www.gibosensor.com/product/list-249.html"
+          echo "  回滚: 数据库中 met_column.name 的 .bak 文件"
+          echo "========================================"

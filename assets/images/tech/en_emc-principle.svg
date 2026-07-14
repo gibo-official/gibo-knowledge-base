@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">军工级电磁兼容设计 — 滤波/屏蔽/接地三维防护</text>
+    <rect x="80" y="100" width="140" height="80" class="box"/><text x="150" y="125" class="label" text-anchor="middle">滤波设计</text><text x="150" y="150" class="val" text-anchor="middle">电源EMI滤波器</text><text x="150" y="175" class="val" text-anchor="middle">信号RC滤波</text>
+    <rect x="280" y="100" width="140" height="80" class="box2"/><text x="350" y="125" class="label" text-anchor="middle">屏蔽设计</text><text x="350" y="150" class="val" text-anchor="middle">金属屏蔽罩</text><text x="350" y="175" class="val" text-anchor="middle">PCB接地覆铜</text>
+    <rect x="480" y="100" width="140" height="80" class="box3"/><text x="550" y="125" class="label" text-anchor="middle">接地设计</text><text x="550" y="150" class="val" text-anchor="middle">单点接地</text><text x="550" y="175" class="val" text-anchor="middle">低阻抗回流</text>
+    <rect x="80" y="250" width="90" height="35" fill="#ffcdd2" stroke="#c62828" rx="4"/><text x="125" y="275" class="val" text-anchor="middle">电机</text>
+    <rect x="200" y="250" width="90" height="35" fill="#ffcdd2" stroke="#c62828" rx="4"/><text x="245" y="275" class="val" text-anchor="middle">继电器</text>
+    <rect x="320" y="250" width="90" height="35" fill="#ffcdd2" stroke="#c62828" rx="4"/><text x="365" y="275" class="val" text-anchor="middle">手机信号</text>
+    <rect x="440" y="250" width="90" height="35" fill="#ffcdd2" stroke="#c62828" rx="4"/><text x="485" y="275" class="val" text-anchor="middle">静电放电</text>
+    <text x="400" y="340" class="val" text-anchor="middle">三维防护：干扰抑制&gt;40dB | 通过GB/T 17626全部测试项</text>
+    <text x="400" y="370" class="val" text-anchor="middle">静电：±15kV（空气）/±8kV（接触）| 群脉冲：±4kV | 辐射抗扰：10V/m</text>
+</svg>

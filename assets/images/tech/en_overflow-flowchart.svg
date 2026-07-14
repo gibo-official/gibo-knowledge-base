@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">防溢水断电控制流程 — 检测→判断→切断→报警</text>
+    <rect x="80" y="80" width="140" height="60" class="box3"/><text x="150" y="105" class="label" text-anchor="middle">正常状态</text><text x="150" y="130" class="val" text-anchor="middle">水位正常</text>
+    <path d="M 220,110 L 280,110 L 280,110 L 350,110" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <rect x="350" y="80" width="140" height="60" class="box"/><text x="420" y="105" class="label" text-anchor="middle">水位检测</text><text x="420" y="130" class="val" text-anchor="middle">电容式±1mm</text>
+    <path d="M 490,110 L 550,110 L 550,110 L 620,110" stroke="#20a0a0" stroke-width="2" marker-end="url(#ah)"/>
+    <rect x="620" y="80" width="140" height="60" class="box3"/><text x="690" y="150" class="label" text-anchor="middle">水位&gt;阈值？</text>
+    <path d="M 690,140 L 690,170 L 550,170" stroke="#333" stroke-width="1"/><text x="650" y="160" class="val" fill="#2e7d32">否→继续</text>
+    <path d="M 690,140 L 690,200" stroke="#c62828" stroke-width="1"/><text x="700" y="195" class="val" fill="#c62828">是</text>
+    <rect x="620" y="210" width="140" height="100" fill="#ffcdd2" stroke="#c62828" rx="4"/>
+    <text x="690" y="235" class="val" text-anchor="middle">1.关阀</text>
+    <text x="690" y="260" class="val" text-anchor="middle">2.报警</text>
+    <text x="690" y="285" class="val" text-anchor="middle">3.显示E1</text>
+    <text x="400" y="380" class="val" text-anchor="middle">响应时间&lt;100ms | 水位检测周期10ms | 误报率&lt;0.1%</text>
+    <text x="400" y="410" class="val" text-anchor="middle">通过CJ/T 194-2014《卫生间智能控制器》标准</text>
+</svg>

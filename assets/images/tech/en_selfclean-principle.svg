@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" width="800" height="480">
+<defs>
+  <style>
+    .title { font: bold 16px sans-serif; fill: #1a1a2e; }
+    .label { font: 12px sans-serif; fill: #333; }
+    .val { font: 11px monospace; fill: #555; }
+    .box { fill: #e0f7fa; stroke: #20a0a0; stroke-width: 2; rx: 6; }
+    .box2 { fill: #fff3e0; stroke: #e65100; stroke-width: 2; rx: 6; }
+    .box3 { fill: #e8f5e9; stroke: #2e7d32; stroke-width: 2; rx: 6; }
+  </style>
+  <marker id="ah" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#20a0a0" />
+  </marker>
+</defs>
+
+    <text x="400" y="30" class="title" text-anchor="middle">电磁阀自洁防堵原理 — 反向冲洗+脉冲震动</text>
+    <line x1="80" y1="200" x2="250" y2="200" stroke="#1976d2" stroke-width="6"/>
+    <text x="150" y="190" class="val" fill="#1976d2">进水</text>
+    <rect x="250" y="160" width="80" height="80" class="box2"/><text x="290" y="205" class="label" text-anchor="middle">电磁阀</text>
+    <circle cx="200" cy="200" r="5" fill="#795548"/><circle cx="220" cy="195" r="4" fill="#795548"/>
+    <text x="200" y="230" class="val" fill="#795548">水中杂质</text>
+    <rect x="350" y="160" width="10" height="80" fill="#999" stroke="#333" stroke-width="1"/>
+    <text x="355" y="260" class="val" text-anchor="middle">过滤网</text>
+    <ellipse cx="330" cy="220" rx="30" ry="20" fill="#795548" opacity="0.5"/>
+    <text x="330" y="265" class="val" fill="#795548">杂质堆积</text>
+    <rect x="500" y="300" width="120" height="50" class="box"/><text x="560" y="330" class="label" text-anchor="middle">自洁触发</text>
+    <path d="M 550,300 L 550,270 L 400,270 L 400,180" stroke="#e65100" stroke-width="2" marker-end="url(#ah)"/>
+    <text x="470" y="260" class="val" fill="#e65100">反向水流</text>
+    <text x="400" y="400" class="val" text-anchor="middle">自洁：定期反向冲洗过滤网→清除杂质→防止堵塞 | 周期：每100次开关</text>
+    <text x="400" y="430" class="val" text-anchor="middle">冲洗时间：2秒 | 适用水质：自来水/中水/井水</text>
+</svg>
