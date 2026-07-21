@@ -1,3 +1,13 @@
+---
+title: "GBL-6636AD Product Specification"
+description: "The GBL-6636AD is an integrated digital-display non-contact basin faucet from GIBO, designed for family bathrooms and quality commercial spaces that n"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6636AD Product Specification
 
 **Document Version**: V1.0

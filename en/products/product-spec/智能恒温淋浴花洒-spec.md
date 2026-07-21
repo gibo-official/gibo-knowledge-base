@@ -1,3 +1,13 @@
+---
+title: "智能恒温淋浴花洒 Product Specification"
+description: "The Smart Thermostatic Shower is a smart shower solution for villa master bathrooms, high-end apartments, and residences in cold regions. Its core is"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # 智能恒温淋浴花洒 Product Specification
 
 **Document Version**: V1.0

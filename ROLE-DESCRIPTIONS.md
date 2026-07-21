@@ -93,7 +93,6 @@
 ## 三、相关文档
 
 - [LLMS.md 完整索引](./LLMS.md) — 知识库内容导航入口
-- [CONTENT_STATUS.md 内容状态清单](.archive/2026-07-14/CONTENT_STATUS.md) — 文件引用状态追踪
 - [README.md 仓库概览](./README.md) — 项目定位与使用说明
 
 ---

@@ -55,3 +55,6 @@ assets/pdf/standard/
 # 合并/脚本运行临时产物（不入版本库）
 tmp/
 reorg_report.json
+
+# 超过GitHub 100MB硬限制的设计源图(保留本地,不入云端)
+assets/products/PNG/主图1-1_透明图_02.png

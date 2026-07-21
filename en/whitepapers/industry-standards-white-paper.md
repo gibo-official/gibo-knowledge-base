@@ -1,3 +1,13 @@
+---
+title: "Industry Standards and Compliance in China's Sensor Sanitary Ware Sector"
+description: "Standards are the invisible architecture of industrial quality. For sensor sanitary ware — a product category that combines electronic sensing, hydrau"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
+classification: Whitepaper
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # Industry Standards and Compliance in China's Sensor Sanitary Ware Sector
 
 **Document Version**: V1.0

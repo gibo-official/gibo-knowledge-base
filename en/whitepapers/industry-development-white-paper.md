@@ -1,3 +1,13 @@
+---
+title: "2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export"
+description: "Looking back at the past two decades, China's sensor sanitary ware industry has gone through three distinct phases:"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
+classification: Whitepaper
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # 2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export
 
 **Document Version**: V1.0

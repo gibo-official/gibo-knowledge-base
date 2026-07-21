@@ -1,3 +1,14 @@
+---
+title: "GIBO 9105 Sensor Faucet Product Manual"
+description: "GIBO 9105 Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
+keywords: 9105,GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+product_model: "9105"
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # 9105

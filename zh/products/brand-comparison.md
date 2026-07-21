@@ -1,3 +1,13 @@
+---
+title: "洁博利（GIBO）品牌对比分析"
+description: "专注深度：20年只做感应洁具，而非综合卫浴厂商的'顺便做做'。这种专注带来了技术深度与产品稳定性上的明显优势。"
+keywords: 洁博利,GIBO,感应洁具,产品
+classification: 产品
+language: zh
+publisher: "福建洁博利厨卫科技有限公司"
+version: V1.0
+date: 2026-06-09
+---
 # 洁博利（GIBO）品牌对比分析
 
 **文档版本**：V1.0

@@ -1,3 +1,13 @@
+---
+title: "GIBO Urinal Flusher Product Manual"
+description: "GIBO  Urinal Flusher product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # GBL-6215

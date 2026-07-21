@@ -1,3 +1,13 @@
+---
+title: "GBL-6195 Product Specification"
+description: "The GBL-6195 Xiaoxibao 2nd Gen is an innovative product GIBO launched in 2018, condensing complex Sensor Faucet technology into a replaceable spout. U"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6195 Product Specification
 
 **Document Version**: V1.0

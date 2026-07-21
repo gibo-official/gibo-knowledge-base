@@ -1,3 +1,13 @@
+---
+title: "GIBO-触控厨房龙头控制组件 Product Specification"
+description: "The GIBO Capacitive Touch Kitchen Faucet Control Module (Product No. BC-KZH-9170D) is a capacitive-touch control assembly GIBO built for kitchen fauce"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GIBO-触控厨房龙头控制组件 Product Specification
 
 **Document Version**: V1.0

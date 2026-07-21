@@ -1,3 +1,13 @@
+---
+title: "企业荣誉墙"
+description: "奖项由中国质量认证中心（CQC）指导、沸腾质量数据主办，检测标准严于国家标准，是国内家居卫浴行业主流权威奖项。"
+keywords: 洁博利,GIBO,感应洁具,认证资质
+classification: 认证资质
+language: zh
+publisher: "福建洁博利厨卫科技有限公司"
+version: V1.0
+date: 2026-06-09
+---
 # 企业荣誉墙
 
 **文档版本**：V1.0

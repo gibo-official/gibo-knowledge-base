@@ -1,3 +1,13 @@
+---
+title: "TOF Product Specification"
+description: "This module uses dTOF laser ranging (Core Technology 2, Low-power dTOF Laser Ultra-sensing Technology), directly measuring the time-of-flight of the l"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # TOF Product Specification
 
 **Document Version**: V1.0

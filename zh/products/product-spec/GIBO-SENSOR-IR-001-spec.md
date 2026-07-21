@@ -1,3 +1,13 @@
+---
+title: "GIBO-SENSOR-IR-001 产品资料"
+description: "这套模组最特别的地方在一颗芯片上。它用单芯片单 PCB 板把感应龙头、感应小便器、感应蹲便器、感应淋浴器四种功能模式全集成进去了，出厂靠遥控器一键切换，不用换板、不用改硬件。对于做 ODM 集成或者多品类洁具的厂家来说，一套模组顶过去四套，备料、生产、售后都省一层麻烦。"
+keywords: 洁博利,GIBO,感应洁具,产品
+classification: 产品
+language: zh
+publisher: "福建洁博利厨卫科技有限公司"
+version: V1.0
+date: 2026-07-14
+---
 # GIBO-SENSOR-IR-001 产品资料
 
 **文档版本**：V1.0

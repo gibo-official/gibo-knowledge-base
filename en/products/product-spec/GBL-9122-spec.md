@@ -1,3 +1,13 @@
+---
+title: "GBL-9122 Product Specification"
+description: "The GBL-9122 is a sensor faucet with an instant-heating function: extend a hand and warm water comes out—no need to first drain half a basin of cold w"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-9122 Product Specification
 
 **Document Version**: V1.0

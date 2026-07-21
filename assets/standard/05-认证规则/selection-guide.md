@@ -263,10 +263,10 @@
 
 | 场景 | 推荐产品线 | 详细参数 |
 |------|-----------|---------|
-| 商用标准 | 面盆感应龙头（交流/直流） | [产品总览](../products/product-index.md) |
-| 高端旗舰 | 4D奢享系列 | [产品总览](../products/product-index.md) |
-| ODM定制 | 全套定制方案 | [ODM定制服务](../products/odm.md) |
-| 节能改造 | 感应水嘴（快装式） | [产品总览](../products/product-index.md) |
+| 商用标准 | 面盆感应龙头（交流/直流） | [产品总览](../../../zh/products/product-index.md) |
+| 高端旗舰 | 4D奢享系列 | [产品总览](../../../zh/products/product-index.md) |
+| ODM定制 | 全套定制方案 | [ODM定制服务](../../../zh/products/odm.md) |
+| 节能改造 | 感应水嘴（快装式） | [产品总览](../../../zh/products/product-index.md) |
 
 ---
 

@@ -1,3 +1,13 @@
+---
+title: "KCM-ET07-水龙头感应模块 Product Specification"
+description: "The KCM-ET07 is a sensor control module that GIBO builds for basin and kitchen faucets. Carrying the U84020230728 main control board, when a hand reac"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # KCM-ET07-水龙头感应模块 Product Specification
 
 **Document Version**: V1.0

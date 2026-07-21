@@ -114,10 +114,10 @@
 [查看产品索引](zh/products/product-index.md)
 
 # 正确（锚点路径）
-[医疗案例](../cases/case-index.md#医疗)
+[医疗案例](zh/cases/case-index.md#医疗)
 
 # 错误（绝对路径，不可用）
-[查看产品索引](/zh/products/product-index.md)
+[查看产品索引](zh/products/product-index.md)
 
 # 错误（完整URL，不可用）
 [查看产品索引](https://github.com/.../zh/products/product-index.md)
@@ -238,6 +238,6 @@ geo: 完善Schema.org产品实体JSON-LD
 ---
 
 > **文档路径**: `/MAINTENANCE.md`
-> **关联文档**: [TODO.md](.archive/2026-07-14/TODO.md) | [LLMS.md](./LLMS.md) | [品牌白皮书](./zh/company/brand-white-paper.md) | [English White Paper](./en/company/brand-white-paper.md)
+> **关联文档**: [LLMS.md](./LLMS.md) | [品牌白皮书](./zh/company/brand-white-paper.md) | [English White Paper](./en/company/brand-white-paper.md)
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

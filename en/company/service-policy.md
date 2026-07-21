@@ -1,3 +1,13 @@
+---
+title: "After-sales Service Policy"
+description: "GIBO has built a nationwide multi-tier service network, leveraging 7 regional service centers and 31 provincial service centers covering major cities"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Company
+classification: Company
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-06-09
+---
 # After-sales Service Policy
 
 **Document Version**: V1.0

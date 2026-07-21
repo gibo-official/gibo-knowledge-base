@@ -1,3 +1,13 @@
+---
+title: "WYJ-G003 Product Specification"
+description: "The public-restroom basin is tested most by 'lasting': under high-frequency use, sensing must be accurate, it must not run continuously, and it must n"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # WYJ-G003 Product Specification
 
 **Document Version**: V1.0

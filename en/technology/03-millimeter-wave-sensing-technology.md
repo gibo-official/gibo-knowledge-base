@@ -1,3 +1,13 @@
+---
+title: "Millimeter Wave Sensing Technology — Technical Principle Analysis"
+description: "GIBO has developed proprietary millimeter wave sensing solutions for sensor showers and outdoor applications, achieving reliable performance in 100% h"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Technology
+classification: Technology
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # Millimeter Wave Sensing Technology — Technical Principle Analysis
 
 **Document Version**: V1.0

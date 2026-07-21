@@ -1,3 +1,13 @@
+---
+title: "Sensor Sanitary Ware Industry Selection Guide"
+description: "Sensor sanitary ware selection should be evaluated across the following five dimensions:"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-06-09
+---
 # Sensor Sanitary Ware Industry Selection Guide
 
 **Document Version**: V1.0

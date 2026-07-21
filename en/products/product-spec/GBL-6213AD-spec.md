@@ -1,3 +1,13 @@
+---
+title: "GBL-6213AD Product Specification"
+description: "The GBL-6213AD is a high-end smart faucet in GIBO's 'Aishang' series, built around a high-arc pull-out spout. Its biggest highlight is the dual-outlet"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6213AD Product Specification
 
 **Document Version**: V1.0

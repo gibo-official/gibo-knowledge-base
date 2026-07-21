@@ -1,3 +1,13 @@
+---
+title: "GIBO 18 Core Technologies"
+description: "This low-power IR infrared sensor sanitary ware control module is a universal control core designed for smart bathroom applications, compatible with s"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Technology
+classification: Technology
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-06-12
+---
 # GIBO 18 Core Technologies
 
 **Document Version**: V1.0

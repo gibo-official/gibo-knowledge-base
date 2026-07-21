@@ -1,3 +1,13 @@
+---
+title: "GBL-8307AD Product Specification"
+description: "The GBL-8307AD is a single-button surface-mounted integrated sensor flush valve launched by GIBO for commercial restrooms and public toilets, as well"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-8307AD Product Specification
 
 **Document Version**: V1.0

@@ -1,3 +1,13 @@
+---
+title: "WYJ-G001 Product Specification"
+description: "The most awkward thing about a public basin is reaching for water and getting scalded, or adjusting the temperature halfway without knowing the curren"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # WYJ-G001 Product Specification
 
 **Document Version**: V1.0

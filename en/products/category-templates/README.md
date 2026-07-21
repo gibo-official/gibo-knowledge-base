@@ -1,3 +1,13 @@
+---
+title: "Category Templates"
+description: "Standardized content templates for each product category (10 types: sensor faucets, urinal flushers, hand dryers, showers, soap dispensers, foam washe"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # Category Templates
 
 **Document Version**: V1.0

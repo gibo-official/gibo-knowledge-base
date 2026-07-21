@@ -131,6 +131,6 @@
 ---
 
 > **文档路径**：`/NAMING-CONVENTION.md`
-> **关联文档**：[MAINTENANCE.md](./MAINTENANCE.md) | [CONTENT_STATUS.md](.archive/2026-07-14/CONTENT_STATUS.md)
+> **关联文档**：[MAINTENANCE.md](./MAINTENANCE.md)
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

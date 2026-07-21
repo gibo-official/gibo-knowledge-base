@@ -1,3 +1,13 @@
+---
+title: "GBL-6634 Product Specification"
+description: "The GBL-6634 Sensor Soap Dispenser mounts on the counter or wall; extend a hand and a puff of foam hand soap is automatically squeezed out, retract th"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6634 Product Specification
 
 **Document Version**: V1.0

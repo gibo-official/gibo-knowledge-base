@@ -1,3 +1,14 @@
+---
+title: "GIBO 91605 Sensor Faucet Product Manual"
+description: "GIBO 91605 Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
+keywords: 91605,GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+product_model: "91605"
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # 91605

@@ -1,3 +1,13 @@
+---
+title: "GBL-6177 产品资料"
+description: "GBL-6177 是洁博利 2026 年推出的 4D 奢享系列（4DeLuxe Pro）核心家用款——TOF 激光数显双感应龙头。产品深度融合 TOF 激光感应技术、LED 高清数显屏与 D 型美学造型设计，以前感应红外 + 激光混合感应（U940 前感应头）与侧感应红外感应（U856-S1 侧感应"
+keywords: 洁博利,GIBO,感应洁具,产品
+classification: 产品
+language: zh
+publisher: "福建洁博利厨卫科技有限公司"
+version: V1.0
+date: 2026-07-10
+---
 # GBL-6177 产品资料
 
 **文档版本**：V1.0

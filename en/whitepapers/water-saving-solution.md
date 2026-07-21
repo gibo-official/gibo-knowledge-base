@@ -1,3 +1,13 @@
+---
+title: "Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit"
+description: "Water is one of the most undervalued operational expenses in commercial facilities. In a typical commercial building, restrooms account for approximat"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
+classification: Whitepaper
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit
 
 **Document Version**: V1.0

@@ -1,3 +1,13 @@
+---
+title: "盛世唐朝红外感应模块 Product Specification"
+description: "The Shengshi Tangchao Infrared (IR) Sensor Module (KCM-SSTC-01) is a 'water outlet + soap dispensing + temperature display' three-in-one sensor contro"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # 盛世唐朝红外感应模块 Product Specification
 
 **Document Version**: V1.0

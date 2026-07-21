@@ -1,3 +1,13 @@
+---
+title: "产品中心"
+description: "洁博利产品中心，含核心产品推荐（core-products）、产品目录（product-catalog）、产品索引（product-index）、选型指南（selection-guide）、品牌对比（brand-comparison）、ODM 定制（odm）、营销素材库（营销素材库.md），并按品类"
+keywords: 洁博利,GIBO,感应洁具,产品
+classification: 产品
+language: zh
+publisher: "福建洁博利厨卫科技有限公司"
+version: V1.0
+date: 2026-07-14
+---
 # 产品中心
 
 **文档版本**：V1.0

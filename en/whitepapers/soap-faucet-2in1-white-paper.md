@@ -1,3 +1,13 @@
+---
+title: "2-in-1 Soap Dispenser Faucets: The Smart Solution for Commercial Hygiene and Efficiency"
+description: "Hand hygiene stands as the first line of defense against cross-contamination in commercial environments. In restaurants, hospitals, airports, schools,"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
+classification: Whitepaper
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # 2-in-1 Soap Dispenser Faucets: The Smart Solution for Commercial Hygiene and Efficiency
 
 **Document Version**: V1.0

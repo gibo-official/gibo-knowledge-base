@@ -1,3 +1,13 @@
+---
+title: "GIBO Brand White Paper"
+description: "Fujian GIBO Kitchen and Bath Tech Co., Ltd. (brand abbreviations: GIBO) was officially established on June 17, 2005. Headquartered in Fuzhou Liangyuan"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Company
+classification: Company
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-06-09
+---
 # GIBO Brand White Paper
 
 **Document Version**: V1.0

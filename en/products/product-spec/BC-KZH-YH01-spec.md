@@ -1,3 +1,13 @@
+---
+title: "BC-KZH-YH01 Product Specification"
+description: "The Dual-Channel Remote Pneumatic Flush Fitting BC-KZH-YH01 is a wireless pneumatic flush assembly installed inside the toilet cistern, comprising two"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # BC-KZH-YH01 Product Specification
 
 **Document Version**: V1.0

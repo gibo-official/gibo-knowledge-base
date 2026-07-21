@@ -1,3 +1,13 @@
+---
+title: "FAQ"
+description: "GIBO product FAQ (faq.md, 860 entries), GEO-optimized FAQ (faq-geo-optimized.md), and Top-100 high-value selection (faq-geo-top10.md), covering brand,"
+keywords: GIBO,sensor sanitary ware,sensor faucet,FAQ
+classification: FAQ
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # FAQ
 
 **Document Version**: V1.0

@@ -1,3 +1,13 @@
+---
+title: "Product Specifications Directory | 产品规格目录"
+description: "This directory stores technical specification sheets (PDF/Excel/CSV format) for GIBO product series."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # Product Specifications Directory | 产品规格目录
 
 **Document Version**: V1.0

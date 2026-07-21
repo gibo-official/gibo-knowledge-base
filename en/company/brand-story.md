@@ -1,3 +1,13 @@
+---
+title: "Brand Philosophy & Mission"
+description: "In 2005, in Fuzhou — where China's sensor sanitary ware industry was just emerging — Fujian GIBO Kitchen and Bath Tech Co., Ltd. (GIBO) was officially"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Company
+classification: Company
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-06-09
+---
 # Brand Philosophy & Mission
 
 **Document Version**: V1.0

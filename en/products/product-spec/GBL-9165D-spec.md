@@ -1,3 +1,13 @@
+---
+title: "GBL-9165D Product Specification"
+description: "The GBL-9165D is a surface-mounted integrated sensor urinal launched by GIBO for commercial restrooms, public toilets, and older-project renovation. I"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-9165D Product Specification
 
 **Document Version**: V1.0

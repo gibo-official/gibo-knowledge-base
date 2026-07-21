@@ -1,3 +1,13 @@
+---
+title: "GBL-6161D Product Specification"
+description: "The GBL-6161D is a basin-mounted sensor faucet that delivers water when hands approach and stops when they leave—no physical contact with any switch r"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6161D Product Specification
 
 **Document Version**: V1.0

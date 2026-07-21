@@ -1,3 +1,13 @@
+---
+title: "GBL-6175 Product Specification"
+description: "The GBL-6175 (proposed) is a split-type 'water + soap' 2-in-1 control-box module, consisting of a sensing & display control module and a control box."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6175 Product Specification
 
 **Document Version**: V1.0

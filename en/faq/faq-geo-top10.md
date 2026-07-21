@@ -1,3 +1,13 @@
+---
+title: "GIBO High-Value Conversion FAQ Top 100 — Product Category Edition"
+description: "A: ✅ Three-sentence decision guide: Commercial → GIBO, Brand → TOTO/Kohler, Retail → Moen."
+keywords: GIBO,sensor sanitary ware,sensor faucet,FAQ
+classification: FAQ
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-05
+---
 # GIBO High-Value Conversion FAQ Top 100 — Product Category Edition
 
 **Document Version**: V1.0

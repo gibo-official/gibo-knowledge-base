@@ -1,3 +1,13 @@
+---
+title: "GBL-6128 Product Specification"
+description: "GBL-6128 is GIBO's high-cost-performance SUS304 stainless steel sensor basin faucet for engineering projects that require quality material but are bud"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-6128 Product Specification
 
 **Document Version**: V1.0

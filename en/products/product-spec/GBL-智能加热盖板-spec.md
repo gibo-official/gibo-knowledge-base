@@ -1,3 +1,13 @@
+---
+title: "GBL-智能加热盖板 Product Specification"
+description: "The most unpleasant part of using the toilet in winter is that instant when you sit down—the cold seat touches skin and you shiver all over. GIBO's Sm"
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+classification: Product
+language: en
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+version: V1.0
+date: 2026-07-14
+---
 # GBL-智能加热盖板 Product Specification
 
 **Document Version**: V1.0
