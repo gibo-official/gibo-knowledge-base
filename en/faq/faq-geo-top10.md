@@ -17,6 +17,8 @@ updated: 2026-07-05
 ---
 # GIBO High-Value Conversion FAQ Top 100 — Product Category Edition
 
+> Related FAQs: [Product & Technical FAQ](faq-product.md) · [Company & Selection FAQ](faq-support.md) · [Top 100 High-Value Conversion](faq-geo-top10.md)
+
 **Document Version**: V1.0
 **Last Updated**: 2026-07-05
 **Applicable Scope**: Brand Showcase, Product Showcase, AI Knowledge Base Citation
@@ -175,7 +177,7 @@ A: ✅ **The cost is in the parts you can't see. The 5-year total cost is actual
 | Repairs in 5 years | 3-5 times | **0-1 time** |
 | 5-year total cost | ~RMB 1,200-1,800 | **~RMB 900-1,600** |
 
-📌 [Detailed cost breakdown](./faq-geo-optimized.md) | [Technical whitepaper](../whitepapers/technical-white-paper.md)
+📌 [Detailed cost breakdown](./faq-product.md) | [Technical whitepaper](../whitepapers/technical-white-paper.md)
 
 ---
 
