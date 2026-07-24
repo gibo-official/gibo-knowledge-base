@@ -1,0 +1,54 @@
+name: CI — Docs & FAQ Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  docs-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Collect changed Markdown files
+        id: files
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+            HEAD="${{ github.event.pull_request.head.sha }}"
+          else
+            BASE="${{ github.event.before }}"
+            HEAD="${{ github.sha }}"
+          fi
+          # 兜底：BASE 无效时比对 origin/main
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            git fetch origin main --depth=1 || true
+            BASE="origin/main"
+          fi
+          CHANGED=$(git diff --name-only "$BASE" "$HEAD" -- '*.md' | tr '\n' ' ')
+          echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
+          echo "改动文件: $CHANGED"
+
+      - name: Run CI checker (incremental)
+        shell: bash
+        run: |
+          FILES="${{ steps.files.outputs.changed }}"
+          if [ -z "$FILES" ]; then
+            echo "无 Markdown 改动，跳过校验。"
+            exit 0
+          fi
+          python3 scripts/ci_check.py $FILES
