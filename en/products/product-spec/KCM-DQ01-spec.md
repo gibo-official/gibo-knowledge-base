@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "KCM-DQ01-spec"
+tags: ["GIBO", "product-spec", "KCM-DQ01-spec", "AI-knowledge-base"]
+summary: "The KCM-DQ01 2-in-1 Sensor Module is a multi-function sensor control core that GIBO builds for basin complete units. One module integrates three IR se"
+updated: 2026-07-14
 ---
 # KCM-DQ01 Product Specification
 

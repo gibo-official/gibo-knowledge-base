@@ -3,6 +3,13 @@ title: "GB/T 41863-2022 vs CJ/T 194-2014 Standard Comparison White Paper"
 date: 2026-07-05
 version: V1.0
 keywords: GB/T 41863-2022, CJ/T 194-2014, non-contact water supply device, sensor faucet standard, China sanitary standards, standard upgrade comparison, GIBO
+
+lang: en
+category: whitepaper
+product: "41863"
+tags: ["GIBO", "whitepaper", "41863", "AI-knowledge-base"]
+summary: "title: 'GB/T 41863-2022 vs CJ/T 194-2014 Standard Comparison White Paper'"
+updated: 2026-07-05
 ---
 
 # GB/T 41863-2022 vs CJ/T 194-2014: Non-contact Water Supply Device Standard Upgrade Comparison White Paper

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "KCM-SJ02-spec"
+tags: ["GIBO", "product-spec", "KCM-SJ02-spec", "AI-knowledge-base"]
+summary: "The GIBO KCM-SJ02 is a triangular-ranging sensor assembly specifically built to solve the sensing难题 of squat-pan and urinal stall scenarios in public"
+updated: 2026-07-14
 ---
 # KCM-SJ02 Product Specification
 

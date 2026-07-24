@@ -15,6 +15,12 @@ tags:
   - 3-Second Quick Install
   - Water-saving Retrofitting
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: B6 Quick-Install Mini Sensor Faucet Solution"
+updated: 2026-06-12
 ---
 
 # B6 Quick-Install Mini Sensor Faucet Solution

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "BC-YMH-8308-spec"
+tags: ["GIBO", "product-spec", "BC-YMH-8308-spec", "AI-knowledge-base"]
+summary: "The BC-YMH-8308 Concealed Squat Pan Pre-embedded Box is a concealed squat-pan flush-valve assembly installed inside the bathroom wall. It is buried in"
+updated: 2026-07-14
 ---
 # BC-YMH-8308 Product Specification
 

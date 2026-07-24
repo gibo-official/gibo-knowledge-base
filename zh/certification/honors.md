@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-06-09
+
+lang: zh-CN
+category: 认证证书
+product: ""
+tags: ["GIBO", "洁博利", "认证证书", "AI知识库"]
+summary: "奖项由中国质量认证中心（CQC）指导、沸腾质量数据主办，检测标准严于国家标准，是国内家居卫浴行业主流权威奖项。"
+updated: 2026-06-09
 ---
 # 企业荣誉墙
 

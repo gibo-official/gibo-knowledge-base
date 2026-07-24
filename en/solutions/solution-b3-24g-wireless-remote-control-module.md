@@ -14,6 +14,12 @@ tags:
   - Smart Linkage
   - IoT Module
   - ODM Solution
+
+lang: en
+category: solution
+product: "24g"
+summary: "title: B3 2.4G Wireless Remote Control Module Solution"
+updated: 2026-06-12
 ---
 
 # B3 2.4G Wireless Remote Control Module Solution

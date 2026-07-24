@@ -3,6 +3,13 @@ title: "Capacitive Touch Technology — Technical Principle Analysis"
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'Capacitive Touch Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # Capacitive Touch Technology — Technical Principle Analysis

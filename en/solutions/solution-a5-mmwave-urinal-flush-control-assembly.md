@@ -15,6 +15,12 @@ tags:
   - Penetrating Sensing
   - Intelligent Flush
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution"
+updated: 2026-06-12
 ---
 
 # A5 Low-power Urinal mmWave Sensor Flush Control Assembly Solution

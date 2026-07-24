@@ -6,6 +6,13 @@ status: 初稿
 classification: 企业白皮书
 keywords: ODM,感应洁具,洁博利,GIBO,智能厨卫,代工制造,出口,ISO9001,ODM白皮书,感应水龙头ODM,商用感应洁具,ODM合作指南
 publisher: 福建洁博利厨卫科技有限公司
+
+lang: zh-CN
+category: ODM资料
+product: ""
+tags: ["GIBO", "洁博利", "ODM资料", "感应水龙头", "AI知识库"]
+summary: "title: 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家"
+updated: 2026-06-12
 ---
 
 # 洁博利（GIBO）感应水龙头ODM白皮书

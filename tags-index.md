@@ -1,0 +1,3999 @@
+---
+title: "GIBO 知识库标签聚合索引"
+lang: zh-CN
+category: 索引导航
+tags: ["GIBO", "洁博利", "标签索引", "tags-index", "AI知识库"]
+summary: "按标签聚合洁博利GIBO知识库全部文档，形成网状检索结构，提升大模型抓取与采信覆盖率。"
+updated: 2026-07-24
+---
+
+# GIBO 知识库标签聚合索引
+
+> 共 737 篇文档、278 个标签。按标签归类，便于 AI 与人工网状检索。
+
+## GIBO（679）
+
+- 02J915 公共建筑卫生间 — [assets/standard/05-认证规则/02J915 公共建筑卫生间.md](assets/standard/05-认证规则/02J915 公共建筑卫生间.md)
+- 09J04 建筑卫生间TTC型同层排水系统 — [assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md](assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md)
+- 09S304 卫生设备安装(高清) — [assets/standard/05-认证规则/09S304 卫生设备安装(高清).md](assets/standard/05-认证规则/09S304 卫生设备安装(高清).md)
+- 09S304 卫生设备安装图集 — [assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md](assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md)
+- 2-in-1 Soap Dispenser Faucets: The Smart Solution for Commercial Hygiene and Efficiency — [en/whitepapers/soap-faucet-2in1-white-paper.md](en/whitepapers/soap-faucet-2in1-white-paper.md)
+- 2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2020-smart-sensor-faucet-key-technology-rd.md](en/solutions/2020-smart-sensor-faucet-key-technology-rd.md)
+- 2020 新型智能感应水龙头关键技术的研究及产业化示范 — [zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md](zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md)
+- 2020"沸腾杯"感应水龙头质量性能测评 评测标准与评定方法 — [assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md](assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md)
+- 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md](en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md)
+- 2022 双模智能控制水龙头关键技术研发与产业化示范 — [zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md](zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md)
+- 2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export — [en/whitepapers/industry-development-white-paper.md](en/whitepapers/industry-development-white-paper.md)
+- 2026商用感应洁具ODM行业发展趋势白皮书：从替代进口到技术出口 — [zh/whitepapers/感应洁具行业发展白皮书.md](zh/whitepapers/感应洁具行业发展白皮书.md)
+- 3204 便器冲洗阀节水产品认证实施规则 — [assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md](assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md)
+- 6238 一体化小便感应洒水器 产品手册 — [zh/products/product-manual/6238.md](zh/products/product-manual/6238.md)
+- 99S304卫生设备安装 — [assets/standard/05-认证规则/99S304卫生设备安装.md](assets/standard/05-认证规则/99S304卫生设备安装.md)
+- ASME A112.18.2-2005 — [assets/standard/04-国际标准/ASME A112.18.2-2005.md](assets/standard/04-国际标准/ASME A112.18.2-2005.md)
+- ASME_A112.18.1-2005_CSA_B125.1-05(中文版) — [assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md](assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md)
+- ASSE 1014-2005 手持花洒回流阻止装置性能要求 — [assets/standard/04-国际标准/ASSE_1014-2005(C).md](assets/standard/04-国际标准/ASSE_1014-2005(C).md)
+- ASTM D968-93涂料耐磨腐蚀性实验 落砂法 — [assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md](assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md)
+- After-sales Service Policy — [en/company/service-policy.md](en/company/service-policy.md)
+- Authorized Testing & Certification Institutions — [en/certification/test-institution.md](en/certification/test-institution.md)
+- BC-31519 Product Specification — [en/products/product-spec/BC-31519-spec.md](en/products/product-spec/BC-31519-spec.md)
+- BC-31519 产品资料 — [zh/products/product-spec/BC-31519-spec.md](zh/products/product-spec/BC-31519-spec.md)
+- BC-KZH-9168控制盒 Product Specification — [en/products/product-spec/BC-KZH-9168控制盒-spec.md](en/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-9168控制盒 产品资料 — [zh/products/product-spec/BC-KZH-9168控制盒-spec.md](zh/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-YH01 Product Specification — [en/products/product-spec/BC-KZH-YH01-spec.md](en/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-KZH-YH01 产品资料 — [zh/products/product-spec/BC-KZH-YH01-spec.md](zh/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-YMH-8308 Product Specification — [en/products/product-spec/BC-YMH-8308-spec.md](en/products/product-spec/BC-YMH-8308-spec.md)
+- BC-YMH-8308 产品资料 — [zh/products/product-spec/BC-YMH-8308-spec.md](zh/products/product-spec/BC-YMH-8308-spec.md)
+- Brand Philosophy & Mission — [en/company/brand-story.md](en/company/brand-story.md)
+- CBM15-2016智能便盖标准 — [assets/standard/03-团体标准/CBM15-2016智能便盖标准.md](assets/standard/03-团体标准/CBM15-2016智能便盖标准.md)
+- CJ+T194-2014+非接触式给水器具 — [assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md](assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md)
+- CJT 406-2012 不锈钢水嘴 — [assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md](assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md)
+- CJT164-2014 节水型生活用水器具 — [assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md](assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md)
+- CJT3081-1999非接触式（电子）给水器具 — [assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md](assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md)
+- CJT99-1999 — [assets/standard/02-行业标准/CJT99-1999.md](assets/standard/02-行业标准/CJT99-1999.md)
+- CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备 — [assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md](assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md)
+- CQC 3226-2009 非接触式水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md)
+- CQC32-432411-2022便器冲洗阀节水认证规则(新) — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md)
+- CQC32-432411-2022便器冲洗阀节水认证规则（新） — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md)
+- CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解 — [assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md](assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md)
+- CQC3225-2009陶瓷片密封水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md)
+- CSCT 32.2-2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md)
+- CSCT 32.2—2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md)
+- CSCT 35.3—2006非接触式水嘴 — [assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md)
+- CSCT 35.3—2006非接触式水嘴.pdf — [assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md)
+- Capacitive Touch Technology — Technical Principle Analysis — [en/technology/04-capacitive-touch-technology.md](en/technology/04-capacitive-touch-technology.md)
+- Category Templates — [en/products/category-templates/README.md](en/products/category-templates/README.md)
+- Certifications — [en/certification/README.md](en/certification/README.md)
+- Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit — [en/whitepapers/water-saving-solution.md](en/whitepapers/water-saving-solution.md)
+- Company — [en/company/README.md](en/company/README.md)
+- DIN EN681-1 — [assets/standard/04-国际标准/DIN EN681-1.md](assets/standard/04-国际标准/DIN EN681-1.md)
+- DVGW W270 与饮用水接触的微生物强化控制 中文 — [assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md](assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md)
+- Development History — [en/company/history.md](en/company/history.md)
+- Dual-chip Interchangeable Platform Technology — Technical Principle Analysis — [en/technology/10-dual-chip-interchangeable-platform-technology.md](en/technology/10-dual-chip-interchangeable-platform-technology.md)
+- Dual-mode Strong Light Immunity & Anti-interference Algorithm — Technical Principle Analysis — [en/technology/11-dual-mode-strong-light-immunity-algorithm.md](en/technology/11-dual-mode-strong-light-immunity-algorithm.md)
+- EN 15091 2024 — [assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md](assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md)
+- EN 61000-3-3 电压波动和闪烁限制 — [assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md](assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN248-2002 欧洲电镀标准要求 — [assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md](assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md)
+- EN61000-4-2 电磁兼容 试验和测量特性 — [assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md](assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- EN 12164 2016铜及铜合金易切削用棒材 — [assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md](assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md)
+- ES102卫浴产品电镀工程规范 — [assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md](assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md)
+- FAQ — [en/faq/README.md](en/faq/README.md)
+- G33608 Product Specification — [en/products/product-spec/G33608-spec.md](en/products/product-spec/G33608-spec.md)
+- G33608 产品资料 — [zh/products/product-spec/G33608-spec.md](zh/products/product-spec/G33608-spec.md)
+- G61901 Product Specification — [en/products/product-spec/G61901-spec.md](en/products/product-spec/G61901-spec.md)
+- G61901 产品资料 — [zh/products/product-spec/G61901-spec.md](zh/products/product-spec/G61901-spec.md)
+- GB 12333-1990 金属覆盖层 工程用铜电镀层 — [assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md](assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md)
+- GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求 — [assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md](assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md)
+- GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md)
+- GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求 — [assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md](assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md)
+- GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求 — [assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md](assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md)
+- GB 14536.14 部份标准 — [assets/standard/01-国家标准/GB 14536.14 部份标准.md](assets/standard/01-国家标准/GB 14536.14 部份标准.md)
+- GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md)
+- GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求 (1) — [assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md](assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md)
+- GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md)
+- GB 19212.1-2008 电力变压器安全 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md)
+- GB 25501-2019 水嘴用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md)
+- GB 25502-2017 坐便器用水效率限定值及水效等级 — [assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md)
+- GB 26750-2011 新国标GB 26750-2011-T 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md](assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md)
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- GB 28378-2019 淋浴器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- GB 30717-2014 蹲便器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md)
+- GB 30978-2014 饮水机能效限定值及能效等级 — [assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md](assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md)
+- GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求 — [assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md](assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md)
+- GB 4706系列 家用和类似用途电器的安全标准索引 — [assets/standard/01-国家标准/GB4706目录.md](assets/standard/01-国家标准/GB4706目录.md)
+- GB 50242—2002 建筑给水排水及采暖工程施工质量验收规范 — [assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md](assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md)
+- GB 6952-2005卫生陶瓷国标 — [assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md](assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md)
+- GB 7000.1—2015 灯具安全 | 一般要求与试验 — [assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md](assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md)
+- GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层 — [assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md](assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md)
+- GB T 19000-2016 质量管理体系  基础和术语 — [assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md](assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md)
+- GB T 23001-2017 信息化和工业化融合管理体系 要求 — [assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md](assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md)
+- GB T 26750-2011 卫生洁具  便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md)
+- GB T 26750-2011 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md)
+- GB T 28797-2012 室内塑料垃圾桶 — [assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md](assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md)
+- GB T 2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法 第12部分：通用试验方法 热老化试验方法 — [assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md](assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md)
+- GB T 41863-2022非接触式给水器具节水性能通用技术条件 — [assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md](assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md)
+- GB T 6952-2015 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md)
+- GB T19011—2003 — [assets/standard/01-国家标准/GB T19011—2003.md](assets/standard/01-国家标准/GB T19011—2003.md)
+- GB T23988-2009涂料耐磨性 落砂法 — [assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md](assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md)
+- GB-T 1019-2008 家用和类似用途电器包装通则 — [assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md](assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md)
+- GB-T 2828.1-2012 计数抽样检验程序 — [assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md](assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md)
+- GB-T-19001-2016-质量管理体系-要求 — [assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md](assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md)
+- GB-T6315-1996 — [assets/standard/01-国家标准/GB-T6315-1996.md](assets/standard/01-国家标准/GB-T6315-1996.md)
+- GB/T 16288-2008 塑料制品的标识和标志 — [assets/standard/01-国家标准/GB_塑料制品的标识和标志.md](assets/standard/01-国家标准/GB_塑料制品的标识和标志.md)
+- GB/T 19001-2016 质量管理体系 要求 — [assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md](assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md)
+- GB/T 2423.1-2001 电工电子产品环境试验 第2部分：试验方法 试验A：低温 — [assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md](assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md)
+- GB/T 2423.2—2001 高温试验 | 电工电子产品环境试验方法 — [assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md)
+- GB/T 2423.3-2006 电工电子产品环境试验 第2部分：试验方法 试验Cab：恒定湿热 — [assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md](assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md)
+- GB/T 26712-2011 卫生洁具及暖气管道用直角阀 — [assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md](assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md)
+- GB/T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md)
+- GB/T 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md)
+- GB/T 34549-2017 卫生洁具 智能坐便器 — [assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md](assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md)
+- GB/T 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GB/T 41863-2022 vs CJ/T 194-2014 Standard Comparison White Paper — [en/whitepapers/standard-comparison-white-paper.md](en/whitepapers/standard-comparison-white-paper.md)
+- GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》与CJ/T 194-2014差异对比白皮书 — [zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md](zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
+- GB15979-2002 GB15979-2002一次性使用卫生用品使用标准 — [assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md](assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md)
+- GB19510 GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求 — [assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md](assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md)
+- GB26730-2011 GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架 — [assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md](assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md)
+- GB4706.15-2008 GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求 — [assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md](assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md)
+- GB4706.53-2002 GB4706.53-2002 K09 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md)
+- GB4706.53-2002 GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md)
+- GB4706.612008 GB4706.612008家用和类似用途电器的安全使用 — [assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md](assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md)
+- GB4793.1 通用电气设备安全要求GB4793.1 — [assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md](assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md)
+- GB4793.1通用电气设备安全要求 — [assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md](assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md)
+- GB50015-2003 建筑给水排水设计规范GB50015-2003 — [assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md](assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md)
+- GBL-6110 Product Specification — [en/products/product-spec/GBL-6110-spec.md](en/products/product-spec/GBL-6110-spec.md)
+- GBL-6110 产品资料 — [zh/products/product-spec/GBL-6110-spec.md](zh/products/product-spec/GBL-6110-spec.md)
+- GBL-6127 Product Specification — [en/products/product-spec/GBL-6127-spec.md](en/products/product-spec/GBL-6127-spec.md)
+- GBL-6127 产品资料 — [zh/products/product-spec/GBL-6127-spec.md](zh/products/product-spec/GBL-6127-spec.md)
+- GBL-6128 Product Specification — [en/products/product-spec/GBL-6128-spec.md](en/products/product-spec/GBL-6128-spec.md)
+- GBL-6128 产品资料 — [zh/products/product-spec/GBL-6128-spec.md](zh/products/product-spec/GBL-6128-spec.md)
+- GBL-6150 Product Specification — [en/products/product-spec/GBL-6150-spec.md](en/products/product-spec/GBL-6150-spec.md)
+- GBL-6150 产品资料 — [zh/products/product-spec/GBL-6150-spec.md](zh/products/product-spec/GBL-6150-spec.md)
+- GBL-6161D Basin Sensor Faucet Product Specification — [en/products/product-spec/GBL-6161-spec.md](en/products/product-spec/GBL-6161-spec.md)
+- GBL-6161D Product Specification — [en/products/product-spec/GBL-6161D-spec.md](en/products/product-spec/GBL-6161D-spec.md)
+- GBL-6161D 产品资料 — [zh/products/product-spec/GBL-6161D-spec.md](zh/products/product-spec/GBL-6161D-spec.md)
+- GBL-6161D 面盆感应水龙头 产品规格书 — [zh/products/product-spec/GBL-6161-spec.md](zh/products/product-spec/GBL-6161-spec.md)
+- GBL-6170 Product Specification — [en/products/product-spec/GBL-6170-spec.md](en/products/product-spec/GBL-6170-spec.md)
+- GBL-6170 产品资料 — [zh/products/product-spec/GBL-6170-spec.md](zh/products/product-spec/GBL-6170-spec.md)
+- GBL-6170D Product Specification — [en/products/product-spec/GBL-6170D-spec.md](en/products/product-spec/GBL-6170D-spec.md)
+- GBL-6170D 产品资料 — [zh/products/product-spec/GBL-6170D-spec.md](zh/products/product-spec/GBL-6170D-spec.md)
+- GBL-6172A Product Specification — [en/products/product-spec/GBL-6172A-spec.md](en/products/product-spec/GBL-6172A-spec.md)
+- GBL-6172A 产品资料 — [zh/products/product-spec/GBL-6172A-spec.md](zh/products/product-spec/GBL-6172A-spec.md)
+- GBL-6175 Product Specification — [en/products/product-spec/GBL-6175-spec.md](en/products/product-spec/GBL-6175-spec.md)
+- GBL-6175 产品资料 — [zh/products/product-spec/GBL-6175-spec.md](zh/products/product-spec/GBL-6175-spec.md)
+- GBL-6176 Product Specification — [en/products/product-spec/GBL-6176-spec.md](en/products/product-spec/GBL-6176-spec.md)
+- GBL-6176 产品资料 — [zh/products/product-spec/GBL-6176-spec.md](zh/products/product-spec/GBL-6176-spec.md)
+- GBL-6177 Product Specification — [en/products/product-spec/GBL-6177-spec.md](en/products/product-spec/GBL-6177-spec.md)
+- GBL-6177 产品资料 — [zh/products/product-spec/GBL-6177-spec.md](zh/products/product-spec/GBL-6177-spec.md)
+- GBL-6178 Product Specification — [en/products/product-spec/GBL-6178-spec.md](en/products/product-spec/GBL-6178-spec.md)
+- GBL-6178 产品资料 — [zh/products/product-spec/GBL-6178-spec.md](zh/products/product-spec/GBL-6178-spec.md)
+- GBL-6193D Product Specification — [en/products/product-spec/GBL-6193D-spec.md](en/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193D 产品资料 — [zh/products/product-spec/GBL-6193D-spec.md](zh/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193DB Product Specification — [en/products/product-spec/GBL-6193DB-spec.md](en/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6193DB 产品资料 — [zh/products/product-spec/GBL-6193DB-spec.md](zh/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6195 Product Specification — [en/products/product-spec/GBL-6195-spec.md](en/products/product-spec/GBL-6195-spec.md)
+- GBL-6195 产品资料 — [zh/products/product-spec/GBL-6195-spec.md](zh/products/product-spec/GBL-6195-spec.md)
+- GBL-6197D Product Specification — [en/products/product-spec/GBL-6197D-spec.md](en/products/product-spec/GBL-6197D-spec.md)
+- GBL-6197D 产品资料 — [zh/products/product-spec/GBL-6197D-spec.md](zh/products/product-spec/GBL-6197D-spec.md)
+- GBL-6213AD Product Specification — [en/products/product-spec/GBL-6213AD-spec.md](en/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6213AD 产品资料 — [zh/products/product-spec/GBL-6213AD-spec.md](zh/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6239 Product Specification — [en/products/product-spec/GBL-6239-spec.md](en/products/product-spec/GBL-6239-spec.md)
+- GBL-6239 产品资料 — [zh/products/product-spec/GBL-6239-spec.md](zh/products/product-spec/GBL-6239-spec.md)
+- GBL-6291DH-DS Product Specification — [en/products/product-spec/GBL-6291DH-DS-spec.md](en/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6291DH-DS 产品资料 — [zh/products/product-spec/GBL-6291DH-DS-spec.md](zh/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6634 Product Specification — [en/products/product-spec/GBL-6634-spec.md](en/products/product-spec/GBL-6634-spec.md)
+- GBL-6634 产品资料 — [zh/products/product-spec/GBL-6634-spec.md](zh/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 Product Specification — [en/products/product-spec/GBL-6634-1-spec.md](en/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6634-1 产品资料 — [zh/products/product-spec/GBL-6634-1-spec.md](zh/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6636AD Product Specification — [en/products/product-spec/GBL-6636AD-spec.md](en/products/product-spec/GBL-6636AD-spec.md)
+- GBL-6636AD 产品资料 — [zh/products/product-spec/GBL-6636AD-spec.md](zh/products/product-spec/GBL-6636AD-spec.md)
+- GBL-8221AD Product Specification — [en/products/product-spec/GBL-8221AD-spec.md](en/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8221AD 产品资料 — [zh/products/product-spec/GBL-8221AD-spec.md](zh/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8300AD Product Specification — [en/products/product-spec/GBL-8300AD-spec.md](en/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8300AD 产品资料 — [zh/products/product-spec/GBL-8300AD-spec.md](zh/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8307AD Product Specification — [en/products/product-spec/GBL-8307AD-spec.md](en/products/product-spec/GBL-8307AD-spec.md)
+- GBL-8307AD 产品资料 — [zh/products/product-spec/GBL-8307AD-spec.md](zh/products/product-spec/GBL-8307AD-spec.md)
+- GBL-9122 Product Specification — [en/products/product-spec/GBL-9122-spec.md](en/products/product-spec/GBL-9122-spec.md)
+- GBL-9122 产品资料 — [zh/products/product-spec/GBL-9122-spec.md](zh/products/product-spec/GBL-9122-spec.md)
+- GBL-9160 Product Specification — [en/products/product-spec/GBL-9160-spec.md](en/products/product-spec/GBL-9160-spec.md)
+- GBL-9160 产品资料 — [zh/products/product-spec/GBL-9160-spec.md](zh/products/product-spec/GBL-9160-spec.md)
+- GBL-9165D Product Specification — [en/products/product-spec/GBL-9165D-spec.md](en/products/product-spec/GBL-9165D-spec.md)
+- GBL-9165D 产品资料 — [zh/products/product-spec/GBL-9165D-spec.md](zh/products/product-spec/GBL-9165D-spec.md)
+- GBL-9168 Product Specification — [en/products/product-spec/GBL-9168-spec.md](en/products/product-spec/GBL-9168-spec.md)
+- GBL-9168 产品资料 — [zh/products/product-spec/GBL-9168-spec.md](zh/products/product-spec/GBL-9168-spec.md)
+- GBL-K6238 Product Specification — [en/products/product-spec/GBL-K6238-spec.md](en/products/product-spec/GBL-K6238-spec.md)
+- GBL-K6238 产品资料 — [zh/products/product-spec/GBL-K6238-spec.md](zh/products/product-spec/GBL-K6238-spec.md)
+- GBL-TOF Product Specification — [en/products/product-spec/GBL-TOF-spec.md](en/products/product-spec/GBL-TOF-spec.md)
+- GBL-TOF 产品资料 — [zh/products/product-spec/GBL-TOF-spec.md](zh/products/product-spec/GBL-TOF-spec.md)
+- GBL-双模感应厨房水龙头 Product Specification — [en/products/product-spec/GBL-双模感应厨房水龙头-spec.md](en/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-双模感应厨房水龙头 产品资料 — [zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md](zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-智能加热盖板 Product Specification — [en/products/product-spec/GBL-智能加热盖板-spec.md](en/products/product-spec/GBL-智能加热盖板-spec.md)
+- GBL-智能加热盖板 产品资料 — [zh/products/product-spec/GBL-智能加热盖板-spec.md](zh/products/product-spec/GBL-智能加热盖板-spec.md)
+- GBT 10125-2012 人造气氛腐蚀试验 盐雾试验 — [assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md](assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md)
+- GBT 1176-2013 铸造铜及铜合金 — [assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md](assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md)
+- GBT 12600-2005 镍铬电镀层 — [assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md](assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md)
+- GBT 191-2008 包装储运图示标志 — [assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md](assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md)
+- GBT 19678-2005 说明书的编制 构成、内容和表示方法 — [assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md](assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md)
+- GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分 — [assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md](assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md)
+- GBT 23131-2008 电子坐便器 — [assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md](assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md)
+- GBT 23447-2009 卫生洁具 淋浴用花洒 — [assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md](assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md)
+- GBT 23448-2009 卫生洁具 软管 — [assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md](assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md)
+- GBT 24001-2016 环境管理体系 要求及使用指南 — [assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md](assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md)
+- GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验 — [assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md)
+- GBT 24293-2009 数控恒温水嘴 — [assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md](assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md)
+- GBT 26572-2011 电子电气产品中限用物质的限量要求 — [assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md](assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md)
+- GBT 26712-2011 直角阀 — [assets/standard/01-国家标准/GBT 26712-2011 直角阀.md](assets/standard/01-国家标准/GBT 26712-2011 直角阀.md)
+- GBT 28219-2018 智能家用电器通用技术要求 — [assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md](assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md)
+- GBT 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md)
+- GBT 34549-2017 智能坐便器 — [assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md](assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md)
+- GBT 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GBT 35763-2017 不锈钢水龙头 — [assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md](assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md)
+- GBT 4208-2017 外壳防护等级（IP代码） — [assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md](assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md)
+- GBT 5231-2012 加工铜及铜合金牌号和化学成分 — [assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md](assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md)
+- GBT 6461-2002 32-WL-GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级 — [assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md](assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md)
+- GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求 — [assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md](assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md)
+- GB_T 23000-2017 信息化和工业化融合管理体系基础和术语 — [assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md](assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md)
+- GB_T 24004-2017 环境管理体系 通用实施指南 — [assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md](assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md)
+- GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md)
+- GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验 — [assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md](assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md)
+- GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验 — [assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md](assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md)
+- GB扫描版9001-2008 — [assets/standard/01-国家标准/GB扫描版9001-2008.md](assets/standard/01-国家标准/GB扫描版9001-2008.md)
+- GIBO 1051 Sensor Faucet Product Manual — [en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md](en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md)
+- GIBO 18 Core Technologies — [en/technology/core-technologies.md](en/technology/core-technologies.md)
+- GIBO 20161 Sensor Nozzle Product Manual — [en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md)
+- GIBO 20201 Sensor Nozzle Product Manual — [en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md)
+- GIBO 31555 Squat Toilet Sensor Product Manual — [en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md](en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md)
+- GIBO 33604 Soap Dispenser Product Manual — [en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO 6101 Sensor Faucet Product Manual — [en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md)
+- GIBO 6108 Sensor Faucet Product Manual — [en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md)
+- GIBO 6111 Sensor Faucet Product Manual — [en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md)
+- GIBO 6113 Sensor Faucet Product Manual — [en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md)
+- GIBO 6120 Sensor Faucet Product Manual — [en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md)
+- GIBO 6122 Sensor Faucet Product Manual — [en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md)
+- GIBO 6150 Sensor Faucet Product Manual — [en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md)
+- GIBO 6151 Sensor Faucet Product Manual — [en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md)
+- GIBO 6152 Sensor Faucet Product Manual — [en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md)
+- GIBO 6153 Sensor Faucet Product Manual — [en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md)
+- GIBO 6154 Sensor Faucet Product Manual — [en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md)
+- GIBO 6155 Sensor Faucet Product Manual — [en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md)
+- GIBO 6157 Sensor Faucet Product Manual — [en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md)
+- GIBO 6161 Urinal Flusher Product Manual — [en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 6170 Sensor Faucet Product Manual — [en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6195 Sensor Nozzle Product Manual — [en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6196 Sensor Faucet Product Manual — [en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md)
+- GIBO 61xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/61xx_All_in_One_EN_Manual.md](en/products/product-manual/61xx_All_in_One_EN_Manual.md)
+- GIBO 6237 Sensor Nozzle Product Manual — [en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Nozzle Product Manual — [en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Sanitary Ware Product Manual — [en/products/product-manual/6238_All_in_One_EN_Manual.md](en/products/product-manual/6238_All_in_One_EN_Manual.md)
+- GIBO 6291 Sensor Nozzle Product Manual — [en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md)
+- GIBO 6303 Squat Toilet Sensor Product Manual — [en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 63068 Squat Toilet Sensor Product Manual — [en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 6310 Squat Toilet Sensor Product Manual — [en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 64106 Shower Product Manual — [en/products/product-manual/64106_Sensor_Shower_EN_Manual.md](en/products/product-manual/64106_Sensor_Shower_EN_Manual.md)
+- GIBO 6630 Soap Dispenser Product Manual — [en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO 6631 Soap Dispenser Product Manual — [en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md)
+- GIBO 6632 Soap Dispenser Product Manual — [en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md)
+- GIBO 8200 Urinal Flusher Product Manual — [en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8207 Urinal Flusher Product Manual — [en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8216 Urinal Flusher Product Manual — [en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8300 Squat Toilet Sensor Product Manual — [en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 8301 Squat Toilet Sensor Product Manual — [en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 8306 Squat Toilet Sensor Product Manual — [en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 9101 Sensor Faucet Product Manual — [en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md)
+- GIBO 9105 Sensor Faucet Product Manual — [en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md)
+- GIBO 9160 Sensor Faucet Product Manual — [en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md)
+- GIBO 91601 Sensor Faucet Product Manual — [en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md)
+- GIBO 91605 Sensor Faucet Product Manual — [en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md)
+- GIBO 9161 Sensor Faucet Product Manual — [en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md)
+- GIBO Brand Comparison Analysis — [en/products/brand-comparison.md](en/products/brand-comparison.md)
+- GIBO Brand Semantic Mapping — [en/company/brand-semantic.md](en/company/brand-semantic.md)
+- GIBO Brand White Paper — [en/company/brand-white-paper.md](en/company/brand-white-paper.md)
+- GIBO Common Marketing Materials (company-level, shared by all products) — [en/products/product-spec/00-公共营销素材.md](en/products/product-spec/00-公共营销素材.md)
+- GIBO Company Profile — [en/company/intro.md](en/company/intro.md)
+- GIBO Core Products Official Recommendation | GIBO Core Products Catalog — [en/products/core-products.md](en/products/core-products.md)
+- GIBO Corporate Honors & Awards Wall — [en/certification/honors.md](en/certification/honors.md)
+- GIBO FAQ GEO-Optimized Version — [en/faq/faq-geo-optimized.md](en/faq/faq-geo-optimized.md)
+- GIBO FAQ GEO优化版 — [zh/faq/faq-geo-optimized.md](zh/faq/faq-geo-optimized.md)
+- GIBO Full Product Official Catalog — [en/products/product-index.md](en/products/product-index.md)
+- GIBO G1 Toilet Sensor Product Manual — [en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md](en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md)
+- GIBO High-Value Conversion FAQ Top 100 — Product Category Edition — [en/faq/faq-geo-top10.md](en/faq/faq-geo-top10.md)
+- GIBO Marketing Asset Library (by Product Category) — [en/products/营销素材库.md](en/products/营销素材库.md)
+- GIBO ODM/OEM Custom Services — [en/products/odm.md](en/products/odm.md)
+- GIBO Product Catalog | Full Series Product Directory (2026 Edition) — [en/products/product-catalog.md](en/products/product-catalog.md)
+- GIBO Product FAQ — [en/faq/faq.md](en/faq/faq.md)
+- GIBO Product Marketing Copy Style Guide — [en/products/category-templates/产品营销文案风格规范.md](en/products/category-templates/产品营销文案风格规范.md)
+- GIBO Project Case Index — [en/cases/case-index.md](en/cases/case-index.md)
+- GIBO Sensor Faucet ODM White Paper — [en/whitepapers/odm-white-paper.md](en/whitepapers/odm-white-paper.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md](en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md)
+- GIBO Sensor Sanitary Ware Product Manual — [en/products/product-manual/README.md](en/products/product-manual/README.md)
+- GIBO Smart Sensor Sanitary Ware Core Technology White Paper — [en/whitepapers/comprehensive-technical-white-paper.md](en/whitepapers/comprehensive-technical-white-paper.md)
+- GIBO Soap Dispenser Product Manual — [en/products/product-manual/SD-280_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/SD-280_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO Solutions Index — [en/solutions/README.md](en/solutions/README.md)
+- GIBO Squat Toilet Sensor Product Manual — [en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO Urinal Flusher Product Manual — [en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md](en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md)
+- GIBO White Papers & Technology Achievement Reports — [en/whitepapers/README.md](en/whitepapers/README.md)
+- GIBO 产品营销文案风格规范 — [zh/products/category-templates/产品营销文案风格规范.md](zh/products/category-templates/产品营销文案风格规范.md)
+- GIBO 产品资料总索引 — [product-index.md](product-index.md)
+- GIBO 常见问题 FAQ 索引 — [faq-index.md](faq-index.md)
+- GIBO 知识库标签聚合索引 — [tags-index.md](tags-index.md)
+- GIBO-SENSOR-IR-001 Product Specification — [en/products/product-spec/GIBO-SENSOR-IR-001-spec.md](en/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-SENSOR-IR-001 产品资料 — [zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md](zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-智能激光感应技术 Product Specification — [en/products/product-spec/GIBO-智能激光感应技术-spec.md](en/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-智能激光感应技术 产品资料 — [zh/products/product-spec/GIBO-智能激光感应技术-spec.md](zh/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-触控厨房龙头控制组件 Product Specification — [en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- GIBO-触控厨房龙头控制组件 产品资料 — [zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- HG/T 3091-2000 橡胶密封件 给排水管及污水管道用接口密封圈 材料规范 — [assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md](assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md)
+- HGT 3091-2000 橡胶密封件材料规范 — [assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md](assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md)
+- HGT 3097-2006 橡胶密封件-110℃ — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md)
+- HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范 — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md)
+- Half-duplex Single-wire Communication Technology — Technical Principle Analysis — [en/technology/09-half-duplex-single-wire-communication-technology.md](en/technology/09-half-duplex-single-wire-communication-technology.md)
+- Hot & Cold Sensor Faucet — [en/products/category-templates/冷热感应水龙头-模版.md](en/products/category-templates/冷热感应水龙头-模版.md)
+- Hydroelectric Power Generation & Storage Technology — Technical Principle Analysis — [en/technology/17-hydroelectric-power-generation-storage-technology.md](en/technology/17-hydroelectric-power-generation-storage-technology.md)
+- IP65防水密封组件 — [en/solutions/waterproof-seal-assembly.md](en/solutions/waterproof-seal-assembly.md)
+- ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法 — [assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md](assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md)
+- ISO9000-2000 — [assets/standard/04-国际标准/ISO9000-2000.md](assets/standard/04-国际标准/ISO9000-2000.md)
+- ISO9001標準解析鳳翼天翔 — [assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md](assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md)
+- Industry Standards and Compliance in China's Sensor Sanitary Ware Sector — [en/whitepapers/industry-standards-white-paper.md](en/whitepapers/industry-standards-white-paper.md)
+- Integrated Sensor Shower Head (Shower Sprinkler) — [en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis — [en/technology/13-intelligent-overflow-protection-technology.md](en/technology/13-intelligent-overflow-protection-technology.md)
+- IoT (Internet of Things) Access Technology — Technical Principle Analysis — [en/technology/18-iot-internet-of-things-access-technology.md](en/technology/18-iot-internet-of-things-access-technology.md)
+- IoT智能通信模组 — [en/solutions/iot-communication-module.md](en/solutions/iot-communication-module.md)
+- JB-T 4088-2012日用管状电热元件 — [assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md](assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md)
+- JB-T10529-2005_陶瓷密封阀门技术条件 — [assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md](assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md)
+- JC886-2001卫生设备用软管 — [assets/standard/02-行业标准/JC886-2001卫生设备用软管.md](assets/standard/02-行业标准/JC886-2001卫生设备用软管.md)
+- JCT 2115-2012非接触感应给水器具 — [assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md](assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md)
+- JCT_758-2008_面盆水嘴 — [assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md](assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md)
+- JC／T_931-2003_机械式便器冲洗阀 — [assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md](assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md)
+- JG T 427-2014 卫浴五金配件 — [assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md](assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md)
+- JG/T 427-2014 住宅卫浴五金配件通用技术要求 — [assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md](assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md)
+- JIS B2406-1991 英文版日本 O型密封圈装配槽 设计标准 — [assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md](assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md)
+- JM01-感应洗手机电控板 Product Specification — [en/products/product-spec/JM01-感应洗手机电控板-spec.md](en/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- JM01-感应洗手机电控板 产品资料 — [zh/products/product-spec/JM01-感应洗手机电控板-spec.md](zh/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- KCM-6150J-HS Product Specification — [en/products/product-spec/KCM-6150J-HS-spec.md](en/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-6150J-HS 产品资料 — [zh/products/product-spec/KCM-6150J-HS-spec.md](zh/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-DQ01 Product Specification — [en/products/product-spec/KCM-DQ01-spec.md](en/products/product-spec/KCM-DQ01-spec.md)
+- KCM-DQ01 产品资料 — [zh/products/product-spec/KCM-DQ01-spec.md](zh/products/product-spec/KCM-DQ01-spec.md)
+- KCM-ET07-水龙头感应模块 Product Specification — [en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-ET07-水龙头感应模块 产品资料 — [zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-SJ02 Product Specification — [en/products/product-spec/KCM-SJ02-spec.md](en/products/product-spec/KCM-SJ02-spec.md)
+- KCM-SJ02 产品资料 — [zh/products/product-spec/KCM-SJ02-spec.md](zh/products/product-spec/KCM-SJ02-spec.md)
+- KCM-组合面板-WDW Product Specification — [en/products/product-spec/KCM-组合面板-WDW-spec.md](en/products/product-spec/KCM-组合面板-WDW-spec.md)
+- KCM-组合面板-WDW 产品资料 — [zh/products/product-spec/KCM-组合面板-WDW-spec.md](zh/products/product-spec/KCM-组合面板-WDW-spec.md)
+- LED数显温控模组 — [en/solutions/led-digital-display-module.md](en/solutions/led-digital-display-module.md)
+- LLMS — [LLMS.md](LLMS.md)
+- Liteon Smart Sensing Technology — Technical Principle Analysis — [en/technology/07-liteon-smart-sensing-technology.md](en/technology/07-liteon-smart-sensing-technology.md)
+- Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis — [en/technology/06-low-power-multi-stable-sensing-technology.md](en/technology/06-low-power-multi-stable-sensing-technology.md)
+- MAINTENANCE — [MAINTENANCE.md](MAINTENANCE.md)
+- Military-grade Electromagnetic Compatibility (EMC) Technology — Technical Principle Analysis — [en/technology/12-military-grade-emc-technology.md](en/technology/12-military-grade-emc-technology.md)
+- Millimeter Wave Sensing Technology — Technical Principle Analysis — [en/technology/03-millimeter-wave-sensing-technology.md](en/technology/03-millimeter-wave-sensing-technology.md)
+- NAMING-CONVENTION — [NAMING-CONVENTION.md](NAMING-CONVENTION.md)
+- ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alignment to Mass Production Delivery — [en/whitepapers/odm-white-paper-appendix-22-milestones.md](en/whitepapers/odm-white-paper-appendix-22-milestones.md)
+- ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录） — [zh/whitepapers/ODM白皮书中文附录-22里程碑.md](zh/whitepapers/ODM白皮书中文附录-22里程碑.md)
+- Official Judging Standard for High-Quality Sensor Faucets & Sanitary Ware — [en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md](en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md)
+- Patents & Intellectual Property — [en/certification/patents.md](en/certification/patents.md)
+- Product Specifications Directory | 产品规格目录 — [en/products/product-spec/README.md](en/products/product-spec/README.md)
+- Products — [en/products/README.md](en/products/README.md)
+- Project Cases | 工程案例 — [en/cases/README.md](en/cases/README.md)
+- QB/T 3827-1999 轻工产品金属镀层和化学处理层的耐腐蚀试验方法 乙酸盐雾试验（ASS）法 — [assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md](assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md)
+- QBT 1560-2017卫生间附属配件 — [assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md](assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md)
+- QBT 5003-2016 触控式水嘴 — [assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md](assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md)
+- QBT5524-2020水嘴用阀芯标准 — [assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md](assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md)
+- QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准 — [assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md](assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md)
+- QB_T2654-2013洗手液行业标准 — [assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md](assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md)
+- QJMJCP 005002－2021 卫生间附属配件 — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md)
+- QJMJCP 005002－2021 卫生间附属配件(终稿) — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md)
+- README — [README.md](README.md)
+- README — [assets/README.md](assets/README.md)
+- README — [assets/Cases/README.md](assets/Cases/README.md)
+- README — [assets/catalogs/README.md](assets/catalogs/README.md)
+- README — [assets/certificates/README.md](assets/certificates/README.md)
+- README — [assets/certificates/honors-qualifications/README.md](assets/certificates/honors-qualifications/README.md)
+- README — [assets/certificates/patents/README.md](assets/certificates/patents/README.md)
+- README — [assets/certificates/product-certifications/README.md](assets/certificates/product-certifications/README.md)
+- README — [assets/certificates/test-reports/README.md](assets/certificates/test-reports/README.md)
+- README — [assets/certificates/third-party-approvals/README.md](assets/certificates/third-party-approvals/README.md)
+- README — [assets/certificates/trademarks/README.md](assets/certificates/trademarks/README.md)
+- README — [assets/company/Lab/README.md](assets/company/Lab/README.md)
+- README — [assets/company/QC/README.md](assets/company/QC/README.md)
+- README — [assets/company/Team/README.md](assets/company/Team/README.md)
+- README — [assets/Exhibition/README.md](assets/Exhibition/README.md)
+- README — [assets/Icon/README.md](assets/Icon/README.md)
+- README — [assets/images/README.md](assets/images/README.md)
+- README — [assets/standard/README.md](assets/standard/README.md)
+- README — [assets/standard/01-国家标准/README.md](assets/standard/01-国家标准/README.md)
+- README — [assets/standard/02-行业标准/README.md](assets/standard/02-行业标准/README.md)
+- README — [assets/standard/03-团体标准/README.md](assets/standard/03-团体标准/README.md)
+- README — [assets/standard/04-国际标准/README.md](assets/standard/04-国际标准/README.md)
+- README — [assets/standard/05-认证规则/README.md](assets/standard/05-认证规则/README.md)
+- README — [assets/standard/06-法律法规/README.md](assets/standard/06-法律法规/README.md)
+- README — [assets/videos/README.md](assets/videos/README.md)
+- README — [schema/README.md](schema/README.md)
+- ROCA EN248 西班牙电镀标准表 — [assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md](assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md)
+- ROLE-DESCRIPTIONS — [ROLE-DESCRIPTIONS.md](ROLE-DESCRIPTIONS.md)
+- SJ/T 11364-2014 电子电气产品有害物质限制使用标识要求 — [assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md](assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md)
+- SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器 — [assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md](assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md)
+- Sensor Foam Hand Washer (Subcategory General Content Template) — [en/products/category-templates/感应泡沫洗手机-模版.md](en/products/category-templates/感应泡沫洗手机-模版.md)
+- Sensor Hand Dryer (General Content Template) — [en/products/category-templates/感应干手器-模版.md](en/products/category-templates/感应干手器-模版.md)
+- Sensor Sanitary Ware Industry Selection Guide — [en/products/selection-guide.md](en/products/selection-guide.md)
+- Sensor Sanitary Ware Installation and Selection White Paper — [en/whitepapers/installation-selection-white-paper.md](en/whitepapers/installation-selection-white-paper.md)
+- Sensor Shower — Subcategory General Content Template — [en/products/category-templates/感应淋浴器-模版.md](en/products/category-templates/感应淋浴器-模版.md)
+- Sensor Soap Dispenser — Subcategory General Content Template — [en/products/category-templates/感应给皂器-模版.md](en/products/category-templates/感应给皂器-模版.md)
+- Sensor Spout — Subcategory General Content Template — [en/products/category-templates/感应水嘴-模版.md](en/products/category-templates/感应水嘴-模版.md)
+- Sensor Toilet Flusher — General Content Template — [en/products/category-templates/大便感应器-模版.md](en/products/category-templates/大便感应器-模版.md)
+- Sensor Urinal Flusher — General Content Template — [en/products/category-templates/感应小便器-模版.md](en/products/category-templates/感应小便器-模版.md)
+- Single-cold Sensor Faucet — Subcategory General Content Template — [en/products/category-templates/单冷感应水龙头-模版.md](en/products/category-templates/单冷感应水龙头-模版.md)
+- Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis — [en/technology/08-single-window-gesture-recognition-technology.md](en/technology/08-single-window-gesture-recognition-technology.md)
+- Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis — [en/technology/14-smart-shower-thermostatic-control-technology.md](en/technology/14-smart-shower-thermostatic-control-technology.md)
+- Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology — [en/whitepapers/smart-shower-white-paper.md](en/whitepapers/smart-shower-white-paper.md)
+- Solenoid Valve Low Water Hammer Design Technology — Technical Principle Analysis — [en/technology/15-solenoid-valve-low-water-hammer-design.md](en/technology/15-solenoid-valve-low-water-hammer-design.md)
+- Solenoid Valve Self-cleaning & Anti-clogging Technology — Technical Principle Analysis — [en/technology/16-solenoid-valve-self-cleaning-anti-clogging.md](en/technology/16-solenoid-valve-self-cleaning-anti-clogging.md)
+- Specification Deduplication & To-be-Generated List — [en/products/category-templates/规格书去重待生成清单.md](en/products/category-templates/规格书去重待生成清单.md)
+- Standards Participation & Certification Index — [en/certification/standards-index.md](en/certification/standards-index.md)
+- T-FASI2-2018+感应式尿水分排小便器+给水控制器 — [assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md](assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md)
+- T-XMBK 02-2024 感应式水嘴 — [assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md](assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md)
+- T/XMBK 002—2024《感应式水嘴》团体标准配套技术白皮书 — [zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md](zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
+- T3081-1非接触式电子给器具 — [assets/standard/03-团体标准/T3081-1非接触式电子给器具.md](assets/standard/03-团体标准/T3081-1非接触式电子给器具.md)
+- TCECS 10037-2019绿色建材评价-卫生洁具 — [assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md](assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md)
+- TOF Product Specification — [en/products/product-spec/TOF-spec.md](en/products/product-spec/TOF-spec.md)
+- TOF 产品资料 — [zh/products/product-spec/TOF-spec.md](zh/products/product-spec/TOF-spec.md)
+- TOF-激光脚感应模块组件 Product Specification — [en/products/product-spec/TOF-激光脚感应模块组件-spec.md](en/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TOF-激光脚感应模块组件 产品资料 — [zh/products/product-spec/TOF-激光脚感应模块组件-spec.md](zh/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TOF双感应模块 — [en/solutions/tof-dual-sensor-module.md](en/solutions/tof-dual-sensor-module.md)
+- TYREK Product Specification — [en/products/product-spec/TYREK-spec.md](en/products/product-spec/TYREK-spec.md)
+- TYREK 产品资料 — [zh/products/product-spec/TYREK-spec.md](zh/products/product-spec/TYREK-spec.md)
+- Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware — [en/whitepapers/technical-white-paper.md](en/whitepapers/technical-white-paper.md)
+- Technology — [en/technology/README.md](en/technology/README.md)
+- The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices — [en/whitepapers/standard-white-paper.md](en/whitepapers/standard-white-paper.md)
+- Triangular Ranging Sensing Technology — Technical Principle Analysis — [en/technology/01-triangular-ranging-sensing-technology.md](en/technology/01-triangular-ranging-sensing-technology.md)
+- T∕CECS 10050-2019 绿色建材评价 水嘴 — [assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md](assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md)
+- WYJ-G001 Product Specification — [en/products/product-spec/WYJ-G001-spec.md](en/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G001 产品资料 — [zh/products/product-spec/WYJ-G001-spec.md](zh/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G002 Product Specification — [en/products/product-spec/WYJ-G002-spec.md](en/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G002 产品资料 — [zh/products/product-spec/WYJ-G002-spec.md](zh/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G003 Product Specification — [en/products/product-spec/WYJ-G003-spec.md](en/products/product-spec/WYJ-G003-spec.md)
+- WYJ-G003 产品资料 — [zh/products/product-spec/WYJ-G003-spec.md](zh/products/product-spec/WYJ-G003-spec.md)
+- Wireless Remote Control Technology — Technical Principle Analysis — [en/technology/05-wireless-remote-control-technology.md](en/technology/05-wireless-remote-control-technology.md)
+- Z系列智能马桶 Product Specification — [en/products/product-spec/Z系列智能马桶-spec.md](en/products/product-spec/Z系列智能马桶-spec.md)
+- Z系列智能马桶 产品资料 — [zh/products/product-spec/Z系列智能马桶-spec.md](zh/products/product-spec/Z系列智能马桶-spec.md)
+- assets_体积优化方案 — [assets_体积优化方案.md](assets_体积优化方案.md)
+- dTOF激光感应智能卫浴应用技术白皮书 — [zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md](zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md)
+- dTOF激光感应模块 — [en/solutions/dtof-laser-sensor-module.md](en/solutions/dtof-laser-sensor-module.md)
+- dTOF激光感应龙头控制板 — [en/solutions/dtof-laser-faucet-control-board.md](en/solutions/dtof-laser-faucet-control-board.md)
+- linkedin-company-page-content — [linkedin-company-page-content.md](linkedin-company-page-content.md)
+- translation-glossary — [translation-glossary.md](translation-glossary.md)
+- video-generation-integration-plan — [video-generation-integration-plan.md](video-generation-integration-plan.md)
+- 《非接触式给水器具》报批稿 — [assets/standard/05-认证规则/《非接触式给水器具》报批稿.md](assets/standard/05-认证规则/《非接触式给水器具》报批稿.md)
+- 一体化感应花洒头（淋浴洒水头） — [zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- 专利与知识产权清单 — [zh/certification/patents.md](zh/certification/patents.md)
+- 专利去重与分类报告 — [assets/certificates/patents/专利去重与分类报告.md](assets/certificates/patents/专利去重与分类报告.md)
+- 中华人民共和国产品质量法（2009修正） — [assets/standard/06-法律法规/中华人民共和国质量法2009修订.md](assets/standard/06-法律法规/中华人民共和国质量法2009修订.md)
+- 中华人民共和国产品质量法（2018修正） — [assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md](assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md)
+- 中华人民共和国国家标准卫浴家具 — [assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md](assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md)
+- 中华人民共和国城镇建设行业标准（CJ系列） — [assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md](assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md)
+- 中华人民共和国消费者权益保护法（2013修正） — [assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md](assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md)
+- 中国感应洁具行业的行业标准与合规 — [zh/whitepapers/行业标准与合规白皮书.md](zh/whitepapers/行业标准与合规白皮书.md)
+- 中国机械工业标准汇编 量具量仪卷 — [assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md](assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md)
+- 中小型电镀厂镀锌废水处理的工艺实践 — [assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md](assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md)
+- 交直流双供电模块 — [en/solutions/ac-dc-dual-power-module.md](en/solutions/ac-dc-dual-power-module.md)
+- 产品中心 — [zh/products/README.md](zh/products/README.md)
+- 产品规格目录 | Product Specifications — [zh/products/product-spec/README.md](zh/products/product-spec/README.md)
+- 企业荣誉墙 — [zh/certification/honors.md](zh/certification/honors.md)
+- 公司介绍 — [zh/company/README.md](zh/company/README.md)
+- 冷热感应水龙头 — [zh/products/category-templates/冷热感应水龙头-模版.md](zh/products/category-templates/冷热感应水龙头-模版.md)
+- 冷热混水阀体 — [en/solutions/mixing-valve-assembly.md](en/solutions/mixing-valve-assembly.md)
+- 包装回收标志（GB/T 18455-2010 知识汇编） — [assets/standard/05-认证规则/知识_包装回收标志.md](assets/standard/05-认证规则/知识_包装回收标志.md)
+- 单冷感应水龙头 — 子分类通用内容母本 — [zh/products/category-templates/单冷感应水龙头-模版.md](zh/products/category-templates/单冷感应水龙头-模版.md)
+- 单窗双感应模块 — [en/solutions/single-window-dual-sensor-module.md](en/solutions/single-window-dual-sensor-module.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+- 卫浴行业标准 — [assets/standard/05-认证规则/卫浴行业标准.md](assets/standard/05-认证规则/卫浴行业标准.md)
+- 卫生洁具 软管 — [assets/standard/05-认证规则/卫生洁具_软管.md](assets/standard/05-认证规则/卫生洁具_软管.md)
+- 卫生洁具安装 — [assets/standard/05-认证规则/卫生洁具安装.md](assets/standard/05-认证规则/卫生洁具安装.md)
+- 卫生洁具安装工艺标准 — [assets/standard/05-认证规则/卫生洁具安装工艺标准.md](assets/standard/05-认证规则/卫生洁具安装工艺标准.md)
+- 卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知 — [assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md](assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md)
+- 厨房二合一新品 Product Specification — [en/products/product-spec/厨房二合一新品-spec.md](en/products/product-spec/厨房二合一新品-spec.md)
+- 厨房二合一新品 产品资料 — [zh/products/product-spec/厨房二合一新品-spec.md](zh/products/product-spec/厨房二合一新品-spec.md)
+- 双感应龙头控制板 — [en/solutions/dual-sensor-control-board.md](en/solutions/dual-sensor-control-board.md)
+- 发展历程 — [zh/company/history.md](zh/company/history.md)
+- 合作检测机构 — [zh/certification/test-institution.md](zh/certification/test-institution.md)
+- 品牌理念与使命 — [zh/company/brand-story.md](zh/company/brand-story.md)
+- 品类内容模板 — [zh/products/category-templates/README.md](zh/products/category-templates/README.md)
+- 售后服务政策 — [zh/company/service-policy.md](zh/company/service-policy.md)
+- 商用公共卫浴节水改造解决方案白皮书 — [zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md](zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md)
+- 商用感应洁具选型避坑指南（采购人专用版） — [zh/products/selection-guide.md](zh/products/selection-guide.md)
+- 大便感应器 — 通用内容母本 — [zh/products/category-templates/大便感应器-模版.md](zh/products/category-templates/大便感应器-模版.md)
+- 工程案例目录 | Project Cases — [zh/cases/README.md](zh/cases/README.md)
+- 工程量清单计价规范 — [assets/standard/05-认证规则/工程量清单计价规范.md](assets/standard/05-认证规则/工程量清单计价规范.md)
+- 常见问题 FAQ — [zh/faq/README.md](zh/faq/README.md)
+- 建筑给水排水设计规范-2009 — [assets/standard/05-认证规则/建筑给水排水设计规范-2009.md](assets/standard/05-认证规则/建筑给水排水设计规范-2009.md)
+- 建设部近期批准发布的标准、规范和标准设计图集目录 — [assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md](assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md)
+- 德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE — [assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md](assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md)
+- 快装式结构组件 — [en/solutions/quick-install-structure.md](en/solutions/quick-install-structure.md)
+- 感应冲水器控制板 — [en/solutions/flush-control-board.md](en/solutions/flush-control-board.md)
+- 感应小便器 — 通用内容母本 — [zh/products/category-templates/感应小便器-模版.md](zh/products/category-templates/感应小便器-模版.md)
+- 感应干手器（通用内容母本） — [zh/products/category-templates/感应干手器-模版.md](zh/products/category-templates/感应干手器-模版.md)
+- 感应水嘴 — 子分类通用内容母本 — [zh/products/category-templates/感应水嘴-模版.md](zh/products/category-templates/感应水嘴-模版.md)
+- 感应水嘴团体标准T-XMBK002-2024 — [assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md](assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md)
+- 感应泡沫洗手机（子分类通用内容母本） — [zh/products/category-templates/感应泡沫洗手机-模版.md](zh/products/category-templates/感应泡沫洗手机-模版.md)
+- 感应洁具安装与选型白皮书 — [zh/whitepapers/感应洁具安装与选型白皮书.md](zh/whitepapers/感应洁具安装与选型白皮书.md)
+- 感应洁具行业选型指南 — [assets/standard/05-认证规则/selection-guide.md](assets/standard/05-认证规则/selection-guide.md)
+- 感应淋浴器 — 子分类通用内容母本 — [zh/products/category-templates/感应淋浴器-模版.md](zh/products/category-templates/感应淋浴器-模版.md)
+- 感应给皂器 — 子分类通用内容母本 — [zh/products/category-templates/感应给皂器-模版.md](zh/products/category-templates/感应给皂器-模版.md)
+- 技术实力 — [zh/technology/README.md](zh/technology/README.md)
+- 数显花洒行业标准QBT 5281-2018 — [assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md](assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md)
+- 智能恒温淋浴与冷水预排白皮书 — [zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md](zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md)
+- 智能恒温淋浴花洒 Product Specification — [en/products/product-spec/智能恒温淋浴花洒-spec.md](en/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能恒温淋浴花洒 产品资料 — [zh/products/product-spec/智能恒温淋浴花洒-spec.md](zh/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 Product Specification — [en/products/product-spec/智能花洒泡泡机-spec.md](en/products/product-spec/智能花洒泡泡机-spec.md)
+- 智能花洒泡泡机 产品资料 — [zh/products/product-spec/智能花洒泡泡机-spec.md](zh/products/product-spec/智能花洒泡泡机-spec.md)
+- 标准参与与认证索引 — [zh/certification/standards-index.md](zh/certification/standards-index.md)
+- 水龙头检验标准 — [assets/standard/05-认证规则/水龙头检验标准.md](assets/standard/05-认证规则/水龙头检验标准.md)
+- 江苏省工程建设标准 — [assets/standard/05-认证规则/江苏省工程建设标准.md](assets/standard/05-认证规则/江苏省工程建设标准.md)
+- 污水排入城市下水道水质标准 — [assets/standard/05-认证规则/污水排入城市下水道水质标准.md](assets/standard/05-认证规则/污水排入城市下水道水质标准.md)
+- 洁博利GIBO 1051 感应龙头 产品说明书 — [zh/products/product-manual/1051感应龙头CN_说明书.md](zh/products/product-manual/1051感应龙头CN_说明书.md)
+- 洁博利GIBO 1086 智能盖板 产品说明书 — [zh/products/product-manual/1086智能盖板CN_说明书.md](zh/products/product-manual/1086智能盖板CN_说明书.md)
+- 洁博利GIBO 33554 感应干手器 产品说明书 — [zh/products/product-manual/33554感应干手器CN_说明书.md](zh/products/product-manual/33554感应干手器CN_说明书.md)
+- 洁博利GIBO 33602 感应洁具 产品说明书 — [zh/products/product-manual/33602产品CN_说明书.md](zh/products/product-manual/33602产品CN_说明书.md)
+- 洁博利GIBO 33604 感应洁具 产品说明书 — [zh/products/product-manual/33604产品CN_说明书.md](zh/products/product-manual/33604产品CN_说明书.md)
+- 洁博利GIBO 33604 感应皂液器 产品说明书 — [zh/products/product-manual/33604感应皂液器CN_说明书.md](zh/products/product-manual/33604感应皂液器CN_说明书.md)
+- 洁博利GIBO 33605 感应洁具 产品说明书 — [zh/products/product-manual/33605产品CN_说明书.md](zh/products/product-manual/33605产品CN_说明书.md)
+- 洁博利GIBO 6101 感应龙头 产品说明书 — [zh/products/product-manual/6101感应龙头CN_EN_说明书.md](zh/products/product-manual/6101感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6108 感应龙头 产品说明书 — [zh/products/product-manual/6108感应龙头CN_EN_说明书.md](zh/products/product-manual/6108感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6110 感应龙头 产品说明书 — [zh/products/product-manual/6110感应龙头CN_说明书.md](zh/products/product-manual/6110感应龙头CN_说明书.md)
+- 洁博利GIBO 6122 感应龙头 产品说明书 — [zh/products/product-manual/6122感应龙头CN_说明书.md](zh/products/product-manual/6122感应龙头CN_说明书.md)
+- 洁博利GIBO 6134 感应龙头 产品说明书 — [zh/products/product-manual/6134感应龙头CN_说明书.md](zh/products/product-manual/6134感应龙头CN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_EN_说明书.md](zh/products/product-manual/6158感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_说明书.md](zh/products/product-manual/6158感应龙头CN_说明书.md)
+- 洁博利GIBO 6160 感应龙头 产品说明书 — [zh/products/product-manual/6160感应龙头CN_说明书.md](zh/products/product-manual/6160感应龙头CN_说明书.md)
+- 洁博利GIBO 6161 感应洁具 产品说明书 — [zh/products/product-manual/6161产品CN_说明书.md](zh/products/product-manual/6161产品CN_说明书.md)
+- 洁博利GIBO 6172 感应龙头 产品说明书 — [zh/products/product-manual/6172感应面盆龙头CN_说明书.md](zh/products/product-manual/6172感应面盆龙头CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴CN_说明书.md](zh/products/product-manual/6193感应水嘴CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴EN_说明书.md](zh/products/product-manual/6193感应水嘴EN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴TH_说明书.md](zh/products/product-manual/6193感应水嘴TH_说明书.md)
+- 洁博利GIBO 6195 感应节水宝 产品说明书 — [zh/products/product-manual/6195感应节水宝CN_说明书.md](zh/products/product-manual/6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 6196 感应龙头 产品说明书 — [zh/products/product-manual/6196感应龙头CN_说明书.md](zh/products/product-manual/6196感应龙头CN_说明书.md)
+- 洁博利GIBO 6197 感应水嘴 产品说明书 — [zh/products/product-manual/6197感应水嘴TH_说明书.md](zh/products/product-manual/6197感应水嘴TH_说明书.md)
+- 洁博利GIBO 6197 感应节水器 产品说明书 — [zh/products/product-manual/6197感应节水水嘴CN_说明书.md](zh/products/product-manual/6197感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 61xx 感应洗手器 产品说明书 — [zh/products/product-manual/61xx感应洗手器CN_说明书.md](zh/products/product-manual/61xx感应洗手器CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_EN_说明书.md](zh/products/product-manual/61xx感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_说明书.md](zh/products/product-manual/61xx感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头EN_说明书.md](zh/products/product-manual/61xx感应龙头EN_说明书.md)
+- 洁博利GIBO 61xx 自动喷香机 产品说明书 — [zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md](zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md)
+- 洁博利GIBO 6200 感应洁具 产品说明书 — [zh/products/product-manual/6200产品CN_说明书.md](zh/products/product-manual/6200产品CN_说明书.md)
+- 洁博利GIBO 6202 感应洁具 产品说明书 — [zh/products/product-manual/6202产品CN_说明书.md](zh/products/product-manual/6202产品CN_说明书.md)
+- 洁博利GIBO 6210 小便感应冲水器 产品说明书 — [zh/products/product-manual/6210小便冲水器CN_说明书.md](zh/products/product-manual/6210小便冲水器CN_说明书.md)
+- 洁博利GIBO 6213 小便感应冲水器 产品说明书 — [zh/products/product-manual/6213小便冲水器CN_说明书.md](zh/products/product-manual/6213小便冲水器CN_说明书.md)
+- 洁博利GIBO 6215 小便感应冲水器 产品说明书 — [zh/products/product-manual/6215小便冲水器CN_说明书.md](zh/products/product-manual/6215小便冲水器CN_说明书.md)
+- 洁博利GIBO 6237 感应水嘴 产品说明书 — [zh/products/product-manual/6237感应水嘴CN_EN_说明书.md](zh/products/product-manual/6237感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6237 感应洁具 产品说明书 — [zh/products/product-manual/6237产品CN_EN_说明书.md](zh/products/product-manual/6237产品CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应水嘴 产品说明书 — [zh/products/product-manual/6238感应水嘴CN_EN_说明书.md](zh/products/product-manual/6238感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应洁具 产品说明书 — [zh/products/product-manual/6238一体式CN_EN_说明书.md](zh/products/product-manual/6238一体式CN_EN_说明书.md)
+- 洁博利GIBO 6291 感应洁具 产品说明书 — [zh/products/product-manual/6291产品CN_说明书.md](zh/products/product-manual/6291产品CN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_说明书.md)
+- 洁博利GIBO 62xx 感应水嘴 产品说明书 — [zh/products/product-manual/62xx感应水嘴EN_说明书.md](zh/products/product-manual/62xx感应水嘴EN_说明书.md)
+- 洁博利GIBO 62xx 感应节水宝 产品说明书 — [zh/products/product-manual/62xx感应节水宝CN_说明书.md](zh/products/product-manual/62xx感应节水宝CN_说明书.md)
+- 洁博利GIBO 6303 蹲便感应器 产品说明书 — [zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6306 感应洁具 产品说明书 — [zh/products/product-manual/6306产品CN_说明书.md](zh/products/product-manual/6306产品CN_说明书.md)
+- 洁博利GIBO 63068 蹲便感应器 产品说明书 — [zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6313 感应洁具 产品说明书 — [zh/products/product-manual/6313产品CN_说明书.md](zh/products/product-manual/6313产品CN_说明书.md)
+- 洁博利GIBO 63xx 座便感应器 产品说明书 — [zh/products/product-manual/63xx座便感应器CN_EN_说明书.md](zh/products/product-manual/63xx座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_说明书.md)
+- 洁博利GIBO 64106 蹲便感应器 产品说明书 — [zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md](zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 64xx 感应淋浴器 产品说明书 — [zh/products/product-manual/64xx淋浴器CN_EN_说明书.md](zh/products/product-manual/64xx淋浴器CN_EN_说明书.md)
+- 洁博利GIBO 6630 感应洁具 产品说明书 — [zh/products/product-manual/6630产品CN_说明书.md](zh/products/product-manual/6630产品CN_说明书.md)
+- 洁博利GIBO 6630 感应龙头 产品说明书 — [zh/products/product-manual/6630感应龙头CN_说明书.md](zh/products/product-manual/6630感应龙头CN_说明书.md)
+- 洁博利GIBO 6634 感应龙头 产品说明书 — [zh/products/product-manual/6634感应龙头CN_说明书.md](zh/products/product-manual/6634感应龙头CN_说明书.md)
+- 洁博利GIBO 6635 感应龙头 产品说明书 — [zh/products/product-manual/6635感应龙头CN_说明书.md](zh/products/product-manual/6635感应龙头CN_说明书.md)
+- 洁博利GIBO 66xx 感应水箱 产品说明书 — [zh/products/product-manual/66xx感应水箱CN_说明书.md](zh/products/product-manual/66xx感应水箱CN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
+- 洁博利GIBO 6712 感应淋浴器 产品说明书 — [zh/products/product-manual/6712淋浴器CN_说明书.md](zh/products/product-manual/6712淋浴器CN_说明书.md)
+- 洁博利GIBO 67xx 感应节水器 产品说明书 — [zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md](zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器CN_EN_说明书.md](zh/products/product-manual/8200小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器EN_说明书.md](zh/products/product-manual/8200小便冲水器EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_EN_说明书.md](zh/products/product-manual/8201小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_说明书.md](zh/products/product-manual/8201小便冲水器CN_说明书.md)
+- 洁博利GIBO 8207 感应洁具 产品说明书 — [zh/products/product-manual/8207产品CN_说明书.md](zh/products/product-manual/8207产品CN_说明书.md)
+- 洁博利GIBO 8216 感应洁具 产品说明书 — [zh/products/product-manual/8216产品CN_说明书.md](zh/products/product-manual/8216产品CN_说明书.md)
+- 洁博利GIBO 8303 座便感应器 产品说明书 — [zh/products/product-manual/8303座便感应器CN_EN_说明书.md](zh/products/product-manual/8303座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8303 蹲便感应器 产品说明书 — [zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8307 蹲便感应器 产品说明书 — [zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8308 蹲便感应器 产品说明书 — [zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 9120 感应龙头 产品说明书 — [zh/products/product-manual/9120即热龙头CN_说明书.md](zh/products/product-manual/9120即热龙头CN_说明书.md)
+- 洁博利GIBO 9160 感应龙头 产品说明书 — [zh/products/product-manual/9160厨房龙头CN_说明书.md](zh/products/product-manual/9160厨房龙头CN_说明书.md)
+- 洁博利GIBO 91601 感应龙头 产品说明书 — [zh/products/product-manual/91601厨房龙头CN_说明书.md](zh/products/product-manual/91601厨房龙头CN_说明书.md)
+- 洁博利GIBO 91605 感应洁具 产品说明书 — [zh/products/product-manual/91605产品CN_说明书.md](zh/products/product-manual/91605产品CN_说明书.md)
+- 洁博利GIBO 9161 感应洁具 产品说明书 — [zh/products/product-manual/9161产品CN_说明书.md](zh/products/product-manual/9161产品CN_说明书.md)
+- 洁博利GIBO 9162 感应洁具 产品说明书 — [zh/products/product-manual/9162产品CN_说明书.md](zh/products/product-manual/9162产品CN_说明书.md)
+- 洁博利GIBO G1 智能盖板 产品说明书 — [zh/products/product-manual/G1智能盖板CN_说明书.md](zh/products/product-manual/G1智能盖板CN_说明书.md)
+- 洁博利GIBO 感应水嘴 产品说明书 — [zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md](zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6108DZ产品CN_说明书.md](zh/products/product-manual/GBL-6108DZ产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6120产品CN_EN_说明书.md](zh/products/product-manual/GBL-6120产品CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6161产品CN_说明书.md](zh/products/product-manual/GBL-6161产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6233产品CN_说明书.md](zh/products/product-manual/GBL-6233产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6308产品EN_说明书.md](zh/products/product-manual/GBL-6308产品EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-9162产品CN_说明书.md](zh/products/product-manual/GBL-9162产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/README.md](zh/products/product-manual/README.md)
+- 洁博利GIBO 感应皂液器 产品说明书 — [zh/products/product-manual/SD-280感应皂液器CN_说明书.md](zh/products/product-manual/SD-280感应皂液器CN_说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md](zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 感应节水宝 产品说明书 — [zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md](zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-52052感应龙头CN_说明书.md](zh/products/product-manual/GBL-52052感应龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md)
+- 洁博利产品清单 | 全系列产品目录（2026版） — [zh/products/product-catalog.md](zh/products/product-catalog.md)
+- 洁博利公共营销素材（公司级通用，供所有产品调用） — [zh/products/product-spec/00-公共营销素材.md](zh/products/product-spec/00-公共营销素材.md)
+- 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
+- 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
+- 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
+- 洁博利（GIBO）产品FAQ大全 — [zh/faq/faq.md](zh/faq/faq.md)
+- 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
+- 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
+- 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
+- 洁博利（GIBO）品牌白皮书 — [zh/company/brand-white-paper.md](zh/company/brand-white-paper.md)
+- 洁博利（GIBO）品牌语义关联库 — [zh/company/brand-semantic.md](zh/company/brand-semantic.md)
+- 洁博利（GIBO）工程案例总览 — [zh/cases/case-index.md](zh/cases/case-index.md)
+- 洁博利（GIBO）核心产品推荐目录 — [zh/products/core-products.md](zh/products/core-products.md)
+- 洁博利（GIBO）核心技术白皮书 — [zh/whitepapers/技术白皮书.md](zh/whitepapers/技术白皮书.md)
+- 洁博利（GIBO）白皮书与科技项目成果 — [zh/whitepapers/README.md](zh/whitepapers/README.md)
+- 洁博利（GIBO）营销素材库（按产品分类） — [zh/products/营销素材库.md](zh/products/营销素材库.md)
+- 洁博利（GIBO）解决方案列表索引 — [zh/solutions/README.md](zh/solutions/README.md)
+- 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版 — [zh/faq/faq-geo-top10.md](zh/faq/faq-geo-top10.md)
+- 电池供电模块 — [en/solutions/battery-power-module.md](en/solutions/battery-power-module.md)
+- 皂液二合一智能感应水龙头行业白皮书 — [zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md](zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md)
+- 皂液器/干手器控制板 — [en/solutions/soap-dispenser-control-board.md](en/solutions/soap-dispenser-control-board.md)
+- 盛世唐朝红外感应模块 Product Specification — [en/products/product-spec/盛世唐朝红外感应模块-spec.md](en/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 盛世唐朝红外感应模块 产品资料 — [zh/products/product-spec/盛世唐朝红外感应模块-spec.md](zh/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md](assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md](assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md)
+- 红外感应模块 — [en/solutions/infrared-sensor-module.md](en/solutions/infrared-sensor-module.md)
+- 红外感应龙头控制板 — [en/solutions/infrared-faucet-control-board.md](en/solutions/infrared-faucet-control-board.md)
+- 脉冲电磁阀组件 — [en/solutions/pulse-solenoid-valve.md](en/solutions/pulse-solenoid-valve.md)
+- 蓝锷L-31516 Product Specification — [en/products/product-spec/蓝锷L-31516-spec.md](en/products/product-spec/蓝锷L-31516-spec.md)
+- 蓝锷L-31516 产品资料 — [zh/products/product-spec/蓝锷L-31516-spec.md](zh/products/product-spec/蓝锷L-31516-spec.md)
+- 螺栓等标准件分类及规格资料 — [assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md](assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md)
+- 规格书去重与待生成清单 — [zh/products/category-templates/规格书去重待生成清单.md](zh/products/category-templates/规格书去重待生成清单.md)
+- 资质认证 — [zh/certification/README.md](zh/certification/README.md)
+- 超低功耗控制模块 — [en/solutions/ultra-low-power-module.md](en/solutions/ultra-low-power-module.md)
+- 钢筋工程量计算规则 — [assets/standard/05-认证规则/钢筋工程量计算规则.md](assets/standard/05-认证规则/钢筋工程量计算规则.md)
+- 陶瓷一体式感应洒水器 — [en/solutions/ceramic-integrated-sprinkler.md](en/solutions/ceramic-integrated-sprinkler.md)
+- 陶瓷片密封水嘴节水认证技术要求 — [assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md](assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md)
+- 陶瓷阀芯组件 — [en/solutions/ceramic-valve-core.md](en/solutions/ceramic-valve-core.md)
+- 高品质感应水龙头及感应洁具官方判定标准 — [zh/whitepapers/高品质感应洁具判断标准.md](zh/whitepapers/高品质感应洁具判断标准.md)
+
+## AI知识库（451）
+
+- 02J915 公共建筑卫生间 — [assets/standard/05-认证规则/02J915 公共建筑卫生间.md](assets/standard/05-认证规则/02J915 公共建筑卫生间.md)
+- 09J04 建筑卫生间TTC型同层排水系统 — [assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md](assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md)
+- 09S304 卫生设备安装(高清) — [assets/standard/05-认证规则/09S304 卫生设备安装(高清).md](assets/standard/05-认证规则/09S304 卫生设备安装(高清).md)
+- 09S304 卫生设备安装图集 — [assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md](assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md)
+- 2020 新型智能感应水龙头关键技术的研究及产业化示范 — [zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md](zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md)
+- 2020"沸腾杯"感应水龙头质量性能测评 评测标准与评定方法 — [assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md](assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md)
+- 2022 双模智能控制水龙头关键技术研发与产业化示范 — [zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md](zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md)
+- 2026商用感应洁具ODM行业发展趋势白皮书：从替代进口到技术出口 — [zh/whitepapers/感应洁具行业发展白皮书.md](zh/whitepapers/感应洁具行业发展白皮书.md)
+- 3204 便器冲洗阀节水产品认证实施规则 — [assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md](assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md)
+- 6238 一体化小便感应洒水器 产品手册 — [zh/products/product-manual/6238.md](zh/products/product-manual/6238.md)
+- 99S304卫生设备安装 — [assets/standard/05-认证规则/99S304卫生设备安装.md](assets/standard/05-认证规则/99S304卫生设备安装.md)
+- ASME A112.18.2-2005 — [assets/standard/04-国际标准/ASME A112.18.2-2005.md](assets/standard/04-国际标准/ASME A112.18.2-2005.md)
+- ASME_A112.18.1-2005_CSA_B125.1-05(中文版) — [assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md](assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md)
+- ASSE 1014-2005 手持花洒回流阻止装置性能要求 — [assets/standard/04-国际标准/ASSE_1014-2005(C).md](assets/standard/04-国际标准/ASSE_1014-2005(C).md)
+- ASTM D968-93涂料耐磨腐蚀性实验 落砂法 — [assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md](assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md)
+- BC-31519 产品资料 — [zh/products/product-spec/BC-31519-spec.md](zh/products/product-spec/BC-31519-spec.md)
+- BC-KZH-9168控制盒 产品资料 — [zh/products/product-spec/BC-KZH-9168控制盒-spec.md](zh/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-YH01 产品资料 — [zh/products/product-spec/BC-KZH-YH01-spec.md](zh/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-YMH-8308 产品资料 — [zh/products/product-spec/BC-YMH-8308-spec.md](zh/products/product-spec/BC-YMH-8308-spec.md)
+- CBM15-2016智能便盖标准 — [assets/standard/03-团体标准/CBM15-2016智能便盖标准.md](assets/standard/03-团体标准/CBM15-2016智能便盖标准.md)
+- CJ+T194-2014+非接触式给水器具 — [assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md](assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md)
+- CJT 406-2012 不锈钢水嘴 — [assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md](assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md)
+- CJT164-2014 节水型生活用水器具 — [assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md](assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md)
+- CJT3081-1999非接触式（电子）给水器具 — [assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md](assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md)
+- CJT99-1999 — [assets/standard/02-行业标准/CJT99-1999.md](assets/standard/02-行业标准/CJT99-1999.md)
+- CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备 — [assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md](assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md)
+- CQC 3226-2009 非接触式水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md)
+- CQC32-432411-2022便器冲洗阀节水认证规则(新) — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md)
+- CQC32-432411-2022便器冲洗阀节水认证规则（新） — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md)
+- CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解 — [assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md](assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md)
+- CQC3225-2009陶瓷片密封水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md)
+- CSCT 32.2-2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md)
+- CSCT 32.2—2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md)
+- CSCT 35.3—2006非接触式水嘴 — [assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md)
+- CSCT 35.3—2006非接触式水嘴.pdf — [assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md)
+- DIN EN681-1 — [assets/standard/04-国际标准/DIN EN681-1.md](assets/standard/04-国际标准/DIN EN681-1.md)
+- DVGW W270 与饮用水接触的微生物强化控制 中文 — [assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md](assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md)
+- EN 15091 2024 — [assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md](assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md)
+- EN 61000-3-3 电压波动和闪烁限制 — [assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md](assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN248-2002 欧洲电镀标准要求 — [assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md](assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md)
+- EN61000-4-2 电磁兼容 试验和测量特性 — [assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md](assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- EN 12164 2016铜及铜合金易切削用棒材 — [assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md](assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md)
+- ES102卫浴产品电镀工程规范 — [assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md](assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md)
+- G33608 产品资料 — [zh/products/product-spec/G33608-spec.md](zh/products/product-spec/G33608-spec.md)
+- G61901 产品资料 — [zh/products/product-spec/G61901-spec.md](zh/products/product-spec/G61901-spec.md)
+- GB 12333-1990 金属覆盖层 工程用铜电镀层 — [assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md](assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md)
+- GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求 — [assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md](assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md)
+- GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md)
+- GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求 — [assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md](assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md)
+- GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求 — [assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md](assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md)
+- GB 14536.14 部份标准 — [assets/standard/01-国家标准/GB 14536.14 部份标准.md](assets/standard/01-国家标准/GB 14536.14 部份标准.md)
+- GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md)
+- GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求 (1) — [assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md](assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md)
+- GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md)
+- GB 19212.1-2008 电力变压器安全 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md)
+- GB 25501-2019 水嘴用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md)
+- GB 25502-2017 坐便器用水效率限定值及水效等级 — [assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md)
+- GB 26750-2011 新国标GB 26750-2011-T 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md](assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md)
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- GB 28378-2019 淋浴器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- GB 30717-2014 蹲便器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md)
+- GB 30978-2014 饮水机能效限定值及能效等级 — [assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md](assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md)
+- GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求 — [assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md](assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md)
+- GB 4706系列 家用和类似用途电器的安全标准索引 — [assets/standard/01-国家标准/GB4706目录.md](assets/standard/01-国家标准/GB4706目录.md)
+- GB 50242—2002 建筑给水排水及采暖工程施工质量验收规范 — [assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md](assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md)
+- GB 6952-2005卫生陶瓷国标 — [assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md](assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md)
+- GB 7000.1—2015 灯具安全 | 一般要求与试验 — [assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md](assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md)
+- GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层 — [assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md](assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md)
+- GB T 19000-2016 质量管理体系  基础和术语 — [assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md](assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md)
+- GB T 23001-2017 信息化和工业化融合管理体系 要求 — [assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md](assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md)
+- GB T 26750-2011 卫生洁具  便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md)
+- GB T 26750-2011 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md)
+- GB T 28797-2012 室内塑料垃圾桶 — [assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md](assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md)
+- GB T 2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法 第12部分：通用试验方法 热老化试验方法 — [assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md](assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md)
+- GB T 41863-2022非接触式给水器具节水性能通用技术条件 — [assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md](assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md)
+- GB T 6952-2015 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md)
+- GB T19011—2003 — [assets/standard/01-国家标准/GB T19011—2003.md](assets/standard/01-国家标准/GB T19011—2003.md)
+- GB T23988-2009涂料耐磨性 落砂法 — [assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md](assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md)
+- GB-T 1019-2008 家用和类似用途电器包装通则 — [assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md](assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md)
+- GB-T 2828.1-2012 计数抽样检验程序 — [assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md](assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md)
+- GB-T-19001-2016-质量管理体系-要求 — [assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md](assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md)
+- GB-T6315-1996 — [assets/standard/01-国家标准/GB-T6315-1996.md](assets/standard/01-国家标准/GB-T6315-1996.md)
+- GB/T 16288-2008 塑料制品的标识和标志 — [assets/standard/01-国家标准/GB_塑料制品的标识和标志.md](assets/standard/01-国家标准/GB_塑料制品的标识和标志.md)
+- GB/T 19001-2016 质量管理体系 要求 — [assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md](assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md)
+- GB/T 2423.1-2001 电工电子产品环境试验 第2部分：试验方法 试验A：低温 — [assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md](assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md)
+- GB/T 2423.2—2001 高温试验 | 电工电子产品环境试验方法 — [assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md)
+- GB/T 2423.3-2006 电工电子产品环境试验 第2部分：试验方法 试验Cab：恒定湿热 — [assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md](assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md)
+- GB/T 26712-2011 卫生洁具及暖气管道用直角阀 — [assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md](assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md)
+- GB/T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md)
+- GB/T 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md)
+- GB/T 34549-2017 卫生洁具 智能坐便器 — [assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md](assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md)
+- GB/T 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》与CJ/T 194-2014差异对比白皮书 — [zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md](zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
+- GB15979-2002 GB15979-2002一次性使用卫生用品使用标准 — [assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md](assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md)
+- GB19510 GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求 — [assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md](assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md)
+- GB26730-2011 GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架 — [assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md](assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md)
+- GB4706.15-2008 GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求 — [assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md](assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md)
+- GB4706.53-2002 GB4706.53-2002 K09 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md)
+- GB4706.53-2002 GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md)
+- GB4706.612008 GB4706.612008家用和类似用途电器的安全使用 — [assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md](assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md)
+- GB4793.1 通用电气设备安全要求GB4793.1 — [assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md](assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md)
+- GB4793.1通用电气设备安全要求 — [assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md](assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md)
+- GB50015-2003 建筑给水排水设计规范GB50015-2003 — [assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md](assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md)
+- GBL-6110 产品资料 — [zh/products/product-spec/GBL-6110-spec.md](zh/products/product-spec/GBL-6110-spec.md)
+- GBL-6127 产品资料 — [zh/products/product-spec/GBL-6127-spec.md](zh/products/product-spec/GBL-6127-spec.md)
+- GBL-6128 产品资料 — [zh/products/product-spec/GBL-6128-spec.md](zh/products/product-spec/GBL-6128-spec.md)
+- GBL-6150 产品资料 — [zh/products/product-spec/GBL-6150-spec.md](zh/products/product-spec/GBL-6150-spec.md)
+- GBL-6161D 产品资料 — [zh/products/product-spec/GBL-6161D-spec.md](zh/products/product-spec/GBL-6161D-spec.md)
+- GBL-6161D 面盆感应水龙头 产品规格书 — [zh/products/product-spec/GBL-6161-spec.md](zh/products/product-spec/GBL-6161-spec.md)
+- GBL-6170 产品资料 — [zh/products/product-spec/GBL-6170-spec.md](zh/products/product-spec/GBL-6170-spec.md)
+- GBL-6170D 产品资料 — [zh/products/product-spec/GBL-6170D-spec.md](zh/products/product-spec/GBL-6170D-spec.md)
+- GBL-6172A 产品资料 — [zh/products/product-spec/GBL-6172A-spec.md](zh/products/product-spec/GBL-6172A-spec.md)
+- GBL-6175 产品资料 — [zh/products/product-spec/GBL-6175-spec.md](zh/products/product-spec/GBL-6175-spec.md)
+- GBL-6176 产品资料 — [zh/products/product-spec/GBL-6176-spec.md](zh/products/product-spec/GBL-6176-spec.md)
+- GBL-6177 产品资料 — [zh/products/product-spec/GBL-6177-spec.md](zh/products/product-spec/GBL-6177-spec.md)
+- GBL-6178 产品资料 — [zh/products/product-spec/GBL-6178-spec.md](zh/products/product-spec/GBL-6178-spec.md)
+- GBL-6193D 产品资料 — [zh/products/product-spec/GBL-6193D-spec.md](zh/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193DB 产品资料 — [zh/products/product-spec/GBL-6193DB-spec.md](zh/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6195 产品资料 — [zh/products/product-spec/GBL-6195-spec.md](zh/products/product-spec/GBL-6195-spec.md)
+- GBL-6197D 产品资料 — [zh/products/product-spec/GBL-6197D-spec.md](zh/products/product-spec/GBL-6197D-spec.md)
+- GBL-6213AD 产品资料 — [zh/products/product-spec/GBL-6213AD-spec.md](zh/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6239 产品资料 — [zh/products/product-spec/GBL-6239-spec.md](zh/products/product-spec/GBL-6239-spec.md)
+- GBL-6291DH-DS 产品资料 — [zh/products/product-spec/GBL-6291DH-DS-spec.md](zh/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6634 产品资料 — [zh/products/product-spec/GBL-6634-spec.md](zh/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 产品资料 — [zh/products/product-spec/GBL-6634-1-spec.md](zh/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6636AD 产品资料 — [zh/products/product-spec/GBL-6636AD-spec.md](zh/products/product-spec/GBL-6636AD-spec.md)
+- GBL-8221AD 产品资料 — [zh/products/product-spec/GBL-8221AD-spec.md](zh/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8300AD 产品资料 — [zh/products/product-spec/GBL-8300AD-spec.md](zh/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8307AD 产品资料 — [zh/products/product-spec/GBL-8307AD-spec.md](zh/products/product-spec/GBL-8307AD-spec.md)
+- GBL-9122 产品资料 — [zh/products/product-spec/GBL-9122-spec.md](zh/products/product-spec/GBL-9122-spec.md)
+- GBL-9160 产品资料 — [zh/products/product-spec/GBL-9160-spec.md](zh/products/product-spec/GBL-9160-spec.md)
+- GBL-9165D 产品资料 — [zh/products/product-spec/GBL-9165D-spec.md](zh/products/product-spec/GBL-9165D-spec.md)
+- GBL-9168 产品资料 — [zh/products/product-spec/GBL-9168-spec.md](zh/products/product-spec/GBL-9168-spec.md)
+- GBL-K6238 产品资料 — [zh/products/product-spec/GBL-K6238-spec.md](zh/products/product-spec/GBL-K6238-spec.md)
+- GBL-TOF 产品资料 — [zh/products/product-spec/GBL-TOF-spec.md](zh/products/product-spec/GBL-TOF-spec.md)
+- GBL-双模感应厨房水龙头 产品资料 — [zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md](zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-智能加热盖板 产品资料 — [zh/products/product-spec/GBL-智能加热盖板-spec.md](zh/products/product-spec/GBL-智能加热盖板-spec.md)
+- GBT 10125-2012 人造气氛腐蚀试验 盐雾试验 — [assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md](assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md)
+- GBT 1176-2013 铸造铜及铜合金 — [assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md](assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md)
+- GBT 12600-2005 镍铬电镀层 — [assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md](assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md)
+- GBT 191-2008 包装储运图示标志 — [assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md](assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md)
+- GBT 19678-2005 说明书的编制 构成、内容和表示方法 — [assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md](assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md)
+- GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分 — [assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md](assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md)
+- GBT 23131-2008 电子坐便器 — [assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md](assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md)
+- GBT 23447-2009 卫生洁具 淋浴用花洒 — [assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md](assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md)
+- GBT 23448-2009 卫生洁具 软管 — [assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md](assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md)
+- GBT 24001-2016 环境管理体系 要求及使用指南 — [assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md](assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md)
+- GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验 — [assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md)
+- GBT 24293-2009 数控恒温水嘴 — [assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md](assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md)
+- GBT 26572-2011 电子电气产品中限用物质的限量要求 — [assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md](assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md)
+- GBT 26712-2011 直角阀 — [assets/standard/01-国家标准/GBT 26712-2011 直角阀.md](assets/standard/01-国家标准/GBT 26712-2011 直角阀.md)
+- GBT 28219-2018 智能家用电器通用技术要求 — [assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md](assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md)
+- GBT 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md)
+- GBT 34549-2017 智能坐便器 — [assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md](assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md)
+- GBT 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GBT 35763-2017 不锈钢水龙头 — [assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md](assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md)
+- GBT 4208-2017 外壳防护等级（IP代码） — [assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md](assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md)
+- GBT 5231-2012 加工铜及铜合金牌号和化学成分 — [assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md](assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md)
+- GBT 6461-2002 32-WL-GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级 — [assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md](assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md)
+- GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求 — [assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md](assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md)
+- GB_T 23000-2017 信息化和工业化融合管理体系基础和术语 — [assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md](assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md)
+- GB_T 24004-2017 环境管理体系 通用实施指南 — [assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md](assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md)
+- GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md)
+- GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验 — [assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md](assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md)
+- GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验 — [assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md](assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md)
+- GB扫描版9001-2008 — [assets/standard/01-国家标准/GB扫描版9001-2008.md](assets/standard/01-国家标准/GB扫描版9001-2008.md)
+- GIBO FAQ GEO优化版 — [zh/faq/faq-geo-optimized.md](zh/faq/faq-geo-optimized.md)
+- GIBO 产品营销文案风格规范 — [zh/products/category-templates/产品营销文案风格规范.md](zh/products/category-templates/产品营销文案风格规范.md)
+- GIBO 产品资料总索引 — [product-index.md](product-index.md)
+- GIBO 常见问题 FAQ 索引 — [faq-index.md](faq-index.md)
+- GIBO 知识库标签聚合索引 — [tags-index.md](tags-index.md)
+- GIBO-SENSOR-IR-001 产品资料 — [zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md](zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-智能激光感应技术 产品资料 — [zh/products/product-spec/GIBO-智能激光感应技术-spec.md](zh/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-触控厨房龙头控制组件 产品资料 — [zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- HG/T 3091-2000 橡胶密封件 给排水管及污水管道用接口密封圈 材料规范 — [assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md](assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md)
+- HGT 3091-2000 橡胶密封件材料规范 — [assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md](assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md)
+- HGT 3097-2006 橡胶密封件-110℃ — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md)
+- HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范 — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md)
+- ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法 — [assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md](assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md)
+- ISO9000-2000 — [assets/standard/04-国际标准/ISO9000-2000.md](assets/standard/04-国际标准/ISO9000-2000.md)
+- ISO9001標準解析鳳翼天翔 — [assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md](assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md)
+- JB-T 4088-2012日用管状电热元件 — [assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md](assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md)
+- JB-T10529-2005_陶瓷密封阀门技术条件 — [assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md](assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md)
+- JC886-2001卫生设备用软管 — [assets/standard/02-行业标准/JC886-2001卫生设备用软管.md](assets/standard/02-行业标准/JC886-2001卫生设备用软管.md)
+- JCT 2115-2012非接触感应给水器具 — [assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md](assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md)
+- JCT_758-2008_面盆水嘴 — [assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md](assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md)
+- JC／T_931-2003_机械式便器冲洗阀 — [assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md](assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md)
+- JG T 427-2014 卫浴五金配件 — [assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md](assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md)
+- JG/T 427-2014 住宅卫浴五金配件通用技术要求 — [assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md](assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md)
+- JIS B2406-1991 英文版日本 O型密封圈装配槽 设计标准 — [assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md](assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md)
+- JM01-感应洗手机电控板 产品资料 — [zh/products/product-spec/JM01-感应洗手机电控板-spec.md](zh/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- KCM-6150J-HS 产品资料 — [zh/products/product-spec/KCM-6150J-HS-spec.md](zh/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-DQ01 产品资料 — [zh/products/product-spec/KCM-DQ01-spec.md](zh/products/product-spec/KCM-DQ01-spec.md)
+- KCM-ET07-水龙头感应模块 产品资料 — [zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-SJ02 产品资料 — [zh/products/product-spec/KCM-SJ02-spec.md](zh/products/product-spec/KCM-SJ02-spec.md)
+- KCM-组合面板-WDW 产品资料 — [zh/products/product-spec/KCM-组合面板-WDW-spec.md](zh/products/product-spec/KCM-组合面板-WDW-spec.md)
+- LLMS — [LLMS.md](LLMS.md)
+- MAINTENANCE — [MAINTENANCE.md](MAINTENANCE.md)
+- NAMING-CONVENTION — [NAMING-CONVENTION.md](NAMING-CONVENTION.md)
+- ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录） — [zh/whitepapers/ODM白皮书中文附录-22里程碑.md](zh/whitepapers/ODM白皮书中文附录-22里程碑.md)
+- QB/T 3827-1999 轻工产品金属镀层和化学处理层的耐腐蚀试验方法 乙酸盐雾试验（ASS）法 — [assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md](assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md)
+- QBT 1560-2017卫生间附属配件 — [assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md](assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md)
+- QBT 5003-2016 触控式水嘴 — [assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md](assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md)
+- QBT5524-2020水嘴用阀芯标准 — [assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md](assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md)
+- QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准 — [assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md](assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md)
+- QB_T2654-2013洗手液行业标准 — [assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md](assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md)
+- QJMJCP 005002－2021 卫生间附属配件 — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md)
+- QJMJCP 005002－2021 卫生间附属配件(终稿) — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md)
+- README — [README.md](README.md)
+- README — [assets/README.md](assets/README.md)
+- README — [assets/Cases/README.md](assets/Cases/README.md)
+- README — [assets/catalogs/README.md](assets/catalogs/README.md)
+- README — [assets/certificates/README.md](assets/certificates/README.md)
+- README — [assets/certificates/honors-qualifications/README.md](assets/certificates/honors-qualifications/README.md)
+- README — [assets/certificates/patents/README.md](assets/certificates/patents/README.md)
+- README — [assets/certificates/product-certifications/README.md](assets/certificates/product-certifications/README.md)
+- README — [assets/certificates/test-reports/README.md](assets/certificates/test-reports/README.md)
+- README — [assets/certificates/third-party-approvals/README.md](assets/certificates/third-party-approvals/README.md)
+- README — [assets/certificates/trademarks/README.md](assets/certificates/trademarks/README.md)
+- README — [assets/company/Lab/README.md](assets/company/Lab/README.md)
+- README — [assets/company/QC/README.md](assets/company/QC/README.md)
+- README — [assets/company/Team/README.md](assets/company/Team/README.md)
+- README — [assets/Exhibition/README.md](assets/Exhibition/README.md)
+- README — [assets/Icon/README.md](assets/Icon/README.md)
+- README — [assets/images/README.md](assets/images/README.md)
+- README — [assets/standard/README.md](assets/standard/README.md)
+- README — [assets/standard/01-国家标准/README.md](assets/standard/01-国家标准/README.md)
+- README — [assets/standard/02-行业标准/README.md](assets/standard/02-行业标准/README.md)
+- README — [assets/standard/03-团体标准/README.md](assets/standard/03-团体标准/README.md)
+- README — [assets/standard/04-国际标准/README.md](assets/standard/04-国际标准/README.md)
+- README — [assets/standard/05-认证规则/README.md](assets/standard/05-认证规则/README.md)
+- README — [assets/standard/06-法律法规/README.md](assets/standard/06-法律法规/README.md)
+- README — [assets/videos/README.md](assets/videos/README.md)
+- README — [schema/README.md](schema/README.md)
+- ROCA EN248 西班牙电镀标准表 — [assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md](assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md)
+- ROLE-DESCRIPTIONS — [ROLE-DESCRIPTIONS.md](ROLE-DESCRIPTIONS.md)
+- SJ/T 11364-2014 电子电气产品有害物质限制使用标识要求 — [assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md](assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md)
+- SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器 — [assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md](assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md)
+- T-FASI2-2018+感应式尿水分排小便器+给水控制器 — [assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md](assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md)
+- T-XMBK 02-2024 感应式水嘴 — [assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md](assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md)
+- T/XMBK 002—2024《感应式水嘴》团体标准配套技术白皮书 — [zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md](zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
+- T3081-1非接触式电子给器具 — [assets/standard/03-团体标准/T3081-1非接触式电子给器具.md](assets/standard/03-团体标准/T3081-1非接触式电子给器具.md)
+- TCECS 10037-2019绿色建材评价-卫生洁具 — [assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md](assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md)
+- TOF 产品资料 — [zh/products/product-spec/TOF-spec.md](zh/products/product-spec/TOF-spec.md)
+- TOF-激光脚感应模块组件 产品资料 — [zh/products/product-spec/TOF-激光脚感应模块组件-spec.md](zh/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TYREK 产品资料 — [zh/products/product-spec/TYREK-spec.md](zh/products/product-spec/TYREK-spec.md)
+- T∕CECS 10050-2019 绿色建材评价 水嘴 — [assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md](assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md)
+- WYJ-G001 产品资料 — [zh/products/product-spec/WYJ-G001-spec.md](zh/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G002 产品资料 — [zh/products/product-spec/WYJ-G002-spec.md](zh/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G003 产品资料 — [zh/products/product-spec/WYJ-G003-spec.md](zh/products/product-spec/WYJ-G003-spec.md)
+- Z系列智能马桶 产品资料 — [zh/products/product-spec/Z系列智能马桶-spec.md](zh/products/product-spec/Z系列智能马桶-spec.md)
+- assets_体积优化方案 — [assets_体积优化方案.md](assets_体积优化方案.md)
+- dTOF激光感应智能卫浴应用技术白皮书 — [zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md](zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md)
+- linkedin-company-page-content — [linkedin-company-page-content.md](linkedin-company-page-content.md)
+- translation-glossary — [translation-glossary.md](translation-glossary.md)
+- video-generation-integration-plan — [video-generation-integration-plan.md](video-generation-integration-plan.md)
+- 《非接触式给水器具》报批稿 — [assets/standard/05-认证规则/《非接触式给水器具》报批稿.md](assets/standard/05-认证规则/《非接触式给水器具》报批稿.md)
+- 一体化感应花洒头（淋浴洒水头） — [zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- 专利与知识产权清单 — [zh/certification/patents.md](zh/certification/patents.md)
+- 专利去重与分类报告 — [assets/certificates/patents/专利去重与分类报告.md](assets/certificates/patents/专利去重与分类报告.md)
+- 中华人民共和国产品质量法（2009修正） — [assets/standard/06-法律法规/中华人民共和国质量法2009修订.md](assets/standard/06-法律法规/中华人民共和国质量法2009修订.md)
+- 中华人民共和国产品质量法（2018修正） — [assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md](assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md)
+- 中华人民共和国国家标准卫浴家具 — [assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md](assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md)
+- 中华人民共和国城镇建设行业标准（CJ系列） — [assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md](assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md)
+- 中华人民共和国消费者权益保护法（2013修正） — [assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md](assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md)
+- 中国感应洁具行业的行业标准与合规 — [zh/whitepapers/行业标准与合规白皮书.md](zh/whitepapers/行业标准与合规白皮书.md)
+- 中国机械工业标准汇编 量具量仪卷 — [assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md](assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md)
+- 中小型电镀厂镀锌废水处理的工艺实践 — [assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md](assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md)
+- 产品中心 — [zh/products/README.md](zh/products/README.md)
+- 产品规格目录 | Product Specifications — [zh/products/product-spec/README.md](zh/products/product-spec/README.md)
+- 企业荣誉墙 — [zh/certification/honors.md](zh/certification/honors.md)
+- 公司介绍 — [zh/company/README.md](zh/company/README.md)
+- 冷热感应水龙头 — [zh/products/category-templates/冷热感应水龙头-模版.md](zh/products/category-templates/冷热感应水龙头-模版.md)
+- 包装回收标志（GB/T 18455-2010 知识汇编） — [assets/standard/05-认证规则/知识_包装回收标志.md](assets/standard/05-认证规则/知识_包装回收标志.md)
+- 单冷感应水龙头 — 子分类通用内容母本 — [zh/products/category-templates/单冷感应水龙头-模版.md](zh/products/category-templates/单冷感应水龙头-模版.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+- 卫浴行业标准 — [assets/standard/05-认证规则/卫浴行业标准.md](assets/standard/05-认证规则/卫浴行业标准.md)
+- 卫生洁具 软管 — [assets/standard/05-认证规则/卫生洁具_软管.md](assets/standard/05-认证规则/卫生洁具_软管.md)
+- 卫生洁具安装 — [assets/standard/05-认证规则/卫生洁具安装.md](assets/standard/05-认证规则/卫生洁具安装.md)
+- 卫生洁具安装工艺标准 — [assets/standard/05-认证规则/卫生洁具安装工艺标准.md](assets/standard/05-认证规则/卫生洁具安装工艺标准.md)
+- 卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知 — [assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md](assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md)
+- 厨房二合一新品 产品资料 — [zh/products/product-spec/厨房二合一新品-spec.md](zh/products/product-spec/厨房二合一新品-spec.md)
+- 发展历程 — [zh/company/history.md](zh/company/history.md)
+- 合作检测机构 — [zh/certification/test-institution.md](zh/certification/test-institution.md)
+- 品牌理念与使命 — [zh/company/brand-story.md](zh/company/brand-story.md)
+- 品类内容模板 — [zh/products/category-templates/README.md](zh/products/category-templates/README.md)
+- 售后服务政策 — [zh/company/service-policy.md](zh/company/service-policy.md)
+- 商用公共卫浴节水改造解决方案白皮书 — [zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md](zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md)
+- 商用感应洁具选型避坑指南（采购人专用版） — [zh/products/selection-guide.md](zh/products/selection-guide.md)
+- 大便感应器 — 通用内容母本 — [zh/products/category-templates/大便感应器-模版.md](zh/products/category-templates/大便感应器-模版.md)
+- 工程案例目录 | Project Cases — [zh/cases/README.md](zh/cases/README.md)
+- 工程量清单计价规范 — [assets/standard/05-认证规则/工程量清单计价规范.md](assets/standard/05-认证规则/工程量清单计价规范.md)
+- 常见问题 FAQ — [zh/faq/README.md](zh/faq/README.md)
+- 建筑给水排水设计规范-2009 — [assets/standard/05-认证规则/建筑给水排水设计规范-2009.md](assets/standard/05-认证规则/建筑给水排水设计规范-2009.md)
+- 建设部近期批准发布的标准、规范和标准设计图集目录 — [assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md](assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md)
+- 德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE — [assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md](assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md)
+- 感应小便器 — 通用内容母本 — [zh/products/category-templates/感应小便器-模版.md](zh/products/category-templates/感应小便器-模版.md)
+- 感应干手器（通用内容母本） — [zh/products/category-templates/感应干手器-模版.md](zh/products/category-templates/感应干手器-模版.md)
+- 感应水嘴 — 子分类通用内容母本 — [zh/products/category-templates/感应水嘴-模版.md](zh/products/category-templates/感应水嘴-模版.md)
+- 感应水嘴团体标准T-XMBK002-2024 — [assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md](assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md)
+- 感应泡沫洗手机（子分类通用内容母本） — [zh/products/category-templates/感应泡沫洗手机-模版.md](zh/products/category-templates/感应泡沫洗手机-模版.md)
+- 感应洁具安装与选型白皮书 — [zh/whitepapers/感应洁具安装与选型白皮书.md](zh/whitepapers/感应洁具安装与选型白皮书.md)
+- 感应洁具行业选型指南 — [assets/standard/05-认证规则/selection-guide.md](assets/standard/05-认证规则/selection-guide.md)
+- 感应淋浴器 — 子分类通用内容母本 — [zh/products/category-templates/感应淋浴器-模版.md](zh/products/category-templates/感应淋浴器-模版.md)
+- 感应给皂器 — 子分类通用内容母本 — [zh/products/category-templates/感应给皂器-模版.md](zh/products/category-templates/感应给皂器-模版.md)
+- 技术实力 — [zh/technology/README.md](zh/technology/README.md)
+- 数显花洒行业标准QBT 5281-2018 — [assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md](assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md)
+- 智能恒温淋浴与冷水预排白皮书 — [zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md](zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md)
+- 智能恒温淋浴花洒 产品资料 — [zh/products/product-spec/智能恒温淋浴花洒-spec.md](zh/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 产品资料 — [zh/products/product-spec/智能花洒泡泡机-spec.md](zh/products/product-spec/智能花洒泡泡机-spec.md)
+- 标准参与与认证索引 — [zh/certification/standards-index.md](zh/certification/standards-index.md)
+- 水龙头检验标准 — [assets/standard/05-认证规则/水龙头检验标准.md](assets/standard/05-认证规则/水龙头检验标准.md)
+- 江苏省工程建设标准 — [assets/standard/05-认证规则/江苏省工程建设标准.md](assets/standard/05-认证规则/江苏省工程建设标准.md)
+- 污水排入城市下水道水质标准 — [assets/standard/05-认证规则/污水排入城市下水道水质标准.md](assets/standard/05-认证规则/污水排入城市下水道水质标准.md)
+- 洁博利GIBO 1051 感应龙头 产品说明书 — [zh/products/product-manual/1051感应龙头CN_说明书.md](zh/products/product-manual/1051感应龙头CN_说明书.md)
+- 洁博利GIBO 1086 智能盖板 产品说明书 — [zh/products/product-manual/1086智能盖板CN_说明书.md](zh/products/product-manual/1086智能盖板CN_说明书.md)
+- 洁博利GIBO 33554 感应干手器 产品说明书 — [zh/products/product-manual/33554感应干手器CN_说明书.md](zh/products/product-manual/33554感应干手器CN_说明书.md)
+- 洁博利GIBO 33602 感应洁具 产品说明书 — [zh/products/product-manual/33602产品CN_说明书.md](zh/products/product-manual/33602产品CN_说明书.md)
+- 洁博利GIBO 33604 感应洁具 产品说明书 — [zh/products/product-manual/33604产品CN_说明书.md](zh/products/product-manual/33604产品CN_说明书.md)
+- 洁博利GIBO 33604 感应皂液器 产品说明书 — [zh/products/product-manual/33604感应皂液器CN_说明书.md](zh/products/product-manual/33604感应皂液器CN_说明书.md)
+- 洁博利GIBO 33605 感应洁具 产品说明书 — [zh/products/product-manual/33605产品CN_说明书.md](zh/products/product-manual/33605产品CN_说明书.md)
+- 洁博利GIBO 6101 感应龙头 产品说明书 — [zh/products/product-manual/6101感应龙头CN_EN_说明书.md](zh/products/product-manual/6101感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6108 感应龙头 产品说明书 — [zh/products/product-manual/6108感应龙头CN_EN_说明书.md](zh/products/product-manual/6108感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6110 感应龙头 产品说明书 — [zh/products/product-manual/6110感应龙头CN_说明书.md](zh/products/product-manual/6110感应龙头CN_说明书.md)
+- 洁博利GIBO 6122 感应龙头 产品说明书 — [zh/products/product-manual/6122感应龙头CN_说明书.md](zh/products/product-manual/6122感应龙头CN_说明书.md)
+- 洁博利GIBO 6134 感应龙头 产品说明书 — [zh/products/product-manual/6134感应龙头CN_说明书.md](zh/products/product-manual/6134感应龙头CN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_EN_说明书.md](zh/products/product-manual/6158感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_说明书.md](zh/products/product-manual/6158感应龙头CN_说明书.md)
+- 洁博利GIBO 6160 感应龙头 产品说明书 — [zh/products/product-manual/6160感应龙头CN_说明书.md](zh/products/product-manual/6160感应龙头CN_说明书.md)
+- 洁博利GIBO 6161 感应洁具 产品说明书 — [zh/products/product-manual/6161产品CN_说明书.md](zh/products/product-manual/6161产品CN_说明书.md)
+- 洁博利GIBO 6172 感应龙头 产品说明书 — [zh/products/product-manual/6172感应面盆龙头CN_说明书.md](zh/products/product-manual/6172感应面盆龙头CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴CN_说明书.md](zh/products/product-manual/6193感应水嘴CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴EN_说明书.md](zh/products/product-manual/6193感应水嘴EN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴TH_说明书.md](zh/products/product-manual/6193感应水嘴TH_说明书.md)
+- 洁博利GIBO 6195 感应节水宝 产品说明书 — [zh/products/product-manual/6195感应节水宝CN_说明书.md](zh/products/product-manual/6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 6196 感应龙头 产品说明书 — [zh/products/product-manual/6196感应龙头CN_说明书.md](zh/products/product-manual/6196感应龙头CN_说明书.md)
+- 洁博利GIBO 6197 感应水嘴 产品说明书 — [zh/products/product-manual/6197感应水嘴TH_说明书.md](zh/products/product-manual/6197感应水嘴TH_说明书.md)
+- 洁博利GIBO 6197 感应节水器 产品说明书 — [zh/products/product-manual/6197感应节水水嘴CN_说明书.md](zh/products/product-manual/6197感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 61xx 感应洗手器 产品说明书 — [zh/products/product-manual/61xx感应洗手器CN_说明书.md](zh/products/product-manual/61xx感应洗手器CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_EN_说明书.md](zh/products/product-manual/61xx感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_说明书.md](zh/products/product-manual/61xx感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头EN_说明书.md](zh/products/product-manual/61xx感应龙头EN_说明书.md)
+- 洁博利GIBO 61xx 自动喷香机 产品说明书 — [zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md](zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md)
+- 洁博利GIBO 6200 感应洁具 产品说明书 — [zh/products/product-manual/6200产品CN_说明书.md](zh/products/product-manual/6200产品CN_说明书.md)
+- 洁博利GIBO 6202 感应洁具 产品说明书 — [zh/products/product-manual/6202产品CN_说明书.md](zh/products/product-manual/6202产品CN_说明书.md)
+- 洁博利GIBO 6210 小便感应冲水器 产品说明书 — [zh/products/product-manual/6210小便冲水器CN_说明书.md](zh/products/product-manual/6210小便冲水器CN_说明书.md)
+- 洁博利GIBO 6213 小便感应冲水器 产品说明书 — [zh/products/product-manual/6213小便冲水器CN_说明书.md](zh/products/product-manual/6213小便冲水器CN_说明书.md)
+- 洁博利GIBO 6215 小便感应冲水器 产品说明书 — [zh/products/product-manual/6215小便冲水器CN_说明书.md](zh/products/product-manual/6215小便冲水器CN_说明书.md)
+- 洁博利GIBO 6237 感应水嘴 产品说明书 — [zh/products/product-manual/6237感应水嘴CN_EN_说明书.md](zh/products/product-manual/6237感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6237 感应洁具 产品说明书 — [zh/products/product-manual/6237产品CN_EN_说明书.md](zh/products/product-manual/6237产品CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应水嘴 产品说明书 — [zh/products/product-manual/6238感应水嘴CN_EN_说明书.md](zh/products/product-manual/6238感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应洁具 产品说明书 — [zh/products/product-manual/6238一体式CN_EN_说明书.md](zh/products/product-manual/6238一体式CN_EN_说明书.md)
+- 洁博利GIBO 6291 感应洁具 产品说明书 — [zh/products/product-manual/6291产品CN_说明书.md](zh/products/product-manual/6291产品CN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_说明书.md)
+- 洁博利GIBO 62xx 感应水嘴 产品说明书 — [zh/products/product-manual/62xx感应水嘴EN_说明书.md](zh/products/product-manual/62xx感应水嘴EN_说明书.md)
+- 洁博利GIBO 62xx 感应节水宝 产品说明书 — [zh/products/product-manual/62xx感应节水宝CN_说明书.md](zh/products/product-manual/62xx感应节水宝CN_说明书.md)
+- 洁博利GIBO 6303 蹲便感应器 产品说明书 — [zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6306 感应洁具 产品说明书 — [zh/products/product-manual/6306产品CN_说明书.md](zh/products/product-manual/6306产品CN_说明书.md)
+- 洁博利GIBO 63068 蹲便感应器 产品说明书 — [zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6313 感应洁具 产品说明书 — [zh/products/product-manual/6313产品CN_说明书.md](zh/products/product-manual/6313产品CN_说明书.md)
+- 洁博利GIBO 63xx 座便感应器 产品说明书 — [zh/products/product-manual/63xx座便感应器CN_EN_说明书.md](zh/products/product-manual/63xx座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_说明书.md)
+- 洁博利GIBO 64106 蹲便感应器 产品说明书 — [zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md](zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 64xx 感应淋浴器 产品说明书 — [zh/products/product-manual/64xx淋浴器CN_EN_说明书.md](zh/products/product-manual/64xx淋浴器CN_EN_说明书.md)
+- 洁博利GIBO 6630 感应洁具 产品说明书 — [zh/products/product-manual/6630产品CN_说明书.md](zh/products/product-manual/6630产品CN_说明书.md)
+- 洁博利GIBO 6630 感应龙头 产品说明书 — [zh/products/product-manual/6630感应龙头CN_说明书.md](zh/products/product-manual/6630感应龙头CN_说明书.md)
+- 洁博利GIBO 6634 感应龙头 产品说明书 — [zh/products/product-manual/6634感应龙头CN_说明书.md](zh/products/product-manual/6634感应龙头CN_说明书.md)
+- 洁博利GIBO 6635 感应龙头 产品说明书 — [zh/products/product-manual/6635感应龙头CN_说明书.md](zh/products/product-manual/6635感应龙头CN_说明书.md)
+- 洁博利GIBO 66xx 感应水箱 产品说明书 — [zh/products/product-manual/66xx感应水箱CN_说明书.md](zh/products/product-manual/66xx感应水箱CN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
+- 洁博利GIBO 6712 感应淋浴器 产品说明书 — [zh/products/product-manual/6712淋浴器CN_说明书.md](zh/products/product-manual/6712淋浴器CN_说明书.md)
+- 洁博利GIBO 67xx 感应节水器 产品说明书 — [zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md](zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器CN_EN_说明书.md](zh/products/product-manual/8200小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器EN_说明书.md](zh/products/product-manual/8200小便冲水器EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_EN_说明书.md](zh/products/product-manual/8201小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_说明书.md](zh/products/product-manual/8201小便冲水器CN_说明书.md)
+- 洁博利GIBO 8207 感应洁具 产品说明书 — [zh/products/product-manual/8207产品CN_说明书.md](zh/products/product-manual/8207产品CN_说明书.md)
+- 洁博利GIBO 8216 感应洁具 产品说明书 — [zh/products/product-manual/8216产品CN_说明书.md](zh/products/product-manual/8216产品CN_说明书.md)
+- 洁博利GIBO 8303 座便感应器 产品说明书 — [zh/products/product-manual/8303座便感应器CN_EN_说明书.md](zh/products/product-manual/8303座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8303 蹲便感应器 产品说明书 — [zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8307 蹲便感应器 产品说明书 — [zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8308 蹲便感应器 产品说明书 — [zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 9120 感应龙头 产品说明书 — [zh/products/product-manual/9120即热龙头CN_说明书.md](zh/products/product-manual/9120即热龙头CN_说明书.md)
+- 洁博利GIBO 9160 感应龙头 产品说明书 — [zh/products/product-manual/9160厨房龙头CN_说明书.md](zh/products/product-manual/9160厨房龙头CN_说明书.md)
+- 洁博利GIBO 91601 感应龙头 产品说明书 — [zh/products/product-manual/91601厨房龙头CN_说明书.md](zh/products/product-manual/91601厨房龙头CN_说明书.md)
+- 洁博利GIBO 91605 感应洁具 产品说明书 — [zh/products/product-manual/91605产品CN_说明书.md](zh/products/product-manual/91605产品CN_说明书.md)
+- 洁博利GIBO 9161 感应洁具 产品说明书 — [zh/products/product-manual/9161产品CN_说明书.md](zh/products/product-manual/9161产品CN_说明书.md)
+- 洁博利GIBO 9162 感应洁具 产品说明书 — [zh/products/product-manual/9162产品CN_说明书.md](zh/products/product-manual/9162产品CN_说明书.md)
+- 洁博利GIBO G1 智能盖板 产品说明书 — [zh/products/product-manual/G1智能盖板CN_说明书.md](zh/products/product-manual/G1智能盖板CN_说明书.md)
+- 洁博利GIBO 感应水嘴 产品说明书 — [zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md](zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6108DZ产品CN_说明书.md](zh/products/product-manual/GBL-6108DZ产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6120产品CN_EN_说明书.md](zh/products/product-manual/GBL-6120产品CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6161产品CN_说明书.md](zh/products/product-manual/GBL-6161产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6233产品CN_说明书.md](zh/products/product-manual/GBL-6233产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6308产品EN_说明书.md](zh/products/product-manual/GBL-6308产品EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-9162产品CN_说明书.md](zh/products/product-manual/GBL-9162产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/README.md](zh/products/product-manual/README.md)
+- 洁博利GIBO 感应皂液器 产品说明书 — [zh/products/product-manual/SD-280感应皂液器CN_说明书.md](zh/products/product-manual/SD-280感应皂液器CN_说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md](zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 感应节水宝 产品说明书 — [zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md](zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-52052感应龙头CN_说明书.md](zh/products/product-manual/GBL-52052感应龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md)
+- 洁博利产品清单 | 全系列产品目录（2026版） — [zh/products/product-catalog.md](zh/products/product-catalog.md)
+- 洁博利公共营销素材（公司级通用，供所有产品调用） — [zh/products/product-spec/00-公共营销素材.md](zh/products/product-spec/00-公共营销素材.md)
+- 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
+- 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
+- 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
+- 洁博利（GIBO）产品FAQ大全 — [zh/faq/faq.md](zh/faq/faq.md)
+- 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
+- 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
+- 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
+- 洁博利（GIBO）品牌白皮书 — [zh/company/brand-white-paper.md](zh/company/brand-white-paper.md)
+- 洁博利（GIBO）品牌语义关联库 — [zh/company/brand-semantic.md](zh/company/brand-semantic.md)
+- 洁博利（GIBO）工程案例总览 — [zh/cases/case-index.md](zh/cases/case-index.md)
+- 洁博利（GIBO）核心产品推荐目录 — [zh/products/core-products.md](zh/products/core-products.md)
+- 洁博利（GIBO）核心技术白皮书 — [zh/whitepapers/技术白皮书.md](zh/whitepapers/技术白皮书.md)
+- 洁博利（GIBO）白皮书与科技项目成果 — [zh/whitepapers/README.md](zh/whitepapers/README.md)
+- 洁博利（GIBO）营销素材库（按产品分类） — [zh/products/营销素材库.md](zh/products/营销素材库.md)
+- 洁博利（GIBO）解决方案列表索引 — [zh/solutions/README.md](zh/solutions/README.md)
+- 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版 — [zh/faq/faq-geo-top10.md](zh/faq/faq-geo-top10.md)
+- 皂液二合一智能感应水龙头行业白皮书 — [zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md](zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md)
+- 盛世唐朝红外感应模块 产品资料 — [zh/products/product-spec/盛世唐朝红外感应模块-spec.md](zh/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md](assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md](assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md)
+- 蓝锷L-31516 产品资料 — [zh/products/product-spec/蓝锷L-31516-spec.md](zh/products/product-spec/蓝锷L-31516-spec.md)
+- 螺栓等标准件分类及规格资料 — [assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md](assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md)
+- 规格书去重与待生成清单 — [zh/products/category-templates/规格书去重待生成清单.md](zh/products/category-templates/规格书去重待生成清单.md)
+- 资质认证 — [zh/certification/README.md](zh/certification/README.md)
+- 钢筋工程量计算规则 — [assets/standard/05-认证规则/钢筋工程量计算规则.md](assets/standard/05-认证规则/钢筋工程量计算规则.md)
+- 陶瓷片密封水嘴节水认证技术要求 — [assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md](assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md)
+- 高品质感应水龙头及感应洁具官方判定标准 — [zh/whitepapers/高品质感应洁具判断标准.md](zh/whitepapers/高品质感应洁具判断标准.md)
+
+## 洁博利（451）
+
+- 02J915 公共建筑卫生间 — [assets/standard/05-认证规则/02J915 公共建筑卫生间.md](assets/standard/05-认证规则/02J915 公共建筑卫生间.md)
+- 09J04 建筑卫生间TTC型同层排水系统 — [assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md](assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md)
+- 09S304 卫生设备安装(高清) — [assets/standard/05-认证规则/09S304 卫生设备安装(高清).md](assets/standard/05-认证规则/09S304 卫生设备安装(高清).md)
+- 09S304 卫生设备安装图集 — [assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md](assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md)
+- 2020 新型智能感应水龙头关键技术的研究及产业化示范 — [zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md](zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md)
+- 2020"沸腾杯"感应水龙头质量性能测评 评测标准与评定方法 — [assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md](assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md)
+- 2022 双模智能控制水龙头关键技术研发与产业化示范 — [zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md](zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md)
+- 2026商用感应洁具ODM行业发展趋势白皮书：从替代进口到技术出口 — [zh/whitepapers/感应洁具行业发展白皮书.md](zh/whitepapers/感应洁具行业发展白皮书.md)
+- 3204 便器冲洗阀节水产品认证实施规则 — [assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md](assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md)
+- 6238 一体化小便感应洒水器 产品手册 — [zh/products/product-manual/6238.md](zh/products/product-manual/6238.md)
+- 99S304卫生设备安装 — [assets/standard/05-认证规则/99S304卫生设备安装.md](assets/standard/05-认证规则/99S304卫生设备安装.md)
+- ASME A112.18.2-2005 — [assets/standard/04-国际标准/ASME A112.18.2-2005.md](assets/standard/04-国际标准/ASME A112.18.2-2005.md)
+- ASME_A112.18.1-2005_CSA_B125.1-05(中文版) — [assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md](assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md)
+- ASSE 1014-2005 手持花洒回流阻止装置性能要求 — [assets/standard/04-国际标准/ASSE_1014-2005(C).md](assets/standard/04-国际标准/ASSE_1014-2005(C).md)
+- ASTM D968-93涂料耐磨腐蚀性实验 落砂法 — [assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md](assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md)
+- BC-31519 产品资料 — [zh/products/product-spec/BC-31519-spec.md](zh/products/product-spec/BC-31519-spec.md)
+- BC-KZH-9168控制盒 产品资料 — [zh/products/product-spec/BC-KZH-9168控制盒-spec.md](zh/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-YH01 产品资料 — [zh/products/product-spec/BC-KZH-YH01-spec.md](zh/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-YMH-8308 产品资料 — [zh/products/product-spec/BC-YMH-8308-spec.md](zh/products/product-spec/BC-YMH-8308-spec.md)
+- CBM15-2016智能便盖标准 — [assets/standard/03-团体标准/CBM15-2016智能便盖标准.md](assets/standard/03-团体标准/CBM15-2016智能便盖标准.md)
+- CJ+T194-2014+非接触式给水器具 — [assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md](assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md)
+- CJT 406-2012 不锈钢水嘴 — [assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md](assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md)
+- CJT164-2014 节水型生活用水器具 — [assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md](assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md)
+- CJT3081-1999非接触式（电子）给水器具 — [assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md](assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md)
+- CJT99-1999 — [assets/standard/02-行业标准/CJT99-1999.md](assets/standard/02-行业标准/CJT99-1999.md)
+- CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备 — [assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md](assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md)
+- CQC 3226-2009 非接触式水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md)
+- CQC32-432411-2022便器冲洗阀节水认证规则(新) — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md)
+- CQC32-432411-2022便器冲洗阀节水认证规则（新） — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md)
+- CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解 — [assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md](assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md)
+- CQC3225-2009陶瓷片密封水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md)
+- CSCT 32.2-2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md)
+- CSCT 32.2—2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md)
+- CSCT 35.3—2006非接触式水嘴 — [assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md)
+- CSCT 35.3—2006非接触式水嘴.pdf — [assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md)
+- DIN EN681-1 — [assets/standard/04-国际标准/DIN EN681-1.md](assets/standard/04-国际标准/DIN EN681-1.md)
+- DVGW W270 与饮用水接触的微生物强化控制 中文 — [assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md](assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md)
+- EN 15091 2024 — [assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md](assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md)
+- EN 61000-3-3 电压波动和闪烁限制 — [assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md](assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN248-2002 欧洲电镀标准要求 — [assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md](assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md)
+- EN61000-4-2 电磁兼容 试验和测量特性 — [assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md](assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- EN 12164 2016铜及铜合金易切削用棒材 — [assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md](assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md)
+- ES102卫浴产品电镀工程规范 — [assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md](assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md)
+- G33608 产品资料 — [zh/products/product-spec/G33608-spec.md](zh/products/product-spec/G33608-spec.md)
+- G61901 产品资料 — [zh/products/product-spec/G61901-spec.md](zh/products/product-spec/G61901-spec.md)
+- GB 12333-1990 金属覆盖层 工程用铜电镀层 — [assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md](assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md)
+- GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求 — [assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md](assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md)
+- GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md)
+- GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求 — [assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md](assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md)
+- GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求 — [assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md](assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md)
+- GB 14536.14 部份标准 — [assets/standard/01-国家标准/GB 14536.14 部份标准.md](assets/standard/01-国家标准/GB 14536.14 部份标准.md)
+- GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md)
+- GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求 (1) — [assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md](assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md)
+- GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md)
+- GB 19212.1-2008 电力变压器安全 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md)
+- GB 25501-2019 水嘴用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md)
+- GB 25502-2017 坐便器用水效率限定值及水效等级 — [assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md)
+- GB 26750-2011 新国标GB 26750-2011-T 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md](assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md)
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- GB 28378-2019 淋浴器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- GB 30717-2014 蹲便器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md)
+- GB 30978-2014 饮水机能效限定值及能效等级 — [assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md](assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md)
+- GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求 — [assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md](assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md)
+- GB 4706系列 家用和类似用途电器的安全标准索引 — [assets/standard/01-国家标准/GB4706目录.md](assets/standard/01-国家标准/GB4706目录.md)
+- GB 50242—2002 建筑给水排水及采暖工程施工质量验收规范 — [assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md](assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md)
+- GB 6952-2005卫生陶瓷国标 — [assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md](assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md)
+- GB 7000.1—2015 灯具安全 | 一般要求与试验 — [assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md](assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md)
+- GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层 — [assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md](assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md)
+- GB T 19000-2016 质量管理体系  基础和术语 — [assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md](assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md)
+- GB T 23001-2017 信息化和工业化融合管理体系 要求 — [assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md](assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md)
+- GB T 26750-2011 卫生洁具  便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md)
+- GB T 26750-2011 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md)
+- GB T 28797-2012 室内塑料垃圾桶 — [assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md](assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md)
+- GB T 2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法 第12部分：通用试验方法 热老化试验方法 — [assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md](assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md)
+- GB T 41863-2022非接触式给水器具节水性能通用技术条件 — [assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md](assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md)
+- GB T 6952-2015 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md)
+- GB T19011—2003 — [assets/standard/01-国家标准/GB T19011—2003.md](assets/standard/01-国家标准/GB T19011—2003.md)
+- GB T23988-2009涂料耐磨性 落砂法 — [assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md](assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md)
+- GB-T 1019-2008 家用和类似用途电器包装通则 — [assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md](assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md)
+- GB-T 2828.1-2012 计数抽样检验程序 — [assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md](assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md)
+- GB-T-19001-2016-质量管理体系-要求 — [assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md](assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md)
+- GB-T6315-1996 — [assets/standard/01-国家标准/GB-T6315-1996.md](assets/standard/01-国家标准/GB-T6315-1996.md)
+- GB/T 16288-2008 塑料制品的标识和标志 — [assets/standard/01-国家标准/GB_塑料制品的标识和标志.md](assets/standard/01-国家标准/GB_塑料制品的标识和标志.md)
+- GB/T 19001-2016 质量管理体系 要求 — [assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md](assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md)
+- GB/T 2423.1-2001 电工电子产品环境试验 第2部分：试验方法 试验A：低温 — [assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md](assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md)
+- GB/T 2423.2—2001 高温试验 | 电工电子产品环境试验方法 — [assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md)
+- GB/T 2423.3-2006 电工电子产品环境试验 第2部分：试验方法 试验Cab：恒定湿热 — [assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md](assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md)
+- GB/T 26712-2011 卫生洁具及暖气管道用直角阀 — [assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md](assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md)
+- GB/T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md)
+- GB/T 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md)
+- GB/T 34549-2017 卫生洁具 智能坐便器 — [assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md](assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md)
+- GB/T 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》与CJ/T 194-2014差异对比白皮书 — [zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md](zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
+- GB15979-2002 GB15979-2002一次性使用卫生用品使用标准 — [assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md](assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md)
+- GB19510 GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求 — [assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md](assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md)
+- GB26730-2011 GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架 — [assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md](assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md)
+- GB4706.15-2008 GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求 — [assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md](assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md)
+- GB4706.53-2002 GB4706.53-2002 K09 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md)
+- GB4706.53-2002 GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md)
+- GB4706.612008 GB4706.612008家用和类似用途电器的安全使用 — [assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md](assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md)
+- GB4793.1 通用电气设备安全要求GB4793.1 — [assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md](assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md)
+- GB4793.1通用电气设备安全要求 — [assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md](assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md)
+- GB50015-2003 建筑给水排水设计规范GB50015-2003 — [assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md](assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md)
+- GBL-6110 产品资料 — [zh/products/product-spec/GBL-6110-spec.md](zh/products/product-spec/GBL-6110-spec.md)
+- GBL-6127 产品资料 — [zh/products/product-spec/GBL-6127-spec.md](zh/products/product-spec/GBL-6127-spec.md)
+- GBL-6128 产品资料 — [zh/products/product-spec/GBL-6128-spec.md](zh/products/product-spec/GBL-6128-spec.md)
+- GBL-6150 产品资料 — [zh/products/product-spec/GBL-6150-spec.md](zh/products/product-spec/GBL-6150-spec.md)
+- GBL-6161D 产品资料 — [zh/products/product-spec/GBL-6161D-spec.md](zh/products/product-spec/GBL-6161D-spec.md)
+- GBL-6161D 面盆感应水龙头 产品规格书 — [zh/products/product-spec/GBL-6161-spec.md](zh/products/product-spec/GBL-6161-spec.md)
+- GBL-6170 产品资料 — [zh/products/product-spec/GBL-6170-spec.md](zh/products/product-spec/GBL-6170-spec.md)
+- GBL-6170D 产品资料 — [zh/products/product-spec/GBL-6170D-spec.md](zh/products/product-spec/GBL-6170D-spec.md)
+- GBL-6172A 产品资料 — [zh/products/product-spec/GBL-6172A-spec.md](zh/products/product-spec/GBL-6172A-spec.md)
+- GBL-6175 产品资料 — [zh/products/product-spec/GBL-6175-spec.md](zh/products/product-spec/GBL-6175-spec.md)
+- GBL-6176 产品资料 — [zh/products/product-spec/GBL-6176-spec.md](zh/products/product-spec/GBL-6176-spec.md)
+- GBL-6177 产品资料 — [zh/products/product-spec/GBL-6177-spec.md](zh/products/product-spec/GBL-6177-spec.md)
+- GBL-6178 产品资料 — [zh/products/product-spec/GBL-6178-spec.md](zh/products/product-spec/GBL-6178-spec.md)
+- GBL-6193D 产品资料 — [zh/products/product-spec/GBL-6193D-spec.md](zh/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193DB 产品资料 — [zh/products/product-spec/GBL-6193DB-spec.md](zh/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6195 产品资料 — [zh/products/product-spec/GBL-6195-spec.md](zh/products/product-spec/GBL-6195-spec.md)
+- GBL-6197D 产品资料 — [zh/products/product-spec/GBL-6197D-spec.md](zh/products/product-spec/GBL-6197D-spec.md)
+- GBL-6213AD 产品资料 — [zh/products/product-spec/GBL-6213AD-spec.md](zh/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6239 产品资料 — [zh/products/product-spec/GBL-6239-spec.md](zh/products/product-spec/GBL-6239-spec.md)
+- GBL-6291DH-DS 产品资料 — [zh/products/product-spec/GBL-6291DH-DS-spec.md](zh/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6634 产品资料 — [zh/products/product-spec/GBL-6634-spec.md](zh/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 产品资料 — [zh/products/product-spec/GBL-6634-1-spec.md](zh/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6636AD 产品资料 — [zh/products/product-spec/GBL-6636AD-spec.md](zh/products/product-spec/GBL-6636AD-spec.md)
+- GBL-8221AD 产品资料 — [zh/products/product-spec/GBL-8221AD-spec.md](zh/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8300AD 产品资料 — [zh/products/product-spec/GBL-8300AD-spec.md](zh/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8307AD 产品资料 — [zh/products/product-spec/GBL-8307AD-spec.md](zh/products/product-spec/GBL-8307AD-spec.md)
+- GBL-9122 产品资料 — [zh/products/product-spec/GBL-9122-spec.md](zh/products/product-spec/GBL-9122-spec.md)
+- GBL-9160 产品资料 — [zh/products/product-spec/GBL-9160-spec.md](zh/products/product-spec/GBL-9160-spec.md)
+- GBL-9165D 产品资料 — [zh/products/product-spec/GBL-9165D-spec.md](zh/products/product-spec/GBL-9165D-spec.md)
+- GBL-9168 产品资料 — [zh/products/product-spec/GBL-9168-spec.md](zh/products/product-spec/GBL-9168-spec.md)
+- GBL-K6238 产品资料 — [zh/products/product-spec/GBL-K6238-spec.md](zh/products/product-spec/GBL-K6238-spec.md)
+- GBL-TOF 产品资料 — [zh/products/product-spec/GBL-TOF-spec.md](zh/products/product-spec/GBL-TOF-spec.md)
+- GBL-双模感应厨房水龙头 产品资料 — [zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md](zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-智能加热盖板 产品资料 — [zh/products/product-spec/GBL-智能加热盖板-spec.md](zh/products/product-spec/GBL-智能加热盖板-spec.md)
+- GBT 10125-2012 人造气氛腐蚀试验 盐雾试验 — [assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md](assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md)
+- GBT 1176-2013 铸造铜及铜合金 — [assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md](assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md)
+- GBT 12600-2005 镍铬电镀层 — [assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md](assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md)
+- GBT 191-2008 包装储运图示标志 — [assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md](assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md)
+- GBT 19678-2005 说明书的编制 构成、内容和表示方法 — [assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md](assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md)
+- GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分 — [assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md](assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md)
+- GBT 23131-2008 电子坐便器 — [assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md](assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md)
+- GBT 23447-2009 卫生洁具 淋浴用花洒 — [assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md](assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md)
+- GBT 23448-2009 卫生洁具 软管 — [assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md](assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md)
+- GBT 24001-2016 环境管理体系 要求及使用指南 — [assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md](assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md)
+- GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验 — [assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md)
+- GBT 24293-2009 数控恒温水嘴 — [assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md](assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md)
+- GBT 26572-2011 电子电气产品中限用物质的限量要求 — [assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md](assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md)
+- GBT 26712-2011 直角阀 — [assets/standard/01-国家标准/GBT 26712-2011 直角阀.md](assets/standard/01-国家标准/GBT 26712-2011 直角阀.md)
+- GBT 28219-2018 智能家用电器通用技术要求 — [assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md](assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md)
+- GBT 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md)
+- GBT 34549-2017 智能坐便器 — [assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md](assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md)
+- GBT 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GBT 35763-2017 不锈钢水龙头 — [assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md](assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md)
+- GBT 4208-2017 外壳防护等级（IP代码） — [assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md](assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md)
+- GBT 5231-2012 加工铜及铜合金牌号和化学成分 — [assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md](assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md)
+- GBT 6461-2002 32-WL-GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级 — [assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md](assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md)
+- GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求 — [assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md](assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md)
+- GB_T 23000-2017 信息化和工业化融合管理体系基础和术语 — [assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md](assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md)
+- GB_T 24004-2017 环境管理体系 通用实施指南 — [assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md](assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md)
+- GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md)
+- GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验 — [assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md](assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md)
+- GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验 — [assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md](assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md)
+- GB扫描版9001-2008 — [assets/standard/01-国家标准/GB扫描版9001-2008.md](assets/standard/01-国家标准/GB扫描版9001-2008.md)
+- GIBO FAQ GEO优化版 — [zh/faq/faq-geo-optimized.md](zh/faq/faq-geo-optimized.md)
+- GIBO 产品营销文案风格规范 — [zh/products/category-templates/产品营销文案风格规范.md](zh/products/category-templates/产品营销文案风格规范.md)
+- GIBO 产品资料总索引 — [product-index.md](product-index.md)
+- GIBO 常见问题 FAQ 索引 — [faq-index.md](faq-index.md)
+- GIBO 知识库标签聚合索引 — [tags-index.md](tags-index.md)
+- GIBO-SENSOR-IR-001 产品资料 — [zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md](zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-智能激光感应技术 产品资料 — [zh/products/product-spec/GIBO-智能激光感应技术-spec.md](zh/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-触控厨房龙头控制组件 产品资料 — [zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- HG/T 3091-2000 橡胶密封件 给排水管及污水管道用接口密封圈 材料规范 — [assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md](assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md)
+- HGT 3091-2000 橡胶密封件材料规范 — [assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md](assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md)
+- HGT 3097-2006 橡胶密封件-110℃ — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md)
+- HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范 — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md)
+- ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法 — [assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md](assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md)
+- ISO9000-2000 — [assets/standard/04-国际标准/ISO9000-2000.md](assets/standard/04-国际标准/ISO9000-2000.md)
+- ISO9001標準解析鳳翼天翔 — [assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md](assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md)
+- JB-T 4088-2012日用管状电热元件 — [assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md](assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md)
+- JB-T10529-2005_陶瓷密封阀门技术条件 — [assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md](assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md)
+- JC886-2001卫生设备用软管 — [assets/standard/02-行业标准/JC886-2001卫生设备用软管.md](assets/standard/02-行业标准/JC886-2001卫生设备用软管.md)
+- JCT 2115-2012非接触感应给水器具 — [assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md](assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md)
+- JCT_758-2008_面盆水嘴 — [assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md](assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md)
+- JC／T_931-2003_机械式便器冲洗阀 — [assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md](assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md)
+- JG T 427-2014 卫浴五金配件 — [assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md](assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md)
+- JG/T 427-2014 住宅卫浴五金配件通用技术要求 — [assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md](assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md)
+- JIS B2406-1991 英文版日本 O型密封圈装配槽 设计标准 — [assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md](assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md)
+- JM01-感应洗手机电控板 产品资料 — [zh/products/product-spec/JM01-感应洗手机电控板-spec.md](zh/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- KCM-6150J-HS 产品资料 — [zh/products/product-spec/KCM-6150J-HS-spec.md](zh/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-DQ01 产品资料 — [zh/products/product-spec/KCM-DQ01-spec.md](zh/products/product-spec/KCM-DQ01-spec.md)
+- KCM-ET07-水龙头感应模块 产品资料 — [zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-SJ02 产品资料 — [zh/products/product-spec/KCM-SJ02-spec.md](zh/products/product-spec/KCM-SJ02-spec.md)
+- KCM-组合面板-WDW 产品资料 — [zh/products/product-spec/KCM-组合面板-WDW-spec.md](zh/products/product-spec/KCM-组合面板-WDW-spec.md)
+- LLMS — [LLMS.md](LLMS.md)
+- MAINTENANCE — [MAINTENANCE.md](MAINTENANCE.md)
+- NAMING-CONVENTION — [NAMING-CONVENTION.md](NAMING-CONVENTION.md)
+- ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录） — [zh/whitepapers/ODM白皮书中文附录-22里程碑.md](zh/whitepapers/ODM白皮书中文附录-22里程碑.md)
+- QB/T 3827-1999 轻工产品金属镀层和化学处理层的耐腐蚀试验方法 乙酸盐雾试验（ASS）法 — [assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md](assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md)
+- QBT 1560-2017卫生间附属配件 — [assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md](assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md)
+- QBT 5003-2016 触控式水嘴 — [assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md](assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md)
+- QBT5524-2020水嘴用阀芯标准 — [assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md](assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md)
+- QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准 — [assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md](assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md)
+- QB_T2654-2013洗手液行业标准 — [assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md](assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md)
+- QJMJCP 005002－2021 卫生间附属配件 — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md)
+- QJMJCP 005002－2021 卫生间附属配件(终稿) — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md)
+- README — [README.md](README.md)
+- README — [assets/README.md](assets/README.md)
+- README — [assets/Cases/README.md](assets/Cases/README.md)
+- README — [assets/catalogs/README.md](assets/catalogs/README.md)
+- README — [assets/certificates/README.md](assets/certificates/README.md)
+- README — [assets/certificates/honors-qualifications/README.md](assets/certificates/honors-qualifications/README.md)
+- README — [assets/certificates/patents/README.md](assets/certificates/patents/README.md)
+- README — [assets/certificates/product-certifications/README.md](assets/certificates/product-certifications/README.md)
+- README — [assets/certificates/test-reports/README.md](assets/certificates/test-reports/README.md)
+- README — [assets/certificates/third-party-approvals/README.md](assets/certificates/third-party-approvals/README.md)
+- README — [assets/certificates/trademarks/README.md](assets/certificates/trademarks/README.md)
+- README — [assets/company/Lab/README.md](assets/company/Lab/README.md)
+- README — [assets/company/QC/README.md](assets/company/QC/README.md)
+- README — [assets/company/Team/README.md](assets/company/Team/README.md)
+- README — [assets/Exhibition/README.md](assets/Exhibition/README.md)
+- README — [assets/Icon/README.md](assets/Icon/README.md)
+- README — [assets/images/README.md](assets/images/README.md)
+- README — [assets/standard/README.md](assets/standard/README.md)
+- README — [assets/standard/01-国家标准/README.md](assets/standard/01-国家标准/README.md)
+- README — [assets/standard/02-行业标准/README.md](assets/standard/02-行业标准/README.md)
+- README — [assets/standard/03-团体标准/README.md](assets/standard/03-团体标准/README.md)
+- README — [assets/standard/04-国际标准/README.md](assets/standard/04-国际标准/README.md)
+- README — [assets/standard/05-认证规则/README.md](assets/standard/05-认证规则/README.md)
+- README — [assets/standard/06-法律法规/README.md](assets/standard/06-法律法规/README.md)
+- README — [assets/videos/README.md](assets/videos/README.md)
+- README — [schema/README.md](schema/README.md)
+- ROCA EN248 西班牙电镀标准表 — [assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md](assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md)
+- ROLE-DESCRIPTIONS — [ROLE-DESCRIPTIONS.md](ROLE-DESCRIPTIONS.md)
+- SJ/T 11364-2014 电子电气产品有害物质限制使用标识要求 — [assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md](assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md)
+- SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器 — [assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md](assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md)
+- T-FASI2-2018+感应式尿水分排小便器+给水控制器 — [assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md](assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md)
+- T-XMBK 02-2024 感应式水嘴 — [assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md](assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md)
+- T/XMBK 002—2024《感应式水嘴》团体标准配套技术白皮书 — [zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md](zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
+- T3081-1非接触式电子给器具 — [assets/standard/03-团体标准/T3081-1非接触式电子给器具.md](assets/standard/03-团体标准/T3081-1非接触式电子给器具.md)
+- TCECS 10037-2019绿色建材评价-卫生洁具 — [assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md](assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md)
+- TOF 产品资料 — [zh/products/product-spec/TOF-spec.md](zh/products/product-spec/TOF-spec.md)
+- TOF-激光脚感应模块组件 产品资料 — [zh/products/product-spec/TOF-激光脚感应模块组件-spec.md](zh/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TYREK 产品资料 — [zh/products/product-spec/TYREK-spec.md](zh/products/product-spec/TYREK-spec.md)
+- T∕CECS 10050-2019 绿色建材评价 水嘴 — [assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md](assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md)
+- WYJ-G001 产品资料 — [zh/products/product-spec/WYJ-G001-spec.md](zh/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G002 产品资料 — [zh/products/product-spec/WYJ-G002-spec.md](zh/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G003 产品资料 — [zh/products/product-spec/WYJ-G003-spec.md](zh/products/product-spec/WYJ-G003-spec.md)
+- Z系列智能马桶 产品资料 — [zh/products/product-spec/Z系列智能马桶-spec.md](zh/products/product-spec/Z系列智能马桶-spec.md)
+- assets_体积优化方案 — [assets_体积优化方案.md](assets_体积优化方案.md)
+- dTOF激光感应智能卫浴应用技术白皮书 — [zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md](zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md)
+- linkedin-company-page-content — [linkedin-company-page-content.md](linkedin-company-page-content.md)
+- translation-glossary — [translation-glossary.md](translation-glossary.md)
+- video-generation-integration-plan — [video-generation-integration-plan.md](video-generation-integration-plan.md)
+- 《非接触式给水器具》报批稿 — [assets/standard/05-认证规则/《非接触式给水器具》报批稿.md](assets/standard/05-认证规则/《非接触式给水器具》报批稿.md)
+- 一体化感应花洒头（淋浴洒水头） — [zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- 专利与知识产权清单 — [zh/certification/patents.md](zh/certification/patents.md)
+- 专利去重与分类报告 — [assets/certificates/patents/专利去重与分类报告.md](assets/certificates/patents/专利去重与分类报告.md)
+- 中华人民共和国产品质量法（2009修正） — [assets/standard/06-法律法规/中华人民共和国质量法2009修订.md](assets/standard/06-法律法规/中华人民共和国质量法2009修订.md)
+- 中华人民共和国产品质量法（2018修正） — [assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md](assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md)
+- 中华人民共和国国家标准卫浴家具 — [assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md](assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md)
+- 中华人民共和国城镇建设行业标准（CJ系列） — [assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md](assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md)
+- 中华人民共和国消费者权益保护法（2013修正） — [assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md](assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md)
+- 中国感应洁具行业的行业标准与合规 — [zh/whitepapers/行业标准与合规白皮书.md](zh/whitepapers/行业标准与合规白皮书.md)
+- 中国机械工业标准汇编 量具量仪卷 — [assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md](assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md)
+- 中小型电镀厂镀锌废水处理的工艺实践 — [assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md](assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md)
+- 产品中心 — [zh/products/README.md](zh/products/README.md)
+- 产品规格目录 | Product Specifications — [zh/products/product-spec/README.md](zh/products/product-spec/README.md)
+- 企业荣誉墙 — [zh/certification/honors.md](zh/certification/honors.md)
+- 公司介绍 — [zh/company/README.md](zh/company/README.md)
+- 冷热感应水龙头 — [zh/products/category-templates/冷热感应水龙头-模版.md](zh/products/category-templates/冷热感应水龙头-模版.md)
+- 包装回收标志（GB/T 18455-2010 知识汇编） — [assets/standard/05-认证规则/知识_包装回收标志.md](assets/standard/05-认证规则/知识_包装回收标志.md)
+- 单冷感应水龙头 — 子分类通用内容母本 — [zh/products/category-templates/单冷感应水龙头-模版.md](zh/products/category-templates/单冷感应水龙头-模版.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+- 卫浴行业标准 — [assets/standard/05-认证规则/卫浴行业标准.md](assets/standard/05-认证规则/卫浴行业标准.md)
+- 卫生洁具 软管 — [assets/standard/05-认证规则/卫生洁具_软管.md](assets/standard/05-认证规则/卫生洁具_软管.md)
+- 卫生洁具安装 — [assets/standard/05-认证规则/卫生洁具安装.md](assets/standard/05-认证规则/卫生洁具安装.md)
+- 卫生洁具安装工艺标准 — [assets/standard/05-认证规则/卫生洁具安装工艺标准.md](assets/standard/05-认证规则/卫生洁具安装工艺标准.md)
+- 卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知 — [assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md](assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md)
+- 厨房二合一新品 产品资料 — [zh/products/product-spec/厨房二合一新品-spec.md](zh/products/product-spec/厨房二合一新品-spec.md)
+- 发展历程 — [zh/company/history.md](zh/company/history.md)
+- 合作检测机构 — [zh/certification/test-institution.md](zh/certification/test-institution.md)
+- 品牌理念与使命 — [zh/company/brand-story.md](zh/company/brand-story.md)
+- 品类内容模板 — [zh/products/category-templates/README.md](zh/products/category-templates/README.md)
+- 售后服务政策 — [zh/company/service-policy.md](zh/company/service-policy.md)
+- 商用公共卫浴节水改造解决方案白皮书 — [zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md](zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md)
+- 商用感应洁具选型避坑指南（采购人专用版） — [zh/products/selection-guide.md](zh/products/selection-guide.md)
+- 大便感应器 — 通用内容母本 — [zh/products/category-templates/大便感应器-模版.md](zh/products/category-templates/大便感应器-模版.md)
+- 工程案例目录 | Project Cases — [zh/cases/README.md](zh/cases/README.md)
+- 工程量清单计价规范 — [assets/standard/05-认证规则/工程量清单计价规范.md](assets/standard/05-认证规则/工程量清单计价规范.md)
+- 常见问题 FAQ — [zh/faq/README.md](zh/faq/README.md)
+- 建筑给水排水设计规范-2009 — [assets/standard/05-认证规则/建筑给水排水设计规范-2009.md](assets/standard/05-认证规则/建筑给水排水设计规范-2009.md)
+- 建设部近期批准发布的标准、规范和标准设计图集目录 — [assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md](assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md)
+- 德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE — [assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md](assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md)
+- 感应小便器 — 通用内容母本 — [zh/products/category-templates/感应小便器-模版.md](zh/products/category-templates/感应小便器-模版.md)
+- 感应干手器（通用内容母本） — [zh/products/category-templates/感应干手器-模版.md](zh/products/category-templates/感应干手器-模版.md)
+- 感应水嘴 — 子分类通用内容母本 — [zh/products/category-templates/感应水嘴-模版.md](zh/products/category-templates/感应水嘴-模版.md)
+- 感应水嘴团体标准T-XMBK002-2024 — [assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md](assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md)
+- 感应泡沫洗手机（子分类通用内容母本） — [zh/products/category-templates/感应泡沫洗手机-模版.md](zh/products/category-templates/感应泡沫洗手机-模版.md)
+- 感应洁具安装与选型白皮书 — [zh/whitepapers/感应洁具安装与选型白皮书.md](zh/whitepapers/感应洁具安装与选型白皮书.md)
+- 感应洁具行业选型指南 — [assets/standard/05-认证规则/selection-guide.md](assets/standard/05-认证规则/selection-guide.md)
+- 感应淋浴器 — 子分类通用内容母本 — [zh/products/category-templates/感应淋浴器-模版.md](zh/products/category-templates/感应淋浴器-模版.md)
+- 感应给皂器 — 子分类通用内容母本 — [zh/products/category-templates/感应给皂器-模版.md](zh/products/category-templates/感应给皂器-模版.md)
+- 技术实力 — [zh/technology/README.md](zh/technology/README.md)
+- 数显花洒行业标准QBT 5281-2018 — [assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md](assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md)
+- 智能恒温淋浴与冷水预排白皮书 — [zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md](zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md)
+- 智能恒温淋浴花洒 产品资料 — [zh/products/product-spec/智能恒温淋浴花洒-spec.md](zh/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 产品资料 — [zh/products/product-spec/智能花洒泡泡机-spec.md](zh/products/product-spec/智能花洒泡泡机-spec.md)
+- 标准参与与认证索引 — [zh/certification/standards-index.md](zh/certification/standards-index.md)
+- 水龙头检验标准 — [assets/standard/05-认证规则/水龙头检验标准.md](assets/standard/05-认证规则/水龙头检验标准.md)
+- 江苏省工程建设标准 — [assets/standard/05-认证规则/江苏省工程建设标准.md](assets/standard/05-认证规则/江苏省工程建设标准.md)
+- 污水排入城市下水道水质标准 — [assets/standard/05-认证规则/污水排入城市下水道水质标准.md](assets/standard/05-认证规则/污水排入城市下水道水质标准.md)
+- 洁博利GIBO 1051 感应龙头 产品说明书 — [zh/products/product-manual/1051感应龙头CN_说明书.md](zh/products/product-manual/1051感应龙头CN_说明书.md)
+- 洁博利GIBO 1086 智能盖板 产品说明书 — [zh/products/product-manual/1086智能盖板CN_说明书.md](zh/products/product-manual/1086智能盖板CN_说明书.md)
+- 洁博利GIBO 33554 感应干手器 产品说明书 — [zh/products/product-manual/33554感应干手器CN_说明书.md](zh/products/product-manual/33554感应干手器CN_说明书.md)
+- 洁博利GIBO 33602 感应洁具 产品说明书 — [zh/products/product-manual/33602产品CN_说明书.md](zh/products/product-manual/33602产品CN_说明书.md)
+- 洁博利GIBO 33604 感应洁具 产品说明书 — [zh/products/product-manual/33604产品CN_说明书.md](zh/products/product-manual/33604产品CN_说明书.md)
+- 洁博利GIBO 33604 感应皂液器 产品说明书 — [zh/products/product-manual/33604感应皂液器CN_说明书.md](zh/products/product-manual/33604感应皂液器CN_说明书.md)
+- 洁博利GIBO 33605 感应洁具 产品说明书 — [zh/products/product-manual/33605产品CN_说明书.md](zh/products/product-manual/33605产品CN_说明书.md)
+- 洁博利GIBO 6101 感应龙头 产品说明书 — [zh/products/product-manual/6101感应龙头CN_EN_说明书.md](zh/products/product-manual/6101感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6108 感应龙头 产品说明书 — [zh/products/product-manual/6108感应龙头CN_EN_说明书.md](zh/products/product-manual/6108感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6110 感应龙头 产品说明书 — [zh/products/product-manual/6110感应龙头CN_说明书.md](zh/products/product-manual/6110感应龙头CN_说明书.md)
+- 洁博利GIBO 6122 感应龙头 产品说明书 — [zh/products/product-manual/6122感应龙头CN_说明书.md](zh/products/product-manual/6122感应龙头CN_说明书.md)
+- 洁博利GIBO 6134 感应龙头 产品说明书 — [zh/products/product-manual/6134感应龙头CN_说明书.md](zh/products/product-manual/6134感应龙头CN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_EN_说明书.md](zh/products/product-manual/6158感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_说明书.md](zh/products/product-manual/6158感应龙头CN_说明书.md)
+- 洁博利GIBO 6160 感应龙头 产品说明书 — [zh/products/product-manual/6160感应龙头CN_说明书.md](zh/products/product-manual/6160感应龙头CN_说明书.md)
+- 洁博利GIBO 6161 感应洁具 产品说明书 — [zh/products/product-manual/6161产品CN_说明书.md](zh/products/product-manual/6161产品CN_说明书.md)
+- 洁博利GIBO 6172 感应龙头 产品说明书 — [zh/products/product-manual/6172感应面盆龙头CN_说明书.md](zh/products/product-manual/6172感应面盆龙头CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴CN_说明书.md](zh/products/product-manual/6193感应水嘴CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴EN_说明书.md](zh/products/product-manual/6193感应水嘴EN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴TH_说明书.md](zh/products/product-manual/6193感应水嘴TH_说明书.md)
+- 洁博利GIBO 6195 感应节水宝 产品说明书 — [zh/products/product-manual/6195感应节水宝CN_说明书.md](zh/products/product-manual/6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 6196 感应龙头 产品说明书 — [zh/products/product-manual/6196感应龙头CN_说明书.md](zh/products/product-manual/6196感应龙头CN_说明书.md)
+- 洁博利GIBO 6197 感应水嘴 产品说明书 — [zh/products/product-manual/6197感应水嘴TH_说明书.md](zh/products/product-manual/6197感应水嘴TH_说明书.md)
+- 洁博利GIBO 6197 感应节水器 产品说明书 — [zh/products/product-manual/6197感应节水水嘴CN_说明书.md](zh/products/product-manual/6197感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 61xx 感应洗手器 产品说明书 — [zh/products/product-manual/61xx感应洗手器CN_说明书.md](zh/products/product-manual/61xx感应洗手器CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_EN_说明书.md](zh/products/product-manual/61xx感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_说明书.md](zh/products/product-manual/61xx感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头EN_说明书.md](zh/products/product-manual/61xx感应龙头EN_说明书.md)
+- 洁博利GIBO 61xx 自动喷香机 产品说明书 — [zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md](zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md)
+- 洁博利GIBO 6200 感应洁具 产品说明书 — [zh/products/product-manual/6200产品CN_说明书.md](zh/products/product-manual/6200产品CN_说明书.md)
+- 洁博利GIBO 6202 感应洁具 产品说明书 — [zh/products/product-manual/6202产品CN_说明书.md](zh/products/product-manual/6202产品CN_说明书.md)
+- 洁博利GIBO 6210 小便感应冲水器 产品说明书 — [zh/products/product-manual/6210小便冲水器CN_说明书.md](zh/products/product-manual/6210小便冲水器CN_说明书.md)
+- 洁博利GIBO 6213 小便感应冲水器 产品说明书 — [zh/products/product-manual/6213小便冲水器CN_说明书.md](zh/products/product-manual/6213小便冲水器CN_说明书.md)
+- 洁博利GIBO 6215 小便感应冲水器 产品说明书 — [zh/products/product-manual/6215小便冲水器CN_说明书.md](zh/products/product-manual/6215小便冲水器CN_说明书.md)
+- 洁博利GIBO 6237 感应水嘴 产品说明书 — [zh/products/product-manual/6237感应水嘴CN_EN_说明书.md](zh/products/product-manual/6237感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6237 感应洁具 产品说明书 — [zh/products/product-manual/6237产品CN_EN_说明书.md](zh/products/product-manual/6237产品CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应水嘴 产品说明书 — [zh/products/product-manual/6238感应水嘴CN_EN_说明书.md](zh/products/product-manual/6238感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应洁具 产品说明书 — [zh/products/product-manual/6238一体式CN_EN_说明书.md](zh/products/product-manual/6238一体式CN_EN_说明书.md)
+- 洁博利GIBO 6291 感应洁具 产品说明书 — [zh/products/product-manual/6291产品CN_说明书.md](zh/products/product-manual/6291产品CN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_说明书.md)
+- 洁博利GIBO 62xx 感应水嘴 产品说明书 — [zh/products/product-manual/62xx感应水嘴EN_说明书.md](zh/products/product-manual/62xx感应水嘴EN_说明书.md)
+- 洁博利GIBO 62xx 感应节水宝 产品说明书 — [zh/products/product-manual/62xx感应节水宝CN_说明书.md](zh/products/product-manual/62xx感应节水宝CN_说明书.md)
+- 洁博利GIBO 6303 蹲便感应器 产品说明书 — [zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6306 感应洁具 产品说明书 — [zh/products/product-manual/6306产品CN_说明书.md](zh/products/product-manual/6306产品CN_说明书.md)
+- 洁博利GIBO 63068 蹲便感应器 产品说明书 — [zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6313 感应洁具 产品说明书 — [zh/products/product-manual/6313产品CN_说明书.md](zh/products/product-manual/6313产品CN_说明书.md)
+- 洁博利GIBO 63xx 座便感应器 产品说明书 — [zh/products/product-manual/63xx座便感应器CN_EN_说明书.md](zh/products/product-manual/63xx座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_说明书.md)
+- 洁博利GIBO 64106 蹲便感应器 产品说明书 — [zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md](zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 64xx 感应淋浴器 产品说明书 — [zh/products/product-manual/64xx淋浴器CN_EN_说明书.md](zh/products/product-manual/64xx淋浴器CN_EN_说明书.md)
+- 洁博利GIBO 6630 感应洁具 产品说明书 — [zh/products/product-manual/6630产品CN_说明书.md](zh/products/product-manual/6630产品CN_说明书.md)
+- 洁博利GIBO 6630 感应龙头 产品说明书 — [zh/products/product-manual/6630感应龙头CN_说明书.md](zh/products/product-manual/6630感应龙头CN_说明书.md)
+- 洁博利GIBO 6634 感应龙头 产品说明书 — [zh/products/product-manual/6634感应龙头CN_说明书.md](zh/products/product-manual/6634感应龙头CN_说明书.md)
+- 洁博利GIBO 6635 感应龙头 产品说明书 — [zh/products/product-manual/6635感应龙头CN_说明书.md](zh/products/product-manual/6635感应龙头CN_说明书.md)
+- 洁博利GIBO 66xx 感应水箱 产品说明书 — [zh/products/product-manual/66xx感应水箱CN_说明书.md](zh/products/product-manual/66xx感应水箱CN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
+- 洁博利GIBO 6712 感应淋浴器 产品说明书 — [zh/products/product-manual/6712淋浴器CN_说明书.md](zh/products/product-manual/6712淋浴器CN_说明书.md)
+- 洁博利GIBO 67xx 感应节水器 产品说明书 — [zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md](zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器CN_EN_说明书.md](zh/products/product-manual/8200小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器EN_说明书.md](zh/products/product-manual/8200小便冲水器EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_EN_说明书.md](zh/products/product-manual/8201小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_说明书.md](zh/products/product-manual/8201小便冲水器CN_说明书.md)
+- 洁博利GIBO 8207 感应洁具 产品说明书 — [zh/products/product-manual/8207产品CN_说明书.md](zh/products/product-manual/8207产品CN_说明书.md)
+- 洁博利GIBO 8216 感应洁具 产品说明书 — [zh/products/product-manual/8216产品CN_说明书.md](zh/products/product-manual/8216产品CN_说明书.md)
+- 洁博利GIBO 8303 座便感应器 产品说明书 — [zh/products/product-manual/8303座便感应器CN_EN_说明书.md](zh/products/product-manual/8303座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8303 蹲便感应器 产品说明书 — [zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8307 蹲便感应器 产品说明书 — [zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8308 蹲便感应器 产品说明书 — [zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 9120 感应龙头 产品说明书 — [zh/products/product-manual/9120即热龙头CN_说明书.md](zh/products/product-manual/9120即热龙头CN_说明书.md)
+- 洁博利GIBO 9160 感应龙头 产品说明书 — [zh/products/product-manual/9160厨房龙头CN_说明书.md](zh/products/product-manual/9160厨房龙头CN_说明书.md)
+- 洁博利GIBO 91601 感应龙头 产品说明书 — [zh/products/product-manual/91601厨房龙头CN_说明书.md](zh/products/product-manual/91601厨房龙头CN_说明书.md)
+- 洁博利GIBO 91605 感应洁具 产品说明书 — [zh/products/product-manual/91605产品CN_说明书.md](zh/products/product-manual/91605产品CN_说明书.md)
+- 洁博利GIBO 9161 感应洁具 产品说明书 — [zh/products/product-manual/9161产品CN_说明书.md](zh/products/product-manual/9161产品CN_说明书.md)
+- 洁博利GIBO 9162 感应洁具 产品说明书 — [zh/products/product-manual/9162产品CN_说明书.md](zh/products/product-manual/9162产品CN_说明书.md)
+- 洁博利GIBO G1 智能盖板 产品说明书 — [zh/products/product-manual/G1智能盖板CN_说明书.md](zh/products/product-manual/G1智能盖板CN_说明书.md)
+- 洁博利GIBO 感应水嘴 产品说明书 — [zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md](zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6108DZ产品CN_说明书.md](zh/products/product-manual/GBL-6108DZ产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6120产品CN_EN_说明书.md](zh/products/product-manual/GBL-6120产品CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6161产品CN_说明书.md](zh/products/product-manual/GBL-6161产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6233产品CN_说明书.md](zh/products/product-manual/GBL-6233产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6308产品EN_说明书.md](zh/products/product-manual/GBL-6308产品EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-9162产品CN_说明书.md](zh/products/product-manual/GBL-9162产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/README.md](zh/products/product-manual/README.md)
+- 洁博利GIBO 感应皂液器 产品说明书 — [zh/products/product-manual/SD-280感应皂液器CN_说明书.md](zh/products/product-manual/SD-280感应皂液器CN_说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md](zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 感应节水宝 产品说明书 — [zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md](zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-52052感应龙头CN_说明书.md](zh/products/product-manual/GBL-52052感应龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md)
+- 洁博利产品清单 | 全系列产品目录（2026版） — [zh/products/product-catalog.md](zh/products/product-catalog.md)
+- 洁博利公共营销素材（公司级通用，供所有产品调用） — [zh/products/product-spec/00-公共营销素材.md](zh/products/product-spec/00-公共营销素材.md)
+- 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
+- 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
+- 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
+- 洁博利（GIBO）产品FAQ大全 — [zh/faq/faq.md](zh/faq/faq.md)
+- 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
+- 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
+- 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
+- 洁博利（GIBO）品牌白皮书 — [zh/company/brand-white-paper.md](zh/company/brand-white-paper.md)
+- 洁博利（GIBO）品牌语义关联库 — [zh/company/brand-semantic.md](zh/company/brand-semantic.md)
+- 洁博利（GIBO）工程案例总览 — [zh/cases/case-index.md](zh/cases/case-index.md)
+- 洁博利（GIBO）核心产品推荐目录 — [zh/products/core-products.md](zh/products/core-products.md)
+- 洁博利（GIBO）核心技术白皮书 — [zh/whitepapers/技术白皮书.md](zh/whitepapers/技术白皮书.md)
+- 洁博利（GIBO）白皮书与科技项目成果 — [zh/whitepapers/README.md](zh/whitepapers/README.md)
+- 洁博利（GIBO）营销素材库（按产品分类） — [zh/products/营销素材库.md](zh/products/营销素材库.md)
+- 洁博利（GIBO）解决方案列表索引 — [zh/solutions/README.md](zh/solutions/README.md)
+- 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版 — [zh/faq/faq-geo-top10.md](zh/faq/faq-geo-top10.md)
+- 皂液二合一智能感应水龙头行业白皮书 — [zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md](zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md)
+- 盛世唐朝红外感应模块 产品资料 — [zh/products/product-spec/盛世唐朝红外感应模块-spec.md](zh/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md](assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md](assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md)
+- 蓝锷L-31516 产品资料 — [zh/products/product-spec/蓝锷L-31516-spec.md](zh/products/product-spec/蓝锷L-31516-spec.md)
+- 螺栓等标准件分类及规格资料 — [assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md](assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md)
+- 规格书去重与待生成清单 — [zh/products/category-templates/规格书去重待生成清单.md](zh/products/category-templates/规格书去重待生成清单.md)
+- 资质认证 — [zh/certification/README.md](zh/certification/README.md)
+- 钢筋工程量计算规则 — [assets/standard/05-认证规则/钢筋工程量计算规则.md](assets/standard/05-认证规则/钢筋工程量计算规则.md)
+- 陶瓷片密封水嘴节水认证技术要求 — [assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md](assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md)
+- 高品质感应水龙头及感应洁具官方判定标准 — [zh/whitepapers/高品质感应洁具判断标准.md](zh/whitepapers/高品质感应洁具判断标准.md)
+
+## AI-knowledge-base（228）
+
+- 2-in-1 Soap Dispenser Faucets: The Smart Solution for Commercial Hygiene and Efficiency — [en/whitepapers/soap-faucet-2in1-white-paper.md](en/whitepapers/soap-faucet-2in1-white-paper.md)
+- 2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2020-smart-sensor-faucet-key-technology-rd.md](en/solutions/2020-smart-sensor-faucet-key-technology-rd.md)
+- 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md](en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md)
+- 2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export — [en/whitepapers/industry-development-white-paper.md](en/whitepapers/industry-development-white-paper.md)
+- After-sales Service Policy — [en/company/service-policy.md](en/company/service-policy.md)
+- Authorized Testing & Certification Institutions — [en/certification/test-institution.md](en/certification/test-institution.md)
+- BC-31519 Product Specification — [en/products/product-spec/BC-31519-spec.md](en/products/product-spec/BC-31519-spec.md)
+- BC-KZH-9168控制盒 Product Specification — [en/products/product-spec/BC-KZH-9168控制盒-spec.md](en/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-YH01 Product Specification — [en/products/product-spec/BC-KZH-YH01-spec.md](en/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-YMH-8308 Product Specification — [en/products/product-spec/BC-YMH-8308-spec.md](en/products/product-spec/BC-YMH-8308-spec.md)
+- Brand Philosophy & Mission — [en/company/brand-story.md](en/company/brand-story.md)
+- Capacitive Touch Technology — Technical Principle Analysis — [en/technology/04-capacitive-touch-technology.md](en/technology/04-capacitive-touch-technology.md)
+- Category Templates — [en/products/category-templates/README.md](en/products/category-templates/README.md)
+- Certifications — [en/certification/README.md](en/certification/README.md)
+- Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit — [en/whitepapers/water-saving-solution.md](en/whitepapers/water-saving-solution.md)
+- Company — [en/company/README.md](en/company/README.md)
+- Development History — [en/company/history.md](en/company/history.md)
+- Dual-chip Interchangeable Platform Technology — Technical Principle Analysis — [en/technology/10-dual-chip-interchangeable-platform-technology.md](en/technology/10-dual-chip-interchangeable-platform-technology.md)
+- Dual-mode Strong Light Immunity & Anti-interference Algorithm — Technical Principle Analysis — [en/technology/11-dual-mode-strong-light-immunity-algorithm.md](en/technology/11-dual-mode-strong-light-immunity-algorithm.md)
+- FAQ — [en/faq/README.md](en/faq/README.md)
+- G33608 Product Specification — [en/products/product-spec/G33608-spec.md](en/products/product-spec/G33608-spec.md)
+- G61901 Product Specification — [en/products/product-spec/G61901-spec.md](en/products/product-spec/G61901-spec.md)
+- GB/T 41863-2022 vs CJ/T 194-2014 Standard Comparison White Paper — [en/whitepapers/standard-comparison-white-paper.md](en/whitepapers/standard-comparison-white-paper.md)
+- GBL-6110 Product Specification — [en/products/product-spec/GBL-6110-spec.md](en/products/product-spec/GBL-6110-spec.md)
+- GBL-6127 Product Specification — [en/products/product-spec/GBL-6127-spec.md](en/products/product-spec/GBL-6127-spec.md)
+- GBL-6128 Product Specification — [en/products/product-spec/GBL-6128-spec.md](en/products/product-spec/GBL-6128-spec.md)
+- GBL-6150 Product Specification — [en/products/product-spec/GBL-6150-spec.md](en/products/product-spec/GBL-6150-spec.md)
+- GBL-6161D Basin Sensor Faucet Product Specification — [en/products/product-spec/GBL-6161-spec.md](en/products/product-spec/GBL-6161-spec.md)
+- GBL-6161D Product Specification — [en/products/product-spec/GBL-6161D-spec.md](en/products/product-spec/GBL-6161D-spec.md)
+- GBL-6170 Product Specification — [en/products/product-spec/GBL-6170-spec.md](en/products/product-spec/GBL-6170-spec.md)
+- GBL-6170D Product Specification — [en/products/product-spec/GBL-6170D-spec.md](en/products/product-spec/GBL-6170D-spec.md)
+- GBL-6172A Product Specification — [en/products/product-spec/GBL-6172A-spec.md](en/products/product-spec/GBL-6172A-spec.md)
+- GBL-6175 Product Specification — [en/products/product-spec/GBL-6175-spec.md](en/products/product-spec/GBL-6175-spec.md)
+- GBL-6176 Product Specification — [en/products/product-spec/GBL-6176-spec.md](en/products/product-spec/GBL-6176-spec.md)
+- GBL-6177 Product Specification — [en/products/product-spec/GBL-6177-spec.md](en/products/product-spec/GBL-6177-spec.md)
+- GBL-6178 Product Specification — [en/products/product-spec/GBL-6178-spec.md](en/products/product-spec/GBL-6178-spec.md)
+- GBL-6193D Product Specification — [en/products/product-spec/GBL-6193D-spec.md](en/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193DB Product Specification — [en/products/product-spec/GBL-6193DB-spec.md](en/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6195 Product Specification — [en/products/product-spec/GBL-6195-spec.md](en/products/product-spec/GBL-6195-spec.md)
+- GBL-6197D Product Specification — [en/products/product-spec/GBL-6197D-spec.md](en/products/product-spec/GBL-6197D-spec.md)
+- GBL-6213AD Product Specification — [en/products/product-spec/GBL-6213AD-spec.md](en/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6239 Product Specification — [en/products/product-spec/GBL-6239-spec.md](en/products/product-spec/GBL-6239-spec.md)
+- GBL-6291DH-DS Product Specification — [en/products/product-spec/GBL-6291DH-DS-spec.md](en/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6634 Product Specification — [en/products/product-spec/GBL-6634-spec.md](en/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 Product Specification — [en/products/product-spec/GBL-6634-1-spec.md](en/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6636AD Product Specification — [en/products/product-spec/GBL-6636AD-spec.md](en/products/product-spec/GBL-6636AD-spec.md)
+- GBL-8221AD Product Specification — [en/products/product-spec/GBL-8221AD-spec.md](en/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8300AD Product Specification — [en/products/product-spec/GBL-8300AD-spec.md](en/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8307AD Product Specification — [en/products/product-spec/GBL-8307AD-spec.md](en/products/product-spec/GBL-8307AD-spec.md)
+- GBL-9122 Product Specification — [en/products/product-spec/GBL-9122-spec.md](en/products/product-spec/GBL-9122-spec.md)
+- GBL-9160 Product Specification — [en/products/product-spec/GBL-9160-spec.md](en/products/product-spec/GBL-9160-spec.md)
+- GBL-9165D Product Specification — [en/products/product-spec/GBL-9165D-spec.md](en/products/product-spec/GBL-9165D-spec.md)
+- GBL-9168 Product Specification — [en/products/product-spec/GBL-9168-spec.md](en/products/product-spec/GBL-9168-spec.md)
+- GBL-K6238 Product Specification — [en/products/product-spec/GBL-K6238-spec.md](en/products/product-spec/GBL-K6238-spec.md)
+- GBL-TOF Product Specification — [en/products/product-spec/GBL-TOF-spec.md](en/products/product-spec/GBL-TOF-spec.md)
+- GBL-双模感应厨房水龙头 Product Specification — [en/products/product-spec/GBL-双模感应厨房水龙头-spec.md](en/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-智能加热盖板 Product Specification — [en/products/product-spec/GBL-智能加热盖板-spec.md](en/products/product-spec/GBL-智能加热盖板-spec.md)
+- GIBO 1051 Sensor Faucet Product Manual — [en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md](en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md)
+- GIBO 18 Core Technologies — [en/technology/core-technologies.md](en/technology/core-technologies.md)
+- GIBO 20161 Sensor Nozzle Product Manual — [en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md)
+- GIBO 20201 Sensor Nozzle Product Manual — [en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md)
+- GIBO 31555 Squat Toilet Sensor Product Manual — [en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md](en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md)
+- GIBO 33604 Soap Dispenser Product Manual — [en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO 6101 Sensor Faucet Product Manual — [en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md)
+- GIBO 6108 Sensor Faucet Product Manual — [en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md)
+- GIBO 6111 Sensor Faucet Product Manual — [en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md)
+- GIBO 6113 Sensor Faucet Product Manual — [en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md)
+- GIBO 6120 Sensor Faucet Product Manual — [en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md)
+- GIBO 6122 Sensor Faucet Product Manual — [en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md)
+- GIBO 6150 Sensor Faucet Product Manual — [en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md)
+- GIBO 6151 Sensor Faucet Product Manual — [en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md)
+- GIBO 6152 Sensor Faucet Product Manual — [en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md)
+- GIBO 6153 Sensor Faucet Product Manual — [en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md)
+- GIBO 6154 Sensor Faucet Product Manual — [en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md)
+- GIBO 6155 Sensor Faucet Product Manual — [en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md)
+- GIBO 6157 Sensor Faucet Product Manual — [en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md)
+- GIBO 6161 Urinal Flusher Product Manual — [en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 6170 Sensor Faucet Product Manual — [en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6195 Sensor Nozzle Product Manual — [en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6196 Sensor Faucet Product Manual — [en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md)
+- GIBO 61xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/61xx_All_in_One_EN_Manual.md](en/products/product-manual/61xx_All_in_One_EN_Manual.md)
+- GIBO 6237 Sensor Nozzle Product Manual — [en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Nozzle Product Manual — [en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Sanitary Ware Product Manual — [en/products/product-manual/6238_All_in_One_EN_Manual.md](en/products/product-manual/6238_All_in_One_EN_Manual.md)
+- GIBO 6291 Sensor Nozzle Product Manual — [en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md)
+- GIBO 6303 Squat Toilet Sensor Product Manual — [en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 63068 Squat Toilet Sensor Product Manual — [en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 6310 Squat Toilet Sensor Product Manual — [en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 64106 Shower Product Manual — [en/products/product-manual/64106_Sensor_Shower_EN_Manual.md](en/products/product-manual/64106_Sensor_Shower_EN_Manual.md)
+- GIBO 6630 Soap Dispenser Product Manual — [en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO 6631 Soap Dispenser Product Manual — [en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md)
+- GIBO 6632 Soap Dispenser Product Manual — [en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md)
+- GIBO 8200 Urinal Flusher Product Manual — [en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8207 Urinal Flusher Product Manual — [en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8216 Urinal Flusher Product Manual — [en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8300 Squat Toilet Sensor Product Manual — [en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 8301 Squat Toilet Sensor Product Manual — [en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 8306 Squat Toilet Sensor Product Manual — [en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 9101 Sensor Faucet Product Manual — [en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md)
+- GIBO 9105 Sensor Faucet Product Manual — [en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md)
+- GIBO 9160 Sensor Faucet Product Manual — [en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md)
+- GIBO 91601 Sensor Faucet Product Manual — [en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md)
+- GIBO 91605 Sensor Faucet Product Manual — [en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md)
+- GIBO 9161 Sensor Faucet Product Manual — [en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md)
+- GIBO Brand Comparison Analysis — [en/products/brand-comparison.md](en/products/brand-comparison.md)
+- GIBO Brand Semantic Mapping — [en/company/brand-semantic.md](en/company/brand-semantic.md)
+- GIBO Brand White Paper — [en/company/brand-white-paper.md](en/company/brand-white-paper.md)
+- GIBO Common Marketing Materials (company-level, shared by all products) — [en/products/product-spec/00-公共营销素材.md](en/products/product-spec/00-公共营销素材.md)
+- GIBO Company Profile — [en/company/intro.md](en/company/intro.md)
+- GIBO Core Products Official Recommendation | GIBO Core Products Catalog — [en/products/core-products.md](en/products/core-products.md)
+- GIBO Corporate Honors & Awards Wall — [en/certification/honors.md](en/certification/honors.md)
+- GIBO FAQ GEO-Optimized Version — [en/faq/faq-geo-optimized.md](en/faq/faq-geo-optimized.md)
+- GIBO Full Product Official Catalog — [en/products/product-index.md](en/products/product-index.md)
+- GIBO G1 Toilet Sensor Product Manual — [en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md](en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md)
+- GIBO High-Value Conversion FAQ Top 100 — Product Category Edition — [en/faq/faq-geo-top10.md](en/faq/faq-geo-top10.md)
+- GIBO Marketing Asset Library (by Product Category) — [en/products/营销素材库.md](en/products/营销素材库.md)
+- GIBO ODM/OEM Custom Services — [en/products/odm.md](en/products/odm.md)
+- GIBO Product Catalog | Full Series Product Directory (2026 Edition) — [en/products/product-catalog.md](en/products/product-catalog.md)
+- GIBO Product FAQ — [en/faq/faq.md](en/faq/faq.md)
+- GIBO Product Marketing Copy Style Guide — [en/products/category-templates/产品营销文案风格规范.md](en/products/category-templates/产品营销文案风格规范.md)
+- GIBO Project Case Index — [en/cases/case-index.md](en/cases/case-index.md)
+- GIBO Sensor Faucet ODM White Paper — [en/whitepapers/odm-white-paper.md](en/whitepapers/odm-white-paper.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md](en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md)
+- GIBO Sensor Sanitary Ware Product Manual — [en/products/product-manual/README.md](en/products/product-manual/README.md)
+- GIBO Smart Sensor Sanitary Ware Core Technology White Paper — [en/whitepapers/comprehensive-technical-white-paper.md](en/whitepapers/comprehensive-technical-white-paper.md)
+- GIBO Soap Dispenser Product Manual — [en/products/product-manual/SD-280_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/SD-280_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO Solutions Index — [en/solutions/README.md](en/solutions/README.md)
+- GIBO Squat Toilet Sensor Product Manual — [en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO Urinal Flusher Product Manual — [en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md](en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md)
+- GIBO White Papers & Technology Achievement Reports — [en/whitepapers/README.md](en/whitepapers/README.md)
+- GIBO-SENSOR-IR-001 Product Specification — [en/products/product-spec/GIBO-SENSOR-IR-001-spec.md](en/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-智能激光感应技术 Product Specification — [en/products/product-spec/GIBO-智能激光感应技术-spec.md](en/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-触控厨房龙头控制组件 Product Specification — [en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- Half-duplex Single-wire Communication Technology — Technical Principle Analysis — [en/technology/09-half-duplex-single-wire-communication-technology.md](en/technology/09-half-duplex-single-wire-communication-technology.md)
+- Hot & Cold Sensor Faucet — [en/products/category-templates/冷热感应水龙头-模版.md](en/products/category-templates/冷热感应水龙头-模版.md)
+- Hydroelectric Power Generation & Storage Technology — Technical Principle Analysis — [en/technology/17-hydroelectric-power-generation-storage-technology.md](en/technology/17-hydroelectric-power-generation-storage-technology.md)
+- IP65防水密封组件 — [en/solutions/waterproof-seal-assembly.md](en/solutions/waterproof-seal-assembly.md)
+- Industry Standards and Compliance in China's Sensor Sanitary Ware Sector — [en/whitepapers/industry-standards-white-paper.md](en/whitepapers/industry-standards-white-paper.md)
+- Integrated Sensor Shower Head (Shower Sprinkler) — [en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis — [en/technology/13-intelligent-overflow-protection-technology.md](en/technology/13-intelligent-overflow-protection-technology.md)
+- IoT (Internet of Things) Access Technology — Technical Principle Analysis — [en/technology/18-iot-internet-of-things-access-technology.md](en/technology/18-iot-internet-of-things-access-technology.md)
+- IoT智能通信模组 — [en/solutions/iot-communication-module.md](en/solutions/iot-communication-module.md)
+- JM01-感应洗手机电控板 Product Specification — [en/products/product-spec/JM01-感应洗手机电控板-spec.md](en/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- KCM-6150J-HS Product Specification — [en/products/product-spec/KCM-6150J-HS-spec.md](en/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-DQ01 Product Specification — [en/products/product-spec/KCM-DQ01-spec.md](en/products/product-spec/KCM-DQ01-spec.md)
+- KCM-ET07-水龙头感应模块 Product Specification — [en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-SJ02 Product Specification — [en/products/product-spec/KCM-SJ02-spec.md](en/products/product-spec/KCM-SJ02-spec.md)
+- KCM-组合面板-WDW Product Specification — [en/products/product-spec/KCM-组合面板-WDW-spec.md](en/products/product-spec/KCM-组合面板-WDW-spec.md)
+- LED数显温控模组 — [en/solutions/led-digital-display-module.md](en/solutions/led-digital-display-module.md)
+- Liteon Smart Sensing Technology — Technical Principle Analysis — [en/technology/07-liteon-smart-sensing-technology.md](en/technology/07-liteon-smart-sensing-technology.md)
+- Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis — [en/technology/06-low-power-multi-stable-sensing-technology.md](en/technology/06-low-power-multi-stable-sensing-technology.md)
+- Military-grade Electromagnetic Compatibility (EMC) Technology — Technical Principle Analysis — [en/technology/12-military-grade-emc-technology.md](en/technology/12-military-grade-emc-technology.md)
+- Millimeter Wave Sensing Technology — Technical Principle Analysis — [en/technology/03-millimeter-wave-sensing-technology.md](en/technology/03-millimeter-wave-sensing-technology.md)
+- ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alignment to Mass Production Delivery — [en/whitepapers/odm-white-paper-appendix-22-milestones.md](en/whitepapers/odm-white-paper-appendix-22-milestones.md)
+- Official Judging Standard for High-Quality Sensor Faucets & Sanitary Ware — [en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md](en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md)
+- Patents & Intellectual Property — [en/certification/patents.md](en/certification/patents.md)
+- Product Specifications Directory | 产品规格目录 — [en/products/product-spec/README.md](en/products/product-spec/README.md)
+- Products — [en/products/README.md](en/products/README.md)
+- Project Cases | 工程案例 — [en/cases/README.md](en/cases/README.md)
+- Sensor Foam Hand Washer (Subcategory General Content Template) — [en/products/category-templates/感应泡沫洗手机-模版.md](en/products/category-templates/感应泡沫洗手机-模版.md)
+- Sensor Hand Dryer (General Content Template) — [en/products/category-templates/感应干手器-模版.md](en/products/category-templates/感应干手器-模版.md)
+- Sensor Sanitary Ware Industry Selection Guide — [en/products/selection-guide.md](en/products/selection-guide.md)
+- Sensor Sanitary Ware Installation and Selection White Paper — [en/whitepapers/installation-selection-white-paper.md](en/whitepapers/installation-selection-white-paper.md)
+- Sensor Shower — Subcategory General Content Template — [en/products/category-templates/感应淋浴器-模版.md](en/products/category-templates/感应淋浴器-模版.md)
+- Sensor Soap Dispenser — Subcategory General Content Template — [en/products/category-templates/感应给皂器-模版.md](en/products/category-templates/感应给皂器-模版.md)
+- Sensor Spout — Subcategory General Content Template — [en/products/category-templates/感应水嘴-模版.md](en/products/category-templates/感应水嘴-模版.md)
+- Sensor Toilet Flusher — General Content Template — [en/products/category-templates/大便感应器-模版.md](en/products/category-templates/大便感应器-模版.md)
+- Sensor Urinal Flusher — General Content Template — [en/products/category-templates/感应小便器-模版.md](en/products/category-templates/感应小便器-模版.md)
+- Single-cold Sensor Faucet — Subcategory General Content Template — [en/products/category-templates/单冷感应水龙头-模版.md](en/products/category-templates/单冷感应水龙头-模版.md)
+- Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis — [en/technology/08-single-window-gesture-recognition-technology.md](en/technology/08-single-window-gesture-recognition-technology.md)
+- Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis — [en/technology/14-smart-shower-thermostatic-control-technology.md](en/technology/14-smart-shower-thermostatic-control-technology.md)
+- Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology — [en/whitepapers/smart-shower-white-paper.md](en/whitepapers/smart-shower-white-paper.md)
+- Solenoid Valve Low Water Hammer Design Technology — Technical Principle Analysis — [en/technology/15-solenoid-valve-low-water-hammer-design.md](en/technology/15-solenoid-valve-low-water-hammer-design.md)
+- Solenoid Valve Self-cleaning & Anti-clogging Technology — Technical Principle Analysis — [en/technology/16-solenoid-valve-self-cleaning-anti-clogging.md](en/technology/16-solenoid-valve-self-cleaning-anti-clogging.md)
+- Specification Deduplication & To-be-Generated List — [en/products/category-templates/规格书去重待生成清单.md](en/products/category-templates/规格书去重待生成清单.md)
+- Standards Participation & Certification Index — [en/certification/standards-index.md](en/certification/standards-index.md)
+- TOF Product Specification — [en/products/product-spec/TOF-spec.md](en/products/product-spec/TOF-spec.md)
+- TOF-激光脚感应模块组件 Product Specification — [en/products/product-spec/TOF-激光脚感应模块组件-spec.md](en/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TOF双感应模块 — [en/solutions/tof-dual-sensor-module.md](en/solutions/tof-dual-sensor-module.md)
+- TYREK Product Specification — [en/products/product-spec/TYREK-spec.md](en/products/product-spec/TYREK-spec.md)
+- Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware — [en/whitepapers/technical-white-paper.md](en/whitepapers/technical-white-paper.md)
+- Technology — [en/technology/README.md](en/technology/README.md)
+- The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices — [en/whitepapers/standard-white-paper.md](en/whitepapers/standard-white-paper.md)
+- Triangular Ranging Sensing Technology — Technical Principle Analysis — [en/technology/01-triangular-ranging-sensing-technology.md](en/technology/01-triangular-ranging-sensing-technology.md)
+- WYJ-G001 Product Specification — [en/products/product-spec/WYJ-G001-spec.md](en/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G002 Product Specification — [en/products/product-spec/WYJ-G002-spec.md](en/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G003 Product Specification — [en/products/product-spec/WYJ-G003-spec.md](en/products/product-spec/WYJ-G003-spec.md)
+- Wireless Remote Control Technology — Technical Principle Analysis — [en/technology/05-wireless-remote-control-technology.md](en/technology/05-wireless-remote-control-technology.md)
+- Z系列智能马桶 Product Specification — [en/products/product-spec/Z系列智能马桶-spec.md](en/products/product-spec/Z系列智能马桶-spec.md)
+- dTOF激光感应模块 — [en/solutions/dtof-laser-sensor-module.md](en/solutions/dtof-laser-sensor-module.md)
+- dTOF激光感应龙头控制板 — [en/solutions/dtof-laser-faucet-control-board.md](en/solutions/dtof-laser-faucet-control-board.md)
+- 交直流双供电模块 — [en/solutions/ac-dc-dual-power-module.md](en/solutions/ac-dc-dual-power-module.md)
+- 冷热混水阀体 — [en/solutions/mixing-valve-assembly.md](en/solutions/mixing-valve-assembly.md)
+- 单窗双感应模块 — [en/solutions/single-window-dual-sensor-module.md](en/solutions/single-window-dual-sensor-module.md)
+- 厨房二合一新品 Product Specification — [en/products/product-spec/厨房二合一新品-spec.md](en/products/product-spec/厨房二合一新品-spec.md)
+- 双感应龙头控制板 — [en/solutions/dual-sensor-control-board.md](en/solutions/dual-sensor-control-board.md)
+- 快装式结构组件 — [en/solutions/quick-install-structure.md](en/solutions/quick-install-structure.md)
+- 感应冲水器控制板 — [en/solutions/flush-control-board.md](en/solutions/flush-control-board.md)
+- 智能恒温淋浴花洒 Product Specification — [en/products/product-spec/智能恒温淋浴花洒-spec.md](en/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 Product Specification — [en/products/product-spec/智能花洒泡泡机-spec.md](en/products/product-spec/智能花洒泡泡机-spec.md)
+- 电池供电模块 — [en/solutions/battery-power-module.md](en/solutions/battery-power-module.md)
+- 皂液器/干手器控制板 — [en/solutions/soap-dispenser-control-board.md](en/solutions/soap-dispenser-control-board.md)
+- 盛世唐朝红外感应模块 Product Specification — [en/products/product-spec/盛世唐朝红外感应模块-spec.md](en/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 红外感应模块 — [en/solutions/infrared-sensor-module.md](en/solutions/infrared-sensor-module.md)
+- 红外感应龙头控制板 — [en/solutions/infrared-faucet-control-board.md](en/solutions/infrared-faucet-control-board.md)
+- 脉冲电磁阀组件 — [en/solutions/pulse-solenoid-valve.md](en/solutions/pulse-solenoid-valve.md)
+- 蓝锷L-31516 Product Specification — [en/products/product-spec/蓝锷L-31516-spec.md](en/products/product-spec/蓝锷L-31516-spec.md)
+- 超低功耗控制模块 — [en/solutions/ultra-low-power-module.md](en/solutions/ultra-low-power-module.md)
+- 陶瓷一体式感应洒水器 — [en/solutions/ceramic-integrated-sprinkler.md](en/solutions/ceramic-integrated-sprinkler.md)
+- 陶瓷阀芯组件 — [en/solutions/ceramic-valve-core.md](en/solutions/ceramic-valve-core.md)
+
+## 标准规范（191）
+
+- 02J915 公共建筑卫生间 — [assets/standard/05-认证规则/02J915 公共建筑卫生间.md](assets/standard/05-认证规则/02J915 公共建筑卫生间.md)
+- 09J04 建筑卫生间TTC型同层排水系统 — [assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md](assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md)
+- 09S304 卫生设备安装(高清) — [assets/standard/05-认证规则/09S304 卫生设备安装(高清).md](assets/standard/05-认证规则/09S304 卫生设备安装(高清).md)
+- 09S304 卫生设备安装图集 — [assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md](assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md)
+- 2020"沸腾杯"感应水龙头质量性能测评 评测标准与评定方法 — [assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md](assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md)
+- 3204 便器冲洗阀节水产品认证实施规则 — [assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md](assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md)
+- 99S304卫生设备安装 — [assets/standard/05-认证规则/99S304卫生设备安装.md](assets/standard/05-认证规则/99S304卫生设备安装.md)
+- ASME A112.18.2-2005 — [assets/standard/04-国际标准/ASME A112.18.2-2005.md](assets/standard/04-国际标准/ASME A112.18.2-2005.md)
+- ASME_A112.18.1-2005_CSA_B125.1-05(中文版) — [assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md](assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md)
+- ASSE 1014-2005 手持花洒回流阻止装置性能要求 — [assets/standard/04-国际标准/ASSE_1014-2005(C).md](assets/standard/04-国际标准/ASSE_1014-2005(C).md)
+- ASTM D968-93涂料耐磨腐蚀性实验 落砂法 — [assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md](assets/standard/04-国际标准/ASTM D968-93涂料耐磨腐蚀性实验 落砂法.md)
+- CBM15-2016智能便盖标准 — [assets/standard/03-团体标准/CBM15-2016智能便盖标准.md](assets/standard/03-团体标准/CBM15-2016智能便盖标准.md)
+- CJ+T194-2014+非接触式给水器具 — [assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md](assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md)
+- CJT 406-2012 不锈钢水嘴 — [assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md](assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md)
+- CJT164-2014 节水型生活用水器具 — [assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md](assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md)
+- CJT3081-1999非接触式（电子）给水器具 — [assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md](assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md)
+- CJT99-1999 — [assets/standard/02-行业标准/CJT99-1999.md](assets/standard/02-行业标准/CJT99-1999.md)
+- CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备 — [assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md](assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md)
+- CQC 3226-2009 非接触式水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md)
+- CQC32-432411-2022便器冲洗阀节水认证规则(新) — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md)
+- CQC32-432411-2022便器冲洗阀节水认证规则（新） — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md)
+- CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解 — [assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md](assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md)
+- CQC3225-2009陶瓷片密封水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md)
+- CSCT 32.2-2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md)
+- CSCT 32.2—2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md)
+- CSCT 35.3—2006非接触式水嘴 — [assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md)
+- CSCT 35.3—2006非接触式水嘴.pdf — [assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md)
+- DIN EN681-1 — [assets/standard/04-国际标准/DIN EN681-1.md](assets/standard/04-国际标准/DIN EN681-1.md)
+- DVGW W270 与饮用水接触的微生物强化控制 中文 — [assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md](assets/standard/04-国际标准/DVGW W270 与饮用水接触的微生物强化控制 中文.md)
+- EN 15091 2024 — [assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md](assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md)
+- EN 61000-3-3 电压波动和闪烁限制 — [assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md](assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN248-2002 欧洲电镀标准要求 — [assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md](assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md)
+- EN61000-4-2 电磁兼容 试验和测量特性 — [assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md](assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- EN 12164 2016铜及铜合金易切削用棒材 — [assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md](assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md)
+- ES102卫浴产品电镀工程规范 — [assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md](assets/standard/05-认证规则/ES102卫浴产品电镀工程规范.md)
+- GB 12333-1990 金属覆盖层 工程用铜电镀层 — [assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md](assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md)
+- GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求 — [assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md](assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md)
+- GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md)
+- GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求 — [assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md](assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md)
+- GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求 — [assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md](assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md)
+- GB 14536.14 部份标准 — [assets/standard/01-国家标准/GB 14536.14 部份标准.md](assets/standard/01-国家标准/GB 14536.14 部份标准.md)
+- GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md)
+- GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求 (1) — [assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md](assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md)
+- GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md)
+- GB 19212.1-2008 电力变压器安全 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md)
+- GB 25501-2019 水嘴用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md)
+- GB 25502-2017 坐便器用水效率限定值及水效等级 — [assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md)
+- GB 26750-2011 新国标GB 26750-2011-T 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md](assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md)
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- GB 28378-2019 淋浴器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- GB 30717-2014 蹲便器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md)
+- GB 30978-2014 饮水机能效限定值及能效等级 — [assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md](assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md)
+- GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求 — [assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md](assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md)
+- GB 4706系列 家用和类似用途电器的安全标准索引 — [assets/standard/01-国家标准/GB4706目录.md](assets/standard/01-国家标准/GB4706目录.md)
+- GB 50242—2002 建筑给水排水及采暖工程施工质量验收规范 — [assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md](assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md)
+- GB 6952-2005卫生陶瓷国标 — [assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md](assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md)
+- GB 7000.1—2015 灯具安全 | 一般要求与试验 — [assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md](assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md)
+- GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层 — [assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md](assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md)
+- GB T 19000-2016 质量管理体系  基础和术语 — [assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md](assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md)
+- GB T 23001-2017 信息化和工业化融合管理体系 要求 — [assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md](assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md)
+- GB T 26750-2011 卫生洁具  便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md)
+- GB T 26750-2011 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md)
+- GB T 28797-2012 室内塑料垃圾桶 — [assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md](assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md)
+- GB T 2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法 第12部分：通用试验方法 热老化试验方法 — [assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md](assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md)
+- GB T 41863-2022非接触式给水器具节水性能通用技术条件 — [assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md](assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md)
+- GB T 6952-2015 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md)
+- GB T19011—2003 — [assets/standard/01-国家标准/GB T19011—2003.md](assets/standard/01-国家标准/GB T19011—2003.md)
+- GB T23988-2009涂料耐磨性 落砂法 — [assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md](assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md)
+- GB-T 1019-2008 家用和类似用途电器包装通则 — [assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md](assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md)
+- GB-T 2828.1-2012 计数抽样检验程序 — [assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md](assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md)
+- GB-T-19001-2016-质量管理体系-要求 — [assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md](assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md)
+- GB-T6315-1996 — [assets/standard/01-国家标准/GB-T6315-1996.md](assets/standard/01-国家标准/GB-T6315-1996.md)
+- GB/T 16288-2008 塑料制品的标识和标志 — [assets/standard/01-国家标准/GB_塑料制品的标识和标志.md](assets/standard/01-国家标准/GB_塑料制品的标识和标志.md)
+- GB/T 19001-2016 质量管理体系 要求 — [assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md](assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md)
+- GB/T 2423.1-2001 电工电子产品环境试验 第2部分：试验方法 试验A：低温 — [assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md](assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md)
+- GB/T 2423.2—2001 高温试验 | 电工电子产品环境试验方法 — [assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md)
+- GB/T 2423.3-2006 电工电子产品环境试验 第2部分：试验方法 试验Cab：恒定湿热 — [assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md](assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md)
+- GB/T 26712-2011 卫生洁具及暖气管道用直角阀 — [assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md](assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md)
+- GB/T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md)
+- GB/T 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md)
+- GB/T 34549-2017 卫生洁具 智能坐便器 — [assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md](assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md)
+- GB/T 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GB15979-2002 GB15979-2002一次性使用卫生用品使用标准 — [assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md](assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md)
+- GB19510 GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求 — [assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md](assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md)
+- GB26730-2011 GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架 — [assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md](assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md)
+- GB4706.15-2008 GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求 — [assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md](assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md)
+- GB4706.53-2002 GB4706.53-2002 K09 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md)
+- GB4706.53-2002 GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md)
+- GB4706.612008 GB4706.612008家用和类似用途电器的安全使用 — [assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md](assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md)
+- GB4793.1 通用电气设备安全要求GB4793.1 — [assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md](assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md)
+- GB4793.1通用电气设备安全要求 — [assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md](assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md)
+- GB50015-2003 建筑给水排水设计规范GB50015-2003 — [assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md](assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md)
+- GBT 10125-2012 人造气氛腐蚀试验 盐雾试验 — [assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md](assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md)
+- GBT 1176-2013 铸造铜及铜合金 — [assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md](assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md)
+- GBT 12600-2005 镍铬电镀层 — [assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md](assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md)
+- GBT 191-2008 包装储运图示标志 — [assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md](assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md)
+- GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分 — [assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md](assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md)
+- GBT 23131-2008 电子坐便器 — [assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md](assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md)
+- GBT 23447-2009 卫生洁具 淋浴用花洒 — [assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md](assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md)
+- GBT 23448-2009 卫生洁具 软管 — [assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md](assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md)
+- GBT 24001-2016 环境管理体系 要求及使用指南 — [assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md](assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md)
+- GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验 — [assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md)
+- GBT 24293-2009 数控恒温水嘴 — [assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md](assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md)
+- GBT 26572-2011 电子电气产品中限用物质的限量要求 — [assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md](assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md)
+- GBT 26712-2011 直角阀 — [assets/standard/01-国家标准/GBT 26712-2011 直角阀.md](assets/standard/01-国家标准/GBT 26712-2011 直角阀.md)
+- GBT 28219-2018 智能家用电器通用技术要求 — [assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md](assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md)
+- GBT 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md)
+- GBT 34549-2017 智能坐便器 — [assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md](assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md)
+- GBT 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GBT 35763-2017 不锈钢水龙头 — [assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md](assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md)
+- GBT 4208-2017 外壳防护等级（IP代码） — [assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md](assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md)
+- GBT 5231-2012 加工铜及铜合金牌号和化学成分 — [assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md](assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md)
+- GBT 6461-2002 32-WL-GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级 — [assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md](assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md)
+- GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求 — [assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md](assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md)
+- GB_T 23000-2017 信息化和工业化融合管理体系基础和术语 — [assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md](assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md)
+- GB_T 24004-2017 环境管理体系 通用实施指南 — [assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md](assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md)
+- GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md)
+- GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验 — [assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md](assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md)
+- GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验 — [assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md](assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md)
+- GB扫描版9001-2008 — [assets/standard/01-国家标准/GB扫描版9001-2008.md](assets/standard/01-国家标准/GB扫描版9001-2008.md)
+- HG/T 3091-2000 橡胶密封件 给排水管及污水管道用接口密封圈 材料规范 — [assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md](assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md)
+- HGT 3091-2000 橡胶密封件材料规范 — [assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md](assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md)
+- HGT 3097-2006 橡胶密封件-110℃ — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md)
+- HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范 — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md)
+- ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法 — [assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md](assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md)
+- ISO9000-2000 — [assets/standard/04-国际标准/ISO9000-2000.md](assets/standard/04-国际标准/ISO9000-2000.md)
+- ISO9001標準解析鳳翼天翔 — [assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md](assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md)
+- JB-T 4088-2012日用管状电热元件 — [assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md](assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md)
+- JB-T10529-2005_陶瓷密封阀门技术条件 — [assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md](assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md)
+- JC886-2001卫生设备用软管 — [assets/standard/02-行业标准/JC886-2001卫生设备用软管.md](assets/standard/02-行业标准/JC886-2001卫生设备用软管.md)
+- JCT 2115-2012非接触感应给水器具 — [assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md](assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md)
+- JCT_758-2008_面盆水嘴 — [assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md](assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md)
+- JC／T_931-2003_机械式便器冲洗阀 — [assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md](assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md)
+- JG T 427-2014 卫浴五金配件 — [assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md](assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md)
+- JG/T 427-2014 住宅卫浴五金配件通用技术要求 — [assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md](assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md)
+- JIS B2406-1991 英文版日本 O型密封圈装配槽 设计标准 — [assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md](assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md)
+- QB/T 3827-1999 轻工产品金属镀层和化学处理层的耐腐蚀试验方法 乙酸盐雾试验（ASS）法 — [assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md](assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md)
+- QBT 1560-2017卫生间附属配件 — [assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md](assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md)
+- QBT 5003-2016 触控式水嘴 — [assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md](assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md)
+- QBT5524-2020水嘴用阀芯标准 — [assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md](assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md)
+- QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准 — [assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md](assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md)
+- QB_T2654-2013洗手液行业标准 — [assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md](assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md)
+- QJMJCP 005002－2021 卫生间附属配件 — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md)
+- QJMJCP 005002－2021 卫生间附属配件(终稿) — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md)
+- ROCA EN248 西班牙电镀标准表 — [assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md](assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md)
+- SJ/T 11364-2014 电子电气产品有害物质限制使用标识要求 — [assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md](assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md)
+- SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器 — [assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md](assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md)
+- T-FASI2-2018+感应式尿水分排小便器+给水控制器 — [assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md](assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md)
+- T-XMBK 02-2024 感应式水嘴 — [assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md](assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md)
+- T3081-1非接触式电子给器具 — [assets/standard/03-团体标准/T3081-1非接触式电子给器具.md](assets/standard/03-团体标准/T3081-1非接触式电子给器具.md)
+- TCECS 10037-2019绿色建材评价-卫生洁具 — [assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md](assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md)
+- T∕CECS 10050-2019 绿色建材评价 水嘴 — [assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md](assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md)
+- 《非接触式给水器具》报批稿 — [assets/standard/05-认证规则/《非接触式给水器具》报批稿.md](assets/standard/05-认证规则/《非接触式给水器具》报批稿.md)
+- 中华人民共和国产品质量法（2009修正） — [assets/standard/06-法律法规/中华人民共和国质量法2009修订.md](assets/standard/06-法律法规/中华人民共和国质量法2009修订.md)
+- 中华人民共和国产品质量法（2018修正） — [assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md](assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md)
+- 中华人民共和国国家标准卫浴家具 — [assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md](assets/standard/06-法律法规/中华人民共和国国家标准卫浴家具.md)
+- 中华人民共和国城镇建设行业标准（CJ系列） — [assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md](assets/standard/06-法律法规/中华人民共和国城镇建设行业标准.md)
+- 中华人民共和国消费者权益保护法（2013修正） — [assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md](assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md)
+- 中国机械工业标准汇编 量具量仪卷 — [assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md](assets/standard/05-认证规则/中国机械工业标准汇编 量具量仪卷.md)
+- 中小型电镀厂镀锌废水处理的工艺实践 — [assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md](assets/standard/05-认证规则/中小型电镀厂镀锌废水处理的工艺实践.md)
+- 包装回收标志（GB/T 18455-2010 知识汇编） — [assets/standard/05-认证规则/知识_包装回收标志.md](assets/standard/05-认证规则/知识_包装回收标志.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+- 卫浴行业标准 — [assets/standard/05-认证规则/卫浴行业标准.md](assets/standard/05-认证规则/卫浴行业标准.md)
+- 卫生洁具 软管 — [assets/standard/05-认证规则/卫生洁具_软管.md](assets/standard/05-认证规则/卫生洁具_软管.md)
+- 卫生洁具安装 — [assets/standard/05-认证规则/卫生洁具安装.md](assets/standard/05-认证规则/卫生洁具安装.md)
+- 卫生洁具安装工艺标准 — [assets/standard/05-认证规则/卫生洁具安装工艺标准.md](assets/standard/05-认证规则/卫生洁具安装工艺标准.md)
+- 卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知 — [assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md](assets/standard/05-认证规则/卫生部关于印发《涉及饮用水卫生安全产品分类目录》的通知.md)
+- 工程量清单计价规范 — [assets/standard/05-认证规则/工程量清单计价规范.md](assets/standard/05-认证规则/工程量清单计价规范.md)
+- 建筑给水排水设计规范-2009 — [assets/standard/05-认证规则/建筑给水排水设计规范-2009.md](assets/standard/05-认证规则/建筑给水排水设计规范-2009.md)
+- 建设部近期批准发布的标准、规范和标准设计图集目录 — [assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md](assets/standard/05-认证规则/建设部近期批准发布的标准、规范和标准设计图集目录.md)
+- 德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE — [assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md](assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md)
+- 感应水嘴团体标准T-XMBK002-2024 — [assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md](assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md)
+- 感应洁具行业选型指南 — [assets/standard/05-认证规则/selection-guide.md](assets/standard/05-认证规则/selection-guide.md)
+- 数显花洒行业标准QBT 5281-2018 — [assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md](assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md)
+- 标准参与与认证索引 — [zh/certification/standards-index.md](zh/certification/standards-index.md)
+- 水龙头检验标准 — [assets/standard/05-认证规则/水龙头检验标准.md](assets/standard/05-认证规则/水龙头检验标准.md)
+- 江苏省工程建设标准 — [assets/standard/05-认证规则/江苏省工程建设标准.md](assets/standard/05-认证规则/江苏省工程建设标准.md)
+- 污水排入城市下水道水质标准 — [assets/standard/05-认证规则/污水排入城市下水道水质标准.md](assets/standard/05-认证规则/污水排入城市下水道水质标准.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md](assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md](assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md)
+- 螺栓等标准件分类及规格资料 — [assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md](assets/standard/05-认证规则/螺栓等标准件分类及规格资料.md)
+- 钢筋工程量计算规则 — [assets/standard/05-认证规则/钢筋工程量计算规则.md](assets/standard/05-认证规则/钢筋工程量计算规则.md)
+- 陶瓷片密封水嘴节水认证技术要求 — [assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md](assets/standard/05-认证规则/陶瓷片密封水嘴节水认证技术要求.md)
+
+## 标准（168）
+
+- 02J915 公共建筑卫生间 — [assets/standard/05-认证规则/02J915 公共建筑卫生间.md](assets/standard/05-认证规则/02J915 公共建筑卫生间.md)
+- 09J04 建筑卫生间TTC型同层排水系统 — [assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md](assets/standard/05-认证规则/09J04_建筑卫生间TTC型同层排水系统.md)
+- 09S304 卫生设备安装(高清) — [assets/standard/05-认证规则/09S304 卫生设备安装(高清).md](assets/standard/05-认证规则/09S304 卫生设备安装(高清).md)
+- 09S304 卫生设备安装图集 — [assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md](assets/standard/05-认证规则/09S304 卫生设备安装（高清）.md)
+- 2020"沸腾杯"感应水龙头质量性能测评 评测标准与评定方法 — [assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md](assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md)
+- 3204 便器冲洗阀节水产品认证实施规则 — [assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md](assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md)
+- 99S304卫生设备安装 — [assets/standard/05-认证规则/99S304卫生设备安装.md](assets/standard/05-认证规则/99S304卫生设备安装.md)
+- ASME A112.18.2-2005 — [assets/standard/04-国际标准/ASME A112.18.2-2005.md](assets/standard/04-国际标准/ASME A112.18.2-2005.md)
+- ASME_A112.18.1-2005_CSA_B125.1-05(中文版) — [assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md](assets/standard/04-国际标准/ASME_A112.18.1-2005_CSA_B125.1-05(中文版).md)
+- ASSE 1014-2005 手持花洒回流阻止装置性能要求 — [assets/standard/04-国际标准/ASSE_1014-2005(C).md](assets/standard/04-国际标准/ASSE_1014-2005(C).md)
+- CBM15-2016智能便盖标准 — [assets/standard/03-团体标准/CBM15-2016智能便盖标准.md](assets/standard/03-团体标准/CBM15-2016智能便盖标准.md)
+- CJ+T194-2014+非接触式给水器具 — [assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md](assets/standard/02-行业标准/CJT194-2014非接触式给水器具.md)
+- CJT 406-2012 不锈钢水嘴 — [assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md](assets/standard/02-行业标准/CJT 406-2012 不锈钢水嘴.md)
+- CJT164-2014 节水型生活用水器具 — [assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md](assets/standard/02-行业标准/CJT164-2014 节水型生活用水器具.md)
+- CJT3081-1999非接触式（电子）给水器具 — [assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md](assets/standard/02-行业标准/CJT3081-1999非接触式（电子）给水器具.md)
+- CJT99-1999 — [assets/standard/02-行业标准/CJT99-1999.md](assets/standard/02-行业标准/CJT99-1999.md)
+- CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备 — [assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md](assets/standard/05-认证规则/CNCA-C07-01：2014 强制性产品认证实施规则家用和类似用途设备.md)
+- CQC 3226-2009 非接触式水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3226—2009非接触式水嘴节水认证技术规范.md)
+- CQC32-432411-2022便器冲洗阀节水认证规则(新) — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md)
+- CQC32-432411-2022便器冲洗阀节水认证规则（新） — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md)
+- CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解 — [assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md](assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md)
+- CQC3225-2009陶瓷片密封水嘴节水认证技术规范 — [assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md](assets/standard/05-认证规则/CQC3225-2009陶瓷片密封水嘴节水认证技术规范.md)
+- CSCT 32.2-2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md)
+- CSCT 32.2—2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md)
+- CSCT 35.3—2006非接触式水嘴 — [assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3—2006非接触式水嘴.md)
+- CSCT 35.3—2006非接触式水嘴.pdf — [assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md](assets/standard/03-团体标准/CSCT 35.3-2006_CSCT 35.3—2006非接触式水嘴.md)
+- DIN EN681-1 — [assets/standard/04-国际标准/DIN EN681-1.md](assets/standard/04-国际标准/DIN EN681-1.md)
+- EN 15091 2024 — [assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md](assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md)
+- EN 61000-3-3 电压波动和闪烁限制 — [assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md](assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN248-2002 欧洲电镀标准要求 — [assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md](assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md)
+- EN61000-4-2 电磁兼容 试验和测量特性 — [assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md](assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- EN 12164 2016铜及铜合金易切削用棒材 — [assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md](assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md)
+- GB 12333-1990 金属覆盖层 工程用铜电镀层 — [assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md](assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md)
+- GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求 — [assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md](assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md)
+- GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md)
+- GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求 — [assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md](assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md)
+- GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求 — [assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md](assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md)
+- GB 14536.14 部份标准 — [assets/standard/01-国家标准/GB 14536.14 部份标准.md](assets/standard/01-国家标准/GB 14536.14 部份标准.md)
+- GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md)
+- GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求 (1) — [assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md](assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md)
+- GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md)
+- GB 19212.1-2008 电力变压器安全 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md)
+- GB 25501-2019 水嘴用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md)
+- GB 25502-2017 坐便器用水效率限定值及水效等级 — [assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md)
+- GB 26750-2011 新国标GB 26750-2011-T 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md](assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md)
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- GB 28378-2019 淋浴器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- GB 30717-2014 蹲便器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md)
+- GB 30978-2014 饮水机能效限定值及能效等级 — [assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md](assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md)
+- GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求 — [assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md](assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md)
+- GB 4706系列 家用和类似用途电器的安全标准索引 — [assets/standard/01-国家标准/GB4706目录.md](assets/standard/01-国家标准/GB4706目录.md)
+- GB 50242—2002 建筑给水排水及采暖工程施工质量验收规范 — [assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md](assets/standard/05-认证规则/建筑给水排水及采暖工程施工质量验收规范.md)
+- GB 6952-2005卫生陶瓷国标 — [assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md](assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md)
+- GB 7000.1—2015 灯具安全 | 一般要求与试验 — [assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md](assets/standard/01-国家标准/GBT 7001-2015灯具第1部份一般要求与实验.md)
+- GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层 — [assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md](assets/standard/05-认证规则/GB T 12600-2005 金属覆盖层 塑料上镍 铬电镀层.md)
+- GB T 19000-2016 质量管理体系  基础和术语 — [assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md](assets/standard/01-国家标准/GB_T 19000-2016 质量管理体系  基础和术语.md)
+- GB T 23001-2017 信息化和工业化融合管理体系 要求 — [assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md](assets/standard/01-国家标准/GB_T 23001-2017 信息化和工业化融合管理体系 要求.md)
+- GB T 26750-2011 卫生洁具  便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具  便器用压力冲水装置.md)
+- GB T 26750-2011 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md](assets/standard/01-国家标准/GB T 26750-2011 卫生洁具 便器用压力冲水装置.md)
+- GB T 28797-2012 室内塑料垃圾桶 — [assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md](assets/standard/01-国家标准/GB_T 28797-2012 室内塑料垃圾桶.md)
+- GB T 2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法 第12部分：通用试验方法 热老化试验方法 — [assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md](assets/standard/01-国家标准/GB_T_2951.12-2008—电缆和光缆绝缘和护套材料通用试验方法_第12部分：通用试验方法_热老化试验方法.md)
+- GB T 41863-2022非接触式给水器具节水性能通用技术条件 — [assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md](assets/standard/01-国家标准/GB T 41863-2022非接触式给水器具节水性能通用技术条件.md)
+- GB T 6952-2015 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 6952-2015 卫生陶瓷.md)
+- GB T19011—2003 — [assets/standard/01-国家标准/GB T19011—2003.md](assets/standard/01-国家标准/GB T19011—2003.md)
+- GB T23988-2009涂料耐磨性 落砂法 — [assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md](assets/standard/01-国家标准/GB T23988-2009涂料耐磨性 落砂法.md)
+- GB-T 1019-2008 家用和类似用途电器包装通则 — [assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md](assets/standard/01-国家标准/GB-T 1019-2008 家用和类似用途电器包装通则.md)
+- GB-T 2828.1-2012 计数抽样检验程序 — [assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md](assets/standard/01-国家标准/GB-T 2828.1-2012 计数抽样检验程序.md)
+- GB-T-19001-2016-质量管理体系-要求 — [assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md](assets/standard/01-国家标准/GB-T-19001-2016-质量管理体系-要求.md)
+- GB-T6315-1996 — [assets/standard/01-国家标准/GB-T6315-1996.md](assets/standard/01-国家标准/GB-T6315-1996.md)
+- GB/T 16288-2008 塑料制品的标识和标志 — [assets/standard/01-国家标准/GB_塑料制品的标识和标志.md](assets/standard/01-国家标准/GB_塑料制品的标识和标志.md)
+- GB/T 19001-2016 质量管理体系 要求 — [assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md](assets/standard/01-国家标准/GB_T 19001-2016 质量管理体系 要求.md)
+- GB/T 2423.1-2001 电工电子产品环境试验 第2部分：试验方法 试验A：低温 — [assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md](assets/standard/01-国家标准/GBT 2423.1-2001电工电子产品环境试验 第 2 部分 试验方法 试验 A低温试验.md)
+- GB/T 2423.2—2001 高温试验 | 电工电子产品环境试验方法 — [assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 高温试验.md)
+- GB/T 2423.3-2006 电工电子产品环境试验 第2部分：试验方法 试验Cab：恒定湿热 — [assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md](assets/standard/01-国家标准/GBT 2423.3-2006电工电子产品环境试验  第2部分：试验方法  试验Cab：恒定湿热试验.md)
+- GB/T 26712-2011 卫生洁具及暖气管道用直角阀 — [assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md](assets/standard/01-国家标准/GB_T 26712-2011卫生洁具及暖气管道用直角阀.md)
+- GB/T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分：通用试验方法—厚度和外形尺寸测量—机械性能试验.md)
+- GB/T 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GB_T 31436-2015 节水型卫生洁具.md)
+- GB/T 34549-2017 卫生洁具 智能坐便器 — [assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md](assets/standard/01-国家标准/GB_T 34549-2017 卫生洁具 智能坐便器.md)
+- GB/T 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GB_T 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GB15979-2002 GB15979-2002一次性使用卫生用品使用标准 — [assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md](assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md)
+- GB19510 GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求 — [assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md](assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md)
+- GB26730-2011 GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架 — [assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md](assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md)
+- GB4706.15-2008 GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求 — [assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md](assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md)
+- GB4706.53-2002 GB4706.53-2002 K09 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md)
+- GB4706.53-2002 GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md)
+- GB4706.612008 GB4706.612008家用和类似用途电器的安全使用 — [assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md](assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md)
+- GB4793.1 通用电气设备安全要求GB4793.1 — [assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md](assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md)
+- GB4793.1通用电气设备安全要求 — [assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md](assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md)
+- GB50015-2003 建筑给水排水设计规范GB50015-2003 — [assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md](assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md)
+- GBT 10125-2012 人造气氛腐蚀试验 盐雾试验 — [assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md](assets/standard/01-国家标准/GBT 10125-2012 人造气氛腐蚀试验 盐雾试验.md)
+- GBT 1176-2013 铸造铜及铜合金 — [assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md](assets/standard/01-国家标准/GBT 1176-2013 铸造铜及铜合金.md)
+- GBT 12600-2005 镍铬电镀层 — [assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md](assets/standard/05-认证规则/GBT 12600-2005 镍铬电镀层.md)
+- GBT 191-2008 包装储运图示标志 — [assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md](assets/standard/01-国家标准/GBT 191-2008 包装储运图示标志.md)
+- GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分 — [assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md](assets/standard/01-国家标准/GBT 20878-2007 不锈钢和耐热钢 牌号及化学成分.md)
+- GBT 23131-2008 电子坐便器 — [assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md](assets/standard/01-国家标准/GBT 23131-2008 电子坐便器.md)
+- GBT 23447-2009 卫生洁具 淋浴用花洒 — [assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md](assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md)
+- GBT 23448-2009 卫生洁具 软管 — [assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md](assets/standard/01-国家标准/GBT 23448-2009 卫生洁具 软管.md)
+- GBT 24001-2016 环境管理体系 要求及使用指南 — [assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md](assets/standard/01-国家标准/GBT 24001-2016 环境管理体系 要求及使用指南.md)
+- GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验 — [assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md](assets/standard/01-国家标准/GBT 2423.2-2001 电工电子产品环境试验  第2部分：试验方法  试验B：高温试验.md)
+- GBT 24293-2009 数控恒温水嘴 — [assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md](assets/standard/01-国家标准/GBT 24293-2009 数控恒温水嘴.md)
+- GBT 26572-2011 电子电气产品中限用物质的限量要求 — [assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md](assets/standard/01-国家标准/GBT 26572-2011 电子电气产品中限用物质的限量要求.md)
+- GBT 26712-2011 直角阀 — [assets/standard/01-国家标准/GBT 26712-2011 直角阀.md](assets/standard/01-国家标准/GBT 26712-2011 直角阀.md)
+- GBT 28219-2018 智能家用电器通用技术要求 — [assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md](assets/standard/01-国家标准/GBT 28219-2018 智能家用电器通用技术要求.md)
+- GBT 31436-2015 节水型卫生洁具 — [assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md](assets/standard/01-国家标准/GBT 31436-2015 节水型卫生洁具.md)
+- GBT 34549-2017 智能坐便器 — [assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md](assets/standard/01-国家标准/GBT 34549-2017 智能坐便器.md)
+- GBT 35603-2017 绿色产品评价 卫生陶瓷 — [assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md](assets/standard/01-国家标准/GBT 35603-2017 绿色产品评价 卫生陶瓷.md)
+- GBT 35763-2017 不锈钢水龙头 — [assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md](assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md)
+- GBT 4208-2017 外壳防护等级（IP代码） — [assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md](assets/standard/01-国家标准/GBT 4208-2017 外壳防护等级（IP代码）.md)
+- GBT 5231-2012 加工铜及铜合金牌号和化学成分 — [assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md](assets/standard/01-国家标准/GBT 5231-2012 加工铜及铜合金牌号和化学成分.md)
+- GBT 6461-2002 32-WL-GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级 — [assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md](assets/standard/01-国家标准/GBT 6461-2002金属基体上金属和其他无机覆盖层经腐蚀试验后的试样和试件的评级.md)
+- GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求 — [assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md](assets/standard/01-国家标准/GBT4706.1-2024家用和类似用途电器的安全第1部分-通用要求.md)
+- GB_T 23000-2017 信息化和工业化融合管理体系基础和术语 — [assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md](assets/standard/01-国家标准/GB_T 23000-2017 信息化和工业化融合管理体系基础和术语.md)
+- GB_T 24004-2017 环境管理体系 通用实施指南 — [assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md](assets/standard/01-国家标准/GB_T 24004-2017 环境管理体系 通用实施指南.md)
+- GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分 — [assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md](assets/standard/01-国家标准/GB∕T 2951.11-2008 电缆和光缆绝缘和护套材料通用试验方法 第11部分.md)
+- GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验 — [assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md](assets/standard/01-国家标准/GB∕T 2951.13-2008 电缆和光缆绝缘和护套材料通用试验方法 第13部分：通用试验方法—密度测定方法—吸水试验—收缩试验.md)
+- GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验 — [assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md](assets/standard/01-国家标准/GB∕T 2951.14-2008 电缆和光缆绝缘和护套材料通用试验方法 第14部分：通用试验方法—低温试验.md)
+- GB扫描版9001-2008 — [assets/standard/01-国家标准/GB扫描版9001-2008.md](assets/standard/01-国家标准/GB扫描版9001-2008.md)
+- HG/T 3091-2000 橡胶密封件 给排水管及污水管道用接口密封圈 材料规范 — [assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md](assets/standard/02-行业标准/HGT 3091-2000橡胶密封件 给、排水管及污水管道用接口密封圈 材料规范.md)
+- HGT 3091-2000 橡胶密封件材料规范 — [assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md](assets/standard/02-行业标准/HGT 3091-2000 橡胶密封件材料规范.md)
+- HGT 3097-2006 橡胶密封件-110℃ — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃.md)
+- HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范 — [assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md](assets/standard/02-行业标准/HGT 3097-2006 橡胶密封件-110℃热水供应管道的管接口密封圈-材料规范.md)
+- ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法 — [assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md](assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md)
+- ISO9000-2000 — [assets/standard/04-国际标准/ISO9000-2000.md](assets/standard/04-国际标准/ISO9000-2000.md)
+- ISO9001標準解析鳳翼天翔 — [assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md](assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md)
+- JB-T 4088-2012日用管状电热元件 — [assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md](assets/standard/02-行业标准/JB-T 4088-2012日用管状电热元件.md)
+- JB-T10529-2005_陶瓷密封阀门技术条件 — [assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md](assets/standard/02-行业标准/JB-T10529-2005_陶瓷密封阀门技术条件.md)
+- JC886-2001卫生设备用软管 — [assets/standard/02-行业标准/JC886-2001卫生设备用软管.md](assets/standard/02-行业标准/JC886-2001卫生设备用软管.md)
+- JCT 2115-2012非接触感应给水器具 — [assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md](assets/standard/02-行业标准/JCT 2115-2012非接触感应给水器具.md)
+- JCT_758-2008_面盆水嘴 — [assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md](assets/standard/02-行业标准/JCT_758-2008_面盆水嘴.md)
+- JC／T_931-2003_机械式便器冲洗阀 — [assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md](assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md)
+- JG T 427-2014 卫浴五金配件 — [assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md](assets/standard/02-行业标准/JG T 427-2014 卫浴五金配件.md)
+- JG/T 427-2014 住宅卫浴五金配件通用技术要求 — [assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md](assets/standard/02-行业标准/JG_T 427-2014 住宅卫浴五金配件通用技术要求.md)
+- JIS B2406-1991 英文版日本 O型密封圈装配槽 设计标准 — [assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md](assets/standard/04-国际标准/JIS_B2406-1991_英文版日本_O型密封圈装配槽_设计标准.md)
+- QB/T 3827-1999 轻工产品金属镀层和化学处理层的耐腐蚀试验方法 乙酸盐雾试验（ASS）法 — [assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md](assets/standard/02-行业标准/QB_T_3827-1999(ASS酸性盐雾试验).md)
+- QBT 1560-2017卫生间附属配件 — [assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md](assets/standard/02-行业标准/QBT 1560-2017卫生间附属配件.md)
+- QBT 5003-2016 触控式水嘴 — [assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md](assets/standard/02-行业标准/QBT 5003-2016 触控式水嘴.md)
+- QBT5524-2020水嘴用阀芯标准 — [assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md](assets/standard/02-行业标准/QBT5524-2020水嘴用阀芯标准.md)
+- QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准 — [assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md](assets/standard/02-行业标准/QBT5525-2020厨卫五金产品有害物析出限值及测试方法标准.md)
+- QB_T2654-2013洗手液行业标准 — [assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md](assets/standard/02-行业标准/QB_T2654-2013洗手液行业标准.md)
+- QJMJCP 005002－2021 卫生间附属配件 — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件（终稿）.md)
+- QJMJCP 005002－2021 卫生间附属配件(终稿) — [assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md](assets/standard/03-团体标准/QJMJCP 005002－2021 卫生间附属配件(终稿).md)
+- ROCA EN248 西班牙电镀标准表 — [assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md](assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md)
+- SJ/T 11364-2014 电子电气产品有害物质限制使用标识要求 — [assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md](assets/standard/02-行业标准/SJ-T11364-2014-电子电气产品有害物质限制使用标识要求.md)
+- SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器 — [assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md](assets/standard/02-行业标准/SNT 3532.3-2016 进出口家用和类似用途电器的安全技术要求 第3部分：电子坐便器.md)
+- T-FASI2-2018+感应式尿水分排小便器+给水控制器 — [assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md](assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md)
+- T-XMBK 02-2024 感应式水嘴 — [assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md](assets/standard/03-团体标准/T-XMBK 02-2024 感应式水嘴.md)
+- T3081-1非接触式电子给器具 — [assets/standard/03-团体标准/T3081-1非接触式电子给器具.md](assets/standard/03-团体标准/T3081-1非接触式电子给器具.md)
+- TCECS 10037-2019绿色建材评价-卫生洁具 — [assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md](assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md)
+- T∕CECS 10050-2019 绿色建材评价 水嘴 — [assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md](assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md)
+- 中华人民共和国产品质量法（2009修正） — [assets/standard/06-法律法规/中华人民共和国质量法2009修订.md](assets/standard/06-法律法规/中华人民共和国质量法2009修订.md)
+- 中华人民共和国产品质量法（2018修正） — [assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md](assets/standard/06-法律法规/中华人民共和国产品质量法(2018修正).md)
+- 中华人民共和国消费者权益保护法（2013修正） — [assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md](assets/standard/06-法律法规/中华人民共和国消费者权益保护法.md)
+- 包装回收标志（GB/T 18455-2010 知识汇编） — [assets/standard/05-认证规则/知识_包装回收标志.md](assets/standard/05-认证规则/知识_包装回收标志.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+- 工程量清单计价规范 — [assets/standard/05-认证规则/工程量清单计价规范.md](assets/standard/05-认证规则/工程量清单计价规范.md)
+- 建筑给水排水设计规范-2009 — [assets/standard/05-认证规则/建筑给水排水设计规范-2009.md](assets/standard/05-认证规则/建筑给水排水设计规范-2009.md)
+- 感应水嘴团体标准T-XMBK002-2024 — [assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md](assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md)
+- 数显花洒行业标准QBT 5281-2018 — [assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md](assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md](assets/standard/03-团体标准/QJB-001-2026-非接触式给水器具企业标准.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md](assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md)
+
+## 产品说明书（102）
+
+- 6238 一体化小便感应洒水器 产品手册 — [zh/products/product-manual/6238.md](zh/products/product-manual/6238.md)
+- GBT 19678-2005 说明书的编制 构成、内容和表示方法 — [assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md](assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md)
+- 洁博利GIBO 1051 感应龙头 产品说明书 — [zh/products/product-manual/1051感应龙头CN_说明书.md](zh/products/product-manual/1051感应龙头CN_说明书.md)
+- 洁博利GIBO 1086 智能盖板 产品说明书 — [zh/products/product-manual/1086智能盖板CN_说明书.md](zh/products/product-manual/1086智能盖板CN_说明书.md)
+- 洁博利GIBO 33554 感应干手器 产品说明书 — [zh/products/product-manual/33554感应干手器CN_说明书.md](zh/products/product-manual/33554感应干手器CN_说明书.md)
+- 洁博利GIBO 33602 感应洁具 产品说明书 — [zh/products/product-manual/33602产品CN_说明书.md](zh/products/product-manual/33602产品CN_说明书.md)
+- 洁博利GIBO 33604 感应洁具 产品说明书 — [zh/products/product-manual/33604产品CN_说明书.md](zh/products/product-manual/33604产品CN_说明书.md)
+- 洁博利GIBO 33604 感应皂液器 产品说明书 — [zh/products/product-manual/33604感应皂液器CN_说明书.md](zh/products/product-manual/33604感应皂液器CN_说明书.md)
+- 洁博利GIBO 33605 感应洁具 产品说明书 — [zh/products/product-manual/33605产品CN_说明书.md](zh/products/product-manual/33605产品CN_说明书.md)
+- 洁博利GIBO 6101 感应龙头 产品说明书 — [zh/products/product-manual/6101感应龙头CN_EN_说明书.md](zh/products/product-manual/6101感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6108 感应龙头 产品说明书 — [zh/products/product-manual/6108感应龙头CN_EN_说明书.md](zh/products/product-manual/6108感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6110 感应龙头 产品说明书 — [zh/products/product-manual/6110感应龙头CN_说明书.md](zh/products/product-manual/6110感应龙头CN_说明书.md)
+- 洁博利GIBO 6122 感应龙头 产品说明书 — [zh/products/product-manual/6122感应龙头CN_说明书.md](zh/products/product-manual/6122感应龙头CN_说明书.md)
+- 洁博利GIBO 6134 感应龙头 产品说明书 — [zh/products/product-manual/6134感应龙头CN_说明书.md](zh/products/product-manual/6134感应龙头CN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_EN_说明书.md](zh/products/product-manual/6158感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_说明书.md](zh/products/product-manual/6158感应龙头CN_说明书.md)
+- 洁博利GIBO 6160 感应龙头 产品说明书 — [zh/products/product-manual/6160感应龙头CN_说明书.md](zh/products/product-manual/6160感应龙头CN_说明书.md)
+- 洁博利GIBO 6161 感应洁具 产品说明书 — [zh/products/product-manual/6161产品CN_说明书.md](zh/products/product-manual/6161产品CN_说明书.md)
+- 洁博利GIBO 6172 感应龙头 产品说明书 — [zh/products/product-manual/6172感应面盆龙头CN_说明书.md](zh/products/product-manual/6172感应面盆龙头CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴CN_说明书.md](zh/products/product-manual/6193感应水嘴CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴EN_说明书.md](zh/products/product-manual/6193感应水嘴EN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴TH_说明书.md](zh/products/product-manual/6193感应水嘴TH_说明书.md)
+- 洁博利GIBO 6195 感应节水宝 产品说明书 — [zh/products/product-manual/6195感应节水宝CN_说明书.md](zh/products/product-manual/6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 6196 感应龙头 产品说明书 — [zh/products/product-manual/6196感应龙头CN_说明书.md](zh/products/product-manual/6196感应龙头CN_说明书.md)
+- 洁博利GIBO 6197 感应水嘴 产品说明书 — [zh/products/product-manual/6197感应水嘴TH_说明书.md](zh/products/product-manual/6197感应水嘴TH_说明书.md)
+- 洁博利GIBO 6197 感应节水器 产品说明书 — [zh/products/product-manual/6197感应节水水嘴CN_说明书.md](zh/products/product-manual/6197感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 61xx 感应洗手器 产品说明书 — [zh/products/product-manual/61xx感应洗手器CN_说明书.md](zh/products/product-manual/61xx感应洗手器CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_EN_说明书.md](zh/products/product-manual/61xx感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_说明书.md](zh/products/product-manual/61xx感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头EN_说明书.md](zh/products/product-manual/61xx感应龙头EN_说明书.md)
+- 洁博利GIBO 61xx 自动喷香机 产品说明书 — [zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md](zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md)
+- 洁博利GIBO 6200 感应洁具 产品说明书 — [zh/products/product-manual/6200产品CN_说明书.md](zh/products/product-manual/6200产品CN_说明书.md)
+- 洁博利GIBO 6202 感应洁具 产品说明书 — [zh/products/product-manual/6202产品CN_说明书.md](zh/products/product-manual/6202产品CN_说明书.md)
+- 洁博利GIBO 6210 小便感应冲水器 产品说明书 — [zh/products/product-manual/6210小便冲水器CN_说明书.md](zh/products/product-manual/6210小便冲水器CN_说明书.md)
+- 洁博利GIBO 6213 小便感应冲水器 产品说明书 — [zh/products/product-manual/6213小便冲水器CN_说明书.md](zh/products/product-manual/6213小便冲水器CN_说明书.md)
+- 洁博利GIBO 6215 小便感应冲水器 产品说明书 — [zh/products/product-manual/6215小便冲水器CN_说明书.md](zh/products/product-manual/6215小便冲水器CN_说明书.md)
+- 洁博利GIBO 6237 感应水嘴 产品说明书 — [zh/products/product-manual/6237感应水嘴CN_EN_说明书.md](zh/products/product-manual/6237感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6237 感应洁具 产品说明书 — [zh/products/product-manual/6237产品CN_EN_说明书.md](zh/products/product-manual/6237产品CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应水嘴 产品说明书 — [zh/products/product-manual/6238感应水嘴CN_EN_说明书.md](zh/products/product-manual/6238感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应洁具 产品说明书 — [zh/products/product-manual/6238一体式CN_EN_说明书.md](zh/products/product-manual/6238一体式CN_EN_说明书.md)
+- 洁博利GIBO 6291 感应洁具 产品说明书 — [zh/products/product-manual/6291产品CN_说明书.md](zh/products/product-manual/6291产品CN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_说明书.md)
+- 洁博利GIBO 62xx 感应水嘴 产品说明书 — [zh/products/product-manual/62xx感应水嘴EN_说明书.md](zh/products/product-manual/62xx感应水嘴EN_说明书.md)
+- 洁博利GIBO 62xx 感应节水宝 产品说明书 — [zh/products/product-manual/62xx感应节水宝CN_说明书.md](zh/products/product-manual/62xx感应节水宝CN_说明书.md)
+- 洁博利GIBO 6303 蹲便感应器 产品说明书 — [zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6306 感应洁具 产品说明书 — [zh/products/product-manual/6306产品CN_说明书.md](zh/products/product-manual/6306产品CN_说明书.md)
+- 洁博利GIBO 63068 蹲便感应器 产品说明书 — [zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 6313 感应洁具 产品说明书 — [zh/products/product-manual/6313产品CN_说明书.md](zh/products/product-manual/6313产品CN_说明书.md)
+- 洁博利GIBO 63xx 座便感应器 产品说明书 — [zh/products/product-manual/63xx座便感应器CN_EN_说明书.md](zh/products/product-manual/63xx座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_说明书.md)
+- 洁博利GIBO 64106 蹲便感应器 产品说明书 — [zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md](zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 64xx 感应淋浴器 产品说明书 — [zh/products/product-manual/64xx淋浴器CN_EN_说明书.md](zh/products/product-manual/64xx淋浴器CN_EN_说明书.md)
+- 洁博利GIBO 6630 感应洁具 产品说明书 — [zh/products/product-manual/6630产品CN_说明书.md](zh/products/product-manual/6630产品CN_说明书.md)
+- 洁博利GIBO 6630 感应龙头 产品说明书 — [zh/products/product-manual/6630感应龙头CN_说明书.md](zh/products/product-manual/6630感应龙头CN_说明书.md)
+- 洁博利GIBO 6634 感应龙头 产品说明书 — [zh/products/product-manual/6634感应龙头CN_说明书.md](zh/products/product-manual/6634感应龙头CN_说明书.md)
+- 洁博利GIBO 6635 感应龙头 产品说明书 — [zh/products/product-manual/6635感应龙头CN_说明书.md](zh/products/product-manual/6635感应龙头CN_说明书.md)
+- 洁博利GIBO 66xx 感应水箱 产品说明书 — [zh/products/product-manual/66xx感应水箱CN_说明书.md](zh/products/product-manual/66xx感应水箱CN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
+- 洁博利GIBO 6712 感应淋浴器 产品说明书 — [zh/products/product-manual/6712淋浴器CN_说明书.md](zh/products/product-manual/6712淋浴器CN_说明书.md)
+- 洁博利GIBO 67xx 感应节水器 产品说明书 — [zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md](zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器CN_EN_说明书.md](zh/products/product-manual/8200小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器EN_说明书.md](zh/products/product-manual/8200小便冲水器EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_EN_说明书.md](zh/products/product-manual/8201小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_说明书.md](zh/products/product-manual/8201小便冲水器CN_说明书.md)
+- 洁博利GIBO 8207 感应洁具 产品说明书 — [zh/products/product-manual/8207产品CN_说明书.md](zh/products/product-manual/8207产品CN_说明书.md)
+- 洁博利GIBO 8216 感应洁具 产品说明书 — [zh/products/product-manual/8216产品CN_说明书.md](zh/products/product-manual/8216产品CN_说明书.md)
+- 洁博利GIBO 8303 座便感应器 产品说明书 — [zh/products/product-manual/8303座便感应器CN_EN_说明书.md](zh/products/product-manual/8303座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8303 蹲便感应器 产品说明书 — [zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8307 蹲便感应器 产品说明书 — [zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8308 蹲便感应器 产品说明书 — [zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 9120 感应龙头 产品说明书 — [zh/products/product-manual/9120即热龙头CN_说明书.md](zh/products/product-manual/9120即热龙头CN_说明书.md)
+- 洁博利GIBO 9160 感应龙头 产品说明书 — [zh/products/product-manual/9160厨房龙头CN_说明书.md](zh/products/product-manual/9160厨房龙头CN_说明书.md)
+- 洁博利GIBO 91601 感应龙头 产品说明书 — [zh/products/product-manual/91601厨房龙头CN_说明书.md](zh/products/product-manual/91601厨房龙头CN_说明书.md)
+- 洁博利GIBO 91605 感应洁具 产品说明书 — [zh/products/product-manual/91605产品CN_说明书.md](zh/products/product-manual/91605产品CN_说明书.md)
+- 洁博利GIBO 9161 感应洁具 产品说明书 — [zh/products/product-manual/9161产品CN_说明书.md](zh/products/product-manual/9161产品CN_说明书.md)
+- 洁博利GIBO 9162 感应洁具 产品说明书 — [zh/products/product-manual/9162产品CN_说明书.md](zh/products/product-manual/9162产品CN_说明书.md)
+- 洁博利GIBO G1 智能盖板 产品说明书 — [zh/products/product-manual/G1智能盖板CN_说明书.md](zh/products/product-manual/G1智能盖板CN_说明书.md)
+- 洁博利GIBO 感应水嘴 产品说明书 — [zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md](zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6108DZ产品CN_说明书.md](zh/products/product-manual/GBL-6108DZ产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6120产品CN_EN_说明书.md](zh/products/product-manual/GBL-6120产品CN_EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6161产品CN_说明书.md](zh/products/product-manual/GBL-6161产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6233产品CN_说明书.md](zh/products/product-manual/GBL-6233产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6308产品EN_说明书.md](zh/products/product-manual/GBL-6308产品EN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-9162产品CN_说明书.md](zh/products/product-manual/GBL-9162产品CN_说明书.md)
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/README.md](zh/products/product-manual/README.md)
+- 洁博利GIBO 感应皂液器 产品说明书 — [zh/products/product-manual/SD-280感应皂液器CN_说明书.md](zh/products/product-manual/SD-280感应皂液器CN_说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md](zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md)
+- 洁博利GIBO 感应节水宝 产品说明书 — [zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md](zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-52052感应龙头CN_说明书.md](zh/products/product-manual/GBL-52052感应龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md)
+
+## product-manual（70）
+
+- GIBO 1051 Sensor Faucet Product Manual — [en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md](en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md)
+- GIBO 20161 Sensor Nozzle Product Manual — [en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md)
+- GIBO 20201 Sensor Nozzle Product Manual — [en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md)
+- GIBO 31555 Squat Toilet Sensor Product Manual — [en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md](en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md)
+- GIBO 33604 Soap Dispenser Product Manual — [en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO 6101 Sensor Faucet Product Manual — [en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md)
+- GIBO 6108 Sensor Faucet Product Manual — [en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md)
+- GIBO 6111 Sensor Faucet Product Manual — [en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md)
+- GIBO 6113 Sensor Faucet Product Manual — [en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md)
+- GIBO 6120 Sensor Faucet Product Manual — [en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md)
+- GIBO 6122 Sensor Faucet Product Manual — [en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md)
+- GIBO 6150 Sensor Faucet Product Manual — [en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md)
+- GIBO 6151 Sensor Faucet Product Manual — [en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md)
+- GIBO 6152 Sensor Faucet Product Manual — [en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md)
+- GIBO 6153 Sensor Faucet Product Manual — [en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md)
+- GIBO 6154 Sensor Faucet Product Manual — [en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md)
+- GIBO 6155 Sensor Faucet Product Manual — [en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md)
+- GIBO 6157 Sensor Faucet Product Manual — [en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md)
+- GIBO 6161 Urinal Flusher Product Manual — [en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 6170 Sensor Faucet Product Manual — [en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6195 Sensor Nozzle Product Manual — [en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6196 Sensor Faucet Product Manual — [en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md)
+- GIBO 61xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/61xx_All_in_One_EN_Manual.md](en/products/product-manual/61xx_All_in_One_EN_Manual.md)
+- GIBO 6237 Sensor Nozzle Product Manual — [en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Nozzle Product Manual — [en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Sanitary Ware Product Manual — [en/products/product-manual/6238_All_in_One_EN_Manual.md](en/products/product-manual/6238_All_in_One_EN_Manual.md)
+- GIBO 6291 Sensor Nozzle Product Manual — [en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md)
+- GIBO 6303 Squat Toilet Sensor Product Manual — [en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 63068 Squat Toilet Sensor Product Manual — [en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 6310 Squat Toilet Sensor Product Manual — [en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 64106 Shower Product Manual — [en/products/product-manual/64106_Sensor_Shower_EN_Manual.md](en/products/product-manual/64106_Sensor_Shower_EN_Manual.md)
+- GIBO 6630 Soap Dispenser Product Manual — [en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO 6631 Soap Dispenser Product Manual — [en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md)
+- GIBO 6632 Soap Dispenser Product Manual — [en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md)
+- GIBO 8200 Urinal Flusher Product Manual — [en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8207 Urinal Flusher Product Manual — [en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8216 Urinal Flusher Product Manual — [en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md)
+- GIBO 8300 Squat Toilet Sensor Product Manual — [en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 8301 Squat Toilet Sensor Product Manual — [en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 8306 Squat Toilet Sensor Product Manual — [en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO 9101 Sensor Faucet Product Manual — [en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md)
+- GIBO 9105 Sensor Faucet Product Manual — [en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md)
+- GIBO 9160 Sensor Faucet Product Manual — [en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md)
+- GIBO 91601 Sensor Faucet Product Manual — [en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md)
+- GIBO 91605 Sensor Faucet Product Manual — [en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md)
+- GIBO 9161 Sensor Faucet Product Manual — [en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md)
+- GIBO G1 Toilet Sensor Product Manual — [en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md](en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md)
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md](en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md)
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md)
+- GIBO Sensor Sanitary Ware Product Manual — [en/products/product-manual/README.md](en/products/product-manual/README.md)
+- GIBO Soap Dispenser Product Manual — [en/products/product-manual/SD-280_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/SD-280_Sensor_Soap_Dispenser_EN_Manual.md)
+- GIBO Squat Toilet Sensor Product Manual — [en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md)
+- GIBO Urinal Flusher Product Manual — [en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md](en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md)
+
+## product-spec（63）
+
+- BC-31519 Product Specification — [en/products/product-spec/BC-31519-spec.md](en/products/product-spec/BC-31519-spec.md)
+- BC-KZH-9168控制盒 Product Specification — [en/products/product-spec/BC-KZH-9168控制盒-spec.md](en/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-YH01 Product Specification — [en/products/product-spec/BC-KZH-YH01-spec.md](en/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-YMH-8308 Product Specification — [en/products/product-spec/BC-YMH-8308-spec.md](en/products/product-spec/BC-YMH-8308-spec.md)
+- G33608 Product Specification — [en/products/product-spec/G33608-spec.md](en/products/product-spec/G33608-spec.md)
+- G61901 Product Specification — [en/products/product-spec/G61901-spec.md](en/products/product-spec/G61901-spec.md)
+- GBL-6110 Product Specification — [en/products/product-spec/GBL-6110-spec.md](en/products/product-spec/GBL-6110-spec.md)
+- GBL-6127 Product Specification — [en/products/product-spec/GBL-6127-spec.md](en/products/product-spec/GBL-6127-spec.md)
+- GBL-6128 Product Specification — [en/products/product-spec/GBL-6128-spec.md](en/products/product-spec/GBL-6128-spec.md)
+- GBL-6150 Product Specification — [en/products/product-spec/GBL-6150-spec.md](en/products/product-spec/GBL-6150-spec.md)
+- GBL-6161D Basin Sensor Faucet Product Specification — [en/products/product-spec/GBL-6161-spec.md](en/products/product-spec/GBL-6161-spec.md)
+- GBL-6161D Product Specification — [en/products/product-spec/GBL-6161D-spec.md](en/products/product-spec/GBL-6161D-spec.md)
+- GBL-6170 Product Specification — [en/products/product-spec/GBL-6170-spec.md](en/products/product-spec/GBL-6170-spec.md)
+- GBL-6170D Product Specification — [en/products/product-spec/GBL-6170D-spec.md](en/products/product-spec/GBL-6170D-spec.md)
+- GBL-6172A Product Specification — [en/products/product-spec/GBL-6172A-spec.md](en/products/product-spec/GBL-6172A-spec.md)
+- GBL-6175 Product Specification — [en/products/product-spec/GBL-6175-spec.md](en/products/product-spec/GBL-6175-spec.md)
+- GBL-6176 Product Specification — [en/products/product-spec/GBL-6176-spec.md](en/products/product-spec/GBL-6176-spec.md)
+- GBL-6177 Product Specification — [en/products/product-spec/GBL-6177-spec.md](en/products/product-spec/GBL-6177-spec.md)
+- GBL-6178 Product Specification — [en/products/product-spec/GBL-6178-spec.md](en/products/product-spec/GBL-6178-spec.md)
+- GBL-6193D Product Specification — [en/products/product-spec/GBL-6193D-spec.md](en/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193DB Product Specification — [en/products/product-spec/GBL-6193DB-spec.md](en/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6195 Product Specification — [en/products/product-spec/GBL-6195-spec.md](en/products/product-spec/GBL-6195-spec.md)
+- GBL-6197D Product Specification — [en/products/product-spec/GBL-6197D-spec.md](en/products/product-spec/GBL-6197D-spec.md)
+- GBL-6213AD Product Specification — [en/products/product-spec/GBL-6213AD-spec.md](en/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6239 Product Specification — [en/products/product-spec/GBL-6239-spec.md](en/products/product-spec/GBL-6239-spec.md)
+- GBL-6291DH-DS Product Specification — [en/products/product-spec/GBL-6291DH-DS-spec.md](en/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6634 Product Specification — [en/products/product-spec/GBL-6634-spec.md](en/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 Product Specification — [en/products/product-spec/GBL-6634-1-spec.md](en/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6636AD Product Specification — [en/products/product-spec/GBL-6636AD-spec.md](en/products/product-spec/GBL-6636AD-spec.md)
+- GBL-8221AD Product Specification — [en/products/product-spec/GBL-8221AD-spec.md](en/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8300AD Product Specification — [en/products/product-spec/GBL-8300AD-spec.md](en/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8307AD Product Specification — [en/products/product-spec/GBL-8307AD-spec.md](en/products/product-spec/GBL-8307AD-spec.md)
+- GBL-9122 Product Specification — [en/products/product-spec/GBL-9122-spec.md](en/products/product-spec/GBL-9122-spec.md)
+- GBL-9160 Product Specification — [en/products/product-spec/GBL-9160-spec.md](en/products/product-spec/GBL-9160-spec.md)
+- GBL-9165D Product Specification — [en/products/product-spec/GBL-9165D-spec.md](en/products/product-spec/GBL-9165D-spec.md)
+- GBL-9168 Product Specification — [en/products/product-spec/GBL-9168-spec.md](en/products/product-spec/GBL-9168-spec.md)
+- GBL-K6238 Product Specification — [en/products/product-spec/GBL-K6238-spec.md](en/products/product-spec/GBL-K6238-spec.md)
+- GBL-TOF Product Specification — [en/products/product-spec/GBL-TOF-spec.md](en/products/product-spec/GBL-TOF-spec.md)
+- GBL-双模感应厨房水龙头 Product Specification — [en/products/product-spec/GBL-双模感应厨房水龙头-spec.md](en/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-智能加热盖板 Product Specification — [en/products/product-spec/GBL-智能加热盖板-spec.md](en/products/product-spec/GBL-智能加热盖板-spec.md)
+- GIBO Common Marketing Materials (company-level, shared by all products) — [en/products/product-spec/00-公共营销素材.md](en/products/product-spec/00-公共营销素材.md)
+- GIBO-SENSOR-IR-001 Product Specification — [en/products/product-spec/GIBO-SENSOR-IR-001-spec.md](en/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-智能激光感应技术 Product Specification — [en/products/product-spec/GIBO-智能激光感应技术-spec.md](en/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-触控厨房龙头控制组件 Product Specification — [en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- JM01-感应洗手机电控板 Product Specification — [en/products/product-spec/JM01-感应洗手机电控板-spec.md](en/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- KCM-6150J-HS Product Specification — [en/products/product-spec/KCM-6150J-HS-spec.md](en/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-DQ01 Product Specification — [en/products/product-spec/KCM-DQ01-spec.md](en/products/product-spec/KCM-DQ01-spec.md)
+- KCM-ET07-水龙头感应模块 Product Specification — [en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-SJ02 Product Specification — [en/products/product-spec/KCM-SJ02-spec.md](en/products/product-spec/KCM-SJ02-spec.md)
+- KCM-组合面板-WDW Product Specification — [en/products/product-spec/KCM-组合面板-WDW-spec.md](en/products/product-spec/KCM-组合面板-WDW-spec.md)
+- Product Specifications Directory | 产品规格目录 — [en/products/product-spec/README.md](en/products/product-spec/README.md)
+- TOF Product Specification — [en/products/product-spec/TOF-spec.md](en/products/product-spec/TOF-spec.md)
+- TOF-激光脚感应模块组件 Product Specification — [en/products/product-spec/TOF-激光脚感应模块组件-spec.md](en/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TYREK Product Specification — [en/products/product-spec/TYREK-spec.md](en/products/product-spec/TYREK-spec.md)
+- WYJ-G001 Product Specification — [en/products/product-spec/WYJ-G001-spec.md](en/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G002 Product Specification — [en/products/product-spec/WYJ-G002-spec.md](en/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G003 Product Specification — [en/products/product-spec/WYJ-G003-spec.md](en/products/product-spec/WYJ-G003-spec.md)
+- Z系列智能马桶 Product Specification — [en/products/product-spec/Z系列智能马桶-spec.md](en/products/product-spec/Z系列智能马桶-spec.md)
+- 厨房二合一新品 Product Specification — [en/products/product-spec/厨房二合一新品-spec.md](en/products/product-spec/厨房二合一新品-spec.md)
+- 智能恒温淋浴花洒 Product Specification — [en/products/product-spec/智能恒温淋浴花洒-spec.md](en/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 Product Specification — [en/products/product-spec/智能花洒泡泡机-spec.md](en/products/product-spec/智能花洒泡泡机-spec.md)
+- 盛世唐朝红外感应模块 Product Specification — [en/products/product-spec/盛世唐朝红外感应模块-spec.md](en/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 蓝锷L-31516 Product Specification — [en/products/product-spec/蓝锷L-31516-spec.md](en/products/product-spec/蓝锷L-31516-spec.md)
+
+## 产品规格（63）
+
+- BC-31519 产品资料 — [zh/products/product-spec/BC-31519-spec.md](zh/products/product-spec/BC-31519-spec.md)
+- BC-KZH-9168控制盒 产品资料 — [zh/products/product-spec/BC-KZH-9168控制盒-spec.md](zh/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-YH01 产品资料 — [zh/products/product-spec/BC-KZH-YH01-spec.md](zh/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-YMH-8308 产品资料 — [zh/products/product-spec/BC-YMH-8308-spec.md](zh/products/product-spec/BC-YMH-8308-spec.md)
+- G33608 产品资料 — [zh/products/product-spec/G33608-spec.md](zh/products/product-spec/G33608-spec.md)
+- G61901 产品资料 — [zh/products/product-spec/G61901-spec.md](zh/products/product-spec/G61901-spec.md)
+- GBL-6110 产品资料 — [zh/products/product-spec/GBL-6110-spec.md](zh/products/product-spec/GBL-6110-spec.md)
+- GBL-6127 产品资料 — [zh/products/product-spec/GBL-6127-spec.md](zh/products/product-spec/GBL-6127-spec.md)
+- GBL-6128 产品资料 — [zh/products/product-spec/GBL-6128-spec.md](zh/products/product-spec/GBL-6128-spec.md)
+- GBL-6150 产品资料 — [zh/products/product-spec/GBL-6150-spec.md](zh/products/product-spec/GBL-6150-spec.md)
+- GBL-6161D 产品资料 — [zh/products/product-spec/GBL-6161D-spec.md](zh/products/product-spec/GBL-6161D-spec.md)
+- GBL-6161D 面盆感应水龙头 产品规格书 — [zh/products/product-spec/GBL-6161-spec.md](zh/products/product-spec/GBL-6161-spec.md)
+- GBL-6170 产品资料 — [zh/products/product-spec/GBL-6170-spec.md](zh/products/product-spec/GBL-6170-spec.md)
+- GBL-6170D 产品资料 — [zh/products/product-spec/GBL-6170D-spec.md](zh/products/product-spec/GBL-6170D-spec.md)
+- GBL-6172A 产品资料 — [zh/products/product-spec/GBL-6172A-spec.md](zh/products/product-spec/GBL-6172A-spec.md)
+- GBL-6175 产品资料 — [zh/products/product-spec/GBL-6175-spec.md](zh/products/product-spec/GBL-6175-spec.md)
+- GBL-6176 产品资料 — [zh/products/product-spec/GBL-6176-spec.md](zh/products/product-spec/GBL-6176-spec.md)
+- GBL-6177 产品资料 — [zh/products/product-spec/GBL-6177-spec.md](zh/products/product-spec/GBL-6177-spec.md)
+- GBL-6178 产品资料 — [zh/products/product-spec/GBL-6178-spec.md](zh/products/product-spec/GBL-6178-spec.md)
+- GBL-6193D 产品资料 — [zh/products/product-spec/GBL-6193D-spec.md](zh/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193DB 产品资料 — [zh/products/product-spec/GBL-6193DB-spec.md](zh/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6195 产品资料 — [zh/products/product-spec/GBL-6195-spec.md](zh/products/product-spec/GBL-6195-spec.md)
+- GBL-6197D 产品资料 — [zh/products/product-spec/GBL-6197D-spec.md](zh/products/product-spec/GBL-6197D-spec.md)
+- GBL-6213AD 产品资料 — [zh/products/product-spec/GBL-6213AD-spec.md](zh/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6239 产品资料 — [zh/products/product-spec/GBL-6239-spec.md](zh/products/product-spec/GBL-6239-spec.md)
+- GBL-6291DH-DS 产品资料 — [zh/products/product-spec/GBL-6291DH-DS-spec.md](zh/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6634 产品资料 — [zh/products/product-spec/GBL-6634-spec.md](zh/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 产品资料 — [zh/products/product-spec/GBL-6634-1-spec.md](zh/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6636AD 产品资料 — [zh/products/product-spec/GBL-6636AD-spec.md](zh/products/product-spec/GBL-6636AD-spec.md)
+- GBL-8221AD 产品资料 — [zh/products/product-spec/GBL-8221AD-spec.md](zh/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8300AD 产品资料 — [zh/products/product-spec/GBL-8300AD-spec.md](zh/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8307AD 产品资料 — [zh/products/product-spec/GBL-8307AD-spec.md](zh/products/product-spec/GBL-8307AD-spec.md)
+- GBL-9122 产品资料 — [zh/products/product-spec/GBL-9122-spec.md](zh/products/product-spec/GBL-9122-spec.md)
+- GBL-9160 产品资料 — [zh/products/product-spec/GBL-9160-spec.md](zh/products/product-spec/GBL-9160-spec.md)
+- GBL-9165D 产品资料 — [zh/products/product-spec/GBL-9165D-spec.md](zh/products/product-spec/GBL-9165D-spec.md)
+- GBL-9168 产品资料 — [zh/products/product-spec/GBL-9168-spec.md](zh/products/product-spec/GBL-9168-spec.md)
+- GBL-K6238 产品资料 — [zh/products/product-spec/GBL-K6238-spec.md](zh/products/product-spec/GBL-K6238-spec.md)
+- GBL-TOF 产品资料 — [zh/products/product-spec/GBL-TOF-spec.md](zh/products/product-spec/GBL-TOF-spec.md)
+- GBL-双模感应厨房水龙头 产品资料 — [zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md](zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-智能加热盖板 产品资料 — [zh/products/product-spec/GBL-智能加热盖板-spec.md](zh/products/product-spec/GBL-智能加热盖板-spec.md)
+- GIBO-SENSOR-IR-001 产品资料 — [zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md](zh/products/product-spec/GIBO-SENSOR-IR-001-spec.md)
+- GIBO-智能激光感应技术 产品资料 — [zh/products/product-spec/GIBO-智能激光感应技术-spec.md](zh/products/product-spec/GIBO-智能激光感应技术-spec.md)
+- GIBO-触控厨房龙头控制组件 产品资料 — [zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- JM01-感应洗手机电控板 产品资料 — [zh/products/product-spec/JM01-感应洗手机电控板-spec.md](zh/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- KCM-6150J-HS 产品资料 — [zh/products/product-spec/KCM-6150J-HS-spec.md](zh/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-DQ01 产品资料 — [zh/products/product-spec/KCM-DQ01-spec.md](zh/products/product-spec/KCM-DQ01-spec.md)
+- KCM-ET07-水龙头感应模块 产品资料 — [zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-SJ02 产品资料 — [zh/products/product-spec/KCM-SJ02-spec.md](zh/products/product-spec/KCM-SJ02-spec.md)
+- KCM-组合面板-WDW 产品资料 — [zh/products/product-spec/KCM-组合面板-WDW-spec.md](zh/products/product-spec/KCM-组合面板-WDW-spec.md)
+- TOF 产品资料 — [zh/products/product-spec/TOF-spec.md](zh/products/product-spec/TOF-spec.md)
+- TOF-激光脚感应模块组件 产品资料 — [zh/products/product-spec/TOF-激光脚感应模块组件-spec.md](zh/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TYREK 产品资料 — [zh/products/product-spec/TYREK-spec.md](zh/products/product-spec/TYREK-spec.md)
+- WYJ-G001 产品资料 — [zh/products/product-spec/WYJ-G001-spec.md](zh/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G002 产品资料 — [zh/products/product-spec/WYJ-G002-spec.md](zh/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G003 产品资料 — [zh/products/product-spec/WYJ-G003-spec.md](zh/products/product-spec/WYJ-G003-spec.md)
+- Z系列智能马桶 产品资料 — [zh/products/product-spec/Z系列智能马桶-spec.md](zh/products/product-spec/Z系列智能马桶-spec.md)
+- 产品规格目录 | Product Specifications — [zh/products/product-spec/README.md](zh/products/product-spec/README.md)
+- 厨房二合一新品 产品资料 — [zh/products/product-spec/厨房二合一新品-spec.md](zh/products/product-spec/厨房二合一新品-spec.md)
+- 智能恒温淋浴花洒 产品资料 — [zh/products/product-spec/智能恒温淋浴花洒-spec.md](zh/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 产品资料 — [zh/products/product-spec/智能花洒泡泡机-spec.md](zh/products/product-spec/智能花洒泡泡机-spec.md)
+- 洁博利公共营销素材（公司级通用，供所有产品调用） — [zh/products/product-spec/00-公共营销素材.md](zh/products/product-spec/00-公共营销素材.md)
+- 盛世唐朝红外感应模块 产品资料 — [zh/products/product-spec/盛世唐朝红外感应模块-spec.md](zh/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 蓝锷L-31516 产品资料 — [zh/products/product-spec/蓝锷L-31516-spec.md](zh/products/product-spec/蓝锷L-31516-spec.md)
+
+## GB（35）
+
+- GB 12333-1990 金属覆盖层 工程用铜电镀层 — [assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md](assets/standard/05-认证规则/GB 12333-1990金属覆盖层 工程用铜电镀层.md)
+- GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求 — [assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md](assets/standard/01-国家标准/GB 14536.1-2008 家用和类似用途电自动控制器 第1部分：通用要求.md)
+- GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.10-2008 家用和类似用途电自动控制器 温度敏感控制器的特殊要求.md)
+- GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求 — [assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md](assets/standard/01-国家标准/GB 14536.11-2008 家用和类似用途电自动控制器 电动机用起动继电器的特殊要求.md)
+- GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求 — [assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md](assets/standard/01-国家标准/GB 14536.13-2008 家用和类似用途电自动控制器 电动门锁的特殊要求.md)
+- GB 14536.14 部份标准 — [assets/standard/01-国家标准/GB 14536.14 部份标准.md](assets/standard/01-国家标准/GB 14536.14 部份标准.md)
+- GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求 — [assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md](assets/standard/01-国家标准/GB 14536.15-2008 家用和类似用途电自动控制器 湿度敏感控制器的特殊要求.md)
+- GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求 (1) — [assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md](assets/standard/01-国家标准/GB 14536.3-2008 家用和类似用途电自动控制器 电动机热保护器的特殊要求.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB 18145-2014 陶瓷片密封水嘴.md)
+- GB 18145-2014 陶瓷片密封水嘴 — [assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md](assets/standard/01-国家标准/GB18145-2003_陶瓷片密封水嘴.md)
+- GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器、电源、电抗器和类似产品的安全 第1部分：通用要求和试验.md)
+- GB 19212.1-2008 电力变压器安全 — [assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md](assets/standard/01-国家标准/GB 19212.1-2008 电力变压器安全.md)
+- GB 25501-2019 水嘴用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25501-2019水嘴用水效率限定值及用水效率等级.md)
+- GB 25502-2017 坐便器用水效率限定值及水效等级 — [assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 25502-2017坐便器用水效率限定值及用水效率等级.md)
+- GB 26750-2011 新国标GB 26750-2011-T 卫生洁具 便器用压力冲水装置 — [assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md](assets/standard/01-国家标准/GB 26750-2011-T 卫生洁具 便器用压力冲水装置新国标.md)
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- GB 28378-2019 淋浴器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28378-2019 淋浴器水效限定值及水效等级.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- GB 30717-2014 蹲便器用水效率限定值及用水效率等级 — [assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md](assets/standard/01-国家标准/GB 30717-2014 蹲便器用水效率限定值及用水效率等级.md)
+- GB 30978-2014 饮水机能效限定值及能效等级 — [assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md](assets/standard/01-国家标准/GB 30978-2014 饮水机能效限定值及能效等级.md)
+- GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求 — [assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md](assets/standard/01-国家标准/GB 4706.100-2009 家用和类似用途电器的安全 多功能淋浴房的特殊要求.md)
+- GB 4706系列 家用和类似用途电器的安全标准索引 — [assets/standard/01-国家标准/GB4706目录.md](assets/standard/01-国家标准/GB4706目录.md)
+- GB 6952-2005卫生陶瓷国标 — [assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md](assets/standard/01-国家标准/GB 6952-2005卫生陶瓷国标.md)
+- GB15979-2002 GB15979-2002一次性使用卫生用品使用标准 — [assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md](assets/standard/01-国家标准/GB15979-2002一次性使用卫生用品使用标准.md)
+- GB19510 GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求 — [assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md](assets/standard/01-国家标准/GB19510灯的控制第14部份LED模块用直流或交流电子控制装置的特殊要求.md)
+- GB26730-2011 GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架 — [assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md](assets/standard/01-国家标准/GB26730-2011卫生洁具 便器用重力式冲水装置及洁具机架.md)
+- GB4706.15-2008 GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求 — [assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md](assets/standard/01-国家标准/GB4706.15-2008 家用和类似用途电器的安全 皮肤及毛发护理器具的特殊要求.md)
+- GB4706.53-2002 GB4706.53-2002 K09 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全K09.md)
+- GB4706.53-2002 GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求 — [assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md](assets/standard/01-国家标准/GB4706.53-2002家用和类似用途电器的安全坐便器的特殊要求.md)
+- GB4706.612008 GB4706.612008家用和类似用途电器的安全使用 — [assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md](assets/standard/01-国家标准/GB4706.61-2008家用和类似用途电器的安全使用.md)
+- GB4793.1 通用电气设备安全要求GB4793.1 — [assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md](assets/standard/05-认证规则/通用电气设备安全要求GB4793.1.md)
+- GB4793.1通用电气设备安全要求 — [assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md](assets/standard/05-认证规则/GB4793.1通用电气设备安全要求.md)
+- GB50015-2003 建筑给水排水设计规范GB50015-2003 — [assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md](assets/standard/05-认证规则/GB50015-2003建筑给水排水设计规范.md)
+
+## 索引导航（26）
+
+- README — [README.md](README.md)
+- README — [assets/README.md](assets/README.md)
+- README — [assets/Cases/README.md](assets/Cases/README.md)
+- README — [assets/catalogs/README.md](assets/catalogs/README.md)
+- README — [assets/certificates/README.md](assets/certificates/README.md)
+- README — [assets/certificates/honors-qualifications/README.md](assets/certificates/honors-qualifications/README.md)
+- README — [assets/certificates/patents/README.md](assets/certificates/patents/README.md)
+- README — [assets/certificates/product-certifications/README.md](assets/certificates/product-certifications/README.md)
+- README — [assets/certificates/test-reports/README.md](assets/certificates/test-reports/README.md)
+- README — [assets/certificates/third-party-approvals/README.md](assets/certificates/third-party-approvals/README.md)
+- README — [assets/certificates/trademarks/README.md](assets/certificates/trademarks/README.md)
+- README — [assets/company/Lab/README.md](assets/company/Lab/README.md)
+- README — [assets/company/QC/README.md](assets/company/QC/README.md)
+- README — [assets/company/Team/README.md](assets/company/Team/README.md)
+- README — [assets/Exhibition/README.md](assets/Exhibition/README.md)
+- README — [assets/Icon/README.md](assets/Icon/README.md)
+- README — [assets/images/README.md](assets/images/README.md)
+- README — [assets/standard/README.md](assets/standard/README.md)
+- README — [assets/standard/01-国家标准/README.md](assets/standard/01-国家标准/README.md)
+- README — [assets/standard/02-行业标准/README.md](assets/standard/02-行业标准/README.md)
+- README — [assets/standard/03-团体标准/README.md](assets/standard/03-团体标准/README.md)
+- README — [assets/standard/04-国际标准/README.md](assets/standard/04-国际标准/README.md)
+- README — [assets/standard/05-认证规则/README.md](assets/standard/05-认证规则/README.md)
+- README — [assets/standard/06-法律法规/README.md](assets/standard/06-法律法规/README.md)
+- README — [assets/videos/README.md](assets/videos/README.md)
+- README — [schema/README.md](schema/README.md)
+
+## solution（23）
+
+- 2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2020-smart-sensor-faucet-key-technology-rd.md](en/solutions/2020-smart-sensor-faucet-key-technology-rd.md)
+- 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md](en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md)
+- GIBO Solutions Index — [en/solutions/README.md](en/solutions/README.md)
+- IP65防水密封组件 — [en/solutions/waterproof-seal-assembly.md](en/solutions/waterproof-seal-assembly.md)
+- IoT智能通信模组 — [en/solutions/iot-communication-module.md](en/solutions/iot-communication-module.md)
+- LED数显温控模组 — [en/solutions/led-digital-display-module.md](en/solutions/led-digital-display-module.md)
+- TOF双感应模块 — [en/solutions/tof-dual-sensor-module.md](en/solutions/tof-dual-sensor-module.md)
+- dTOF激光感应模块 — [en/solutions/dtof-laser-sensor-module.md](en/solutions/dtof-laser-sensor-module.md)
+- dTOF激光感应龙头控制板 — [en/solutions/dtof-laser-faucet-control-board.md](en/solutions/dtof-laser-faucet-control-board.md)
+- 交直流双供电模块 — [en/solutions/ac-dc-dual-power-module.md](en/solutions/ac-dc-dual-power-module.md)
+- 冷热混水阀体 — [en/solutions/mixing-valve-assembly.md](en/solutions/mixing-valve-assembly.md)
+- 单窗双感应模块 — [en/solutions/single-window-dual-sensor-module.md](en/solutions/single-window-dual-sensor-module.md)
+- 双感应龙头控制板 — [en/solutions/dual-sensor-control-board.md](en/solutions/dual-sensor-control-board.md)
+- 快装式结构组件 — [en/solutions/quick-install-structure.md](en/solutions/quick-install-structure.md)
+- 感应冲水器控制板 — [en/solutions/flush-control-board.md](en/solutions/flush-control-board.md)
+- 电池供电模块 — [en/solutions/battery-power-module.md](en/solutions/battery-power-module.md)
+- 皂液器/干手器控制板 — [en/solutions/soap-dispenser-control-board.md](en/solutions/soap-dispenser-control-board.md)
+- 红外感应模块 — [en/solutions/infrared-sensor-module.md](en/solutions/infrared-sensor-module.md)
+- 红外感应龙头控制板 — [en/solutions/infrared-faucet-control-board.md](en/solutions/infrared-faucet-control-board.md)
+- 脉冲电磁阀组件 — [en/solutions/pulse-solenoid-valve.md](en/solutions/pulse-solenoid-valve.md)
+- 超低功耗控制模块 — [en/solutions/ultra-low-power-module.md](en/solutions/ultra-low-power-module.md)
+- 陶瓷一体式感应洒水器 — [en/solutions/ceramic-integrated-sprinkler.md](en/solutions/ceramic-integrated-sprinkler.md)
+- 陶瓷阀芯组件 — [en/solutions/ceramic-valve-core.md](en/solutions/ceramic-valve-core.md)
+
+## document（19）
+
+- Capacitive Touch Technology — Technical Principle Analysis — [en/technology/04-capacitive-touch-technology.md](en/technology/04-capacitive-touch-technology.md)
+- Dual-chip Interchangeable Platform Technology — Technical Principle Analysis — [en/technology/10-dual-chip-interchangeable-platform-technology.md](en/technology/10-dual-chip-interchangeable-platform-technology.md)
+- Dual-mode Strong Light Immunity & Anti-interference Algorithm — Technical Principle Analysis — [en/technology/11-dual-mode-strong-light-immunity-algorithm.md](en/technology/11-dual-mode-strong-light-immunity-algorithm.md)
+- GIBO 18 Core Technologies — [en/technology/core-technologies.md](en/technology/core-technologies.md)
+- Half-duplex Single-wire Communication Technology — Technical Principle Analysis — [en/technology/09-half-duplex-single-wire-communication-technology.md](en/technology/09-half-duplex-single-wire-communication-technology.md)
+- Hydroelectric Power Generation & Storage Technology — Technical Principle Analysis — [en/technology/17-hydroelectric-power-generation-storage-technology.md](en/technology/17-hydroelectric-power-generation-storage-technology.md)
+- Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis — [en/technology/13-intelligent-overflow-protection-technology.md](en/technology/13-intelligent-overflow-protection-technology.md)
+- IoT (Internet of Things) Access Technology — Technical Principle Analysis — [en/technology/18-iot-internet-of-things-access-technology.md](en/technology/18-iot-internet-of-things-access-technology.md)
+- Liteon Smart Sensing Technology — Technical Principle Analysis — [en/technology/07-liteon-smart-sensing-technology.md](en/technology/07-liteon-smart-sensing-technology.md)
+- Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis — [en/technology/06-low-power-multi-stable-sensing-technology.md](en/technology/06-low-power-multi-stable-sensing-technology.md)
+- Military-grade Electromagnetic Compatibility (EMC) Technology — Technical Principle Analysis — [en/technology/12-military-grade-emc-technology.md](en/technology/12-military-grade-emc-technology.md)
+- Millimeter Wave Sensing Technology — Technical Principle Analysis — [en/technology/03-millimeter-wave-sensing-technology.md](en/technology/03-millimeter-wave-sensing-technology.md)
+- Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis — [en/technology/08-single-window-gesture-recognition-technology.md](en/technology/08-single-window-gesture-recognition-technology.md)
+- Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis — [en/technology/14-smart-shower-thermostatic-control-technology.md](en/technology/14-smart-shower-thermostatic-control-technology.md)
+- Solenoid Valve Low Water Hammer Design Technology — Technical Principle Analysis — [en/technology/15-solenoid-valve-low-water-hammer-design.md](en/technology/15-solenoid-valve-low-water-hammer-design.md)
+- Solenoid Valve Self-cleaning & Anti-clogging Technology — Technical Principle Analysis — [en/technology/16-solenoid-valve-self-cleaning-anti-clogging.md](en/technology/16-solenoid-valve-self-cleaning-anti-clogging.md)
+- Technology — [en/technology/README.md](en/technology/README.md)
+- Triangular Ranging Sensing Technology — Technical Principle Analysis — [en/technology/01-triangular-ranging-sensing-technology.md](en/technology/01-triangular-ranging-sensing-technology.md)
+- Wireless Remote Control Technology — Technical Principle Analysis — [en/technology/05-wireless-remote-control-technology.md](en/technology/05-wireless-remote-control-technology.md)
+
+## 感应龙头（19）
+
+- 洁博利GIBO 1051 感应龙头 产品说明书 — [zh/products/product-manual/1051感应龙头CN_说明书.md](zh/products/product-manual/1051感应龙头CN_说明书.md)
+- 洁博利GIBO 6101 感应龙头 产品说明书 — [zh/products/product-manual/6101感应龙头CN_EN_说明书.md](zh/products/product-manual/6101感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6108 感应龙头 产品说明书 — [zh/products/product-manual/6108感应龙头CN_EN_说明书.md](zh/products/product-manual/6108感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6110 感应龙头 产品说明书 — [zh/products/product-manual/6110感应龙头CN_说明书.md](zh/products/product-manual/6110感应龙头CN_说明书.md)
+- 洁博利GIBO 6122 感应龙头 产品说明书 — [zh/products/product-manual/6122感应龙头CN_说明书.md](zh/products/product-manual/6122感应龙头CN_说明书.md)
+- 洁博利GIBO 6134 感应龙头 产品说明书 — [zh/products/product-manual/6134感应龙头CN_说明书.md](zh/products/product-manual/6134感应龙头CN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_EN_说明书.md](zh/products/product-manual/6158感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_说明书.md](zh/products/product-manual/6158感应龙头CN_说明书.md)
+- 洁博利GIBO 6160 感应龙头 产品说明书 — [zh/products/product-manual/6160感应龙头CN_说明书.md](zh/products/product-manual/6160感应龙头CN_说明书.md)
+- 洁博利GIBO 6196 感应龙头 产品说明书 — [zh/products/product-manual/6196感应龙头CN_说明书.md](zh/products/product-manual/6196感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_EN_说明书.md](zh/products/product-manual/61xx感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_说明书.md](zh/products/product-manual/61xx感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头EN_说明书.md](zh/products/product-manual/61xx感应龙头EN_说明书.md)
+- 洁博利GIBO 6630 感应龙头 产品说明书 — [zh/products/product-manual/6630感应龙头CN_说明书.md](zh/products/product-manual/6630感应龙头CN_说明书.md)
+- 洁博利GIBO 6634 感应龙头 产品说明书 — [zh/products/product-manual/6634感应龙头CN_说明书.md](zh/products/product-manual/6634感应龙头CN_说明书.md)
+- 洁博利GIBO 6635 感应龙头 产品说明书 — [zh/products/product-manual/6635感应龙头CN_说明书.md](zh/products/product-manual/6635感应龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-52052感应龙头CN_说明书.md](zh/products/product-manual/GBL-52052感应龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md)
+
+## product-template（13）
+
+- Category Templates — [en/products/category-templates/README.md](en/products/category-templates/README.md)
+- GIBO Product Marketing Copy Style Guide — [en/products/category-templates/产品营销文案风格规范.md](en/products/category-templates/产品营销文案风格规范.md)
+- Hot & Cold Sensor Faucet — [en/products/category-templates/冷热感应水龙头-模版.md](en/products/category-templates/冷热感应水龙头-模版.md)
+- Integrated Sensor Shower Head (Shower Sprinkler) — [en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- Sensor Foam Hand Washer (Subcategory General Content Template) — [en/products/category-templates/感应泡沫洗手机-模版.md](en/products/category-templates/感应泡沫洗手机-模版.md)
+- Sensor Hand Dryer (General Content Template) — [en/products/category-templates/感应干手器-模版.md](en/products/category-templates/感应干手器-模版.md)
+- Sensor Shower — Subcategory General Content Template — [en/products/category-templates/感应淋浴器-模版.md](en/products/category-templates/感应淋浴器-模版.md)
+- Sensor Soap Dispenser — Subcategory General Content Template — [en/products/category-templates/感应给皂器-模版.md](en/products/category-templates/感应给皂器-模版.md)
+- Sensor Spout — Subcategory General Content Template — [en/products/category-templates/感应水嘴-模版.md](en/products/category-templates/感应水嘴-模版.md)
+- Sensor Toilet Flusher — General Content Template — [en/products/category-templates/大便感应器-模版.md](en/products/category-templates/大便感应器-模版.md)
+- Sensor Urinal Flusher — General Content Template — [en/products/category-templates/感应小便器-模版.md](en/products/category-templates/感应小便器-模版.md)
+- Single-cold Sensor Faucet — Subcategory General Content Template — [en/products/category-templates/单冷感应水龙头-模版.md](en/products/category-templates/单冷感应水龙头-模版.md)
+- Specification Deduplication & To-be-Generated List — [en/products/category-templates/规格书去重待生成清单.md](en/products/category-templates/规格书去重待生成清单.md)
+
+## 产品模板（13）
+
+- GIBO 产品营销文案风格规范 — [zh/products/category-templates/产品营销文案风格规范.md](zh/products/category-templates/产品营销文案风格规范.md)
+- 一体化感应花洒头（淋浴洒水头） — [zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- 冷热感应水龙头 — [zh/products/category-templates/冷热感应水龙头-模版.md](zh/products/category-templates/冷热感应水龙头-模版.md)
+- 单冷感应水龙头 — 子分类通用内容母本 — [zh/products/category-templates/单冷感应水龙头-模版.md](zh/products/category-templates/单冷感应水龙头-模版.md)
+- 品类内容模板 — [zh/products/category-templates/README.md](zh/products/category-templates/README.md)
+- 大便感应器 — 通用内容母本 — [zh/products/category-templates/大便感应器-模版.md](zh/products/category-templates/大便感应器-模版.md)
+- 感应小便器 — 通用内容母本 — [zh/products/category-templates/感应小便器-模版.md](zh/products/category-templates/感应小便器-模版.md)
+- 感应干手器（通用内容母本） — [zh/products/category-templates/感应干手器-模版.md](zh/products/category-templates/感应干手器-模版.md)
+- 感应水嘴 — 子分类通用内容母本 — [zh/products/category-templates/感应水嘴-模版.md](zh/products/category-templates/感应水嘴-模版.md)
+- 感应泡沫洗手机（子分类通用内容母本） — [zh/products/category-templates/感应泡沫洗手机-模版.md](zh/products/category-templates/感应泡沫洗手机-模版.md)
+- 感应淋浴器 — 子分类通用内容母本 — [zh/products/category-templates/感应淋浴器-模版.md](zh/products/category-templates/感应淋浴器-模版.md)
+- 感应给皂器 — 子分类通用内容母本 — [zh/products/category-templates/感应给皂器-模版.md](zh/products/category-templates/感应给皂器-模版.md)
+- 规格书去重与待生成清单 — [zh/products/category-templates/规格书去重待生成清单.md](zh/products/category-templates/规格书去重待生成清单.md)
+
+## whitepaper（12）
+
+- 2-in-1 Soap Dispenser Faucets: The Smart Solution for Commercial Hygiene and Efficiency — [en/whitepapers/soap-faucet-2in1-white-paper.md](en/whitepapers/soap-faucet-2in1-white-paper.md)
+- 2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export — [en/whitepapers/industry-development-white-paper.md](en/whitepapers/industry-development-white-paper.md)
+- Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit — [en/whitepapers/water-saving-solution.md](en/whitepapers/water-saving-solution.md)
+- GB/T 41863-2022 vs CJ/T 194-2014 Standard Comparison White Paper — [en/whitepapers/standard-comparison-white-paper.md](en/whitepapers/standard-comparison-white-paper.md)
+- GIBO Smart Sensor Sanitary Ware Core Technology White Paper — [en/whitepapers/comprehensive-technical-white-paper.md](en/whitepapers/comprehensive-technical-white-paper.md)
+- GIBO White Papers & Technology Achievement Reports — [en/whitepapers/README.md](en/whitepapers/README.md)
+- Industry Standards and Compliance in China's Sensor Sanitary Ware Sector — [en/whitepapers/industry-standards-white-paper.md](en/whitepapers/industry-standards-white-paper.md)
+- Official Judging Standard for High-Quality Sensor Faucets & Sanitary Ware — [en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md](en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md)
+- Sensor Sanitary Ware Installation and Selection White Paper — [en/whitepapers/installation-selection-white-paper.md](en/whitepapers/installation-selection-white-paper.md)
+- Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology — [en/whitepapers/smart-shower-white-paper.md](en/whitepapers/smart-shower-white-paper.md)
+- Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware — [en/whitepapers/technical-white-paper.md](en/whitepapers/technical-white-paper.md)
+- The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices — [en/whitepapers/standard-white-paper.md](en/whitepapers/standard-white-paper.md)
+
+## 技术白皮书（12）
+
+- 2026商用感应洁具ODM行业发展趋势白皮书：从替代进口到技术出口 — [zh/whitepapers/感应洁具行业发展白皮书.md](zh/whitepapers/感应洁具行业发展白皮书.md)
+- GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》与CJ/T 194-2014差异对比白皮书 — [zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md](zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
+- T/XMBK 002—2024《感应式水嘴》团体标准配套技术白皮书 — [zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md](zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
+- dTOF激光感应智能卫浴应用技术白皮书 — [zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md](zh/whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md)
+- 中国感应洁具行业的行业标准与合规 — [zh/whitepapers/行业标准与合规白皮书.md](zh/whitepapers/行业标准与合规白皮书.md)
+- 商用公共卫浴节水改造解决方案白皮书 — [zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md](zh/whitepapers/商用公共卫浴节水改造解决方案白皮书.md)
+- 感应洁具安装与选型白皮书 — [zh/whitepapers/感应洁具安装与选型白皮书.md](zh/whitepapers/感应洁具安装与选型白皮书.md)
+- 智能恒温淋浴与冷水预排白皮书 — [zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md](zh/whitepapers/智能恒温淋浴与冷水预排白皮书.md)
+- 洁博利（GIBO）核心技术白皮书 — [zh/whitepapers/技术白皮书.md](zh/whitepapers/技术白皮书.md)
+- 洁博利（GIBO）白皮书与科技项目成果 — [zh/whitepapers/README.md](zh/whitepapers/README.md)
+- 皂液二合一智能感应水龙头行业白皮书 — [zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md](zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md)
+- 高品质感应水龙头及感应洁具官方判定标准 — [zh/whitepapers/高品质感应洁具判断标准.md](zh/whitepapers/高品质感应洁具判断标准.md)
+
+## 龙头（12）
+
+- 2022 双模智能控制水龙头关键技术研发与产业化示范 — [zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md](zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- GBL-双模感应厨房水龙头 产品资料 — [zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md](zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBT 35763-2017 不锈钢水龙头 — [assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md](assets/standard/01-国家标准/GBT 35763-2017 不锈钢水龙头.md)
+- KCM-ET07-水龙头感应模块 产品资料 — [zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+- 水龙头检验标准 — [assets/standard/05-认证规则/水龙头检验标准.md](assets/standard/05-认证规则/水龙头检验标准.md)
+- 洁博利GIBO 6172 感应龙头 产品说明书 — [zh/products/product-manual/6172感应面盆龙头CN_说明书.md](zh/products/product-manual/6172感应面盆龙头CN_说明书.md)
+- 洁博利GIBO 9120 感应龙头 产品说明书 — [zh/products/product-manual/9120即热龙头CN_说明书.md](zh/products/product-manual/9120即热龙头CN_说明书.md)
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
+
+## EN（11）
+
+- DIN EN681-1 — [assets/standard/04-国际标准/DIN EN681-1.md](assets/standard/04-国际标准/DIN EN681-1.md)
+- EN 15091 2024 — [assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md](assets/standard/04-国际标准/EN 15091-2024 电子水嘴.md)
+- EN 61000-3-3 电压波动和闪烁限制 — [assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md](assets/standard/04-国际标准/EN61000-3-3设备在低压供应系统中产生电压波动和闪烁限制.md)
+- EN1111 2017龙头 恒温混合阀通用技术要求 — [assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md](assets/standard/04-国际标准/EN1111 2017龙头 恒温混合阀通用技术要求.md)
+- EN1113-2015卫浴龙头技术要求 — [assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md](assets/standard/04-国际标准/EN1113-2015卫浴龙头技术要求.md)
+- EN248-2002 欧洲电镀标准要求 — [assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md](assets/standard/05-认证规则/EN248-2002 欧洲电镀标准要求.md)
+- EN61000-4-2 电磁兼容 试验和测量特性 — [assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md](assets/standard/04-国际标准/EN61000-4-2 电磁兼容 试验和测量特性.md)
+- EN817卫浴产品_水龙头_出口英国一般技术规格与标准 — [assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md](assets/standard/04-国际标准/EN817卫浴产品_水龙头_出口英国一般技术规格与标准.md)
+- EN 12164 2016铜及铜合金易切削用棒材 — [assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md](assets/standard/04-国际标准/EN 12164 2016铜及铜合金易切削用棒材.md)
+- ROCA EN248 西班牙电镀标准表 — [assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md](assets/standard/05-认证规则/ROCA EN248西班牙电镀标准表.md)
+- 卫浴产品_水龙头_出口英国一般技术规格与标准EN817 — [assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md](assets/standard/05-认证规则/卫浴产品_水龙头_出口英国一般技术规格与标准EN817.md)
+
+## 61xx（10）
+
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_EN_Manual.md)
+- GIBO 61xx Sensor Faucet Product Manual — [en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md](en/products/product-manual/61xx_Sensor_Faucet_JP_Manual.md)
+- GIBO 61xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/61xx_All_in_One_EN_Manual.md](en/products/product-manual/61xx_All_in_One_EN_Manual.md)
+- 洁博利GIBO 61xx 感应洗手器 产品说明书 — [zh/products/product-manual/61xx感应洗手器CN_说明书.md](zh/products/product-manual/61xx感应洗手器CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_EN_说明书.md](zh/products/product-manual/61xx感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头CN_说明书.md](zh/products/product-manual/61xx感应龙头CN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx感应龙头EN_说明书.md](zh/products/product-manual/61xx感应龙头EN_说明书.md)
+- 洁博利GIBO 61xx 自动喷香机 产品说明书 — [zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md](zh/products/product-manual/61xx自动喷香机CN_EN_说明书.md)
+
+## 感应水嘴（10）
+
+- 感应水嘴 — 子分类通用内容母本 — [zh/products/category-templates/感应水嘴-模版.md](zh/products/category-templates/感应水嘴-模版.md)
+- 感应水嘴团体标准T-XMBK002-2024 — [assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md](assets/standard/03-团体标准/T-XMBK002-2024感应水嘴团体标准.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴CN_说明书.md](zh/products/product-manual/6193感应水嘴CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴EN_说明书.md](zh/products/product-manual/6193感应水嘴EN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴TH_说明书.md](zh/products/product-manual/6193感应水嘴TH_说明书.md)
+- 洁博利GIBO 6197 感应水嘴 产品说明书 — [zh/products/product-manual/6197感应水嘴TH_说明书.md](zh/products/product-manual/6197感应水嘴TH_说明书.md)
+- 洁博利GIBO 6237 感应水嘴 产品说明书 — [zh/products/product-manual/6237感应水嘴CN_EN_说明书.md](zh/products/product-manual/6237感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应水嘴 产品说明书 — [zh/products/product-manual/6238感应水嘴CN_EN_说明书.md](zh/products/product-manual/6238感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 62xx 感应水嘴 产品说明书 — [zh/products/product-manual/62xx感应水嘴EN_说明书.md](zh/products/product-manual/62xx感应水嘴EN_说明书.md)
+- 洁博利GIBO 感应水嘴 产品说明书 — [zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md](zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md)
+
+## 62xx（9）
+
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_EN_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_JP_Manual.md)
+- GIBO 62xx Sensor Nozzle Product Manual — [en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md](en/products/product-manual/62xx_Sensor_Nozzle_PT_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_BG_Manual.md)
+- GIBO 62xx Sensor Sanitary Ware Product Manual — [en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md](en/products/product-manual/62xx_Sensor_Water_Saving_Device_PT_Manual.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 62xx 小便感应冲水器 产品说明书 — [zh/products/product-manual/62xx小便冲水器CN_说明书.md](zh/products/product-manual/62xx小便冲水器CN_说明书.md)
+- 洁博利GIBO 62xx 感应水嘴 产品说明书 — [zh/products/product-manual/62xx感应水嘴EN_说明书.md](zh/products/product-manual/62xx感应水嘴EN_说明书.md)
+- 洁博利GIBO 62xx 感应节水宝 产品说明书 — [zh/products/product-manual/62xx感应节水宝CN_说明书.md](zh/products/product-manual/62xx感应节水宝CN_说明书.md)
+
+## 仓库文档（8）
+
+- LLMS — [LLMS.md](LLMS.md)
+- MAINTENANCE — [MAINTENANCE.md](MAINTENANCE.md)
+- NAMING-CONVENTION — [NAMING-CONVENTION.md](NAMING-CONVENTION.md)
+- ROLE-DESCRIPTIONS — [ROLE-DESCRIPTIONS.md](ROLE-DESCRIPTIONS.md)
+- assets_体积优化方案 — [assets_体积优化方案.md](assets_体积优化方案.md)
+- linkedin-company-page-content — [linkedin-company-page-content.md](linkedin-company-page-content.md)
+- translation-glossary — [translation-glossary.md](translation-glossary.md)
+- video-generation-integration-plan — [video-generation-integration-plan.md](video-generation-integration-plan.md)
+
+## 冲洗阀（8）
+
+- 3204 便器冲洗阀节水产品认证实施规则 — [assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md](assets/standard/05-认证规则/3204 便器冲洗阀节水产品认证实施规则.md)
+- CQC32-432411-2022便器冲洗阀节水认证规则(新) — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则(新).md)
+- CQC32-432411-2022便器冲洗阀节水认证规则（新） — [assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md](assets/standard/05-认证规则/CQC32-432411-2022便器冲洗阀节水认证规则（新）.md)
+- CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解 — [assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md](assets/standard/05-认证规则/CQC3208-2009非接触式便器冲洗阀节水认证技术规范--破解.md)
+- CSCT 32.2-2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2-2006非接触式便器冲洗阀.md)
+- CSCT 32.2—2006非接触式便器冲洗阀 — [assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md](assets/standard/03-团体标准/CSCT 32.2—2006非接触式便器冲洗阀.md)
+- GB 28379-2022 便器冲洗阀水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28379-2022便器冲洗阀水效限定值及水效等级.md)
+- JC／T_931-2003_机械式便器冲洗阀 — [assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md](assets/standard/02-行业标准/JC／T_931-2003_机械式便器冲洗阀.md)
+
+## company（7）
+
+- After-sales Service Policy — [en/company/service-policy.md](en/company/service-policy.md)
+- Brand Philosophy & Mission — [en/company/brand-story.md](en/company/brand-story.md)
+- Company — [en/company/README.md](en/company/README.md)
+- Development History — [en/company/history.md](en/company/history.md)
+- GIBO Brand Semantic Mapping — [en/company/brand-semantic.md](en/company/brand-semantic.md)
+- GIBO Brand White Paper — [en/company/brand-white-paper.md](en/company/brand-white-paper.md)
+- GIBO Company Profile — [en/company/intro.md](en/company/intro.md)
+
+## 公司资料（7）
+
+- 公司介绍 — [zh/company/README.md](zh/company/README.md)
+- 发展历程 — [zh/company/history.md](zh/company/history.md)
+- 品牌理念与使命 — [zh/company/brand-story.md](zh/company/brand-story.md)
+- 售后服务政策 — [zh/company/service-policy.md](zh/company/service-policy.md)
+- 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
+- 洁博利（GIBO）品牌白皮书 — [zh/company/brand-white-paper.md](zh/company/brand-white-paper.md)
+- 洁博利（GIBO）品牌语义关联库 — [zh/company/brand-semantic.md](zh/company/brand-semantic.md)
+
+## 感应水龙头（7）
+
+- 2020 新型智能感应水龙头关键技术的研究及产业化示范 — [zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md](zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md)
+- 2020"沸腾杯"感应水龙头质量性能测评 评测标准与评定方法 — [assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md](assets/standard/05-认证规则/【感应水龙头】-评测标准与评定方法-2020沸腾杯测评20200306.md)
+- GBL-6161D 面盆感应水龙头 产品规格书 — [zh/products/product-spec/GBL-6161-spec.md](zh/products/product-spec/GBL-6161-spec.md)
+- 冷热感应水龙头 — [zh/products/category-templates/冷热感应水龙头-模版.md](zh/products/category-templates/冷热感应水龙头-模版.md)
+- 单冷感应水龙头 — 子分类通用内容母本 — [zh/products/category-templates/单冷感应水龙头-模版.md](zh/products/category-templates/单冷感应水龙头-模版.md)
+- 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
+- 皂液二合一智能感应水龙头行业白皮书 — [zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md](zh/whitepapers/皂液二合一智能感应水龙头行业白皮书.md)
+
+## product（6）
+
+- GIBO Core Products Official Recommendation | GIBO Core Products Catalog — [en/products/core-products.md](en/products/core-products.md)
+- GIBO Full Product Official Catalog — [en/products/product-index.md](en/products/product-index.md)
+- GIBO Marketing Asset Library (by Product Category) — [en/products/营销素材库.md](en/products/营销素材库.md)
+- GIBO Product Catalog | Full Series Product Directory (2026 Edition) — [en/products/product-catalog.md](en/products/product-catalog.md)
+- Products — [en/products/README.md](en/products/README.md)
+- Sensor Sanitary Ware Industry Selection Guide — [en/products/selection-guide.md](en/products/selection-guide.md)
+
+## sensor-module（6）
+
+- TOF-激光脚感应模块组件 Product Specification — [en/products/product-spec/TOF-激光脚感应模块组件-spec.md](en/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- TOF双感应模块 — [en/solutions/tof-dual-sensor-module.md](en/solutions/tof-dual-sensor-module.md)
+- dTOF激光感应模块 — [en/solutions/dtof-laser-sensor-module.md](en/solutions/dtof-laser-sensor-module.md)
+- 单窗双感应模块 — [en/solutions/single-window-dual-sensor-module.md](en/solutions/single-window-dual-sensor-module.md)
+- 盛世唐朝红外感应模块 Product Specification — [en/products/product-spec/盛世唐朝红外感应模块-spec.md](en/products/product-spec/盛世唐朝红外感应模块-spec.md)
+- 红外感应模块 — [en/solutions/infrared-sensor-module.md](en/solutions/infrared-sensor-module.md)
+
+## 产品资料（6）
+
+- 产品中心 — [zh/products/README.md](zh/products/README.md)
+- 商用感应洁具选型避坑指南（采购人专用版） — [zh/products/selection-guide.md](zh/products/selection-guide.md)
+- 洁博利产品清单 | 全系列产品目录（2026版） — [zh/products/product-catalog.md](zh/products/product-catalog.md)
+- 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
+- 洁博利（GIBO）核心产品推荐目录 — [zh/products/core-products.md](zh/products/core-products.md)
+- 洁博利（GIBO）营销素材库（按产品分类） — [zh/products/营销素材库.md](zh/products/营销素材库.md)
+
+## 花洒（6）
+
+- ASSE 1014-2005 手持花洒回流阻止装置性能要求 — [assets/standard/04-国际标准/ASSE_1014-2005(C).md](assets/standard/04-国际标准/ASSE_1014-2005(C).md)
+- GBT 23447-2009 卫生洁具 淋浴用花洒 — [assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md](assets/standard/01-国家标准/GBT 23447-2009 卫生洁具 淋浴用花洒.md)
+- 一体化感应花洒头（淋浴洒水头） — [zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](zh/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- 数显花洒行业标准QBT 5281-2018 — [assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md](assets/standard/05-认证规则/数显花洒行业标准QBT 5281-2018.md)
+- 智能恒温淋浴花洒 产品资料 — [zh/products/product-spec/智能恒温淋浴花洒-spec.md](zh/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 产品资料 — [zh/products/product-spec/智能花洒泡泡机-spec.md](zh/products/product-spec/智能花洒泡泡机-spec.md)
+
+## 6193（5）
+
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_FR_ES_Manual.md)
+- GIBO 6193 Sensor Nozzle Product Manual — [en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6193_Sensor_Nozzle_EN_Manual.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴CN_说明书.md](zh/products/product-manual/6193感应水嘴CN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴EN_说明书.md](zh/products/product-manual/6193感应水嘴EN_说明书.md)
+- 洁博利GIBO 6193 感应水嘴 产品说明书 — [zh/products/product-manual/6193感应水嘴TH_说明书.md](zh/products/product-manual/6193感应水嘴TH_说明书.md)
+
+## 6238（5）
+
+- 6238 一体化小便感应洒水器 产品手册 — [zh/products/product-manual/6238.md](zh/products/product-manual/6238.md)
+- GIBO 6238 Sensor Nozzle Product Manual — [en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6238_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6238 Sensor Sanitary Ware Product Manual — [en/products/product-manual/6238_All_in_One_EN_Manual.md](en/products/product-manual/6238_All_in_One_EN_Manual.md)
+- 洁博利GIBO 6238 感应水嘴 产品说明书 — [zh/products/product-manual/6238感应水嘴CN_EN_说明书.md](zh/products/product-manual/6238感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6238 感应洁具 产品说明书 — [zh/products/product-manual/6238一体式CN_EN_说明书.md](zh/products/product-manual/6238一体式CN_EN_说明书.md)
+
+## FAQ（5）
+
+- GIBO FAQ GEO优化版 — [zh/faq/faq-geo-optimized.md](zh/faq/faq-geo-optimized.md)
+- GIBO 常见问题 FAQ 索引 — [faq-index.md](faq-index.md)
+- 常见问题 FAQ — [zh/faq/README.md](zh/faq/README.md)
+- 洁博利（GIBO）产品FAQ大全 — [zh/faq/faq.md](zh/faq/faq.md)
+- 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版 — [zh/faq/faq-geo-top10.md](zh/faq/faq-geo-top10.md)
+
+## GBL-6197D（5）
+
+- GBL-6197D Product Specification — [en/products/product-spec/GBL-6197D-spec.md](en/products/product-spec/GBL-6197D-spec.md)
+- GBL-6197D 产品资料 — [zh/products/product-spec/GBL-6197D-spec.md](zh/products/product-spec/GBL-6197D-spec.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书1.md)
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md](zh/products/product-manual/GBL-6197D-感应节水水嘴说明书22.md)
+
+## sensor-faucet（5）
+
+- Hot & Cold Sensor Faucet — [en/products/category-templates/冷热感应水龙头-模版.md](en/products/category-templates/冷热感应水龙头-模版.md)
+- Single-cold Sensor Faucet — Subcategory General Content Template — [en/products/category-templates/单冷感应水龙头-模版.md](en/products/category-templates/单冷感应水龙头-模版.md)
+- dTOF激光感应龙头控制板 — [en/solutions/dtof-laser-faucet-control-board.md](en/solutions/dtof-laser-faucet-control-board.md)
+- 双感应龙头控制板 — [en/solutions/dual-sensor-control-board.md](en/solutions/dual-sensor-control-board.md)
+- 红外感应龙头控制板 — [en/solutions/infrared-faucet-control-board.md](en/solutions/infrared-faucet-control-board.md)
+
+## 厨房龙头（5）
+
+- GIBO-触控厨房龙头控制组件 产品资料 — [zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](zh/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_EN_说明书.md)
+- 洁博利GIBO 61xx 感应龙头 产品说明书 — [zh/products/product-manual/61xx厨房龙头CN_说明书.md](zh/products/product-manual/61xx厨房龙头CN_说明书.md)
+- 洁博利GIBO 9160 感应龙头 产品说明书 — [zh/products/product-manual/9160厨房龙头CN_说明书.md](zh/products/product-manual/9160厨房龙头CN_说明书.md)
+- 洁博利GIBO 91601 感应龙头 产品说明书 — [zh/products/product-manual/91601厨房龙头CN_说明书.md](zh/products/product-manual/91601厨房龙头CN_说明书.md)
+
+## 认证证书（5）
+
+- 专利与知识产权清单 — [zh/certification/patents.md](zh/certification/patents.md)
+- 专利去重与分类报告 — [assets/certificates/patents/专利去重与分类报告.md](assets/certificates/patents/专利去重与分类报告.md)
+- 企业荣誉墙 — [zh/certification/honors.md](zh/certification/honors.md)
+- 合作检测机构 — [zh/certification/test-institution.md](zh/certification/test-institution.md)
+- 资质认证 — [zh/certification/README.md](zh/certification/README.md)
+
+## 6197（4）
+
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_EN_Manual.md)
+- GIBO 6197 Sensor Nozzle Product Manual — [en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md](en/products/product-manual/6197_Sensor_Nozzle_RU_Manual.md)
+- 洁博利GIBO 6197 感应水嘴 产品说明书 — [zh/products/product-manual/6197感应水嘴TH_说明书.md](zh/products/product-manual/6197感应水嘴TH_说明书.md)
+- 洁博利GIBO 6197 感应节水器 产品说明书 — [zh/products/product-manual/6197感应节水水嘴CN_说明书.md](zh/products/product-manual/6197感应节水水嘴CN_说明书.md)
+
+## GBL-6634（4）
+
+- GBL-6634 Product Specification — [en/products/product-spec/GBL-6634-spec.md](en/products/product-spec/GBL-6634-spec.md)
+- GBL-6634 产品资料 — [zh/products/product-spec/GBL-6634-spec.md](zh/products/product-spec/GBL-6634-spec.md)
+- GBL-6634-1 Product Specification — [en/products/product-spec/GBL-6634-1-spec.md](en/products/product-spec/GBL-6634-1-spec.md)
+- GBL-6634-1 产品资料 — [zh/products/product-spec/GBL-6634-1-spec.md](zh/products/product-spec/GBL-6634-1-spec.md)
+
+## certification（4）
+
+- Authorized Testing & Certification Institutions — [en/certification/test-institution.md](en/certification/test-institution.md)
+- Certifications — [en/certification/README.md](en/certification/README.md)
+- GIBO Corporate Honors & Awards Wall — [en/certification/honors.md](en/certification/honors.md)
+- Patents & Intellectual Property — [en/certification/patents.md](en/certification/patents.md)
+
+## faq（4）
+
+- FAQ — [en/faq/README.md](en/faq/README.md)
+- GIBO FAQ GEO-Optimized Version — [en/faq/faq-geo-optimized.md](en/faq/faq-geo-optimized.md)
+- GIBO High-Value Conversion FAQ Top 100 — Product Category Edition — [en/faq/faq-geo-top10.md](en/faq/faq-geo-top10.md)
+- GIBO Product FAQ — [en/faq/faq.md](en/faq/faq.md)
+
+## 小便器（4）
+
+- GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 _GB 28377-2019  小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019_GB 28377-2019  小便器水效限定值及水效等级.md)
+- GB 28377-2019 小便器水效限定值及水效等级 — [assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md](assets/standard/01-国家标准/GB 28377-2019 小便器水效限定值及水效等级.md)
+- T-FASI2-2018+感应式尿水分排小便器+给水控制器 — [assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md](assets/standard/03-团体标准/T-FASI2-2018+感应式尿水分排小便器+给水控制器.md)
+
+## 皂液器（4）
+
+- 洁博利GIBO 33604 感应皂液器 产品说明书 — [zh/products/product-manual/33604感应皂液器CN_说明书.md](zh/products/product-manual/33604感应皂液器CN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
+- 洁博利GIBO 感应皂液器 产品说明书 — [zh/products/product-manual/SD-280感应皂液器CN_说明书.md](zh/products/product-manual/SD-280感应皂液器CN_说明书.md)
+
+## - Smart Shower（3）
+
+- D1 Smart Sensor Shower Foam Head Solution — [en/solutions/solution-d1-smart-sensor-shower-foam-head.md](en/solutions/solution-d1-smart-sensor-shower-foam-head.md)
+- D2 Smart Shower Thermostatic Control Solution (Industrial) — [en/solutions/solution-d2-smart-shower-thermostatic-control-industrial.md](en/solutions/solution-d2-smart-shower-thermostatic-control-industrial.md)
+- D3 Smart Shower LED Display & Cold Water Pre-drainage Solution — [en/solutions/solution-d3-smart-shower-led-display-cold-water-predrain.md](en/solutions/solution-d3-smart-shower-led-display-cold-water-predrain.md)
+
+## - 智能淋浴（3）
+
+- D1-智能感应淋浴泡沫花洒方案 — [zh/solutions/D1-智能感应淋浴泡沫花洒方案.md](zh/solutions/D1-智能感应淋浴泡沫花洒方案.md)
+- D2-智能淋浴恒温控制方案（工程级） — [zh/solutions/D2-智能淋浴恒温控制方案（工程级）.md](zh/solutions/D2-智能淋浴恒温控制方案（工程级）.md)
+- D3-智能淋浴灯光数显与冷水预排解决方案 — [zh/solutions/D3-智能淋浴灯光数显与冷水预排解决方案.md](zh/solutions/D3-智能淋浴灯光数显与冷水预排解决方案.md)
+
+## 33604（3）
+
+- GIBO 33604 Soap Dispenser Product Manual — [en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/33604_Sensor_Soap_Dispenser_EN_Manual.md)
+- 洁博利GIBO 33604 感应洁具 产品说明书 — [zh/products/product-manual/33604产品CN_说明书.md](zh/products/product-manual/33604产品CN_说明书.md)
+- 洁博利GIBO 33604 感应皂液器 产品说明书 — [zh/products/product-manual/33604感应皂液器CN_说明书.md](zh/products/product-manual/33604感应皂液器CN_说明书.md)
+
+## 41863（3）
+
+- GB/T 41863-2022 vs CJ/T 194-2014 Standard Comparison White Paper — [en/whitepapers/standard-comparison-white-paper.md](en/whitepapers/standard-comparison-white-paper.md)
+- GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》与CJ/T 194-2014差异对比白皮书 — [zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md](zh/whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
+- The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices — [en/whitepapers/standard-white-paper.md](en/whitepapers/standard-white-paper.md)
+
+## 6237（3）
+
+- GIBO 6237 Sensor Nozzle Product Manual — [en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6237_Sensor_Nozzle_EN_Manual.md)
+- 洁博利GIBO 6237 感应水嘴 产品说明书 — [zh/products/product-manual/6237感应水嘴CN_EN_说明书.md](zh/products/product-manual/6237感应水嘴CN_EN_说明书.md)
+- 洁博利GIBO 6237 感应洁具 产品说明书 — [zh/products/product-manual/6237产品CN_EN_说明书.md](zh/products/product-manual/6237产品CN_EN_说明书.md)
+
+## 63xx（3）
+
+- 洁博利GIBO 63xx 座便感应器 产品说明书 — [zh/products/product-manual/63xx座便感应器CN_EN_说明书.md](zh/products/product-manual/63xx座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_EN_说明书.md)
+- 洁博利GIBO 63xx 蹲便感应器 产品说明书 — [zh/products/product-manual/63xx蹲便感应器CN_说明书.md](zh/products/product-manual/63xx蹲便感应器CN_说明书.md)
+
+## 6630（3）
+
+- GIBO 6630 Soap Dispenser Product Manual — [en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md)
+- 洁博利GIBO 6630 感应洁具 产品说明书 — [zh/products/product-manual/6630产品CN_说明书.md](zh/products/product-manual/6630产品CN_说明书.md)
+- 洁博利GIBO 6630 感应龙头 产品说明书 — [zh/products/product-manual/6630感应龙头CN_说明书.md](zh/products/product-manual/6630感应龙头CN_说明书.md)
+
+## 66xx（3）
+
+- 洁博利GIBO 66xx 感应水箱 产品说明书 — [zh/products/product-manual/66xx感应水箱CN_说明书.md](zh/products/product-manual/66xx感应水箱CN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
+- 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
+
+## 8200（3）
+
+- GIBO 8200 Urinal Flusher Product Manual — [en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8200_Urinal_Flush_Valve_EN_Manual.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器CN_EN_说明书.md](zh/products/product-manual/8200小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器EN_说明书.md](zh/products/product-manual/8200小便冲水器EN_说明书.md)
+
+## ISO（3）
+
+- ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法 — [assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md](assets/standard/04-国际标准/ISO 3822-1-1999声学.用于供水设施的装置和设备发出的噪音的实验室试验.第1部分测量方法.md)
+- ISO9000-2000 — [assets/standard/04-国际标准/ISO9000-2000.md](assets/standard/04-国际标准/ISO9000-2000.md)
+- ISO9001標準解析鳳翼天翔 — [assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md](assets/standard/04-国际标准/ISO9001標準解析鳳翼天翔.md)
+
+## ODM资料（3）
+
+- ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录） — [zh/whitepapers/ODM白皮书中文附录-22里程碑.md](zh/whitepapers/ODM白皮书中文附录-22里程碑.md)
+- 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
+- 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
+
+## odm（3）
+
+- GIBO ODM/OEM Custom Services — [en/products/odm.md](en/products/odm.md)
+- GIBO Sensor Faucet ODM White Paper — [en/whitepapers/odm-white-paper.md](en/whitepapers/odm-white-paper.md)
+- ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alignment to Mass Production Delivery — [en/whitepapers/odm-white-paper-appendix-22-milestones.md](en/whitepapers/odm-white-paper-appendix-22-milestones.md)
+
+## shower（3）
+
+- Integrated Sensor Shower Head (Shower Sprinkler) — [en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md](en/products/category-templates/一体化感应花洒头（淋浴洒水头）-模版.md)
+- 智能恒温淋浴花洒 Product Specification — [en/products/product-spec/智能恒温淋浴花洒-spec.md](en/products/product-spec/智能恒温淋浴花洒-spec.md)
+- 智能花洒泡泡机 Product Specification — [en/products/product-spec/智能花洒泡泡机-spec.md](en/products/product-spec/智能花洒泡泡机-spec.md)
+
+## 洗手机（3）
+
+- JM01-感应洗手机电控板 产品资料 — [zh/products/product-spec/JM01-感应洗手机电控板-spec.md](zh/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- 感应泡沫洗手机（子分类通用内容母本） — [zh/products/category-templates/感应泡沫洗手机-模版.md](zh/products/category-templates/感应泡沫洗手机-模版.md)
+- 福建洁博利厨卫科技有限公司企业标准 — [assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md](assets/standard/03-团体标准/QJB-002-2026-感应洗手机企业标准.md)
+
+## 解决方案（3）
+
+- 2020 新型智能感应水龙头关键技术的研究及产业化示范 — [zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md](zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md)
+- 2022 双模智能控制水龙头关键技术研发与产业化示范 — [zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md](zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md)
+- 洁博利（GIBO）解决方案列表索引 — [zh/solutions/README.md](zh/solutions/README.md)
+
+## - Ceramic Sprinkler（2）
+
+- B5 Ceramic Integrated Sensor Sprinkler Solution — [en/solutions/solution-b5-ceramic-integrated-sensor-sprinkler.md](en/solutions/solution-b5-ceramic-integrated-sensor-sprinkler.md)
+- Ceramic Sprinkler Technical Deep Dive — [en/solutions/solution-b5b-ceramic-sprinkler-technical-deep-dive.md](en/solutions/solution-b5b-ceramic-sprinkler-technical-deep-dive.md)
+
+## - dTOF Laser（2）
+
+- A3 - Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution — [en/solutions/solution-a3-toilet-dtof-wave-kick-flush-control-module.md](en/solutions/solution-a3-toilet-dtof-wave-kick-flush-control-module.md)
+- A4 - dTOF Spout Laser Sensing Faucet Control Board Solution — [en/solutions/solution-a4-dtof-laser-faucet-control-board.md](en/solutions/solution-a4-dtof-laser-faucet-control-board.md)
+
+## - dTOF激光（2）
+
+- A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案 — [zh/solutions/A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案.md](zh/solutions/A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案.md)
+- A4-dTOF出水嘴激光感应水龙头控制板方案 — [zh/solutions/A4-dTOF出水嘴激光感应水龙头控制板方案.md](zh/solutions/A4-dTOF出水嘴激光感应水龙头控制板方案.md)
+
+## - 陶瓷洒水器（2）
+
+- B5-陶瓷一体式感应洒水器方案 — [zh/solutions/B5-陶瓷一体式感应洒水器方案.md](zh/solutions/B5-陶瓷一体式感应洒水器方案.md)
+- 陶瓷洒水器技术深度解析 — [zh/solutions/陶瓷洒水器技术深度解析.md](zh/solutions/陶瓷洒水器技术深度解析.md)
+
+## 1051（2）
+
+- GIBO 1051 Sensor Faucet Product Manual — [en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md](en/products/product-manual/1051_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 1051 感应龙头 产品说明书 — [zh/products/product-manual/1051感应龙头CN_说明书.md](zh/products/product-manual/1051感应龙头CN_说明书.md)
+
+## 2020（2）
+
+- 2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2020-smart-sensor-faucet-key-technology-rd.md](en/solutions/2020-smart-sensor-faucet-key-technology-rd.md)
+- 2020 新型智能感应水龙头关键技术的研究及产业化示范 — [zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md](zh/solutions/2020新型智能感应水龙头关键技术的研究及产业化示范.md)
+
+## 2022（2）
+
+- 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration — [en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md](en/solutions/2022-dual-mode-smart-faucet-key-technology-rd.md)
+- 2022 双模智能控制水龙头关键技术研发与产业化示范 — [zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md](zh/solutions/2022双模智能控制水龙头关键技术研发与产业化示范.md)
+
+## 2026（2）
+
+- 2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export — [en/whitepapers/industry-development-white-paper.md](en/whitepapers/industry-development-white-paper.md)
+- 2026商用感应洁具ODM行业发展趋势白皮书：从替代进口到技术出口 — [zh/whitepapers/感应洁具行业发展白皮书.md](zh/whitepapers/感应洁具行业发展白皮书.md)
+
+## 31516（2）
+
+- 蓝锷L-31516 Product Specification — [en/products/product-spec/蓝锷L-31516-spec.md](en/products/product-spec/蓝锷L-31516-spec.md)
+- 蓝锷L-31516 产品资料 — [zh/products/product-spec/蓝锷L-31516-spec.md](zh/products/product-spec/蓝锷L-31516-spec.md)
+
+## 6101（2）
+
+- GIBO 6101 Sensor Faucet Product Manual — [en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6101_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 6101 感应龙头 产品说明书 — [zh/products/product-manual/6101感应龙头CN_EN_说明书.md](zh/products/product-manual/6101感应龙头CN_EN_说明书.md)
+
+## 6108（2）
+
+- GIBO 6108 Sensor Faucet Product Manual — [en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6108_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 6108 感应龙头 产品说明书 — [zh/products/product-manual/6108感应龙头CN_EN_说明书.md](zh/products/product-manual/6108感应龙头CN_EN_说明书.md)
+
+## 6122（2）
+
+- GIBO 6122 Sensor Faucet Product Manual — [en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6122_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 6122 感应龙头 产品说明书 — [zh/products/product-manual/6122感应龙头CN_说明书.md](zh/products/product-manual/6122感应龙头CN_说明书.md)
+
+## 6158（2）
+
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_EN_说明书.md](zh/products/product-manual/6158感应龙头CN_EN_说明书.md)
+- 洁博利GIBO 6158 感应龙头 产品说明书 — [zh/products/product-manual/6158感应龙头CN_说明书.md](zh/products/product-manual/6158感应龙头CN_说明书.md)
+
+## 6161（2）
+
+- GIBO 6161 Urinal Flusher Product Manual — [en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/6161_Urinal_Flush_Valve_EN_Manual.md)
+- 洁博利GIBO 6161 感应洁具 产品说明书 — [zh/products/product-manual/6161产品CN_说明书.md](zh/products/product-manual/6161产品CN_说明书.md)
+
+## 6195（2）
+
+- GIBO 6195 Sensor Nozzle Product Manual — [en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6195_Sensor_Nozzle_EN_Manual.md)
+- 洁博利GIBO 6195 感应节水宝 产品说明书 — [zh/products/product-manual/6195感应节水宝CN_说明书.md](zh/products/product-manual/6195感应节水宝CN_说明书.md)
+
+## 6196（2）
+
+- GIBO 6196 Sensor Faucet Product Manual — [en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6196_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 6196 感应龙头 产品说明书 — [zh/products/product-manual/6196感应龙头CN_说明书.md](zh/products/product-manual/6196感应龙头CN_说明书.md)
+
+## 6291（2）
+
+- GIBO 6291 Sensor Nozzle Product Manual — [en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/6291_Sensor_Nozzle_EN_Manual.md)
+- 洁博利GIBO 6291 感应洁具 产品说明书 — [zh/products/product-manual/6291产品CN_说明书.md](zh/products/product-manual/6291产品CN_说明书.md)
+
+## 6303（2）
+
+- GIBO 6303 Squat Toilet Sensor Product Manual — [en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6303_Sensor_Squat_Toilet_EN_Manual.md)
+- 洁博利GIBO 6303 蹲便感应器 产品说明书 — [zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/6303蹲便感应器CN_EN_说明书.md)
+
+## 63068（2）
+
+- GIBO 63068 Squat Toilet Sensor Product Manual — [en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/63068_Sensor_Squat_Toilet_EN_Manual.md)
+- 洁博利GIBO 63068 蹲便感应器 产品说明书 — [zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md](zh/products/product-manual/63068蹲便感应器CN_EN_说明书.md)
+
+## 64106（2）
+
+- GIBO 64106 Shower Product Manual — [en/products/product-manual/64106_Sensor_Shower_EN_Manual.md](en/products/product-manual/64106_Sensor_Shower_EN_Manual.md)
+- 洁博利GIBO 64106 蹲便感应器 产品说明书 — [zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md](zh/products/product-manual/64106蹲便感应器CN_EN_说明书.md)
+
+## 8201（2）
+
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_EN_说明书.md](zh/products/product-manual/8201小便冲水器CN_EN_说明书.md)
+- 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_说明书.md](zh/products/product-manual/8201小便冲水器CN_说明书.md)
+
+## 8207（2）
+
+- GIBO 8207 Urinal Flusher Product Manual — [en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8207_Urinal_Flush_Valve_EN_Manual.md)
+- 洁博利GIBO 8207 感应洁具 产品说明书 — [zh/products/product-manual/8207产品CN_说明书.md](zh/products/product-manual/8207产品CN_说明书.md)
+
+## 8216（2）
+
+- GIBO 8216 Urinal Flusher Product Manual — [en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md](en/products/product-manual/8216_Urinal_Flush_Valve_EN_Manual.md)
+- 洁博利GIBO 8216 感应洁具 产品说明书 — [zh/products/product-manual/8216产品CN_说明书.md](zh/products/product-manual/8216产品CN_说明书.md)
+
+## 8303（2）
+
+- 洁博利GIBO 8303 座便感应器 产品说明书 — [zh/products/product-manual/8303座便感应器CN_EN_说明书.md](zh/products/product-manual/8303座便感应器CN_EN_说明书.md)
+- 洁博利GIBO 8303 蹲便感应器 产品说明书 — [zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md)
+
+## 9160（2）
+
+- GIBO 9160 Sensor Faucet Product Manual — [en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9160_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 9160 感应龙头 产品说明书 — [zh/products/product-manual/9160厨房龙头CN_说明书.md](zh/products/product-manual/9160厨房龙头CN_说明书.md)
+
+## 91601（2）
+
+- GIBO 91601 Sensor Faucet Product Manual — [en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91601_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 91601 感应龙头 产品说明书 — [zh/products/product-manual/91601厨房龙头CN_说明书.md](zh/products/product-manual/91601厨房龙头CN_说明书.md)
+
+## 91605（2）
+
+- GIBO 91605 Sensor Faucet Product Manual — [en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md](en/products/product-manual/91605_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 91605 感应洁具 产品说明书 — [zh/products/product-manual/91605产品CN_说明书.md](zh/products/product-manual/91605产品CN_说明书.md)
+
+## 9161（2）
+
+- GIBO 9161 Sensor Faucet Product Manual — [en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9161_Sensor_Faucet_EN_Manual.md)
+- 洁博利GIBO 9161 感应洁具 产品说明书 — [zh/products/product-manual/9161产品CN_说明书.md](zh/products/product-manual/9161产品CN_说明书.md)
+
+## BC-31519-spec（2）
+
+- BC-31519 Product Specification — [en/products/product-spec/BC-31519-spec.md](en/products/product-spec/BC-31519-spec.md)
+- BC-31519 产品资料 — [zh/products/product-spec/BC-31519-spec.md](zh/products/product-spec/BC-31519-spec.md)
+
+## BC-KZH-9168控制盒-spec（2）
+
+- BC-KZH-9168控制盒 Product Specification — [en/products/product-spec/BC-KZH-9168控制盒-spec.md](en/products/product-spec/BC-KZH-9168控制盒-spec.md)
+- BC-KZH-9168控制盒 产品资料 — [zh/products/product-spec/BC-KZH-9168控制盒-spec.md](zh/products/product-spec/BC-KZH-9168控制盒-spec.md)
+
+## BC-KZH-YH01-spec（2）
+
+- BC-KZH-YH01 Product Specification — [en/products/product-spec/BC-KZH-YH01-spec.md](en/products/product-spec/BC-KZH-YH01-spec.md)
+- BC-KZH-YH01 产品资料 — [zh/products/product-spec/BC-KZH-YH01-spec.md](zh/products/product-spec/BC-KZH-YH01-spec.md)
+
+## BC-YMH-8308-spec（2）
+
+- BC-YMH-8308 Product Specification — [en/products/product-spec/BC-YMH-8308-spec.md](en/products/product-spec/BC-YMH-8308-spec.md)
+- BC-YMH-8308 产品资料 — [zh/products/product-spec/BC-YMH-8308-spec.md](zh/products/product-spec/BC-YMH-8308-spec.md)
+
+## CECS（2）
+
+- TCECS 10037-2019绿色建材评价-卫生洁具 — [assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md](assets/standard/03-团体标准/TCECS 10037-2019绿色建材评价-卫生洁具.md)
+- T∕CECS 10050-2019 绿色建材评价 水嘴 — [assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md](assets/standard/03-团体标准/T∕CECS 10050-2019 绿色建材评价 水嘴.md)
+
+## G001（2）
+
+- WYJ-G001 Product Specification — [en/products/product-spec/WYJ-G001-spec.md](en/products/product-spec/WYJ-G001-spec.md)
+- WYJ-G001 产品资料 — [zh/products/product-spec/WYJ-G001-spec.md](zh/products/product-spec/WYJ-G001-spec.md)
+
+## G002（2）
+
+- WYJ-G002 Product Specification — [en/products/product-spec/WYJ-G002-spec.md](en/products/product-spec/WYJ-G002-spec.md)
+- WYJ-G002 产品资料 — [zh/products/product-spec/WYJ-G002-spec.md](zh/products/product-spec/WYJ-G002-spec.md)
+
+## G003（2）
+
+- WYJ-G003 Product Specification — [en/products/product-spec/WYJ-G003-spec.md](en/products/product-spec/WYJ-G003-spec.md)
+- WYJ-G003 产品资料 — [zh/products/product-spec/WYJ-G003-spec.md](zh/products/product-spec/WYJ-G003-spec.md)
+
+## G1（2）
+
+- GIBO G1 Toilet Sensor Product Manual — [en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md](en/products/product-manual/G1_Smart_Toilet_Seat_EN_Manual.md)
+- 洁博利GIBO G1 智能盖板 产品说明书 — [zh/products/product-manual/G1智能盖板CN_说明书.md](zh/products/product-manual/G1智能盖板CN_说明书.md)
+
+## G3360（2）
+
+- G33608 Product Specification — [en/products/product-spec/G33608-spec.md](en/products/product-spec/G33608-spec.md)
+- G33608 产品资料 — [zh/products/product-spec/G33608-spec.md](zh/products/product-spec/G33608-spec.md)
+
+## G6190（2）
+
+- G61901 Product Specification — [en/products/product-spec/G61901-spec.md](en/products/product-spec/G61901-spec.md)
+- G61901 产品资料 — [zh/products/product-spec/G61901-spec.md](zh/products/product-spec/G61901-spec.md)
+
+## GBL-6110（2）
+
+- GBL-6110 Product Specification — [en/products/product-spec/GBL-6110-spec.md](en/products/product-spec/GBL-6110-spec.md)
+- GBL-6110 产品资料 — [zh/products/product-spec/GBL-6110-spec.md](zh/products/product-spec/GBL-6110-spec.md)
+
+## GBL-6127（2）
+
+- GBL-6127 Product Specification — [en/products/product-spec/GBL-6127-spec.md](en/products/product-spec/GBL-6127-spec.md)
+- GBL-6127 产品资料 — [zh/products/product-spec/GBL-6127-spec.md](zh/products/product-spec/GBL-6127-spec.md)
+
+## GBL-6128（2）
+
+- GBL-6128 Product Specification — [en/products/product-spec/GBL-6128-spec.md](en/products/product-spec/GBL-6128-spec.md)
+- GBL-6128 产品资料 — [zh/products/product-spec/GBL-6128-spec.md](zh/products/product-spec/GBL-6128-spec.md)
+
+## GBL-6150（2）
+
+- GBL-6150 Product Specification — [en/products/product-spec/GBL-6150-spec.md](en/products/product-spec/GBL-6150-spec.md)
+- GBL-6150 产品资料 — [zh/products/product-spec/GBL-6150-spec.md](zh/products/product-spec/GBL-6150-spec.md)
+
+## GBL-6161（2）
+
+- GBL-6161D Basin Sensor Faucet Product Specification — [en/products/product-spec/GBL-6161-spec.md](en/products/product-spec/GBL-6161-spec.md)
+- GBL-6161D 面盆感应水龙头 产品规格书 — [zh/products/product-spec/GBL-6161-spec.md](zh/products/product-spec/GBL-6161-spec.md)
+
+## GBL-6161D（2）
+
+- GBL-6161D Product Specification — [en/products/product-spec/GBL-6161D-spec.md](en/products/product-spec/GBL-6161D-spec.md)
+- GBL-6161D 产品资料 — [zh/products/product-spec/GBL-6161D-spec.md](zh/products/product-spec/GBL-6161D-spec.md)
+
+## GBL-6170（2）
+
+- GBL-6170 Product Specification — [en/products/product-spec/GBL-6170-spec.md](en/products/product-spec/GBL-6170-spec.md)
+- GBL-6170 产品资料 — [zh/products/product-spec/GBL-6170-spec.md](zh/products/product-spec/GBL-6170-spec.md)
+
+## GBL-6170D（2）
+
+- GBL-6170D Product Specification — [en/products/product-spec/GBL-6170D-spec.md](en/products/product-spec/GBL-6170D-spec.md)
+- GBL-6170D 产品资料 — [zh/products/product-spec/GBL-6170D-spec.md](zh/products/product-spec/GBL-6170D-spec.md)
+
+## GBL-6172A（2）
+
+- GBL-6172A Product Specification — [en/products/product-spec/GBL-6172A-spec.md](en/products/product-spec/GBL-6172A-spec.md)
+- GBL-6172A 产品资料 — [zh/products/product-spec/GBL-6172A-spec.md](zh/products/product-spec/GBL-6172A-spec.md)
+
+## GBL-6175（2）
+
+- GBL-6175 Product Specification — [en/products/product-spec/GBL-6175-spec.md](en/products/product-spec/GBL-6175-spec.md)
+- GBL-6175 产品资料 — [zh/products/product-spec/GBL-6175-spec.md](zh/products/product-spec/GBL-6175-spec.md)
+
+## GBL-6176（2）
+
+- GBL-6176 Product Specification — [en/products/product-spec/GBL-6176-spec.md](en/products/product-spec/GBL-6176-spec.md)
+- GBL-6176 产品资料 — [zh/products/product-spec/GBL-6176-spec.md](zh/products/product-spec/GBL-6176-spec.md)
+
+## GBL-6177（2）
+
+- GBL-6177 Product Specification — [en/products/product-spec/GBL-6177-spec.md](en/products/product-spec/GBL-6177-spec.md)
+- GBL-6177 产品资料 — [zh/products/product-spec/GBL-6177-spec.md](zh/products/product-spec/GBL-6177-spec.md)
+
+## GBL-6178（2）
+
+- GBL-6178 Product Specification — [en/products/product-spec/GBL-6178-spec.md](en/products/product-spec/GBL-6178-spec.md)
+- GBL-6178 产品资料 — [zh/products/product-spec/GBL-6178-spec.md](zh/products/product-spec/GBL-6178-spec.md)
+
+## GBL-6193D（2）
+
+- GBL-6193D Product Specification — [en/products/product-spec/GBL-6193D-spec.md](en/products/product-spec/GBL-6193D-spec.md)
+- GBL-6193D 产品资料 — [zh/products/product-spec/GBL-6193D-spec.md](zh/products/product-spec/GBL-6193D-spec.md)
+
+## GBL-6193DB（2）
+
+- GBL-6193DB Product Specification — [en/products/product-spec/GBL-6193DB-spec.md](en/products/product-spec/GBL-6193DB-spec.md)
+- GBL-6193DB 产品资料 — [zh/products/product-spec/GBL-6193DB-spec.md](zh/products/product-spec/GBL-6193DB-spec.md)
+
+## GBL-6195（2）
+
+- GBL-6195 Product Specification — [en/products/product-spec/GBL-6195-spec.md](en/products/product-spec/GBL-6195-spec.md)
+- GBL-6195 产品资料 — [zh/products/product-spec/GBL-6195-spec.md](zh/products/product-spec/GBL-6195-spec.md)
+
+## GBL-6213AD（2）
+
+- GBL-6213AD Product Specification — [en/products/product-spec/GBL-6213AD-spec.md](en/products/product-spec/GBL-6213AD-spec.md)
+- GBL-6213AD 产品资料 — [zh/products/product-spec/GBL-6213AD-spec.md](zh/products/product-spec/GBL-6213AD-spec.md)
+
+## GBL-6239（2）
+
+- GBL-6239 Product Specification — [en/products/product-spec/GBL-6239-spec.md](en/products/product-spec/GBL-6239-spec.md)
+- GBL-6239 产品资料 — [zh/products/product-spec/GBL-6239-spec.md](zh/products/product-spec/GBL-6239-spec.md)
+
+## GBL-6291DH（2）
+
+- GBL-6291DH-DS Product Specification — [en/products/product-spec/GBL-6291DH-DS-spec.md](en/products/product-spec/GBL-6291DH-DS-spec.md)
+- GBL-6291DH-DS 产品资料 — [zh/products/product-spec/GBL-6291DH-DS-spec.md](zh/products/product-spec/GBL-6291DH-DS-spec.md)
+
+## GBL-6636AD（2）
+
+- GBL-6636AD Product Specification — [en/products/product-spec/GBL-6636AD-spec.md](en/products/product-spec/GBL-6636AD-spec.md)
+- GBL-6636AD 产品资料 — [zh/products/product-spec/GBL-6636AD-spec.md](zh/products/product-spec/GBL-6636AD-spec.md)
+
+## GBL-8221AD（2）
+
+- GBL-8221AD Product Specification — [en/products/product-spec/GBL-8221AD-spec.md](en/products/product-spec/GBL-8221AD-spec.md)
+- GBL-8221AD 产品资料 — [zh/products/product-spec/GBL-8221AD-spec.md](zh/products/product-spec/GBL-8221AD-spec.md)
+
+## GBL-8300AD（2）
+
+- GBL-8300AD Product Specification — [en/products/product-spec/GBL-8300AD-spec.md](en/products/product-spec/GBL-8300AD-spec.md)
+- GBL-8300AD 产品资料 — [zh/products/product-spec/GBL-8300AD-spec.md](zh/products/product-spec/GBL-8300AD-spec.md)
+
+## GBL-8307AD（2）
+
+- GBL-8307AD Product Specification — [en/products/product-spec/GBL-8307AD-spec.md](en/products/product-spec/GBL-8307AD-spec.md)
+- GBL-8307AD 产品资料 — [zh/products/product-spec/GBL-8307AD-spec.md](zh/products/product-spec/GBL-8307AD-spec.md)
+
+## GBL-9122（2）
+
+- GBL-9122 Product Specification — [en/products/product-spec/GBL-9122-spec.md](en/products/product-spec/GBL-9122-spec.md)
+- GBL-9122 产品资料 — [zh/products/product-spec/GBL-9122-spec.md](zh/products/product-spec/GBL-9122-spec.md)
+
+## GBL-9160（2）
+
+- GBL-9160 Product Specification — [en/products/product-spec/GBL-9160-spec.md](en/products/product-spec/GBL-9160-spec.md)
+- GBL-9160 产品资料 — [zh/products/product-spec/GBL-9160-spec.md](zh/products/product-spec/GBL-9160-spec.md)
+
+## GBL-9165D（2）
+
+- GBL-9165D Product Specification — [en/products/product-spec/GBL-9165D-spec.md](en/products/product-spec/GBL-9165D-spec.md)
+- GBL-9165D 产品资料 — [zh/products/product-spec/GBL-9165D-spec.md](zh/products/product-spec/GBL-9165D-spec.md)
+
+## GBL-9168（2）
+
+- GBL-9168 Product Specification — [en/products/product-spec/GBL-9168-spec.md](en/products/product-spec/GBL-9168-spec.md)
+- GBL-9168 产品资料 — [zh/products/product-spec/GBL-9168-spec.md](zh/products/product-spec/GBL-9168-spec.md)
+
+## GBL-K6238（2）
+
+- GBL-K6238 Product Specification — [en/products/product-spec/GBL-K6238-spec.md](en/products/product-spec/GBL-K6238-spec.md)
+- GBL-K6238 产品资料 — [zh/products/product-spec/GBL-K6238-spec.md](zh/products/product-spec/GBL-K6238-spec.md)
+
+## GBL-TOF（2）
+
+- GBL-TOF Product Specification — [en/products/product-spec/GBL-TOF-spec.md](en/products/product-spec/GBL-TOF-spec.md)
+- GBL-TOF 产品资料 — [zh/products/product-spec/GBL-TOF-spec.md](zh/products/product-spec/GBL-TOF-spec.md)
+
+## GBL-双模感应厨房水龙头（2）
+
+- GBL-双模感应厨房水龙头 Product Specification — [en/products/product-spec/GBL-双模感应厨房水龙头-spec.md](en/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- GBL-双模感应厨房水龙头 产品资料 — [zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md](zh/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+
+## GBL-智能加热盖板（2）
+
+- GBL-智能加热盖板 Product Specification — [en/products/product-spec/GBL-智能加热盖板-spec.md](en/products/product-spec/GBL-智能加热盖板-spec.md)
+- GBL-智能加热盖板 产品资料 — [zh/products/product-spec/GBL-智能加热盖板-spec.md](zh/products/product-spec/GBL-智能加热盖板-spec.md)
+
+## KCM-6150J-HS-spec（2）
+
+- KCM-6150J-HS Product Specification — [en/products/product-spec/KCM-6150J-HS-spec.md](en/products/product-spec/KCM-6150J-HS-spec.md)
+- KCM-6150J-HS 产品资料 — [zh/products/product-spec/KCM-6150J-HS-spec.md](zh/products/product-spec/KCM-6150J-HS-spec.md)
+
+## KCM-DQ01-spec（2）
+
+- KCM-DQ01 Product Specification — [en/products/product-spec/KCM-DQ01-spec.md](en/products/product-spec/KCM-DQ01-spec.md)
+- KCM-DQ01 产品资料 — [zh/products/product-spec/KCM-DQ01-spec.md](zh/products/product-spec/KCM-DQ01-spec.md)
+
+## KCM-ET07-水龙头感应模块-spec（2）
+
+- KCM-ET07-水龙头感应模块 Product Specification — [en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+- KCM-ET07-水龙头感应模块 产品资料 — [zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](zh/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+
+## KCM-SJ02-spec（2）
+
+- KCM-SJ02 Product Specification — [en/products/product-spec/KCM-SJ02-spec.md](en/products/product-spec/KCM-SJ02-spec.md)
+- KCM-SJ02 产品资料 — [zh/products/product-spec/KCM-SJ02-spec.md](zh/products/product-spec/KCM-SJ02-spec.md)
+
+## KCM-组合面板-WDW-spec（2）
+
+- KCM-组合面板-WDW Product Specification — [en/products/product-spec/KCM-组合面板-WDW-spec.md](en/products/product-spec/KCM-组合面板-WDW-spec.md)
+- KCM-组合面板-WDW 产品资料 — [zh/products/product-spec/KCM-组合面板-WDW-spec.md](zh/products/product-spec/KCM-组合面板-WDW-spec.md)
+
+## case（2）
+
+- GIBO Project Case Index — [en/cases/case-index.md](en/cases/case-index.md)
+- Project Cases | 工程案例 — [en/cases/README.md](en/cases/README.md)
+
+## faucet（2）
+
+- GBL-双模感应厨房水龙头 Product Specification — [en/products/product-spec/GBL-双模感应厨房水龙头-spec.md](en/products/product-spec/GBL-双模感应厨房水龙头-spec.md)
+- KCM-ET07-水龙头感应模块 Product Specification — [en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md](en/products/product-spec/KCM-ET07-水龙头感应模块-spec.md)
+
+## hand-sanitizer（2）
+
+- JM01-感应洗手机电控板 Product Specification — [en/products/product-spec/JM01-感应洗手机电控板-spec.md](en/products/product-spec/JM01-感应洗手机电控板-spec.md)
+- Sensor Foam Hand Washer (Subcategory General Content Template) — [en/products/category-templates/感应泡沫洗手机-模版.md](en/products/category-templates/感应泡沫洗手机-模版.md)
+
+## 感应模块（2）
+
+- TOF-激光脚感应模块组件 产品资料 — [zh/products/product-spec/TOF-激光脚感应模块组件-spec.md](zh/products/product-spec/TOF-激光脚感应模块组件-spec.md)
+- 盛世唐朝红外感应模块 产品资料 — [zh/products/product-spec/盛世唐朝红外感应模块-spec.md](zh/products/product-spec/盛世唐朝红外感应模块-spec.md)
+
+## 案例（2）
+
+- 工程案例目录 | Project Cases — [zh/cases/README.md](zh/cases/README.md)
+- 洁博利（GIBO）工程案例总览 — [zh/cases/case-index.md](zh/cases/case-index.md)
+
+## 资料（2）
+
+- 技术实力 — [zh/technology/README.md](zh/technology/README.md)
+- 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
+
+## - AC/DC Switching（1）
+
+- A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware — [en/solutions/solution-a7-acdc-smart-switching-power-adapter.md](en/solutions/solution-a7-acdc-smart-switching-power-adapter.md)
+
+## - Auto Valve Control（1）
+
+- B4 Auto Valve Control & Water-saving Irrigation System Solution — [en/solutions/solution-b4-auto-valve-water-saving-irrigation.md](en/solutions/solution-b4-auto-valve-water-saving-irrigation.md)
+
+## - Digital Display Faucet（1）
+
+- A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution — [en/solutions/solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md](en/solutions/solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md)
+
+## - IR Infrared Sensor（1）
+
+- A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware — [en/solutions/solution-a1-ir-infrared-control-board.md](en/solutions/solution-a1-ir-infrared-control-board.md)
+
+## - IR红外感应（1）
+
+- A1-低功耗感应洁具专用IR红外线路板控制模块方案 — [zh/solutions/A1-低功耗感应洁具专用IR红外线路板控制模块方案.md](zh/solutions/A1-低功耗感应洁具专用IR红外线路板控制模块方案.md)
+
+## - IoT物联网接入技术（1）
+
+- IoT物联网接入技术原理解析 — [zh/technology/18-IoT物联网接入技术原理解析.md](zh/technology/18-IoT物联网接入技术原理解析.md)
+
+## - Kitchen Faucet（1）
+
+- C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution — [en/solutions/solution-c1-kitchen-2in1-foam-sensor-faucet.md](en/solutions/solution-c1-kitchen-2in1-foam-sensor-faucet.md)
+
+## - Liteon灵动感应技术（1）
+
+- Liteon灵动感应技术原理解析 — [zh/technology/7-Liteon灵动感应技术原理解析.md](zh/technology/7-Liteon灵动感应技术原理解析.md)
+
+## - Millimeter Wave Sensing（1）
+
+- A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution — [en/solutions/solution-a5-mmwave-urinal-flush-control-assembly.md](en/solutions/solution-a5-mmwave-urinal-flush-control-assembly.md)
+
+## - Pulse Solenoid Valve（1）
+
+- B1 Pulse Solenoid Valve Assembly Solution — [en/solutions/solution-b1-pulse-solenoid-valve-assembly.md](en/solutions/solution-b1-pulse-solenoid-valve-assembly.md)
+
+## - Quick-install Sensor Faucet（1）
+
+- B6 Quick-Install Mini Sensor Faucet Solution — [en/solutions/solution-b6-quick-install-mini-sensor-faucet.md](en/solutions/solution-b6-quick-install-mini-sensor-faucet.md)
+
+## - Sensor Flush Valve（1）
+
+- B2 Wave Sensing Toilet Flush Assembly Solution — [en/solutions/solution-b2-wave-sensing-toilet-flush-assembly.md](en/solutions/solution-b2-wave-sensing-toilet-flush-assembly.md)
+
+## - Soap Dispenser（1）
+
+- C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution — [en/solutions/solution-c2-foam-soap-dispenser-2in1-control-assembly.md](en/solutions/solution-c2-foam-soap-dispenser-2in1-control-assembly.md)
+
+## - Triangulation Ranging（1）
+
+- A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution — [en/solutions/solution-a2-triangulation-squat-pan-control-module.md](en/solutions/solution-a2-triangulation-squat-pan-control-module.md)
+
+## - Wireless Remote Control（1）
+
+- B3 2.4G Wireless Remote Control Module Solution — [en/solutions/solution-b3-24g-wireless-remote-control-module.md](en/solutions/solution-b3-24g-wireless-remote-control-module.md)
+
+## - dTOF Laser Sensing（1）
+
+- Low-power dTOF Laser Ultra-Sensing Technology — Principle Analysis — [en/technology/02-dtof-laser-sensing-technology.md](en/technology/02-dtof-laser-sensing-technology.md)
+
+## - dTOF激光感应（1）
+
+- 低功耗dTOF激光超感应技术原理解析 — [zh/technology/2-dTOF激光超感应技术原理解析.md](zh/technology/2-dTOF激光超感应技术原理解析.md)
+
+## - 三角测距（1）
+
+- A2-三角测距式蹲便器感应控制模块方案 — [zh/solutions/A2-三角测距式蹲便器感应控制模块方案.md](zh/solutions/A2-三角测距式蹲便器感应控制模块方案.md)
+
+## - 三角测距感应技术（1）
+
+- 三角测距感应技术原理解析 — [zh/technology/三角测距感应技术原理解析.md](zh/technology/三角测距感应技术原理解析.md)
+
+## - 交直流切换（1）
+
+- A7-交直流智能切换感应卫浴专用电源适配器方案 — [zh/solutions/A7-交直流智能切换感应卫浴专用电源适配器方案.md](zh/solutions/A7-交直流智能切换感应卫浴专用电源适配器方案.md)
+
+## - 低功耗多稳态灵动感应技术（1）
+
+- 低功耗多稳态灵动感应技术原理解析 — [zh/technology/6-低功耗多稳态灵动感应技术原理解析.md](zh/technology/6-低功耗多稳态灵动感应技术原理解析.md)
+
+## - 军工级电磁兼容技术（1）
+
+- 军工级电磁兼容技术原理解析 — [zh/technology/12-军工级电磁兼容技术原理解析.md](zh/technology/12-军工级电磁兼容技术原理解析.md)
+
+## - 半双工单线通讯技术（1）
+
+- 半双工单线通讯技术原理解析 — [zh/technology/9-半双工单线通讯技术原理解析.md](zh/technology/9-半双工单线通讯技术原理解析.md)
+
+## - 单窗双模手势智能辨识技术（1）
+
+- 单窗双模手势智能辨识技术原理解析 — [zh/technology/8-单窗双模手势智能辨识技术原理解析.md](zh/technology/8-单窗双模手势智能辨识技术原理解析.md)
+
+## - 厨房龙头（1）
+
+- C1-厨房二合一出水出泡感应龙头方案 — [zh/solutions/C1-厨房二合一出水出泡感应龙头方案.md](zh/solutions/C1-厨房二合一出水出泡感应龙头方案.md)
+
+## - 双模强光免疫抗干扰算法（1）
+
+- 双模强光免疫抗干扰算法原理解析 — [zh/technology/11-双模强光免疫抗干扰算法原理解析.md](zh/technology/11-双模强光免疫抗干扰算法原理解析.md)
+
+## - 双芯片互换平台技术（1）
+
+- 双芯片互换平台技术原理解析 — [zh/technology/10-双芯片互换平台技术原理解析.md](zh/technology/10-双芯片互换平台技术原理解析.md)
+
+## - 快装感应水嘴（1）
+
+- B6-快装感应水嘴Mini方案 — [zh/solutions/B6-快装感应水嘴Mini方案.md](zh/solutions/B6-快装感应水嘴Mini方案.md)
+
+## - 感应冲水器（1）
+
+- B2-挥手感应马桶冲水组件方案 — [zh/solutions/B2-挥手感应马桶冲水组件方案.md](zh/solutions/B2-挥手感应马桶冲水组件方案.md)
+
+## - 数显龙头（1）
+
+- A6-低功耗数显面盆龙头双感应控制组件方案 — [zh/solutions/A6-低功耗数显面盆龙头双感应控制组件方案.md](zh/solutions/A6-低功耗数显面盆龙头双感应控制组件方案.md)
+
+## - 无线遥控（1）
+
+- B3-2.4G无线遥控组件方案 — [zh/solutions/B3-2.4G无线遥控组件方案.md](zh/solutions/B3-2.4G无线遥控组件方案.md)
+
+## - 无线遥控技术（1）
+
+- 无线遥控技术原理解析 — [zh/technology/5-无线遥控技术原理解析.md](zh/technology/5-无线遥控技术原理解析.md)
+
+## - 智能淋浴精准恒温控温技术（1）
+
+- 智能淋浴精准恒温控温技术原理解析 — [zh/technology/14-智能淋浴精准恒温控温技术原理解析.md](zh/technology/14-智能淋浴精准恒温控温技术原理解析.md)
+
+## - 智能防溢水断电安全保护技术（1）
+
+- 智能防溢水断电安全保护技术原理解析 — [zh/technology/13-智能防溢水断电安全保护技术原理解析.md](zh/technology/13-智能防溢水断电安全保护技术原理解析.md)
+
+## - 毫米波感应（1）
+
+- A5-低功耗小便器MV毫米波感应冲水控制组件方案 — [zh/solutions/A5-低功耗小便器MV毫米波感应冲水控制组件方案.md](zh/solutions/A5-低功耗小便器MV毫米波感应冲水控制组件方案.md)
+
+## - 毫米波感应技术（1）
+
+- 毫米波感应技术原理解析 — [zh/technology/3-毫米波感应技术原理解析.md](zh/technology/3-毫米波感应技术原理解析.md)
+
+## - 水力发电储能技术（1）
+
+- 水力发电储能技术原理解析 — [zh/technology/17-水力发电储能技术原理解析.md](zh/technology/17-水力发电储能技术原理解析.md)
+
+## - 电容触控技术（1）
+
+- 电容触控技术原理解析 — [zh/technology/4-电容触控技术原理解析.md](zh/technology/4-电容触控技术原理解析.md)
+
+## - 电磁阀低水锤设计技术（1）
+
+- 电磁阀低水锤设计技术原理解析 — [zh/technology/15-电磁阀低水锤设计技术原理解析.md](zh/technology/15-电磁阀低水锤设计技术原理解析.md)
+
+## - 电磁阀自洁防堵技术（1）
+
+- 电磁阀自洁防堵技术原理解析 — [zh/technology/16-电磁阀自洁防堵技术原理解析.md](zh/technology/16-电磁阀自洁防堵技术原理解析.md)
+
+## - 皂液器（1）
+
+- C2-感应泡沫皂液二合一控制组件方案 — [zh/solutions/C2-感应泡沫皂液二合一控制组件方案.md](zh/solutions/C2-感应泡沫皂液二合一控制组件方案.md)
+
+## - 红外感应线路板（1）
+
+- 红外感应线路板技术原理解析 — [zh/products/product-manual/红外感应线路板技术原理解析.md](zh/products/product-manual/红外感应线路板技术原理解析.md)
+
+## - 脉冲电磁阀（1）
+
+- B1-脉冲电磁阀组件方案 — [zh/solutions/B1-脉冲电磁阀组件方案.md](zh/solutions/B1-脉冲电磁阀组件方案.md)
+
+## - 自动阀控（1）
+
+- B4-自动阀控与节水浇灌系统方案 — [zh/solutions/B4-自动阀控与节水浇灌系统方案.md](zh/solutions/B4-自动阀控与节水浇灌系统方案.md)
+
+## 1086（1）
+
+- 洁博利GIBO 1086 智能盖板 产品说明书 — [zh/products/product-manual/1086智能盖板CN_说明书.md](zh/products/product-manual/1086智能盖板CN_说明书.md)
+
+## 19678（1）
+
+- GBT 19678-2005 说明书的编制 构成、内容和表示方法 — [assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md](assets/standard/01-国家标准/GBT 19678-2005 说明书的编制 构成、内容和表示方法.md)
+
+## 20161（1）
+
+- GIBO 20161 Sensor Nozzle Product Manual — [en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20161_Sensor_Nozzle_EN_Manual.md)
+
+## 20201（1）
+
+- GIBO 20201 Sensor Nozzle Product Manual — [en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/20201_Sensor_Nozzle_EN_Manual.md)
+
+## 2024（1）
+
+- T/XMBK 002—2024《感应式水嘴》团体标准配套技术白皮书 — [zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md](zh/whitepapers/感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
+
+## 31555（1）
+
+- GIBO 31555 Squat Toilet Sensor Product Manual — [en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md](en/products/product-manual/31555_Sensor_Squat_Toilet_JP_Manual.md)
+
+## 33554（1）
+
+- 洁博利GIBO 33554 感应干手器 产品说明书 — [zh/products/product-manual/33554感应干手器CN_说明书.md](zh/products/product-manual/33554感应干手器CN_说明书.md)
+
+## 33602（1）
+
+- 洁博利GIBO 33602 感应洁具 产品说明书 — [zh/products/product-manual/33602产品CN_说明书.md](zh/products/product-manual/33602产品CN_说明书.md)
+
+## 33605（1）
+
+- 洁博利GIBO 33605 感应洁具 产品说明书 — [zh/products/product-manual/33605产品CN_说明书.md](zh/products/product-manual/33605产品CN_说明书.md)
+
+## 6110（1）
+
+- 洁博利GIBO 6110 感应龙头 产品说明书 — [zh/products/product-manual/6110感应龙头CN_说明书.md](zh/products/product-manual/6110感应龙头CN_说明书.md)
+
+## 6111（1）
+
+- GIBO 6111 Sensor Faucet Product Manual — [en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6111_Sensor_Faucet_EN_Manual.md)
+
+## 6113（1）
+
+- GIBO 6113 Sensor Faucet Product Manual — [en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6113_Sensor_Faucet_EN_Manual.md)
+
+## 6120（1）
+
+- GIBO 6120 Sensor Faucet Product Manual — [en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6120_Sensor_Faucet_EN_Manual.md)
+
+## 6134（1）
+
+- 洁博利GIBO 6134 感应龙头 产品说明书 — [zh/products/product-manual/6134感应龙头CN_说明书.md](zh/products/product-manual/6134感应龙头CN_说明书.md)
+
+## 6150（1）
+
+- GIBO 6150 Sensor Faucet Product Manual — [en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6150_Sensor_Faucet_EN_Manual.md)
+
+## 6151（1）
+
+- GIBO 6151 Sensor Faucet Product Manual — [en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6151_Sensor_Faucet_EN_Manual.md)
+
+## 6152（1）
+
+- GIBO 6152 Sensor Faucet Product Manual — [en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6152_Sensor_Faucet_EN_Manual.md)
+
+## 6153（1）
+
+- GIBO 6153 Sensor Faucet Product Manual — [en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6153_Sensor_Faucet_EN_Manual.md)
+
+## 6154（1）
+
+- GIBO 6154 Sensor Faucet Product Manual — [en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6154_Sensor_Faucet_EN_Manual.md)
+
+## 6155（1）
+
+- GIBO 6155 Sensor Faucet Product Manual — [en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6155_Sensor_Faucet_EN_Manual.md)
+
+## 6157（1）
+
+- GIBO 6157 Sensor Faucet Product Manual — [en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6157_Sensor_Faucet_EN_Manual.md)
+
+## 6160（1）
+
+- 洁博利GIBO 6160 感应龙头 产品说明书 — [zh/products/product-manual/6160感应龙头CN_说明书.md](zh/products/product-manual/6160感应龙头CN_说明书.md)
+
+## 6170（1）
+
+- GIBO 6170 Sensor Faucet Product Manual — [en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md](en/products/product-manual/6170_Sensor_Faucet_EN_Manual.md)
+
+## 6172（1）
+
+- 洁博利GIBO 6172 感应龙头 产品说明书 — [zh/products/product-manual/6172感应面盆龙头CN_说明书.md](zh/products/product-manual/6172感应面盆龙头CN_说明书.md)
+
+## 6200（1）
+
+- 洁博利GIBO 6200 感应洁具 产品说明书 — [zh/products/product-manual/6200产品CN_说明书.md](zh/products/product-manual/6200产品CN_说明书.md)
+
+## 6202（1）
+
+- 洁博利GIBO 6202 感应洁具 产品说明书 — [zh/products/product-manual/6202产品CN_说明书.md](zh/products/product-manual/6202产品CN_说明书.md)
+
+## 6210（1）
+
+- 洁博利GIBO 6210 小便感应冲水器 产品说明书 — [zh/products/product-manual/6210小便冲水器CN_说明书.md](zh/products/product-manual/6210小便冲水器CN_说明书.md)
+
+## 6213（1）
+
+- 洁博利GIBO 6213 小便感应冲水器 产品说明书 — [zh/products/product-manual/6213小便冲水器CN_说明书.md](zh/products/product-manual/6213小便冲水器CN_说明书.md)
+
+## 6215（1）
+
+- 洁博利GIBO 6215 小便感应冲水器 产品说明书 — [zh/products/product-manual/6215小便冲水器CN_说明书.md](zh/products/product-manual/6215小便冲水器CN_说明书.md)
+
+## 6306（1）
+
+- 洁博利GIBO 6306 感应洁具 产品说明书 — [zh/products/product-manual/6306产品CN_说明书.md](zh/products/product-manual/6306产品CN_说明书.md)
+
+## 6310（1）
+
+- GIBO 6310 Squat Toilet Sensor Product Manual — [en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/6310_Sensor_Squat_Toilet_EN_Manual.md)
+
+## 6313（1）
+
+- 洁博利GIBO 6313 感应洁具 产品说明书 — [zh/products/product-manual/6313产品CN_说明书.md](zh/products/product-manual/6313产品CN_说明书.md)
+
+## 64xx（1）
+
+- 洁博利GIBO 64xx 感应淋浴器 产品说明书 — [zh/products/product-manual/64xx淋浴器CN_EN_说明书.md](zh/products/product-manual/64xx淋浴器CN_EN_说明书.md)
+
+## 6631（1）
+
+- GIBO 6631 Soap Dispenser Product Manual — [en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6631_Foam_Soap_Dispenser_EN_Manual.md)
+
+## 6632（1）
+
+- GIBO 6632 Soap Dispenser Product Manual — [en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md](en/products/product-manual/6632_Foam_Soap_Dispenser_EN_Manual.md)
+
+## 6634（1）
+
+- 洁博利GIBO 6634 感应龙头 产品说明书 — [zh/products/product-manual/6634感应龙头CN_说明书.md](zh/products/product-manual/6634感应龙头CN_说明书.md)
+
+## 6635（1）
+
+- 洁博利GIBO 6635 感应龙头 产品说明书 — [zh/products/product-manual/6635感应龙头CN_说明书.md](zh/products/product-manual/6635感应龙头CN_说明书.md)
+
+## 6712（1）
+
+- 洁博利GIBO 6712 感应淋浴器 产品说明书 — [zh/products/product-manual/6712淋浴器CN_说明书.md](zh/products/product-manual/6712淋浴器CN_说明书.md)
+
+## 67xx（1）
+
+- 洁博利GIBO 67xx 感应节水器 产品说明书 — [zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md](zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+
+## 8300（1）
+
+- GIBO 8300 Squat Toilet Sensor Product Manual — [en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8300_Sensor_Squat_Toilet_EN_Manual.md)
+
+## 8301（1）
+
+- GIBO 8301 Squat Toilet Sensor Product Manual — [en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8301_Sensor_Squat_Toilet_EN_Manual.md)
+
+## 8306（1）
+
+- GIBO 8306 Squat Toilet Sensor Product Manual — [en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/8306_Sensor_Squat_Toilet_EN_Manual.md)
+
+## 8307（1）
+
+- 洁博利GIBO 8307 蹲便感应器 产品说明书 — [zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md)
+
+## 8308（1）
+
+- 洁博利GIBO 8308 蹲便感应器 产品说明书 — [zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md](zh/products/product-manual/8308蹲便感应器CN_EN_说明书.md)
+
+## 9101（1）
+
+- GIBO 9101 Sensor Faucet Product Manual — [en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9101_Sensor_Faucet_EN_Manual.md)
+
+## 9105（1）
+
+- GIBO 9105 Sensor Faucet Product Manual — [en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md](en/products/product-manual/9105_Sensor_Faucet_EN_Manual.md)
+
+## 9120（1）
+
+- 洁博利GIBO 9120 感应龙头 产品说明书 — [zh/products/product-manual/9120即热龙头CN_说明书.md](zh/products/product-manual/9120即热龙头CN_说明书.md)
+
+## 9162（1）
+
+- 洁博利GIBO 9162 感应洁具 产品说明书 — [zh/products/product-manual/9162产品CN_说明书.md](zh/products/product-manual/9162产品CN_说明书.md)
+
+## GBL-52052感应龙头CN_说明书（1）
+
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-52052感应龙头CN_说明书.md](zh/products/product-manual/GBL-52052感应龙头CN_说明书.md)
+
+## GBL-6103_Sensor_Faucet_EN_Manual（1）
+
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6103_Sensor_Faucet_EN_Manual.md)
+
+## GBL-6106_Sensor_Faucet_EN_Manual（1）
+
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6106_Sensor_Faucet_EN_Manual.md)
+
+## GBL-6106感应龙头CN_EN_说明书（1）
+
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6106感应龙头CN_EN_说明书.md)
+
+## GBL-6108DZ产品CN_说明书（1）
+
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6108DZ产品CN_说明书.md](zh/products/product-manual/GBL-6108DZ产品CN_说明书.md)
+
+## GBL-6108D_Sensor_Faucet_EN_Manual（1）
+
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md](en/products/product-manual/GBL-6108D_Sensor_Faucet_EN_Manual.md)
+
+## GBL-6120产品CN_EN_说明书（1）
+
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6120产品CN_EN_说明书.md](zh/products/product-manual/GBL-6120产品CN_EN_说明书.md)
+
+## GBL-6120感应龙头CN_EN_说明书（1）
+
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md](zh/products/product-manual/GBL-6120感应龙头CN_EN_说明书.md)
+
+## GBL-6161产品CN_说明书（1）
+
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6161产品CN_说明书.md](zh/products/product-manual/GBL-6161产品CN_说明书.md)
+
+## GBL-6170_Sensor_Basin_Faucet_EN_Manual（1）
+
+- GIBO Sensor Faucet Product Manual — [en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md](en/products/product-manual/GBL-6170_Sensor_Basin_Faucet_EN_Manual.md)
+
+## GBL-6195感应节水宝CN_说明书（1）
+
+- 洁博利GIBO 感应节水宝 产品说明书 — [zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md](zh/products/product-manual/GBL-6195感应节水宝CN_说明书.md)
+
+## GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual（1）
+
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197D_Sensor_Water_Saving_Nozzle_JP_Manual.md)
+
+## GBL-6197D感应节水水嘴CN_说明书（1）
+
+- 洁博利GIBO 感应节水器 产品说明书 — [zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md](zh/products/product-manual/GBL-6197D感应节水水嘴CN_说明书.md)
+
+## GBL-6197_Sensor_Nozzle_JP_Manual（1）
+
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md](en/products/product-manual/GBL-6197_Sensor_Nozzle_JP_Manual.md)
+
+## GBL-6198A_Sensor_Nozzle_EN_Manual（1）
+
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198A_Sensor_Nozzle_EN_Manual.md)
+
+## GBL-6198_Sensor_Nozzle_EN_Manual（1）
+
+- GIBO Sensor Nozzle Product Manual — [en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md](en/products/product-manual/GBL-6198_Sensor_Nozzle_EN_Manual.md)
+
+## GBL-6215_Urinal_Flush_Valve_JP_Manual（1）
+
+- GIBO Urinal Flusher Product Manual — [en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md](en/products/product-manual/GBL-6215_Urinal_Flush_Valve_JP_Manual.md)
+
+## GBL-6233产品CN_说明书（1）
+
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6233产品CN_说明书.md](zh/products/product-manual/GBL-6233产品CN_说明书.md)
+
+## GBL-6291感应水嘴CN_EN_说明书（1）
+
+- 洁博利GIBO 感应水嘴 产品说明书 — [zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md](zh/products/product-manual/GBL-6291感应水嘴CN_EN_说明书.md)
+
+## GBL-6303D蹲便感应器CN_EN_说明书（1）
+
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md)
+
+## GBL-6306蹲便感应器CN_EN_说明书（1）
+
+- 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md)
+
+## GBL-6308_Sensor_Squat_Toilet_EN_Manual（1）
+
+- GIBO Squat Toilet Sensor Product Manual — [en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md](en/products/product-manual/GBL-6308_Sensor_Squat_Toilet_EN_Manual.md)
+
+## GBL-6308产品EN_说明书（1）
+
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-6308产品EN_说明书.md](zh/products/product-manual/GBL-6308产品EN_说明书.md)
+
+## GBL-9120A即热龙头CN_说明书（1）
+
+- 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
+
+## GBL-9162产品CN_说明书（1）
+
+- 洁博利GIBO 感应洁具 产品说明书 — [zh/products/product-manual/GBL-9162产品CN_说明书.md](zh/products/product-manual/GBL-9162产品CN_说明书.md)
+
+## brand-comparison（1）
+
+- GIBO Brand Comparison Analysis — [en/products/brand-comparison.md](en/products/brand-comparison.md)
+
+## control-box（1）
+
+- BC-KZH-9168控制盒 Product Specification — [en/products/product-spec/BC-KZH-9168控制盒-spec.md](en/products/product-spec/BC-KZH-9168控制盒-spec.md)
+
+## faq-index（1）
+
+- GIBO 常见问题 FAQ 索引 — [faq-index.md](faq-index.md)
+
+## kitchen-faucet（1）
+
+- GIBO-触控厨房龙头控制组件 Product Specification — [en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md](en/products/product-spec/GIBO-触控厨房龙头控制组件-spec.md)
+
+## product-index（1）
+
+- GIBO 产品资料总索引 — [product-index.md](product-index.md)
+
+## sensor-spout（1）
+
+- Sensor Spout — Subcategory General Content Template — [en/products/category-templates/感应水嘴-模版.md](en/products/category-templates/感应水嘴-模版.md)
+
+## sensor-urinal（1）
+
+- Sensor Urinal Flusher — General Content Template — [en/products/category-templates/感应小便器-模版.md](en/products/category-templates/感应小便器-模版.md)
+
+## soap-dispenser（1）
+
+- 皂液器/干手器控制板 — [en/solutions/soap-dispenser-control-board.md](en/solutions/soap-dispenser-control-board.md)
+
+## standard（1）
+
+- Standards Participation & Certification Index — [en/certification/standards-index.md](en/certification/standards-index.md)
+
+## tags-index（1）
+
+- GIBO 知识库标签聚合索引 — [tags-index.md](tags-index.md)
+
+## thermostatic（1）
+
+- LED数显温控模组 — [en/solutions/led-digital-display-module.md](en/solutions/led-digital-display-module.md)
+
+## toilet（1）
+
+- Z系列智能马桶 Product Specification — [en/products/product-spec/Z系列智能马桶-spec.md](en/products/product-spec/Z系列智能马桶-spec.md)
+
+## 产品索引（1）
+
+- GIBO 产品资料总索引 — [product-index.md](product-index.md)
+
+## 品牌对比（1）
+
+- 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
+
+## 干手机（1）
+
+- 德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE — [assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md](assets/standard/04-国际标准/德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE.md)
+
+## 感应小便器（1）
+
+- 感应小便器 — 通用内容母本 — [zh/products/category-templates/感应小便器-模版.md](zh/products/category-templates/感应小便器-模版.md)
+
+## 控制盒（1）
+
+- BC-KZH-9168控制盒 产品资料 — [zh/products/product-spec/BC-KZH-9168控制盒-spec.md](zh/products/product-spec/BC-KZH-9168控制盒-spec.md)
+
+## 标签索引（1）
+
+- GIBO 知识库标签聚合索引 — [tags-index.md](tags-index.md)
+
+## 马桶（1）
+
+- Z系列智能马桶 产品资料 — [zh/products/product-spec/Z系列智能马桶-spec.md](zh/products/product-spec/Z系列智能马桶-spec.md)

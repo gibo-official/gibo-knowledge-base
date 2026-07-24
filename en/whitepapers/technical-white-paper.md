@@ -7,6 +7,13 @@ source: Corporate Website (gibo.com.cn) / GIBO Product Specifications / CNIPA Pa
 keywords: dTOF laser sensing, direct Time-of-Flight, sensor faucet, EMC electromagnetic compatibility, ESD protection, low power consumption, bistable solenoid valve, GIBO core technology, sanitary ware ODM
 status: ✅ Complete (Technical White Paper Series 01-03, Full Set)
 series: Technical White Paper Series
+
+lang: en
+category: whitepaper
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+summary: "title: Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware"
+updated: 2026-06-12
 ---
 
 # dTOF Laser Sensing Technology for Smart Sanitary Ware Applications

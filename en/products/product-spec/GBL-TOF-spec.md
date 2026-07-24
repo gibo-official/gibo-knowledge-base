@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-TOF"
+tags: ["GIBO", "product-spec", "GBL-TOF", "AI-knowledge-base"]
+summary: "The GBL-TOF Sensor Toilet Flusher uses laser TOF (time-of-flight) ranging. Mounted on squat pans or toilets, it auto-flushes when a person steps in an"
+updated: 2026-07-14
 ---
 # GBL-TOF Product Specification
 

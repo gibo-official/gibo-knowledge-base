@@ -15,6 +15,12 @@ tags:
   - Materials Engineering
   - Sensing Technology
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: Ceramic Sprinkler Technical Deep Dive"
+updated: 2026-06-12
 ---
 
 # Ceramic Sprinkler Technical Deep Dive

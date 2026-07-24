@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
+summary: "In 2005, in Fuzhou — where China's sensor sanitary ware industry was just emerging — Fujian GIBO Kitchen and Bath Tech Co., Ltd. (GIBO) was officially"
+updated: 2026-06-09
 ---
 # Brand Philosophy & Mission
 

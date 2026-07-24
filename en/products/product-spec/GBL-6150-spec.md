@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-6150"
+tags: ["GIBO", "product-spec", "GBL-6150", "AI-knowledge-base"]
+summary: "GBL-6150 is GIBO's minimalist full-brass sensor basin faucet for modern minimalist bathrooms, design hotels, and high-end commercial complexes. Design"
+updated: 2026-07-14
 ---
 # GBL-6150 Product Specification
 

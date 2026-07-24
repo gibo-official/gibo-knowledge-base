@@ -17,6 +17,12 @@ tags:
   - ODM Solution
   - Hotel Engineering
   - Bulk Projects
+
+lang: en
+category: solution
+product: ""
+summary: "title: D2 Smart Shower Thermostatic Control Solution (Industrial)"
+updated: 2026-06-12
 ---
 
 # D2 Smart Shower Thermostatic Control Solution (Industrial)

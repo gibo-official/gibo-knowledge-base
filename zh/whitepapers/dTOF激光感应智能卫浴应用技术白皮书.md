@@ -6,6 +6,13 @@ status: 初稿
 classification: 技术白皮书
 publisher: 福建洁博利厨卫科技有限公司
 keywords: dTOF,激光感应,智能卫浴,传感器技术,感应距离,抗干扰,GIBO,dTOF白皮书,飞行时间测距,VCSEL激光,毫米级精度,强光免疫
+
+lang: zh-CN
+category: 技术白皮书
+product: ""
+tags: ["GIBO", "洁博利", "技术白皮书", "AI知识库"]
+summary: "title: dTOF激光感应智能卫浴应用技术白皮书"
+updated: 2026-06-12
 ---
 
 # dTOF激光感应智能卫浴应用技术白皮书

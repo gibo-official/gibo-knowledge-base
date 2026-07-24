@@ -15,6 +15,12 @@ tags:
   - Sensor Flush
   - Public Sanitary Ware
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution"
+updated: 2026-06-12
 ---
 
 # A2 Triangulation Ranging Squat Pan Sensor Control Module Solution

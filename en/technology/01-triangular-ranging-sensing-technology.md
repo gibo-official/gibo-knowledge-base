@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "This technology offers excellent performance in short-range precision measurement (5–30 cm), making it ideal for sensor faucets and sanitary ware appl"
+updated: 2026-07-14
 ---
 # Triangular Ranging Sensing Technology — Technical Principle Analysis
 

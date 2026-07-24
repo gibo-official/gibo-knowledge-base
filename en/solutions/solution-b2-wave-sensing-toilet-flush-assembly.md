@@ -14,6 +14,12 @@ tags:
   - Aging-friendly
   - Smart Sanitary Ware
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: B2 Wave Sensing Toilet Flush Assembly Solution"
+updated: 2026-06-12
 ---
 
 # B2 Wave Sensing Toilet Flush Assembly Solution

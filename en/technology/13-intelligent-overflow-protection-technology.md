@@ -3,6 +3,13 @@ title: "Intelligent Overflow Power-off Safety Protection Technology — Technica
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis

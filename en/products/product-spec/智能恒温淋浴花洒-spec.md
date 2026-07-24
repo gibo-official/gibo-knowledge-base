@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "shower", "AI-knowledge-base"]
+summary: "The Smart Thermostatic Shower is a smart shower solution for villa master bathrooms, high-end apartments, and residences in cold regions. Its core is"
+updated: 2026-07-14
 ---
 # 智能恒温淋浴花洒 Product Specification
 

@@ -15,6 +15,12 @@ tags:
   - 穿透感应
   - 智能冲水
   - ODM方案
+
+lang: zh-CN
+category: 解决方案
+product: ""
+summary: "title: A5-低功耗小便器MV毫米波感应冲水控制组件方案"
+updated: 2026-06-12
 ---
 
 # A5 低功耗小便器MV毫米波感应冲水控制组件方案

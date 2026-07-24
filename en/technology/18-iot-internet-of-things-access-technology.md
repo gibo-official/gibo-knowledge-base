@@ -3,6 +3,13 @@ title: "IoT (Internet of Things) Access Technology — Technical Principle Analy
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'IoT (Internet of Things) Access Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # IoT (Internet of Things) Access Technology — Technical Principle Analysis

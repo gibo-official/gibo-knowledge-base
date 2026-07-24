@@ -3,6 +3,13 @@ title: "Smart Shower Precise Thermostatic Control Technology — Technical Princ
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis

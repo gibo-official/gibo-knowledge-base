@@ -5,6 +5,10 @@ category: 感应水龙头（红外感应 R 类）
 version: 1.0
 updated: 2019-10-18
 source: gibo-GBL-6161-规格书（版次1.0）.pdf
+
+lang: zh-CN
+tags: ["GIBO", "洁博利", "产品规格", "感应水龙头", "GBL-6161", "AI知识库"]
+summary: "product: GBL-6161D"
 ---
 
 # GBL-6161D 面盆感应水龙头 产品规格书

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "sensor-module", "AI-knowledge-base"]
+summary: "This module uses dTOF laser ranging (Core Technology 2, Low-power dTOF Laser Ultra-sensing Technology; the main board's sensor is the laser dTOF MT380"
+updated: 2026-07-14
 ---
 # TOF-激光脚感应模块组件 Product Specification
 

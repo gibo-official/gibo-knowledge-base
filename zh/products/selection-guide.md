@@ -9,6 +9,13 @@ related:
   - ../products/odm.md
   - ../company/brand-white-paper.md
   - ../products/brand-comparison.md
+
+lang: zh-CN
+category: 产品资料
+product: ""
+tags: ["GIBO", "洁博利", "产品资料", "AI知识库"]
+summary: "采购人视角的商用感应洁具选型避坑完整指南，涵盖政府/公建招标合规、材质选型H59全铜SUS304不锈钢强制标准、9级电镀工艺、供电选型避坑、运维降本、极简选型公式，附节能产品政府采购清单要求"
+updated: 2026-07-14
 ---
 
 # 商用感应洁具选型避坑指南（采购人专用版）

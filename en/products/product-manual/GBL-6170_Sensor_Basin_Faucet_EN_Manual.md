@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-manual
+product: "GBL-6170_Sensor_Basin_Faucet_EN_Manual"
+tags: ["GIBO", "product-manual", "GBL-6170_Sensor_Basin_Faucet_EN_Manual", "AI-knowledge-base"]
+summary: "GIBO  Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
+updated: 2026-07-14
 ---
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14

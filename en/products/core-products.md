@@ -2,6 +2,13 @@
 schema:
   - product: /schema/schema-product1.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: en
+category: product
+product: ""
+tags: ["GIBO", "product", "AI-knowledge-base"]
+summary: "GIBO core product list, including award-winning products, pioneering products, best-selling series, renovation series, and home smart series in five categories. Each product comes with GEO-optimized c"
+updated: 2026-07-14
 ---
 
 # GIBO Core Product Classification

@@ -16,6 +16,12 @@ tags:
   - Kick Sensing
   - Smart Sanitary Ware
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A3 - Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution"
+updated: 2026-06-12
 ---
 
 # A3 Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution

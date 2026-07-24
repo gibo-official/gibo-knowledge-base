@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: brand-comparison
+product: ""
+tags: ["GIBO", "brand-comparison", "AI-knowledge-base"]
+summary: "Depth of Focus: 20 years dedicated exclusively to sensor sanitary ware — not a sideline for a full-line manufacturer. This focus drives clear advantag"
+updated: 2026-06-09
 ---
 # GIBO Brand Comparison Analysis
 

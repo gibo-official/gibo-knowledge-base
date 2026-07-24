@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-05
+
+lang: en
+category: whitepaper
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+summary: "See zh/whitepapers/README.md for the full Chinese index."
+updated: 2026-07-05
 ---
 # GIBO White Papers & Technology Achievement Reports
 

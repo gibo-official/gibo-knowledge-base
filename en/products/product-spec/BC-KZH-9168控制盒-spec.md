@@ -5,6 +5,10 @@ category: Sensor Control Component
 version: V1.0
 updated: 2024-06-04
 source: BC-KZH-9168 控制盒规格书V1.0_20240604.docx / .pdf
+
+lang: en
+tags: ["GIBO", "product-spec", "control-box", "BC-KZH-9168控制盒-spec", "AI-knowledge-base"]
+summary: "product: BC-KZH-9168"
 ---
 
 # BC-KZH-9168控制盒 Product Specification

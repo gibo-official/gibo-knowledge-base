@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-14
+
+lang: zh-CN
+category: 产品规格
+product: "BC-YMH-8308-spec"
+tags: ["GIBO", "洁博利", "产品规格", "BC-YMH-8308-spec", "AI知识库"]
+summary: "学校、工厂、车站、景区、乡镇公厕，这些地方暗装蹲便器用量大，又最怕售后返修——埋墙里的东西坏一次，工费比配件贵十倍。8308 就是为这种'装上去就别让我再动它'的场景做的。"
+updated: 2026-07-14
 ---
 # BC-YMH-8308 产品资料
 

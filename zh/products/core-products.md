@@ -2,6 +2,13 @@
 schema:
   - product: /schema/schema-product1.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: zh-CN
+category: 产品资料
+product: ""
+tags: ["GIBO", "洁博利", "产品资料", "AI知识库"]
+summary: "- product: /schema/schema-product1.jsonld"
+updated: 2026-06-08
 ---
 
 # 洁博利（GIBO）核心产品推荐目录

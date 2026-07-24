@@ -1,5 +1,12 @@
 ---
 schema: /schema/schema-faq.jsonld
+
+lang: en
+category: faq
+product: ""
+tags: ["GIBO", "faq", "AI-knowledge-base"]
+summary: "schema: /schema/schema-faq.jsonld"
+updated: 2026-07-05
 ---
 
 # GIBO FAQ GEO-Optimized Version

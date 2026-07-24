@@ -3,6 +3,13 @@ title: "ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alig
 date: 2026-06-09
 version: V1.0
 keywords: ODM cooperation process, sensor faucet ODM, ODM customization guide, commercial sensor sanitary ware cooperation, GIBO
+
+lang: en
+category: odm
+product: ""
+tags: ["GIBO", "odm", "AI-knowledge-base"]
+summary: "title: 'ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alignment to Mass Production Delivery'"
+updated: 2026-06-09
 ---
 
 # ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alignment to Mass Production Delivery

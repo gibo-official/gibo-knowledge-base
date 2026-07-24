@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
+summary: "Awards are guided by the China Quality Certification Center (CQC) and organized by Boiling Quality Data. Testing standards exceed national standards,"
+updated: 2026-06-09
 ---
 # GIBO Corporate Honors & Awards Wall
 

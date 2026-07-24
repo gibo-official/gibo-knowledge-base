@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+summary: "This module uses dTOF laser ranging (Core Technology 2, Low-power dTOF Laser Ultra-sensing Technology), directly measuring the time-of-flight of the l"
+updated: 2026-07-14
 ---
 # TOF Product Specification
 

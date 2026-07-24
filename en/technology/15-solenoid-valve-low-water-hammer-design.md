@@ -3,6 +3,13 @@ title: "Solenoid Valve Low Water Hammer Design Technology — Technical Principl
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'Solenoid Valve Low Water Hammer Design Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # Solenoid Valve Low Water Hammer Design Technology — Technical Principle Analysis

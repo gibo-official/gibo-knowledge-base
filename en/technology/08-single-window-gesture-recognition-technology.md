@@ -3,6 +3,13 @@ title: "Single-window Dual-mode Gesture Recognition Technology — Technical Pri
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis

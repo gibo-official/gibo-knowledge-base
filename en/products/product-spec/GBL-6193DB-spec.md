@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-6193DB"
+tags: ["GIBO", "product-spec", "GBL-6193DB", "AI-knowledge-base"]
+summary: "The GBL-6193DB is GIBO's dual-sensor hand washer designed for demanding medical environments. The product uses an ABS chrome-plated shell, wall-mounte"
+updated: 2026-07-14
 ---
 # GBL-6193DB Product Specification
 

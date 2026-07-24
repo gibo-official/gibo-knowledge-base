@@ -3,6 +3,13 @@ title: "Hydroelectric Power Generation & Storage Technology — Technical Princi
 date: 2026-07-05
 author: "GIBO Technology Team"
 status: V1.0
+
+lang: en
+category: document
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+summary: "title: 'Hydroelectric Power Generation & Storage Technology — Technical Principle Analysis'"
+updated: 2026-07-05
 ---
 
 # Hydroelectric Power Generation & Storage Technology — Technical Principle Analysis

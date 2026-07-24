@@ -15,6 +15,12 @@ tags:
   - 出水嘴控制
   - 水雾穿透
   - ODM方案
+
+lang: zh-CN
+category: 解决方案
+product: ""
+summary: "title: A4-dTOF出水嘴激光感应水龙头控制板方案"
+updated: 2026-06-12
 ---
 
 # A4 dTOF出水嘴激光感应水龙头控制板方案

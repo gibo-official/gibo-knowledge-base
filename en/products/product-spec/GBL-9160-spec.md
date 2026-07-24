@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-9160"
+tags: ["GIBO", "product-spec", "GBL-9160", "AI-knowledge-base"]
+summary: "The GBL-9160 is a concealed integrated sensor urinal launched by GIBO for commercial restrooms, public toilets, and high-end hotel washrooms. Its core"
+updated: 2026-07-14
 ---
 # GBL-9160 Product Specification
 

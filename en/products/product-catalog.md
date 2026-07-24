@@ -1,4 +1,10 @@
 ---
+lang: en
+category: product
+product: ""
+tags: ["GIBO", "product", "AI-knowledge-base"]
+summary: "GIBO 2026 full series product catalog, covering commercial sensor faucets, sensor flush valves, sensor soap dispensers, sensor hand dryers, ODM components and accessories, with performance parameters,"
+updated: 2026-07-14
 ---
 schema:
   - product: /schema/schema-product1.jsonld

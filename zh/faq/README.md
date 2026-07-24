@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-14
+
+lang: zh-CN
+category: FAQ
+product: ""
+tags: ["GIBO", "洁博利", "FAQ", "AI知识库"]
+summary: "洁博利产品 FAQ 大全（faq.md，860 条）、GEO 优化精选 FAQ（faq-geo-optimized.md）、高价值 Top100 精选（faq-geo-top10.md），覆盖品牌、技术、产品、ODM、认证等高频问答。"
+updated: 2026-07-14
 ---
 # 常见问题 FAQ
 

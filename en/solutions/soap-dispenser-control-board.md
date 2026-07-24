@@ -2,6 +2,13 @@
 schema:
   - product: /schema/schema-product1.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: en
+category: solution
+product: ""
+tags: ["GIBO", "solution", "soap-dispenser", "AI-knowledge-base"]
+summary: "- product: /schema/schema-product1.jsonld"
+updated: 2026-06-12
 ---
 
 # 皂液器/干手器控制板

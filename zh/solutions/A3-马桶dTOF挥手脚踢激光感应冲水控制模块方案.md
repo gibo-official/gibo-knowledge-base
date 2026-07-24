@@ -16,6 +16,12 @@ tags:
   - 脚踢感应
   - 智能卫浴
   - ODM方案
+
+lang: zh-CN
+category: 解决方案
+product: ""
+summary: "title: A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案"
+updated: 2026-06-12
 ---
 
 # A3 马桶dTOF挥手脚踢激光感应冲水控制模块方案

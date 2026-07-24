@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+summary: "Traditional IR judges presence by 'how strong the reflected light is,' and easily fails with dark clothing, stainless-steel walls, or direct sunlight;"
+updated: 2026-07-14
 ---
 # GIBO-智能激光感应技术 Product Specification
 

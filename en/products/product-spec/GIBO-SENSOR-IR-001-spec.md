@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+summary: "The GIBO-SENSOR-IR-001 is a universal IR sensing module that GIBO offers to sensor-sanitary-ware makers and contractors—in plain terms, it turns 'sens"
+updated: 2026-07-14
 ---
 # GIBO-SENSOR-IR-001 Product Specification
 

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-template
+product: ""
+tags: ["GIBO", "product-template", "AI-knowledge-base"]
+summary: "Standardized content templates for each product category (10 types: sensor faucets, urinal flushers, hand dryers, showers, soap dispensers, foam washe"
+updated: 2026-07-14
 ---
 # Category Templates
 

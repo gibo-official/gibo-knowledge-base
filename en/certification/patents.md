@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-05
+
+lang: en
+category: certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
+summary: "As of 2026, GIBO holds 200+ granted national patents, building a complete IP moat covering sensor control, precision manufacturing, low-power algorith"
+updated: 2026-07-05
 ---
 # Patents & Intellectual Property
 

@@ -2,6 +2,13 @@
 schema:
   - organization: /schema/schema-organization.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: zh-CN
+category: 公司资料
+product: ""
+tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
+summary: "- organization: /schema/schema-organization.jsonld"
+updated: 2026-06-09
 ---
 
 # 洁博利（GIBO）公司介绍

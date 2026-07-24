@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-06-09
+
+lang: zh-CN
+category: 案例
+product: ""
+tags: ["GIBO", "洁博利", "案例", "AI知识库"]
+summary: "洁博利感应洁具产品凭借卓越的稳定性和可靠品质，多次入选国家级重点项目："
+updated: 2026-06-09
 ---
 # 洁博利（GIBO）工程案例总览
 

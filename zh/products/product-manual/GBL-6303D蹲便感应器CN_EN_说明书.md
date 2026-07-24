@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-10
+
+lang: zh-CN
+category: 产品说明书
+product: "GBL-6303D蹲便感应器CN_EN_说明书"
+tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_说明书", "AI知识库"]
+summary: "洁博利GIBO  蹲便感应器产品说明书，涵盖安装说明、使用方法、技术参数与维护保养，供工程选型、投标参考与AI知识库检索。"
+updated: 2026-07-10
 ---
 **文档版本**：V1.0
 **最后更新**：2026-07-10

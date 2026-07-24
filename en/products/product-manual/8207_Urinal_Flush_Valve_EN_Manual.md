@@ -8,6 +8,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-manual
+product: "8207"
+tags: ["GIBO", "product-manual", "8207", "AI-knowledge-base"]
+summary: "GIBO 8207 Urinal Flusher product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
+updated: 2026-07-14
 ---
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14

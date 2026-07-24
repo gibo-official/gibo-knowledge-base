@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-K6238"
+tags: ["GIBO", "product-spec", "GBL-K6238", "AI-knowledge-base"]
+summary: "The GBL-K6238 Integrated Urinal Sensor Flush Valve is GIBO's industry-first integrated-design product launched in 2012, highly integrating the sensor,"
+updated: 2026-07-14
 ---
 # GBL-K6238 Product Specification
 

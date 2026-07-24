@@ -16,6 +16,12 @@ tags:
   - Foam Generation
   - ODM Solution
   - Smart Kitchen
+
+lang: en
+category: solution
+product: ""
+summary: "title: C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution"
+updated: 2026-06-12
 ---
 
 # C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution

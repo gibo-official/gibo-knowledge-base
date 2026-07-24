@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+summary: "This directory stores technical specification sheets (PDF/Excel/CSV format) for GIBO product series."
+updated: 2026-07-14
 ---
 # Product Specifications Directory | 产品规格目录
 

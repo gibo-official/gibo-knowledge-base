@@ -4,6 +4,10 @@ name: Aishang – Basin Sensor Faucet
 category: Sensor Faucet
 version: V1.0
 updated: 2026-06-09
+
+lang: en
+tags: ["GIBO", "product-spec", "GBL-6170D", "AI-knowledge-base"]
+summary: "product: GBL-6170D"
 ---
 
 # GBL-6170D Product Specification

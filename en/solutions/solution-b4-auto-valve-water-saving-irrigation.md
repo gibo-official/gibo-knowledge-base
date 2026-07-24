@@ -16,6 +16,12 @@ tags:
   - Smart Irrigation
   - Outdoor Solution
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: B4 Auto Valve Control & Water-saving Irrigation System Solution"
+updated: 2026-06-12
 ---
 
 # B4 Auto Valve Control & Water-saving Irrigation System Solution

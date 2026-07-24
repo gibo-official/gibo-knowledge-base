@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-6178"
+tags: ["GIBO", "product-spec", "GBL-6178", "AI-knowledge-base"]
+summary: "GBL-6178 is GIBO's flagship 2-in-1 smart sensor faucet for high-end residences and quality spaces, belonging to the fifth-tier residential smart serie"
+updated: 2026-07-14
 ---
 # GBL-6178 Product Specification
 

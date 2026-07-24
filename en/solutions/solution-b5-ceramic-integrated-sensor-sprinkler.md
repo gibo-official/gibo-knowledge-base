@@ -15,6 +15,12 @@ tags:
   - Outdoor Landscaping
   - Ceramic One-piece
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: B5 Ceramic Integrated Sensor Sprinkler Solution"
+updated: 2026-06-12
 ---
 
 # B5 Ceramic Integrated Sensor Sprinkler Solution

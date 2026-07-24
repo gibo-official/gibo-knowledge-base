@@ -3,6 +3,13 @@ title: "Sensor Sanitary Ware Installation and Selection White Paper"
 date: 2026-07-05
 version: V1.0
 keywords: sensor faucet installation, sensor sanitary ware selection guide, sensor flush valve installation, commercial bathroom planning, electrical pre-wiring, water supply preparation, GIBO
+
+lang: en
+category: whitepaper
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+summary: "title: 'Sensor Sanitary Ware Installation and Selection White Paper'"
+updated: 2026-07-05
 ---
 
 # Sensor Sanitary Ware Installation and Selection White Paper

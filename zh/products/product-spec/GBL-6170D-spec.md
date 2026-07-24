@@ -4,6 +4,10 @@ name: 爱尚-面盆感应龙头
 category: 感应水龙头
 version: V1.0
 updated: 2026-06-09
+
+lang: zh-CN
+tags: ["GIBO", "洁博利", "产品规格", "GBL-6170D", "AI知识库"]
+summary: "product: GBL-6170D"
 ---
 
 # GBL-6170D 产品资料

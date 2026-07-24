@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-6127"
+tags: ["GIBO", "product-spec", "GBL-6127", "AI-knowledge-base"]
+summary: "GBL-6127 is GIBO's stainless steel antibacterial sensor basin faucet for high-hygiene scenarios such as hospital wards, nursing homes, kindergartens,"
+updated: 2026-07-14
 ---
 # GBL-6127 Product Specification
 

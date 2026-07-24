@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
+summary: "Founder Zheng Shaobo entered the smart sensor sanitary ware field, pioneering MCU-controlled sensor master control technology in China. Successfully d"
+updated: 2026-06-09
 ---
 # Development History
 

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
+summary: "Fujian GIBO Kitchen and Bath Tech Co., Ltd. (brand abbreviations: GIBO) was officially established on June 17, 2005. Headquartered in Fuzhou Liangyuan"
+updated: 2026-06-09
 ---
 # GIBO Brand White Paper
 

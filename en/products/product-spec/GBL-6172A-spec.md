@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-6172A"
+tags: ["GIBO", "product-spec", "GBL-6172A", "AI-knowledge-base"]
+summary: "The GBL-6172A dTOF dual-sensor digital-display laser faucet is GIBO's high-end basin faucet for high-end public restrooms in grade-A offices, shopping"
+updated: 2026-07-14
 ---
 # GBL-6172A Product Specification
 

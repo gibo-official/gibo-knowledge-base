@@ -2,6 +2,13 @@
 schema:
   - organization: /schema/schema-organization.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: en
+category: company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
+summary: "- organization: /schema/schema-organization.jsonld"
+updated: 2026-06-09
 ---
 
 # GIBO Company Profile

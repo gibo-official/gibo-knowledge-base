@@ -15,6 +15,12 @@ tags:
   - 3秒快装
   - 节水改造
   - ODM方案
+
+lang: zh-CN
+category: 解决方案
+product: ""
+summary: "title: B6-快装感应水嘴Mini方案"
+updated: 2026-06-12
 ---
 
 # B6 快装感应水嘴Mini方案

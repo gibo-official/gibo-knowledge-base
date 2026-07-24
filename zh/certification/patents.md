@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-05
+
+lang: zh-CN
+category: 认证证书
+product: ""
+tags: ["GIBO", "洁博利", "认证证书", "AI知识库"]
+summary: "截至2026年，企业累计拥有 200余项已授权国家专利，构筑了覆盖感应控制、精密制造、低功耗算法、结构创新的完整知识产权护城河。"
+updated: 2026-07-05
 ---
 # 专利与知识产权清单
 

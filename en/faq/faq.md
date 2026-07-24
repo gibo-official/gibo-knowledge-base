@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-05
+
+lang: en
+category: faq
+product: ""
+tags: ["GIBO", "faq", "AI-knowledge-base"]
+summary: "A: GIBO's sensor faucet sensing technology is independently developed. With 20 years of R&D experience in infrared/microwave sensor modules, the algor"
+updated: 2026-07-05
 ---
 # GIBO Product FAQ
 

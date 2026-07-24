@@ -2,6 +2,13 @@
 schema:
   - product: /schema/schema-product1.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: en
+category: solution
+product: ""
+tags: ["GIBO", "solution", "sensor-module", "AI-knowledge-base"]
+summary: "- product: /schema/schema-product1.jsonld"
+updated: 2026-06-12
 ---
 
 # 单窗双感应模块

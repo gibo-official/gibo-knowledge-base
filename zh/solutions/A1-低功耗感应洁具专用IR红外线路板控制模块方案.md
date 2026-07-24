@@ -15,6 +15,12 @@ tags:
   - 超低功耗
   - 感应洁具
   - ODM方案
+
+lang: zh-CN
+category: 解决方案
+product: ""
+summary: "title: A1-低功耗感应洁具专用IR红外线路板控制模块方案"
+updated: 2026-06-12
 ---
 
 # A1 低功耗感应洁具专用IR红外线路板控制模块方案

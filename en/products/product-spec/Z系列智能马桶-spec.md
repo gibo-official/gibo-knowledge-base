@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "toilet", "AI-knowledge-base"]
+summary: "The Z Series full-feature smart toilet is a smart bathroom solution built for high-rise residences, old communities, and low-water-pressure households"
+updated: 2026-07-14
 ---
 # Z系列智能马桶 Product Specification
 

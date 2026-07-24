@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: case
+product: ""
+tags: ["GIBO", "case", "AI-knowledge-base"]
+summary: "GIBO sensor sanitary ware products have been selected for multiple national key projects due to their exceptional stability and reliability:"
+updated: 2026-06-09
 ---
 # GIBO Project Case Index
 

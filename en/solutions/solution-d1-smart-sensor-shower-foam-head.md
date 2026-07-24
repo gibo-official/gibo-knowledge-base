@@ -16,6 +16,12 @@ tags:
   - Sensor Shower
   - ODM Solution
   - High-end Hotel
+
+lang: en
+category: solution
+product: ""
+summary: "title: D1 Smart Sensor Shower Foam Head Solution"
+updated: 2026-06-12
 ---
 
 # D1 Smart Sensor Shower Foam Head Solution

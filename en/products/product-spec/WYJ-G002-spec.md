@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "G002"
+tags: ["GIBO", "product-spec", "G002", "AI-knowledge-base"]
+summary: "For a public basin faucet, users fear two things most: no water when reaching, or suddenly very hot water. The WYJ-G002 uses 'front + side' two IR sen"
+updated: 2026-07-14
 ---
 # WYJ-G002 Product Specification
 

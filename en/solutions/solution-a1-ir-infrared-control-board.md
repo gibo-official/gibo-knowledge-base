@@ -15,6 +15,12 @@ tags:
   - Ultra-low-power
   - Sensor Sanitary Ware
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware"
+updated: 2026-06-12
 ---
 
 # A1 Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware

@@ -2,6 +2,13 @@
 schema:
   - product: /schema/schema-product1.jsonld
   - brand: /schema/schema-brand.jsonld
+
+lang: en
+category: product
+product: ""
+tags: ["GIBO", "product", "AI-knowledge-base"]
+summary: "- product: /schema/schema-product1.jsonld"
+updated: 2026-06-09
 ---
 
 # GIBO Full Product Official Catalog

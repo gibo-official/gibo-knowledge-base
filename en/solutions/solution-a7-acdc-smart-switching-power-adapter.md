@@ -16,6 +16,12 @@ tags:
   - Sensor Sanitary Ware
   - Project Power Supply
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware"
+updated: 2026-06-12
 ---
 
 # A7 AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware

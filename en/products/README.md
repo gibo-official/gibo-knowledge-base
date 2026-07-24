@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product
+product: ""
+tags: ["GIBO", "product", "AI-knowledge-base"]
+summary: "GIBO product center — core products, catalog, index, selection guide, brand comparison, ODM, and marketing material library, with subdirs for category"
+updated: 2026-07-14
 ---
 # Products
 

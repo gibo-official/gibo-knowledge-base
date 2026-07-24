@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+summary: "The TYREK Electrolytic Sterilization Module D05-01 is a palm-sized electrolyzed-water generation module connected to the tap-water line. Once powered,"
+updated: 2026-07-14
 ---
 # TYREK Product Specification
 

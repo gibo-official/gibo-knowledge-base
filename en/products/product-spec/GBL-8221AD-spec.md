@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-8221AD"
+tags: ["GIBO", "product-spec", "GBL-8221AD", "AI-knowledge-base"]
+summary: "The GBL-8221AD is a high-end smart faucet in GIBO's lineup, built around a high-arc pull-out spout, with the highlight of dual-outlet + dual-sensor +"
+updated: 2026-07-14
 ---
 # GBL-8221AD Product Specification
 

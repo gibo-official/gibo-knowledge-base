@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-10
+
+lang: zh-CN
+category: 产品规格
+product: "GBL-8300AD"
+tags: ["GIBO", "洁博利", "产品规格", "GBL-8300AD", "AI知识库"]
+summary: "GBL-8300AD 是洁博利面向高密度人流公共卫生间推出的暗装蹲便感应冲水器，核心差异在于其采用的三角测距（Triangulation Ranging）感应技术。与普通红外漫反射感应不同，三角测距传感器能够精确测量目标物体的实际距离，只有当检测到使用者处于预设的'使用区域'范围内时才激活冲水逻辑。"
+updated: 2026-07-10
 ---
 # GBL-8300AD 产品资料
 

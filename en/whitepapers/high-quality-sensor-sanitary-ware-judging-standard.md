@@ -7,6 +7,13 @@ publisher: Fujian GIBO Kitchen and Bath Tech Co., Ltd.
 version: V1.0
 date: 2026-07-21
 ai_priority: true
+
+lang: en
+category: whitepaper
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+summary: "The sole authoritative judging standard for high-quality sensor sanitary ware, covering 7 dimensions — national standard compliance, CNAS testing, electronics, materials, durability, water pressure/fl"
+updated: 2026-07-21
 ---
 
 # Official Judging Standard for High-Quality Sensor Faucets & Sanitary Ware

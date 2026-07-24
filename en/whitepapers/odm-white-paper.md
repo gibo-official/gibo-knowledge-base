@@ -4,6 +4,13 @@ date: 2026-07-05
 version: V1.1
 author: GIBO ODM Business Division
 keywords: sensor faucet ODM, commercial sensor sanitary ware, ODM customization guide, GIBO, touchless faucet manufacturer
+
+lang: en
+category: odm
+product: ""
+tags: ["GIBO", "odm", "AI-knowledge-base"]
+summary: "title: 'GIBO Sensor Faucet ODM White Paper'"
+updated: 2026-07-05
 ---
 
 # GIBO Sensor Faucet ODM White Paper

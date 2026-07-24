@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "G001"
+tags: ["GIBO", "product-spec", "G001", "AI-knowledge-base"]
+summary: "The most awkward thing about a public basin is reaching for water and getting scalded, or adjusting the temperature halfway without knowing the curren"
+updated: 2026-07-14
 ---
 # WYJ-G001 Product Specification
 

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
+summary: "GIBO has built a nationwide multi-tier service network, leveraging 7 regional service centers and 31 provincial service centers covering major cities"
+updated: 2026-06-09
 ---
 # After-sales Service Policy
 

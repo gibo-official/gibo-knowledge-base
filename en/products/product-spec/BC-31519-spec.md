@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "BC-31519-spec"
+tags: ["GIBO", "product-spec", "BC-31519-spec", "AI-knowledge-base"]
+summary: "BC-31519 is GIBO's wireless remote + hand-wave sensor flush-mechanism kit designed for the intelligent age-friendly retrofit of ordinary toilets, belo"
+updated: 2026-07-14
 ---
 # BC-31519 Product Specification
 

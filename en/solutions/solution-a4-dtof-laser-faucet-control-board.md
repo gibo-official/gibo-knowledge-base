@@ -15,6 +15,12 @@ tags:
   - Spout Control
   - Water Mist Penetration
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A4 - dTOF Spout Laser Sensing Faucet Control Board Solution"
+updated: 2026-06-12
 ---
 
 # A4 dTOF Spout Laser Sensing Faucet Control Board Solution

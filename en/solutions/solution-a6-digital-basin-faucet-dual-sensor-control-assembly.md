@@ -16,6 +16,12 @@ tags:
   - Water Temperature Display
   - Basin Faucet
   - ODM Solution
+
+lang: en
+category: solution
+product: ""
+summary: "title: A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution"
+updated: 2026-06-12
 ---
 
 # A6 Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution

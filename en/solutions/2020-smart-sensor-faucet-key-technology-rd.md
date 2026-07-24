@@ -4,6 +4,13 @@ classification: Science & Technology Project
 publisher: Fujian GIBO Kitchen & Bath Technology Co., Ltd.
 source: Fuzhou Municipal Science & Technology Plan Project Application (Municipal Sci-Tech Plan Project / Innovation Fund for Small & Medium-sized Technology-based Enterprises, guide code 2020CX0101)
 keywords: Smart Sensor Faucet, Gesture-sensing Water Flow, TOF Infrared Optoelectronic Sensing, Low Water Hammer Solenoid Valve, Production Line Balancing Optimization, Water-saving
+
+lang: en
+category: solution
+product: "2020"
+tags: ["GIBO", "solution", "2020", "AI-knowledge-base"]
+summary: "title: 2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration"
+updated: 2026-07-14
 ---
 
 # 2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration

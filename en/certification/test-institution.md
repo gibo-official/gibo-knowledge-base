@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-09
+
+lang: en
+category: certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
+summary: "Responsible for product water-saving certification, water efficiency labeling, and Boiling Quality Award evaluation. Core certification body for the d"
+updated: 2026-06-09
 ---
 # Authorized Testing & Certification Institutions
 

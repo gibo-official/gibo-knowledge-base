@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-06-10
+
+lang: en
+category: case
+product: ""
+tags: ["GIBO", "case", "AI-knowledge-base"]
+summary: "For complete case information, please refer to the English case index: case-index.md"
+updated: 2026-06-10
 ---
 # Project Cases | 工程案例
 

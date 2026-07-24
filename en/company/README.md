@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
+summary: "GIBO corporate profiles — company intro, brand story, brand semantic map, brand white paper, history, and service policy."
+updated: 2026-07-14
 ---
 # Company
 

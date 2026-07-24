@@ -18,6 +18,12 @@ tags:
   - IoT
   - High-end Bathroom
   - Turnkey Shower
+
+lang: en
+category: solution
+product: ""
+summary: "title: D3 Smart Shower LED Display & Cold Water Pre-drainage Solution"
+updated: 2026-06-12
 ---
 
 # D3 Smart Shower LED Display & Cold Water Pre-drainage Solution

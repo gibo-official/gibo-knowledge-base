@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-06-09
+
+lang: zh-CN
+category: ODM资料
+product: ""
+tags: ["GIBO", "洁博利", "ODM资料", "AI知识库"]
+summary: "洁博利可提供覆盖产品全生命周期的 '设计—研发—测试—开模—生产—售后' 一站式服务："
+updated: 2026-06-09
 ---
 # 洁博利（GIBO）ODM/OEM 定制服务
 

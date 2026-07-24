@@ -5,6 +5,10 @@ category: Sensor Faucet (Infrared Sensing R-type)
 version: 1.0
 updated: 2019-10-18
 source: gibo-GBL-6161-规格书（版次1.0）.pdf
+
+lang: en
+tags: ["GIBO", "product-spec", "GBL-6161", "AI-knowledge-base"]
+summary: "product: GBL-6161D"
 ---
 
 # GBL-6161D Basin Sensor Faucet Product Specification

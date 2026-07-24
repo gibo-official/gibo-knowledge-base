@@ -13,6 +13,12 @@ tags:
   - GIBO Core Technology
   - GIBO Patent
   - Sensor Sanitary Ware
+
+lang: en
+category: document
+product: ""
+summary: "In-depth analysis of GIBO's low-power dTOF (direct Time-of-Flight) laser ultra-sensing technology working principle, VCSEL laser emission, photon flight time measurement, millimeter-level ranging algo"
+updated: 2026-07-04
 ---
 
 # Low-power dTOF Laser Ultra-Sensing Technology — Principle Analysis

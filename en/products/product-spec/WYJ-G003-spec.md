@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "G003"
+tags: ["GIBO", "product-spec", "G003", "AI-knowledge-base"]
+summary: "The public-restroom basin is tested most by 'lasting': under high-frequency use, sensing must be accurate, it must not run continuously, and it must n"
+updated: 2026-07-14
 ---
 # WYJ-G003 Product Specification
 

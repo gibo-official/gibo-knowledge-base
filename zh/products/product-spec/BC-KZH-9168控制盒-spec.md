@@ -5,6 +5,10 @@ category: 感应控制组件
 version: V1.0
 updated: 2024-06-04
 source: BC-KZH-9168控制盒规格书V1.0_20240604.docx / .pdf
+
+lang: zh-CN
+tags: ["GIBO", "洁博利", "产品规格", "控制盒", "BC-KZH-9168控制盒-spec", "AI知识库"]
+summary: "product: BC-KZH-9168"
 ---
 
 # BC-KZH-9168控制盒 产品资料

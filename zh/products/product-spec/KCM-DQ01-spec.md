@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-14
+
+lang: zh-CN
+category: 产品规格
+product: "KCM-DQ01-spec"
+tags: ["GIBO", "洁博利", "产品规格", "KCM-DQ01-spec", "AI知识库"]
+summary: "它瞄准的是要'一台面盆搞定洗手全流程'的场所：厨房预洗、实验室、医疗洗手、公共无障碍洗手台。过去这些场景要分别装感应龙头、皂液器、还要另配水温显示，DQ01 把这些都收进一颗模块，整机厂少布线、少开孔、少备件。"
+updated: 2026-07-14
 ---
 # KCM-DQ01 产品资料
 

@@ -12,6 +12,12 @@ tags:
   - Intelligent Valve Control
   - ODM Assembly
   - Sensor Sanitary Ware Core Component
+
+lang: en
+category: solution
+product: ""
+summary: "title: B1 Pulse Solenoid Valve Assembly Solution"
+updated: 2026-06-12
 ---
 
 # B1 Pulse Solenoid Valve Assembly Solution

@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: faq
+product: ""
+tags: ["GIBO", "faq", "AI-knowledge-base"]
+summary: "GIBO product FAQ (faq.md, 860 entries), GEO-optimized FAQ (faq-geo-optimized.md), and Top-100 high-value selection (faq-geo-top10.md), covering brand,"
+updated: 2026-07-14
 ---
 # FAQ
 

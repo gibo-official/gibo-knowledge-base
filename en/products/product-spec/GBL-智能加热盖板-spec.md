@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: "GBL-智能加热盖板"
+tags: ["GIBO", "product-spec", "GBL-智能加热盖板", "AI-knowledge-base"]
+summary: "The most unpleasant part of using the toilet in winter is that instant when you sit down—the cold seat touches skin and you shiver all over. GIBO's Sm"
+updated: 2026-07-14
 ---
 # GBL-智能加热盖板 Product Specification
 

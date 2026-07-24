@@ -7,6 +7,13 @@ language: zh
 publisher: "福建洁博利厨卫科技有限公司"
 version: V1.0
 date: 2026-07-05
+
+lang: zh-CN
+category: 技术白皮书
+product: ""
+tags: ["GIBO", "洁博利", "技术白皮书", "AI知识库"]
+summary: "所有白皮书均已配置 YAML frontmatter，包含以下关键字段："
+updated: 2026-07-05
 ---
 # 洁博利（GIBO）白皮书与科技项目成果
 

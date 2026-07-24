@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-spec
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+summary: "GIBO's Kitchen Pull-out Sensor Faucet (new product) is a water + foam 2-in-1 smart faucet built for high-end kitchens pursuing ultimate convenience. I"
+updated: 2026-07-14
 ---
 # 厨房二合一新品 Product Specification
 

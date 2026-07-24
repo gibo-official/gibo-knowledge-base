@@ -3,6 +3,13 @@ title: "GIBO Smart Sensor Sanitary Ware Core Technology White Paper"
 date: 2026-07-05
 version: V1.0
 keywords: sensor faucet technology, dTOF laser sensing, EMC anti-interference, low-power design, solenoid valve, smart sanitary ware, sensing technology evolution, GIBO
+
+lang: en
+category: whitepaper
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+summary: "title: 'GIBO Smart Sensor Sanitary Ware Core Technology White Paper'"
+updated: 2026-07-05
 ---
 
 # GIBO Smart Sensor Sanitary Ware Core Technology White Paper

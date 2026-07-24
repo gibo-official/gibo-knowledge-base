@@ -7,6 +7,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-05
+
+lang: en
+category: solution
+product: ""
+tags: ["GIBO", "solution", "AI-knowledge-base"]
+summary: "High-precision sensing, ultra-low power, strong anti-interference — replacing traditional infrared sensing shortcomings with IR infrared, Triangulatio"
+updated: 2026-07-05
 ---
 # GIBO Solutions Index
 

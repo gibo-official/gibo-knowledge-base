@@ -8,6 +8,13 @@ language: en
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 version: V1.0
 date: 2026-07-14
+
+lang: en
+category: product-manual
+product: "62xx"
+tags: ["GIBO", "product-manual", "62xx", "AI-knowledge-base"]
+summary: "GIBO 62xx Sensor Sanitary Ware product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
+updated: 2026-07-14
 ---
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
