@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6196
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -68,9 +64,7 @@ Product Use
 2 Bottom sensor: Ready sensor mode, Watering when hand's in the sensor range, Turn off automatic when hands leave. One minutes overtime water protection.
 
 ![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-05.png)
-
 1
-
 1 If the water output decreases or no water, it may be caused by block in the water nozzle or filter valve (optional). Please turn off the angle valve first, unscrew the water nozzle or inlet filter valve, take out the filter gasket, clean it with clean water, and then install it back.
 
 When the power is low, waving hand to detect the sensor, the indicator light flashes slowly for 5 times, indicating need to replace the battery; When the power is very low, waving hand to detect the sensor, the indicator light flashes quickly for 10 times, indicating need to replace the battery, and force the water off.
@@ -114,19 +108,13 @@ Need to replace the batteries when flashes continuously. Replace with new batter
 
 3 When the faucet is not in use foralong time, please turn off the handle.
 4 Please ensure that the water pressure of the water supply is in the range of 0.05-0.8MPa, otherwise dripping or leakage may occur.
-
 2
-
 ![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-10.png)
 
 ![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-11.png)
 
 ![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-12.png)
-
-3
-
-FAQ
-
+3 FAQ
 1 Leaking after installation
 
 1.1 Please confirm whether the batteries are installed correctly.
@@ -158,9 +146,7 @@ No water while hand's in the sensor range
 
 ![Sensor_Faucet Warranty Card](../../../assets/images/ins/6196_EN_SensorFaucet-ins-14.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -172,13 +158,9 @@ No water while hand's in the sensor range
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6196 |

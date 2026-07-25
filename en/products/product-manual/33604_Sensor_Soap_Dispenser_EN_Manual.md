@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 33604
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应洗手机
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -60,15 +56,9 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 2. power button
 
 3. Indicator light
-
 4. Spout
-
 5. infrared sensor
-
-6. Body
-
-7. Tank
-
+6. Body 7. Tank
 8. Battery Compartment
 
 ## Assembly Instructions
@@ -120,9 +110,7 @@ Do not use rechargeable batteries as it may affect the proper operation of the p
 
 Do not short - circuit the supply terminals .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -134,13 +122,9 @@ Do not short - circuit the supply terminals .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 33604 |

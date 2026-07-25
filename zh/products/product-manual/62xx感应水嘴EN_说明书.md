@@ -13,15 +13,11 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应水嘴", "AI知识库"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 20161
-
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -158,13 +154,9 @@ Please getoutof the filter net and clean it with clean water if water flow is lo
 ## Spare Parts
 
 ![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-22.png)
-
 nut
-
 ![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-23.png)
-
 gasket
-
 ![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-24.png)
 
 connector
@@ -186,14 +178,10 @@ Side sensor
 A1 female connector
 
 ![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-29.png)
-
 B1
-
 B1male connector.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -205,13 +193,9 @@ B1male connector.
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 20161 |

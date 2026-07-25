@@ -19,9 +19,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -90,13 +88,9 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-07.png)
 
 ![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-08.png)
-
 1
-
 ![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-09.png)
-
 23
-
 ![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-10.png)
 
 Този продуктима СЕ маркировка, което свидетелства за неговото съответствие сизискванията на 2014/30/EU (EMC), 2011/65/EU (RoHS) и 2006/66/EC.
@@ -143,9 +137,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 
 ![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-11.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -157,13 +149,9 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_保加利亚-感应节 |

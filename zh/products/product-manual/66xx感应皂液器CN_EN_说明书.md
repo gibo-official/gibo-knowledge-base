@@ -19,22 +19,16 @@ tags: ["GIBO", "洁博利", "产品说明书", "皂液器", "AI知识库"]
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应洗手机
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
 # 产品说明书自动喷香机
-
 ## 喷香机结构
-
 ![感应皂液器喷香机结构](../../../assets/images/ins/GIBO_CN_EN_SoapDispenser-ins-01.png)
-
 ## 喷香机安装
-
 本产品建议安装的高度: 离地面约2.1米- 2.7米高.
 
 1, 将喷香机放置安装的墙面上, 通过安装孔画个标记
@@ -56,9 +50,7 @@ For bestoperation , mount the unit 7-9 feet above the floor .
 2. drill the hole at the mark and insert the screw . please stay 4 mm distance to the wall . because you should take down the dispenser when you replace the battery or the air freshener .
 
 3. ensure the dispenser is mounted securely on the wall .
-
 ## 喷香机使用
-
 1, 将4节5号碱性电池装入电池夹内.
 
 2, 调节喷香时间至合适的档位, 分别有5, 15, 25分钟喷一次3个档位.
@@ -110,9 +102,7 @@ When night is selected - unit operates at selected spray inter va when ray lower
 9. when battery is low , green LED will does not blinking .
 
 Factory setting is 25 minutes pray time with 24 hours operations .
-
 ## 注意事项
-
 1, 本喷香机无防水功能, 请将产品安装在干燥的墙上, 远离潮湿的环境.
 
 2, 请将本产品放置在远离食品的位置.
@@ -135,9 +125,7 @@ Factory setting is 25 minutes pray time with 24 hours operations .
 
 5. if you not use dispenser long time , please take out batteries and refill can .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -149,13 +137,9 @@ Factory setting is 25 minutes pray time with 24 hours operations .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_自动喷香机说明书 |

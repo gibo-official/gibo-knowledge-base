@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 8216
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应小便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -132,9 +128,7 @@ User have to clean filters on regular intervals.
 
 (EU44)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -146,13 +140,9 @@ User have to clean filters on regular intervals.
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 8216 |

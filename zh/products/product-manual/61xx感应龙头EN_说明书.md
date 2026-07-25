@@ -19,9 +19,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应龙头", "AI知识库"]
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -60,50 +58,29 @@ The following pictures for your reference do not necessarily comply with the pro
 ## Installation of Control Box
 
 4. install an additional pressure booster when the water pressure is lower than 0.05 mpa or the flush performance may be affected
-
 NOTE!
-
 5. install an additional pressure decreasing device when the water pressure is higher than 0.5 mpa or the machine may be damaged .
 
 Before using , make sure all pipes without leaking water after installation .
-
 STEP 1
-
 Confirm the basin installation size
-
 STEP 2
-
 Connect the mixer valve water outlet ( movable connector ) with control box water inlet together . the mixer valve hot / cold water inlet and the triangle valve are connected byahose . control box installation is completed
-
 Step 1
-
 ![感应龙头 Installation of Control Box](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-03.png)
-
 Step 1
-
 ![感应龙头 Installation of Control Box](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-04.png)
 
 ![感应龙头 Installation of Control Box](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-05.png)
-Step
-Step2
-Step 1
-
+StepStep2Step 1
 ## Installation of the Faucet
-
 Step 1:
-
 a img 1/2 hose against the water inlet at the bottom of the faucet and screw it in tight .
-
 Step 2:
-
 Install the gasket , spring gasket , nut and slotted flat point stud according to the sequence of the illustration and fix the assembled fauceton the basin .
-
 Step 3:
-
 Insert the other end of the control wire into the aviation socket and screw tight . then screw the other end of g 1/2 hose on the water outletof the valve . thus the automatic faucet installation is finish ec
-
 Step 2
-
 ![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-06.png)
 8311 as the picture shows , installapvc pipe with 32 mm diame tei inside the wall in terms of basin location
 
@@ -111,17 +88,13 @@ Step 2
 Step 28307
 
 ![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-08.png)
-
 Step 1
-
 ![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-09.png)
 
 Step 28331-3
 
 ![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-10.png)
-
 Step 2
-
 Install sensor wire and hose inside the faucet body and fix the faucet body on the wall .
 
 ![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-11.png)
@@ -209,22 +182,16 @@ Do not wash with alkaline or acid detergents .
 ![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-23.png)
 
 ![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-24.png)
-
 8311
-
 ![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-25.png)
 8331-3
 
 ![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-26.png)
-
 0
-
 ![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-27.png)
 
 Mounting hardware
-
 8307
-
 Sensor assy
 
 ![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-28.png)
@@ -255,9 +222,7 @@ Control box
 
 90
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -269,13 +234,9 @@ Control box
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_水力发电中性英文 |

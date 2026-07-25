@@ -13,24 +13,18 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6150
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
 ## INSTALLATIONINSTRUCTIONS
-
 ## 6 150
-
 ## TECHNICALPARAMETERS
 
 ![Sensor_Faucet TECHNICALPARAMETERS](../../../assets/images/ins/6150_EN_SensorFaucet-ins-01.png)
@@ -48,29 +42,17 @@ Mount th<sub>e con</sub>trol b<sub>ox un</sub>d<sub>ernea</sub>th th<sub>e s</su
 Not<sub>e :</sub> Pl<sub>ease</sub> do <sub>pressure</sub> test with 0. 9MPa/60s water after finishing control box installation t<sub>o ensure no</sub> leakage
 
 ## Fa u cetInsta llation
-
 ## Step 1 :
-
 Take the sensor tap and connect the flexible hose(s) supplied to the base of the tap and tighten firmly. Feed the flexible h<sub>ose an</sub>d <sub>sensor s</sub>ignal cable th<sub>roug</sub>h the hol<sub>e on</sub> the basin wor<sup>k</sup>top.
-
 ## Step 2 :
-
 S<sub>ecure</sub>l<sub>y moun</sub>t th<sub>e sensor</sub> tap to th<sub>e requ</sub>ired positi<sub>on on</sub> th<sub>e wor</sub>kt<sub>op or</sub> basin Using the fittings provided tighten the sensor tap to the worktop or basin firmly (from underneath)
-
 ## Step 3:
-
 C<sub>onnec</sub>t the flexible hose f<sub>rom sensor</sub> tap to th<sub>e con</sub>trol b<sub>ox po</sub>int marked Water OUT.
-
 ## Step 4:
-
 Connect main water supply (HOT/COLD supply) to the control box point marked Water IN.
-
 ## Step 5 :
-
 Connect the Main <sub>powe</sub>r <sub>supp</sub>ly
-
 ## Note:
-
 1 )We highly recommended thataqualified electrician carry out the electrical installation process .
 
 2)Check for leaks<sub>,</sub> and make sure all the connections are connected properly. 3)The installation process is now complete<sub>,</sub> and the sensor faucet is ready to use.
@@ -121,9 +103,7 @@ To i<sub>nspec</sub>t <sub>or c</sub>l<sub>ean:</sub>
 
 4. Once d<sub>one,</sub> install f<sub>auce</sub>t again.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -135,13 +115,9 @@ To i<sub>nspec</sub>t <sub>or c</sub>l<sub>ean:</sub>
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6150 |

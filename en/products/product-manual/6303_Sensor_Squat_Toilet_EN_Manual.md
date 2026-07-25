@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6303
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -77,9 +73,7 @@ UNIT mm:
 ![Sensor_Squat_Toilet INSTALLATION DRAWING](../../../assets/images/ins/6303_EN_ToiletSensor-ins-04.png)
 
 ![Sensor_Squat_Toilet INSTALLATION DRAWING](../../../assets/images/ins/6303_EN_ToiletSensor-ins-05.png)
-
 ## NOTE
-
 ![Sensor_Squat_Toilet NOTE](../../../assets/images/ins/6303_EN_ToiletSensor-ins-06.png)
 
 \*Test run the water for the IN l et pipe to ensure it IS free oflea kage .
@@ -115,9 +109,7 @@ Take out the battery box from themo u nti ngAND IN se rt IN batteriesAcco rd IN 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
 ![Sensor_Squat_Toilet CHANGE OF BATTERY](../../../assets/images/ins/6303_EN_ToiletSensor-ins-09.png)
-
 ## NOTE
-
 PleasedON ot direct ly washit with water Use wet clothto cleanit.\* Do notcrush it or failure may be caused\* Do not cleanit with acid or Alka linedete rgents\*
 
 ![Sensor_Squat_Toilet NOTE](../../../assets/images/ins/6303_EN_ToiletSensor-ins-10.png)
@@ -138,9 +130,7 @@ our company has an extensive quality promise to the end customers our products p
 
 \* Please keep you rinvoice of our productpro perly to en sure better service from us \*The company keep its right of use thelatest compo nent for repairing .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -152,13 +142,9 @@ our company has an extensive quality promise to the end customers our products p
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6303 |

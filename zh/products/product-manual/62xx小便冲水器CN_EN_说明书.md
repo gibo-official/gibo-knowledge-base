@@ -19,9 +19,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应小便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -30,9 +28,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 ## 安装说明书 Installation Instructions
 
 AUTOMATIC URINAL FLUSHER全自动感应小便冲水器
-
 ## 维护须知
-
 ## 1. Water Volume Adjustment
 
 Rotate the knob with straight screwdriver toaproper position to adjust water volume , clockwise for smaller volume and vice versa .
@@ -40,15 +36,11 @@ Rotate the knob with straight screwdriver toaproper position to adjust water vol
 ## 2. Cleaning the Filter Net
 
 Rotate the screw and take out the filter net with big straight screwdriver to wash the filter net with clean water . then install it back .
-
 ## 1. 水量调节
-
 需要调整水量时, 请用 "一" 字螺丝刀旋转调整至合适位置, 顺时针方向水量变小(旋到底为止水), 逆时针方向水量变大.
 
 ![小便冲水器1. 水量调节](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-01.png)
-
 ## 2. 清洗过滤网
-
 需要清洗过滤阀时, 请先将水量调节阀按顺时针方向将水关闭, 然后用"一"字螺丝刀旋出过滤网, 用清水冲洗干净后重新装回旋紧并打开水量调节阀.
 
 Note : shut off water volume adjustment valve before taking off the filter net .
@@ -62,19 +54,13 @@ Note : shut off water volume adjustment valve before taking off the filter net .
 Take out the battery box from the mounting and insert in batteries according to hints (+−).
 
 注意: 取下过滤网前须先关闭水量调节阀
-
 ## Note:
-
 \* the polarity of the batteries (+−) must be correct ;
 \* do not mix old and new batteries nor batteries of different brands ;
 \* please change batteries when the indicate light keeps flashing indicating the batteries do not have enough power .( for DC current products )
-
 ## 更换电池
-
 ![小便冲水器更换电池](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-03.png)
-
 ## 注意
-
 从壳体中取出电池盒, 将电池按照 $(-)$ 依次装入电池盒内.
 
 \*电池正负(+-)极性必须正确;
@@ -82,18 +68,14 @@ Take out the battery box from the mounting and insert in batteries according to 
 \*不同新旧, 类型或品牌的电池不可混合使用;
 
 \*指示灯一直闪烁, 表示电池电量不足, 请及时更换电池.
-
 ## Note
-
 ![小便冲水器 Note](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-04.png)
 
 \* please do not directly was hit with water , use wet cloth to clean it .
 \* do not crush itor failure may be caused .
 
 \* do not clean it with acid or alkaline detergents .
-
 ## 注意
-
 \*请不要用水直接冲洗, 若不洁请使用湿布擦拭.
 \*请不要撞击否则易引起故障.
 
@@ -107,9 +89,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 维修零件图
 
 ## One-yearwarranty
-
 ## 一年有限担保
-
 \* our company has an extensive quality promise to the end customers . the products proved to be correctly installed and properly used enjoyamaintenance period of 1 year during which any products with quality defects shall be repaired without any charge .
 \* quality defects caused by the following factors are not included in the promise :
 1) quality defects caused by improper installation , replacing and repairing are not included in the promise .
@@ -134,9 +114,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 \*公司保留维修时使用最新配件的权利.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -148,13 +126,9 @@ Take out the battery box from the mounting and insert in batteries according to 
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_长方形面板中性小 |

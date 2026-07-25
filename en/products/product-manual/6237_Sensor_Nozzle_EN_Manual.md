@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6237
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -56,9 +52,7 @@ Install inlet water hose water volume regulator solenoid valve and outlet water 
 ## 4 INSTALLING BATTERY COMPARTMENT
 
 Connect AC220V power and AC power unit, Connect Down-leads on panel to Power Supply Down-lead Connector and Magnetic Valve Down-lead Connector respectively
-
 NOTES:
-
 please make sure that the wires are completely well connected
 
 ![Sensor_Nozzle 4 INSTALLING BATTERY COMPARTMENT](../../../assets/images/ins/6237_EN_SensorNozzle-ins-05.png)
@@ -111,9 +105,7 @@ note make sure the batteries are installed correctly positive and negative charg
 
 ![Sensor_Nozzle INSTALLATION DIAGRAM](../../../assets/images/ins/6237_EN_SensorNozzle-ins-13.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -125,13 +117,9 @@ note make sure the batteries are installed correctly positive and negative charg
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6237 |

@@ -18,9 +18,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应龙头", "GBL-6106感应�
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -29,9 +27,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应龙头", "GBL-6106感应�
 ## Installation Instructions Touchless Faucet
 
 ![感应龙头 Installation Instructions Touchless Faucet](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-01.png)
-
 ## 使用说明
-
 1. faucet automatically supplies water as soon as hands are within the sensing range .
 1, 当手伸到感应范围时, 龙头自动出水.
 
@@ -41,9 +37,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应龙头", "GBL-6106感应�
 2, 当手离开感应范围时, 龙头自动关水.
 
 ## Maintenance
-
 ## 使用注意事项
-
 ![感应龙头使用注意事项](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-03.png)
 
 ![感应龙头使用注意事项](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-04.png)
@@ -75,13 +69,9 @@ Step 2: replace with 4 new aa alkaline batteries and install them back . note : 
 
 1. 低电压提醒: 当工作电压为 $\leqslant(4.6-4.9V)\pm0.1V$ 时, 它会进入低电压警报状态, 使用时指示灯闪烁, 离开感应时继续闪烁5次, 表示需要更换电池. 水龙头可以正常工作.
 2. 欠压保护: 当工作电压 $\leqslant 4.5 \pm 0.1V$ 时, 进入欠压保护状态, 使用时LED指示灯闪烁, 传感器继续闪烁10次, 提示需要立即更换电池. 此时, 水龙头无法正常工作.
-
 步骤1:
-
 取出电池壳并移除旧电池.
-
 步骤2:
-
 用4节新的AA碱性电池替换并重新安装:注意:电池的极性必须正确,新旧电池或不同品牌的电池不能混用.
 
 ![感应龙头电池安装与更换](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-07.png)
@@ -89,9 +79,7 @@ Step 2: replace with 4 new aa alkaline batteries and install them back . note : 
 ## One-year Warranty
 
 ![感应龙头 One-year Warranty](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-08.png)
-
 ## 保修条款
-
 1. the faucet hasalimited one year warranty if the faucet is properly installed and used .
 
 The following quality problems are excluded from :
@@ -122,9 +110,7 @@ Warranty is valid if 1-3 are determined to be reason for defect .
 
 ![感应龙头保修条款](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-09.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -136,13 +122,9 @@ Warranty is valid if 1-3 are determined to be reason for defect .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6106 |

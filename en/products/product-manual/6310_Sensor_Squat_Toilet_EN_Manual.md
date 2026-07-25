@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6310
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -46,9 +42,7 @@ SPECIFICATION
 ![Sensor_Squat_Toilet AUTOMATIC TOILET FLUSHER INSTRUCTION OF USE](../../../assets/images/ins/6310_EN_ToiletSensor-ins-02.png)
 
 ## DIMENSION OF INSTALLATION FOR RJYXB-AT01
-
 ## Unit:mm
-
 ## NOTICES
 
 1.Before installing the box, the pipe furring should be cleaned.
@@ -61,9 +55,7 @@ SPECIFICATION
 
 6.Sensitivity varies with the color of the clothes, the white the strongest, the Black the weakest.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -75,13 +67,9 @@ SPECIFICATION
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6310 |

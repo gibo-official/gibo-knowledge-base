@@ -18,9 +18,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -101,9 +99,7 @@ If the volume of water is found to be small or no water , it may be blocked by t
 ## Technical Parameters
 
 ![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-11.png)
-
 FAQ
-
 1.1 please confirm whether there isagasket at the inlet joint and whether the gasket thickness is suitable .
 
 2.1 please confirm whether the faucet handle and the inlet angle valve are open and whether the water is stopped .
@@ -143,9 +139,7 @@ And like these are not covered by this warranty .
 Touchless faucets prayer
 
 ## Product Configuration
-
 2
-
 ![Sensor_Nozzle Product Configuration](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-14.png)
 
 \* this product is fixable in pull out type kitchen faucet , pull out hose with female connector g 1/2 connector .
@@ -226,9 +220,7 @@ If the volume of water is found to be small or no water , it may be blocked by t
 ## Technical Parameters
 
 ![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-26.png)
-
 FAQ
-
 1 water leakage after installation
 
 1.1 please confirm whether there isagasket at the inlet joint and whether the gasket thickness is suitable .
@@ -265,9 +257,7 @@ FAQ
 
 ![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-28.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -279,13 +269,9 @@ FAQ
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6197 |

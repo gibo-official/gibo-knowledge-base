@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 63068
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -83,9 +79,7 @@ UNIT mm:
 ![Sensor_Squat_Toilet INSTALLATIONDRAWING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-05.png)
 
 ![Sensor_Squat_Toilet INSTALLATIONDRAWING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-06.png)
-
 ## NOTE
-
 test run the water for the inlet pipe to ensure it is free of leakage
 
 ## USAGEEXPOSITION
@@ -123,9 +117,7 @@ Take out the battery box from themo u nti ngAND IN se rt IN batteriesAcco rd IN 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
 ![Sensor_Squat_Toilet CHANGEOFBATTERY](../../../assets/images/ins/63068_EN_ToiletSensor-ins-11.png)
-
 ## NOTE
-
 Please do not directly washit with water Use wet cloth to cleanit\* Do notcrush it or failure may be ca used .\* Do not cleanit with acid or Alka linedete rgents\*
 
 ![Sensor_Squat_Toilet NOTE](../../../assets/images/ins/63068_EN_ToiletSensor-ins-12.png)
@@ -157,16 +149,12 @@ if anything abnormal happens while using please refer to the following table and
 \*Th e company keep its right of use thelatest compo nent for re pairing .
 
 ## INSTALLATIONDRAWINGFOR B&CMODEL
-
 UNIT : mm
-
 ![Sensor_Squat_Toilet INSTALLATIONDRAWINGFOR B&CMODEL](../../../assets/images/ins/63068_EN_ToiletSensor-ins-16.png)
 
 ![Sensor_Squat_Toilet INSTALLATIONDRAWINGFOR B&CMODEL](../../../assets/images/ins/63068_EN_ToiletSensor-ins-17.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -178,13 +166,9 @@ UNIT : mm
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 63068 |

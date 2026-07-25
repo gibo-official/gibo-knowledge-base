@@ -13,24 +13,18 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6197
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
 ![Sensor_Nozzle感应水嘴](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
-
 ## 正面
-
 ## Touchless Faucet Adapter Installation Manual
 
 ![Sensor_Nozzle Touchless Faucet Adapter Installation Manual](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
@@ -38,9 +32,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 \* this product is match to male m 22 and female m 24 of faucet nozzle
 
 ## Installation Drawing
-
 ## 背面
-
 ## Technical Parameters
 
 ![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
@@ -58,9 +50,7 @@ Qualification Certificate
 
 ![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -72,13 +62,9 @@ Qualification Certificate
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6197 |

@@ -18,9 +18,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6306蹲便感应器CN_EN_说
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -41,9 +39,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6306蹲便感应器CN_EN_说
 \- get these tools at hand : adjustable wrench , screwdrivers , thread sealant , pliers , electric hammer and etc .
 
 ● the following pictures for your reference do not necessarily comply with the products . please contact the seller if you have any question related to installation .
-
 ## 维护须知
-
 1. if the water volume is not suitable for use , please adjust to proper volume withaflat blade screwdriver ( turn up the volume clockwise and turn down the volume counterclockwise )
 2. cleaning the filter net
 
@@ -69,13 +65,9 @@ Take out the battery box from the mounting and insert in batteries according to 
 \* do not mix old and new batteries nor batteries of different brands ;
 
 \* please change batteries when the indicate light keeps flashing indicating the batteries do not have enough power .( for DC current products )
-
 ## 更换电池
-
 从预埋盒中取出电池盒, 将四节五号碱性电池按照 $(+)$ 依次装入电池盒内. 重新装上电池盒盖, 并旋紧螺丝.
-
 ## 注意
-
 \*电池正负(+-)极性必须正确;
 
 \*不同新旧, 类型或品牌的电池不可混合使用;
@@ -83,9 +75,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 \*指示灯一直闪烁, 表示电池电量不足, 请及时更换电池.
 
 ![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-02.png)
-
 ## Note
-
 \* please do not directly was hit with water ,
 
 Use wet cloth to clean it .
@@ -93,9 +83,7 @@ Use wet cloth to clean it .
 \* do not crush itor failure may be caused .
 
 \* do not clean it with acid or alkaline detergents .
-
 ## 注意
-
 \*请不要用水直接冲洗, 若不洁请使用湿布擦拭.
 \*请不要撞击否则易引起故障.
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
@@ -113,9 +101,7 @@ If anything abnormal happens while using , please refer to the following table a
 如果在使用过程中发现异常情况, 请参照下表来解决. 若仍有疑问, 请拨打服务电话联系解决.
 
 ![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-07.png)
-
 维修零件图
-
 ![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-08.png)
 
 ## B & C Model B , C 型
@@ -156,9 +142,7 @@ B, C型/安装示意图
 
 ![蹲便感应器B & C Model B , C 型](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-11.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -170,13 +154,9 @@ B, C型/安装示意图
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6306 |

@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 9161
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -161,15 +157,9 @@ Thenegative ends of the battery ( q ) should always connect to the spring end of
 ○ reinstall the battery pack cover ( a ) by pushing up and snapping into place . see fig 3.
 
 When the sensor flashes 10 times continuously and slowly , the batteries have lost their charge . replace the batteries .
-
-Fig 1
-
-Fig 2
-
+Fig 1 Fig 2
 ![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-25.png)
-
 Fig 3
-
 ![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-26.png)
 
 ![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-27.png)
@@ -253,9 +243,7 @@ Donotovertighten .
 ## Operation
 
 ## 1. Flush and Check for Leaks
-
 8
-
 ![Sensor_Faucet 1. Flush and Check for Leaks](../../../assets/images/ins/9161_EN_SensorFaucet-ins-40.png)
 
 Important : after installation is completed . turn on the hot and cold water supplies . check for leaks . do not lose the gasket ( a ) in the hose .
@@ -345,9 +333,7 @@ When you have new battery , please close the valve clockwise at first ( b ), and
 
 ![Sensor_Faucet Specification](../../../assets/images/ins/9161_EN_SensorFaucet-ins-54.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -359,13 +345,9 @@ When you have new battery , please close the valve clockwise at first ( b ), and
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 9161 |

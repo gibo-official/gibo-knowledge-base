@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # G1
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 智能盖板
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -108,9 +104,7 @@ Tools needed : a phillips screwdriveraruler .!
 1. the seat start to heatonce accessing power , and the LED light is on
 LED indicator light
 2 the seat start to heat when its temperature is lower than 31 and the LED light is on ℃3. the seats top heating when its temperature ℃ up to 35, and the LED light is off .4. the seat was heated cyclically .
-
 ## Notice
-
 ![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-15.png)
 
 ![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-16.png)
@@ -137,9 +131,7 @@ Please use the protective socket to prevent electric leakage .
 
 ![Smart_Toilet_Seat Spare Parts Diagram](../../../assets/images/ins/G1_EN_SmartSeat-ins-22.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -151,13 +143,9 @@ Please use the protective socket to prevent electric leakage .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | G1 |

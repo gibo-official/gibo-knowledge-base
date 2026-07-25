@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 8301
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -116,9 +112,7 @@ Fixed the panel back to original location after adjustment
 ## Change of Battery
 
 Take out the battery box from the mounting and insert in batteries according to hints (＋－)
-
 ## Note:
-
 \* the polarity of the batteries (＋－) must be correct ;
 
 \* do not mix old and new batteries nor batteries of different brands ;
@@ -126,9 +120,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 Batteries do not have enough power .( for DC current products )
 
 ![Sensor_Squat_Toilet Note:](../../../assets/images/ins/8301_EN_ToiletSensor-ins-07.png)
-
 ## Note:
-
 \* please do not directly was hit with water , use wet cloth to clean it .\* do not crush itor failure may be caused .
 
 \* do not clean it with acid or alkaline detergents .
@@ -173,9 +165,7 @@ However the end customers are included .
 
 \* please keep your invoice of the product properly to ensure better service from us .\* the company keep its rightof use the latest component for repairing .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -187,13 +177,9 @@ However the end customers are included .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 8301 |

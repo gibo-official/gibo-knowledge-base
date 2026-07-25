@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6193
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -165,13 +161,9 @@ $\ triangle $ please getoutof the filter net and clean it with clean water if wa
 ## Spare Parts
 
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-25.png)
-
 nut
-
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-26.png)
-
 gasket
-
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-27.png)
 
 connector
@@ -195,9 +187,7 @@ Side sensor
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-32.png)
 
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-33.png)
-
 A1A2
-
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-34.png)
 
 A3A1A2A3 female connector
@@ -205,20 +195,12 @@ A3A1A2A3 female connector
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-35.png)
 
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-36.png)
-
-B1
-
-B2
-
+B1 B2
 ![Sensor_Nozzle Spare Parts](../../../assets/images/ins/6193_EN_SensorNozzle-ins-37.png)
-
 $\beta 3$
-
 B1B2B3male connector.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -230,13 +212,9 @@ B1B2B3male connector.
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6193 |

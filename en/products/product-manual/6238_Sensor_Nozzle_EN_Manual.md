@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6238
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -40,9 +36,7 @@ Please read these instruction carefully familiarize yourself with the required t
 All infromation in these instructions is based upon the latest product infromation available at the time of publication. Our company reserves the right to make changes in product characteristics, packaging, or availability at any time without notice.
 
 These instructions contain important care, cleaning, and warranty information, please leave instructions for the consumer
-
 ## NOTES:
-
 Flush dirt, debris and sediment from Supply Line(s) prior to installing the urinal flusher, to avoid influence over water delivering.
 
 No disassembly, reparation or rebuilding by unprofessional personnel, to avoid troubles or damages. No much pressure or wallop on the urinal flusher to avoid troubles or water leak.
@@ -195,9 +189,7 @@ Our company provides one years warranty for it's valve free during normal reside
 
 ![Sensor_Nozzle INSTALLATION DIAGRAM](../../../assets/images/ins/6238_EN_SensorNozzle-ins-21.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -209,13 +201,9 @@ Our company provides one years warranty for it's valve free during normal reside
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6238 |

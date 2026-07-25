@@ -18,9 +18,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 其他
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -186,9 +184,7 @@ Poor water quality will result in obstructed and reduced flow .
 ① note :- make sure to locate the trouble , and refer to the list for troubleshooting .
 - make sure to use " aa " battery .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -200,13 +196,9 @@ Poor water quality will result in obstructed and reduced flow .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6308 |

@@ -18,9 +18,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -31,24 +29,16 @@ For your better life
 ## 感応節水の蛇口 Touchless Faucet Adapter
 
 ![D_Sensor_Water_Saving_Nozzle感応節水の蛇口 Touchless Faucet Adapter](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-01.png)
-
 ## 製品配置
-
 ![D_Sensor_Water_Saving_Nozzle製品配置](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-02.png)
 \*本製品はM22外歯とM24内歯の蛇口にフィットする.
-
 ## 機能指示
-
 ![D_Sensor_Water_Saving_Nozzle機能指示](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-03.png)
 長い出水: 側感応窓は手を振って水を出し, 再び手を振って停止します.
 短い出水: 下感応窓は手を伸ばして水を出し, 手を離して水が切れます.
-
 ## 取り付け図
-
 ![D_Sensor_Water_Saving_Nozzle取り付け図](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-04.png)
-
 ## 製品使用
-
 1 長い出水: 側感応窓て手を振って水を出し, 再び手を振って停止する; 3分後自動的に水が止まります.
 
 ![D_Sensor_Water_Saving_Nozzle製品使用](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-05.png)
@@ -79,9 +69,7 @@ For your better life
 ## 1 水継手に回して取り外す
 
 ![D_Sensor_Water_Saving_Nozzle1 水継手に回して取り外す](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-09.png)
-
 2 充電ヒント
-
 ![D_Sensor_Water_Saving_Nozzle1 水継手に回して取り外す](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-10.png)
 充電を挿入する
 充電が満タンになると
@@ -117,13 +105,9 @@ For your better life
 
 4.1 管路の水圧が小さくなっているか, 角弁が一番大きくなっているか確認してください.
 4.2 フィルタ詰まり: 使用メンテナンスなかのフィルターガスケットを洗浄すの流れ操作を参照してください.
-
 ## 合格証明書
-
 ![D_Sensor_Water_Saving_Nozzle合格証明書](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-11.png)
-
 ## 保証書
-
 ![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-12.png)
 
 1 感応窓の部位は, 粗い麻, ブラシ, ワイヤーボールなどの粗製のものを使用しないでください, 感電障害や制品損傷の原因とならないように, 水や水滴の湿布で制品を拭かないでください.
@@ -143,10 +127,7 @@ For your better life
 2
 
 ![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-15.jpg)
-3
-
-保障說明
-
+3 保障說明
 仕様実装と使用が証明された場合,品質保証期間は12か月です.
 
 2 以下の行為で生じる品質の問題については, この保証範囲に含まれない:
@@ -159,9 +140,7 @@ For your better life
 
 2.4 その他の不可抗力による損傷.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -173,13 +152,9 @@ For your better life
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6197 |

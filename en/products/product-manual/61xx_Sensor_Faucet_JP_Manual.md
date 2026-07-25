@@ -19,9 +19,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -31,37 +29,25 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 手がボトムセンサー検知範囲内に入ると自動的にオンになり水が流れ出ます. 検知範囲内から離れるとオフになり水が止まります. 1分間使用し続けると自動的にオフになり水が止まります.
 
 ## 自動センサー水栓
-
 ## 取扱説明書
-
 ■このたびは, お買い上げいただきまして誠にありがとうございます.
 
 ■この取扱説明書をよくお読みの上正しくご使用ください. 特に「安全上のご注意」は, ご使用前に必ずお読みいただき, 安全にご使用ください.
 
 ■この取扱説明書は必ず保管し, 必要な時にお読みください.
-
 ## 各部の名称
-
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
 
 ※本製品はM22(口径22mm/内ネジタイプ)およびM24(口径24mm/外ネジタイプ)の蛇口に適しています.
-
 機能紹介
-
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
-
 取付方法
-
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
 
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.png)
-
 使用方法
-
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
-
 適応する蛇口
-
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-06.png)
 
 ![Sensor_Faucet各部の名称](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-07.png)
@@ -78,9 +64,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 2. 充電用のUSB Type-Cケーブルや電源アダプターは, 本製品に含まれておりません. 別途ご用意ください.
 
 ![Sensor_Faucetメンテナンス方法](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-08.png)
-
 ## 使用上の注意
-
 [1] センサーウインドウを粗い布, ブラシ, 金属たわしなどの粗いものでこすらないでください.
 センサーの故障や製品の破損を防ぐため, 水で濡らしたり濡れた布などで拭かないでください.
 
@@ -98,9 +82,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ![Sensor_Faucet使用上の注意](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-10.png)
 
 ![Sensor_Faucet使用上の注意](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-11.png)
-
 ## 商品仕様
-
 ![Sensor_Faucet商品仕様](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-12.png)
 
 取り付け後に水漏れする
@@ -195,9 +177,7 @@ This warranty is valid only in japan .
 
 ![Sensor_Faucet本書は, 本書記載内容で, 保証対応させて頂くことをお約束するものです.](../../../assets/images/ins/mini%E6%97%A5%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-15.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -209,13 +189,9 @@ This warranty is valid only in japan .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_mini日文说明 |

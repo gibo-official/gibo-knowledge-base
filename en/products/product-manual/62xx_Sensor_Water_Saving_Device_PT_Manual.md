@@ -19,9 +19,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -104,10 +102,7 @@ a ten çã ono usoc oti diano , avid ada bateria é aproximadamente de se is mes
 ![Sensor_Water_Saving_Device Pre Cau Çõ Es De Uso](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-09.png)
 
 ![Sensor_Water_Saving_Device Pre Cau Çõ Es De Uso](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-10.png)
-12
-
-3
-
+12 3
 ## Parâmetros Técnicos
 
 ![Sensor_Water_Saving_Device Parâmetros Técnicos](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-11.png)
@@ -141,9 +136,7 @@ a ten çã ono usoc oti diano , avid ada bateria é aproximadamente de se is mes
 
 ![Sensor_Water_Saving_Device Certificado De Qualidade](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-13.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -155,13 +148,9 @@ a ten çã ono usoc oti diano , avid ada bateria é aproximadamente de se is mes
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_葡语-感应节水宝 |

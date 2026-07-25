@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 64106
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -97,10 +93,7 @@ Activate IN sta nt lyON se nsIN g to save wate r.
 4. Level the bo rd eri ngArea of thepre lAid box with studsAnd make sure thepre lAid- - box pa ra llel with theground .
 
 ![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-03.png)
-Size A
-
-UNIT mm:
-
+Size A UNIT mm:
 ![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-04.png)
 Size B
 
@@ -108,10 +101,7 @@ Size B
 Size A
 
 ![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-06.png)
-Size B
-
-## NOTE
-
+Size B ## NOTE
 \*Test run the water for the IN l et pipe to ensure it IS free oflea kage .
 
 ## MAINTENANCEINSTRUCTIONS
@@ -135,15 +125,11 @@ Take out the battery box from the mounting And IN sert IN batteries according to
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
 ![Sensor_Shower CHANGEOFBATTERY](../../../assets/images/ins/64106_EN_ToiletSensor-ins-08.png)
-
 ## NOTE
-
 Please do not directly washit with water Use wet cloth to cleanit\* Do notcrush it or failure may be caused\* Do not cleanit with acid or Alka linedete rgents.\*
 
 ![Sensor_Shower NOTE](../../../assets/images/ins/64106_EN_ToiletSensor-ins-09.png)
-
 UNIT : mm
-
 The senso rlet out water when the body reaches sensi ngArea .
 
 The sensorstops the water fl ow when the bodyleaves the sensi ngArea .
@@ -177,9 +163,7 @@ please keep your invoice of our product properly to ensure better service from u
 
 \*The company keep its right of use thelatest compo nent for repairing .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -191,13 +175,9 @@ please keep your invoice of our product properly to ensure better service from u
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 64106 |

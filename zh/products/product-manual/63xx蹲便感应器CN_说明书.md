@@ -13,15 +13,11 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6303
-
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -77,9 +73,7 @@ UNIT mm:
 ![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-04.png)
 
 ![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-05.png)
-
 ## NOTE
-
 ![蹲便感应器 NOTE](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-06.png)
 
 \*Test run the water for the IN l et pipe to ensure it IS free oflea kage .
@@ -115,9 +109,7 @@ Take out the battery box from themo u nti ngAND IN se rt IN batteriesAcco rd IN 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
 ![蹲便感应器 CHANGE OF BATTERY](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-09.png)
-
 ## NOTE
-
 PleasedON ot direct ly washit with water Use wet clothto cleanit.\* Do notcrush it or failure may be caused\* Do not cleanit with acid or Alka linedete rgents\*
 
 ![蹲便感应器 NOTE](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-10.png)
@@ -138,9 +130,7 @@ our company has an extensive quality promise to the end customers our products p
 
 \* Please keep you rinvoice of our productpro perly to en sure better service from us \*The company keep its right of use thelatest compo nent for repairing .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -152,13 +142,9 @@ our company has an extensive quality promise to the end customers our products p
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6303 |

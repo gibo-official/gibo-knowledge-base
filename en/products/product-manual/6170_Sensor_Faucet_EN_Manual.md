@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6170
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -186,21 +182,15 @@ triangle valve before take out the filter net.
 ![Sensor_Faucet Cleaning the filter net:](../../../assets/images/ins/6170_EN_SensorFaucet-ins-26.png)
 
 ## BATTERY CHANGING
-
 ## 更换电池
-
 When the batteries is out of power, the indicate light will flash at an intermittence of 3-4 seconds to note the maintenance department to change batteries.
 
 When there is no power left in the battery, the sensor will shut downthe battery valve to avoid wasting water.
-
 Step 1：
-
 ![Sensor_Faucet更换电池](../../../assets/images/ins/6170_EN_SensorFaucet-ins-27.png)
 
 Screw off the 4 screws on the cover of the battery box to remove the cover.
-
 Step 2:
-
 Change 4 new No.5 alkaline batteries and install the battery cover.
 
 Note: The polarity of batteries must be correct. Do not mix old and new batteries or batteries of different brands.
@@ -233,9 +223,7 @@ Note: The polarity of batteries must be correct. Do not mix old and new batterie
 
 FUJIAN GIBO KITCHEN & BATHROOM TEC. CO., LTD. Address :B-54, Pushang Inductrial park,Cangshan District Fuzhou,China Tel:400-6622-16 www.gibo.com.cn
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -247,13 +235,9 @@ FUJIAN GIBO KITCHEN & BATHROOM TEC. CO., LTD. Address :B-54, Pushang Inductrial 
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6170 |

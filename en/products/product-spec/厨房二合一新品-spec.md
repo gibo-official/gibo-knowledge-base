@@ -266,9 +266,7 @@ The following materials are GIBO brand/company-level general content, centrally 
 ## III. This Product's Marketing Materials (actual extracted text)
 
 ### Source: GIBO Intro 2020v1.41 — Soap Dispenser (2)
-
-[Image]
-[Image]
+[Image][Image]
 2020 New Products & Technologies Conference
 New Product & New Technology Sharing
 15 Years Focused on Smart Kitchen & Bath
@@ -279,9 +277,7 @@ Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 Great
 Benefit
 Innovation
-Onus
-
-[Image]
+Onus [Image]
 Company Capacity
 Sensor foam soap dispenser production capacity 30K/month
 
@@ -328,9 +324,7 @@ Frontier technology application & innovation
 Bathroom electronics solutions
 Empowering customers technically
 Rapid-response service
-[Image]
-
-R&D
+[Image] R&D
 Technology Innovation
 
 R&D
@@ -341,13 +335,7 @@ Technology Innovation
 
 New Product
 Kitchen Faucet
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image][Image]
 New Product
 Xiaoxibao Smart Spout
 [Image]
@@ -360,63 +348,31 @@ Pull-out Spout Application
 
 New Product
 Xiaoxibao Smart Spout
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image][Image][Image][Image]
 Sensor Faucet Solutions
 NC Thermostatic Faucet
 Touch-sensing Faucet
 Spout Sensing Module
 Modular Basin Faucet Module
 Integrated Temp-adjust Faucet Module
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image]
 New Product
 Basin Sensor Faucet
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image]
 New Product
 Bathroom Sensor Faucet
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image]
 Kitchen Faucet Solutions
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
+[Image][Image][Image][Image][Image]
 Sensor Shower-spray Spout Module
 Touch-control Kitchen Faucet Solution
 Sensor Kitchen Faucet Solution
 Wireless Sensor Faucet Solution
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image]
 Smart Shower Solutions
 IC-card Shower System
 NC Thermostatic Shower
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image]
 Sensor Flush-valve Solutions
 Concealed Flush Valve
 Exposed Flush Valve
@@ -424,38 +380,23 @@ Ceramic Integrated Module
 Seawater Application Solution
 Water-hammer-free Product Application
 Trough-type Water-saver Application
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image][Image][Image][Image]
 Sensor Cistern Solutions
 Top-press Sensor Water-fitting (Cistern)
 Line-control Sensor Water-fitting (Toilet)
 Suited to high-position cisterns, hidden cisterns, pedestal WCs, smart toilets
-[Image]
-[Image]
-[Image]
+[Image][Image][Image]
 128ms wave sensing
 100μA ultra-low power
 Service life 200,000 cycles
 Low-water-pressure application
-[Image]
-[Image]
-
+[Image][Image]
 4th-gen Soap Dispenser
 G7 Xiaopaopao Sensor Soap Dispenser | Making Every Handwash Healthier
 Under prevention conditions, frequent handwashing to prevent cross-infection has become every family's common choice;
 Using technology to change the handwashing method, enriching the foaming technology, non-contact use, making every handwash cleaner and protecting the whole family's health.
 GIBO starts from handwashing, letting every family enjoy a smart, beautiful new life.
-[Image]
-[Image]
-
-[Image]
+[Image][Image] [Image]
 Product Introduction
 The sensor foam soap dispenser applies infrared-sensing technology, uses MCU single-chip intelligent control and an optimized high-efficiency air-liquid mixing pump with the best-tuned air-liquid mixing ratio; Liteon sensing technology with a low-power circuit design; simple, streamline-shaped design adapting to various scenario environments;
 An open refill interface, with 4× AA batteries or lithium battery power optional, making use and maintenance more convenient; non-contact sensing and fine foam output provide users with a high-quality, elegant handwashing experience.
@@ -463,16 +404,7 @@ An open refill interface, with 4× AA batteries or lithium battery power optiona
 Working Principle
 Infrared Emission
 Infrared Reflection
-[Image]
-[Image]
-[Image]
-
-[Image]
-[Image]
-[Image]
-02
-01
-03
+[Image][Image][Image] [Image][Image][Image]020103
 Modular Design
 Precision Diaphragm Push-pull Liquid-pump Motor
 Service life 200,000 cycles
@@ -482,12 +414,7 @@ Countertop Foam Unit
 Wall-mount Soap Dispenser
 Foam Faucet
 Kitchen Soap Dispenser
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image]
 Custom Development Needs
 [Image]
 [Image]
@@ -501,22 +428,13 @@ Countertop
 Wall-mount
 Faucet-type
 Mirror-cabinet-type
-[Image]
-[Image]
-[Image]
-[Image]
+[Image][Image][Image][Image]
 Soap-function Faucet Development Trend
 [Image]
 
 New Product
 Foam Soap Machine
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image][Image]
 New Product
 Foam Soap Machine
 [Image]
@@ -526,11 +444,7 @@ Rechargeable design
 Refill/replace dual function
 Adjustable dispense volume
 Breathing-light setting
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image]
 New Product · New Concept
 Jointly Opening the Beautiful New Life of Kitchen & Bath
 For Your Better Life
@@ -596,9 +510,7 @@ Under-voltage indicator: Indicator flashes 5 times when sensing
 Battery life: 20 times/day, approx. 9 months
 Applicable soap type: Dish soap, hand soap, etc.; concentration adjustable by mixing with clean water
 Bottle capacity: 500ml
-[Image]
-
-[Image]
+[Image] [Image]
 Gathering intelligence into bathroom technology,
 For people's better life
 [Image]
@@ -613,10 +525,7 @@ GIBO — R&D Department
 Li Daliang 2022.8.2
 [Image]
 Both parties are bound by confidentiality obligations regarding the contents of this document; do not distribute externally! Both parties reserve the right to claim for any losses arising therefrom!
-[Image]
-[Image]
-
-[Image]
+[Image][Image] [Image]
 Function Definition
 [Image]
 Front sensing: Reach for water, withdraw for stop — handwash mode;
@@ -715,9 +624,7 @@ GIBO — R&D Department
 Li Daliang 2023.2.14
 [Image]
 Both parties are bound by confidentiality obligations regarding the contents of this document; do not distribute externally! Both parties reserve the right to claim for any losses arising therefrom!
-[Image]
-[Image]
-
+[Image][Image]
 Function Definition
 [Image]
 1. Kitchen Sensor Faucet
@@ -808,9 +715,7 @@ Under-voltage indicator: Indicator flashes 5 times when sensing
 Battery life: 20 times/day, approx. 9 months
 Applicable soap type: Dish soap, hand soap, etc.; concentration adjustable by mixing with clean water
 Bottle capacity: 500ml
-[Image]
-
-[Image]
+[Image] [Image]
 Gathering intelligence into bathroom technology,
 For people's better life
 [Image]

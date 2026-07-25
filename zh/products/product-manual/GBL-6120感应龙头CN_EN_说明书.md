@@ -18,9 +18,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应龙头", "GBL-6120感应�
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -46,9 +44,7 @@ Comply with the illumination which is only for your reference .
 \- the following pictures for your reference do not necessarily comply with the products . please contact the seller if you have any question related to installation .
 
 ## 安装说明书 Installation Instructions
-
 ## 安装之前
-
 \- 请详细阅读本说明书
 
 ● 安装完毕后, 请务必将本说明书交给最终客户.
@@ -78,9 +74,7 @@ Comply with the illumination which is only for your reference .
 2. hygiene : noneed to touch any switch or parts , ensuring your health .
 
 1. convenience : automatically open and close water supply needless of manual operation .
-
 ## 产品功能
-
 3. water saving : stretch the hand to actuate and withdraw to stop . activate instantly on sensing to save water .
 
 1. 自动冲洗: 红外线感应自动开启和关闭.
@@ -96,9 +90,7 @@ Comply with the illumination which is only for your reference .
 ## Preparation Before Installation
 
 4. energy saving : powered by 4 no .5 alkaline batteries , the machine can work without changing batteries atafrequency of 3000 times / month for 1.5 years .
-
 ## 产品特点
-
 1. make sure the adaptor voltage conforms the product voltage .
 2. apply tap water to the machine . do not use untreated sewerage or the electromagnetic valve may be damaged .
 
@@ -109,39 +101,21 @@ Comply with the illumination which is only for your reference .
 3. avoid direct sunshine or intense light for the sensing window while choosing installation position or the performance of the machine may be affected .
 
 4. install an additional pressure booster when the water pressure is lower than 0.05 mpa or the flush performance may be affected .
-
-## Note!
-
-STEP 1
-
+## Note! STEP 1
 Conduct 0.9 mpa /60 s water pressure test after installation and make sure that none of the pipes is leaking before using .
 
 ## Installation of Control Box
 
 Drill 2 holes withadiameter of 7.5 and depth of 30 mm and hammer expansion pipes into the holes . with the 2 st 4×30 attached with self tapping screws , targeting the expansion of tube wall screw , the fixed angle locking plate on the wall .
-
 STEP 2
-
 The control box back panel jack alignment angle plate inserted in the end of the fixed angle ( shows the direction of the outlet should be down ). use the hose , connected solenoid valve and the triangle valve . control box is installed .
-
 Step 1
-
 ![感应龙头 Installation of Control Box](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-01.png)
-
-Step 1:
-
-Step 1
-
-Step 2:
-
+Step 1: Step 1 Step 2:
 ## Installation of the Faucet
 
 a img 1/2 hose against the water inlet at the bottom of the faucet and screw it in tight .
-
-Step 3:
-
-## 安装参考图b
-
+Step 3: ## 安装参考图b
 ![感应龙头安装参考图b](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-02.png)
 
 Install the gasket , spring gasket , nut and slotted flat point stud according to the sequence of the illustration and fix the assembled fauceton the basin .
@@ -163,39 +137,21 @@ Insert the other end of the control wire into the aviation socket and screw tigh
 4. 在水压低于0.05MPa使用时, 应加装升压装置, 以免冲洗效果下降.
 
 5. 在水压高于0.7MPa使用时, 应加装减压装置, 以免对机器造成破坏.
-
-## 注意!
-
-## 按制盒安装
-
+## 注意! ## 按制盒安装
 按图示位置钻两个直径为7.5mm深30mm的孔, 然后将膨胀管敲入孔内, 用附配的2只ST4X30的自攻螺丝,对准墙上的膨胀管旋入,将固定角板锁固在墙面上.
-
 ## 第一步
-
 安装完毕后应进行0.9MPa / 60S的清水试压,确认所有管路无滴漏水后, 才可使用.
 
 将控制盒背部角板插口对准固定角板,适力插入到底端(出水口应按图示方向朝下). 并将控制盒的进水端和三角阀用软管连接起来,控制盒即安装完成.
-
 ## 第二步
-
 ![感应龙头第二步](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-04.png)
-Step2
-
-## 龙头安装
-
-## 第一步:
-
+Step2 ## 龙头安装 ## 第一步:
 如图所示, 将G1/2软管对准龙头体底部的进水孔旋入并拧紧.
-第二步:
-
-## 第三步:
-
+第二步: ## 第三步:
 将装好的龙头体组件装入面盆孔,按顺序将马蹄形橡胶垫片, 马蹄形垫片, 圆垫片, 螺母套入螺杆, 并锁固在面盆上.
 
 将控制线另一端插入航空插座并锁紧, 再把G1/2软管的另一端旋到电磁阀出水端上, 这样自动水龙头就全部组装好了.
-
 Step 3
-
 ![感应龙头第三步:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-05.png)
 
 ![感应龙头第三步:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-06.png)
@@ -204,9 +160,7 @@ Step 3
 Step 21. 方便: 开启和关闭水源均由机器自动完成, 无需人为操作.
 
 ## Technical Statistics
-
 ## 技术参数
-
 ![感应龙头技术参数](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-08.png)
 
 ![感应龙头技术参数](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-09.png)
@@ -216,9 +170,7 @@ Step 21. 方便: 开启和关闭水源均由机器自动完成, 无需人为操�
 The faucet letout water when the hand reaches sensing area .当手伸到感应范围时,龙头自动出水.
 
 当手离开感应范围时, 龙头自动关水.
-
 ## 使用说明
-
 ![感应龙头使用说明](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-10.png)
 
 ## Maintenance
@@ -226,13 +178,9 @@ The faucet letout water when the hand reaches sensing area .当手伸到感应�
 Cleaning the filter net :
 
 The filter nets of newly installed products are very likely to be blocked by the sands in the pipe . please screw off the filter net and was hit when the water volume decreases
-
 ## 维护保养
-
 Note : the filter net is at the water inlet . please close triangle valve before take out the filter net .
-
 ## 清洗过滤网:
-
 ![感应龙头清洗过滤网:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-11.png)
 
 新安装的产品, 因管道中的沙石等极易在过滤网中产生淤堵, 如使用中发现出水量减少时, 请及时旋下过滤网冲洗, 并按原样装回.
@@ -240,43 +188,29 @@ Note : the filter net is at the water inlet . please close triangle valve before
 注意: 过滤网装在进水口, 取下过滤网前须关闭三角阀.
 
 ## Battery Changing
-
 ## 更换电池
-
 When the batteries is outof power , the indicate light will flash at an inter mitt ence of 3-4 seconds tonote the maintenance department to change batteries .
 
 When there is no power left in the battery , the sensor will shut down the battery valve to avoid wasting water . step 1:
 
 Screw off the 4 screws on the cover of the battery box to remove the cover .
-
 Step 2:
-
 ![感应龙头更换电池](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-12.png)
 
 Change 4 new no .5 alkaline batteries and install the battery cover .
 
 Note : the polarity of batteries must be correct . do not mix old and new batteries or batteries of different brands .
-
-Step 1
-
-## 更换电池
-
+Step 1 ## 更换电池
 电池电能耗尽时, 该指示灯每隔3\~4秒闪亮一次, 以通知物业部门更换电池. 电池电能耗尽时, 感应器将强制关闭电磁阀, 防止水资源浪费.
-
 第一步:
-
 将电池盒盖上的4个螺丝拧开, 并打开电池盒盖.
-
 第二步:
-
 换上四节新的5号碱性电池, 安装完毕后照原样装回.
 
 ![感应龙头更换电池](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-13.png)
 
 注意: 电池的正负极性必须正确, 不同新旧或不同品牌的电池不能混用.
-
 Step 2
-
 ## Notes of Use
 
 ![感应龙头 Notes of Use](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-14.png)
@@ -301,10 +235,7 @@ Do not wash the control box or failures may be caused .
 
 Do not wash with alkaline or acid detergents .
 不能用酸碱一类
-强洗涤剂擦洗.
-
-## 常见故障排除
-
+强洗涤剂擦洗. ## 常见故障排除
 ![感应龙头常见故障排除](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-18.png)
 
 ## Installation Scheme
@@ -333,9 +264,7 @@ Ensure better service from us .
 \* the company keep its rightof use the latest component for repairing .
 
 ## Service Partspage
-
 ## 一年有限担保
-
 \*我司对产品的最终客户有广泛的质量保证, 产品在被证明正常安装和使用的前提下, 保修期为1年. 在保修期内对有质量问题的产品免费维修.
 
 \*对于在以下行为中产生质量问题的不包括在此保证范围内1)因非正常安装, 替换, 修理及类似的行为中产生的质量问题不包括在此保证范围内.
@@ -347,14 +276,10 @@ Ensure better service from us .
 \*请妥善保管购买原厂产品时的发票, 以便我们能更好地为您服务.
 
 \*公司保留维修时使用最新配件的权利.
-
 ## 维修零件图
-
 ![感应龙头维修零件图](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-21.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -366,13 +291,9 @@ Ensure better service from us .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6120 |

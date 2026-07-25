@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 8300
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -119,9 +115,7 @@ Fixed the panel back to original location after adjustment.
 ## CHANGE OF BATTERY
 
 Take out the battery box from the mounting and insert in batteries according to hints (＋－)
-
 ## NOTE:
-
 \*The polarity of the batteries (＋－)nust be correct;
 
 \*Do not mix old and new batteries nor batteries of different brands;
@@ -129,9 +123,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 batteries do not have enough power.(For DC current products)
 
 ![Sensor_Squat_Toilet NOTE:](../../../assets/images/ins/8300_EN_ToiletSensor-ins-08.png)
-
 ## NOTE:
-
 \*Please do not directly wash it with water, Use wet cloth to clean it. \*Do not crush it or failure may be caused.
 
 \*Do not clean it with acid or alkaline detergents.
@@ -174,9 +166,7 @@ Solenoid valve components exploded view
 
 \*Please keep your invoice of the product properly to ensure better service from us. \*The company keep its right of use the latest component for repairing.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -188,13 +178,9 @@ Solenoid valve components exploded view
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 8300 |

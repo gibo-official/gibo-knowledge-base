@@ -558,7 +558,7 @@ Sensor Tank Fitting Assembly (wave-sensor) | BC-31515 | Set | ≥1000 | ¥125.0 
 10. Open-water speed: 0.5s
 11. Applicable ceramic lid hole diameter: 50mm
 12. Applicable base hole diameter: 60mm
-| | | Total | ¥125.0 |
+| Total | ¥125.0 |
 Remarks: 1. This product references and implements standard CJ/T 194-2014;
 2. This product implements the national "Three Guarantees" policy — 1-year warranty, excluding man-made damage;
 3. This quotation includes VAT and door-to-door freight, excluding batteries.
@@ -579,24 +579,11 @@ Focus on intelligent kitchen and bathroom for 18 years
 [Image]
 [Image]
 Fujian GIBO Kitchen & Bath Tech Co., Ltd.
-[Image]
-[Image]
-
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image] [Image][Image][Image][Image][Image][Image][Image]
 Toilet — Top Press
 Surface-mounted water tank
 Concealed water tank
-[Image]
-[Image]
-[Image]
-[Image]
+[Image][Image][Image][Image]
 Side press
 Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 Top press
@@ -609,11 +596,7 @@ Passed 200000 times water testing environmental life tests
 [Image]
 
 Multi scenario applications such as new fit up and old product upgrades
-02
-01
-03
-05
-04
+0201030504
 Effectively prevent the spread of various bacteria; Preventing cross infection
 Multiple applications such as surface mounted water tank, concealed water tank, and toilet
 LITEON dual induction technology — Hands in one, free switching
@@ -644,23 +627,14 @@ Battery box
 Drainage membrane
 
 Square panel
-[Image]
-[Image]
-[Image]
-[Image]
+[Image][Image][Image][Image]
 Flush valve assembly
 Big round panel
 Small round panel
 Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 
 Wire inductive flush valve — With round panel
-[Image]
-[Image]
-[Image]
-
-[Image]
-[Image]
-[Image]
+[Image][Image][Image] [Image][Image][Image]
 Inductive window
 Fix screw
 Manual button
@@ -689,11 +663,7 @@ Custom size
 Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 
 Hidden inductive valve — round/rectangle panel
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
+[Image][Image][Image][Image][Image]
 Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 
 [Image]
@@ -709,14 +679,7 @@ Air pump
 Inductive module
 Drainage membrane
 Power connector
-
-Outlet
-Inlet
-Panel
-[Image]
-[Image]
-[Image]
-[Image]
+OutletInletPanel[Image][Image][Image][Image]
 Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 
 New products, new concepts

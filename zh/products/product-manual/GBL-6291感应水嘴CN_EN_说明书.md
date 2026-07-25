@@ -18,9 +18,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应水嘴", "GBL-6291感应�
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -43,18 +41,14 @@ tags: ["GIBO", "洁博利", "产品说明书", "感应水嘴", "GBL-6291感应�
 ● the following pictures for your reference do not necessarily comply with the products . please contact the seller if you have any question related to installation .
 
 安装说明书 INSTALLATION INSTRUCTIONS
-
 ## 维护须知
-
 ## Cleaning the Filter Net
 
 If you need to clean the filter , useawrench rotating the valve cover , remove the piston filter , rinse with the clean water after there - install back .
 
 Note : clean the filter before the water supply valve to be closed .
-
 ## 清洗过滤网
-
-需要清洗过滤网时,请用活动扳手旋 阀盖,取下活塞过滤网,用清水冲洗干净后重新装回即可.
+需要清洗过滤网时,请用活动扳手旋阀盖,取下活塞过滤网,用清水冲洗干净后重新装回即可.
 
 注意: 清洗过滤网前须关闭供水阀.
 
@@ -69,21 +63,15 @@ Take out the battery box from the mounting and insert in batteries according to 
 \* do not mix old and new batteries nor batteries of different brands ;
 
 \* please change batteries when the indicate light keeps flashing indicating the batteries do not have enough power .( for DC current products )
-
 ## 更换电池
-
-从预埋盒中取 电池盒, 将四节五号碱性电池按照(+)依次装入电池盒内. 重新装上电池盒盖.
-
+从预埋盒中取电池盒, 将四节五号碱性电池按照(+)依次装入电池盒内. 重新装上电池盒盖.
 ## 注意
-
 \*电池正负(+-)极性必须正确;
 
 \*不同新旧, 类型或品牌的电池不可混合使用;
 
 \*指示灯一直闪烁, 表示电池电量不足, 请及时更换电池.
-
 ## Note
-
 \* please do not directly was hit with water , use wet cloth to clean it .
 
 ![感应水嘴 Note](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-02.png)
@@ -91,9 +79,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 \* do not crush itor failure may be caused .
 
 \* do not clean it with acid or alkaline detergents .
-
 ## 注意
-
 \*请不要用水直接冲洗, 若不洁请使用湿布擦拭.
 \*请不要撞击否则易引起故障.
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
@@ -143,9 +129,7 @@ Top inlet
 
 \*公司保留维修时使用最新配件的权利.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -157,13 +141,9 @@ Top inlet
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6291 |

@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6122
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水龙头
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -62,38 +58,25 @@ INSTRUCTIONS
 5. install an additional pressure decreasing device when the water pressure is higher than 0.7 mpa or the machine may be damaged .
 
 ## Installation of Control Box
-
 ## Note!
-
 Conduct 0.9 mpa /60 s water pressure test after installation and make sure that none of the pipes is leaking before using .
-
 ## Step 1
-
 Drill 2 holes withadiameter of 5 mm and depth of 30 mm and hammer expansion pipes into the holes . step 2 with the 2 st 4×30 attached with self tapping screws ,( shows the direction of he outlet should be down ). use the hose , connected solenoid valve and the triangle valve . control box is installed .
 
 ![Sensor_Faucet Step 1](../../../assets/images/ins/6122_EN_SensorFaucet-ins-01.png)
-Step 1
-Step 2
-
+Step 1Step 2
 ## Installation of the Faucet
-
 ## Step 1:
-
 a img 1/2 hose against the water inlet at the bottom of the faucet and screw it in tight . step 2:
 
 Install the gasket , spring gasket , nut and slotted flat point stud according to the sequence of the illustration and fix the assembled fauceton the basin .
-
 ## Step 3:
-
 Plug the faucet control line and the red / black line of the control box . then screw the other end of g 1/2 hose on the water outletof the valve , thus the automatic faucet installation is finished
 
 ![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-02.png)
 
 ![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-03.png)
-Step 2
-
-Step 1
-
+Step 2 Step 1
 ![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-04.png)
 
 ![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-05.png)
@@ -150,9 +133,7 @@ Note : the filter net is at the water inlet , please close triangle valve before
 When the batteries is outof power , the indicate light will flash at an inter mitt ence of 3-4 seconds tonote the maintenance department to change batteries .
 
 When there is no power left in the battery , the sensor will shut down the battery valve to avoid wasting water .
-
 Step 1:
-
 Open the control box cover and take out the battery box ,
 
 ( see the drawing ), then unscrew the screws on the
@@ -160,9 +141,7 @@ Open the control box cover and take out the battery box ,
 ![Sensor_Faucet Battery Changing](../../../assets/images/ins/6122_EN_SensorFaucet-ins-11.png)
 
 Battery box cover .
-
 Step 2:
-
 Change 4 new no .5 alkaline batteries and install the battery cover .
 
 Note : the polarity of batteries must be correct . do not mix old and new batteries or batteries of different brands .
@@ -210,9 +189,7 @@ Products with quality defects shall be repaired without any charge .
 
 ![Sensor_Faucet Control Box Assembly](../../../assets/images/ins/6122_EN_SensorFaucet-ins-18.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -224,13 +201,9 @@ Products with quality defects shall be repaired without any charge .
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6122 |

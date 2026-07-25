@@ -19,9 +19,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -42,9 +40,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 \- Get these tools at hand: adjustable wrench, screwdrivers, thread sealant, pliers, electric hammer and etc.
 
 ● The following pictures for your reference do not necessarily comply with the products. Please contact the seller if you have any question related to installation.
-
 维护须知
-
 1. If the water volume is not suitable for use, please adjust to proper volume withAflat blade screwdriver (turn up the volume clockwise and turn down the volume counterclockwise)
 2. Cleaning the filter net
 
@@ -70,13 +66,9 @@ Take out the battery box from the mounting and insert in batteries according to 
 \*Do not mix old and new batteries nor batteries of different brands;
 
 \*Please change batteries when the indicate light keeps flashing indicating the batteries do not have enough power.(For DC current products)
-
 更换电池
-
 从预埋盒中取出电池盒, 将四节五号碱性电池按照 $(+)$ 依次装入电池盒内. 重新装上电池盒盖, 并旋紧螺丝.
-
 注意
-
 \*电池正负(+-)极性必须正确;
 
 \*不同新旧, 类型或品牌的电池不可混合使用;
@@ -84,9 +76,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 \*指示灯一直闪烁, 表示电池电量不足, 请及时更换电池.
 
 ![蹲便感应器 CHANGE OF BATTERY](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-02.png)
-
 ## NOTE
-
 \*Please do not directly wash it with water,
 
 Use wet cloth to clean it.
@@ -94,9 +84,7 @@ Use wet cloth to clean it.
 \*Do not crush it or failure may be caused.
 
 \*Do not clean it with acid or alkaline detergents.
-
 注意
-
 \*请不要用水直接冲洗, 若不洁请使用湿布擦拭.
 \*请不要撞击否则易引起故障.
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
@@ -106,9 +94,7 @@ Use wet cloth to clean it.
 ![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.png)
 
 ![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.png)
-
 维修零件图
-
 If anything abnormal happens while using, please refer to the following table and solve accordingly. If the problem remains, call the service number.
 
 ![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.png)
@@ -157,9 +143,7 @@ B, C型/安装示意图
 
 ![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-11.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -171,13 +155,9 @@ B, C型/安装示意图
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 63068 |

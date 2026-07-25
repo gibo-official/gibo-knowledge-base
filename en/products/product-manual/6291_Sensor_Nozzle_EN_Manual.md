@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6291
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -76,15 +72,11 @@ make sure the ON the same centerline3 u ria nlwith the fl ushIN g ma chIN e.
 ## Back inlet
 
 ![Sensor_Nozzle Back inlet](../../../assets/images/ins/6291_EN_SensorNozzle-ins-04.png)
-
 UNIT mm:
-
 ## Top inlet
 
 ![Sensor_Nozzle Top inlet](../../../assets/images/ins/6291_EN_SensorNozzle-ins-05.png)
-
 ## NOTE
-
 ![Sensor_Nozzle NOTE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-06.png)
 
 \*Test run the water for the IN l et pipe to ensure it is free oflea kage
@@ -116,9 +108,7 @@ Take out the battery box from the mounting And IN sert IN batteries according to
 \*Th e po lArity of the batteries ( ) nust be co rrect;＋ － \* Do notmixol d And new batteries norbatteries ofdifferentbra nd s; \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
 ![Sensor_Nozzle CHANGEOFBATTERY](../../../assets/images/ins/6291_EN_SensorNozzle-ins-09.png)
-
 ## NOTE
-
 Please do not directly washit with wate r\* Use wet cloth to cleanit Do notcrush it or failure may be ca used .\* Do not cleanit with acid or Alka linedete rgents\*
 
 ![Sensor_Nozzle NOTE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-10.png)
@@ -149,9 +139,7 @@ Top inlet
 
 ![Sensor_Nozzle SERVICEPARTSPAGE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-13.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -163,13 +151,9 @@ Top inlet
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6291 |

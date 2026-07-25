@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 6632
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应洗手机
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -74,9 +70,7 @@ Pour foam soap or mixed liquid soap into the soap bottle and cover the rubber co
 Connect battery case cable to the soap dispenser power cable (red color) . Connect pump cable to the soap dispenser cable (black color) .
 
 Installation finished and the soap dispenser is ready to use.
-
 ## NOTE:
-
 1. Priming soap dispenser for first time use : Swipe your hands five to eight (5-8) times across the sensor to prime the dispenser until soap dispensed. The soap dispenser is now primed and will dispense soap as the dispense-time set.
 
 2 .Please make sure no any impurities in the soap .
@@ -147,9 +141,7 @@ Note: make sure the batteries are installed correctly ( " + "positive and " - " 
 
 2. Original receipt is required for proof of purchase as warranty is one year from date of original purchase.
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -161,13 +153,9 @@ Note: make sure the batteries are installed correctly ( " + "positive and " - " 
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 6632 |

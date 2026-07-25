@@ -13,15 +13,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
-
 # 2017
-
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 其他
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -40,9 +36,7 @@ All - in - one ir sensor for ceramic urinals
 Please read these instruction carefully familiarize yourself with the required tools , materials , and installation sequences . follow the sections that pertain to your particular installation . this will help you avoid costly mistakes . in addition to proper installation , read all operating and safety instructions .
 
 All information in these instructions is based upon the latest product information available at the time of publication . our company reserves the right to make changes in product characteristics , package ing , or availability at any time without notice . these instructions contain important care , cleaning , and warranty information . please leave instructions for the consumer
-
 ## Notes:
-
 Flush dirt , debris and sediment from supply line ( s ) prior to installing the urinal flusher , to avoid influence over water delivering .
 No disassembly , reparation or rebuilding by unprofessional personnel , to avoid troubles or damages . no much pressure or wallop on the urinal flusher , to avoid troubles or water leak .
 Water flushing the urinal flusher must not be impure , acid , alkaline or dirty water . don ' t dip the urinal flusher into water or spray water onto it due to circuit and electronic components installed inside it .
@@ -207,9 +201,7 @@ The warranty , including products , is limited clearly . our company is not resp
 
 ![Sensor_Faucet Product Parts Page](../../../assets/images/ins/2017_EN_Other-ins-25.png)
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -221,13 +213,9 @@ The warranty , including products , is limited clearly . our company is not resp
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | 2017 |

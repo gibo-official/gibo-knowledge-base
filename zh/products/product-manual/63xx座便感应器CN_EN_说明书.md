@@ -19,9 +19,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
-
 ## 感应大便器
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -50,9 +48,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 ## 挂墙式座便器安装支架的安装
 
 ## the Fixing Frame Installation
-
 ## 步骤1:
-
 1. 首先应确保感应器的安装尺寸的正确, 参阅《全自动蹲便感应器安装说明书》;
 
 2. 确保挂便器进水管及挂便器排污管的安装尺寸的定位准确;
@@ -66,29 +62,17 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 3. fixed and the feet , can be adjusted in accordance with the requirements .
 
 ![座便感应器 Step 11. Should Firstof All Ensure That the Inductive Flushing Valve Installation Size Correctly , See Fig :< Fully Automatic Squat Sensor Installation Instructions >;](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-02.png)
-
 ## 步骤2:
-
 步骤2: 如图用冲击钻在墙面及地面钻四个小孔, 大小按配件膨胀螺栓的直径; 然后装上螺栓, 拧紧螺母确认安装支架固定的平衡.
-
 ## Step 2:
-
 Drill four holes with diameter of 10-12 mm and fill in the holes with bulges crew and tighten the screw , confirm the installation bracket is fixed on the balance .
-
 图3
-
 ![座便感应器 Step 2:](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-03.png)
-
 ## 步骤3:
-
 如图按照尺寸的要求, 适当调整可调支脚, 并用扳手将螺栓拧紧确保固定牢固.
-
 ## Step 3:
-
 As requested by the drawing size , adjust the adjustable feet , fixed firmly using wrench , tighten the bolts to ensure .
-
 图4
-
 ![座便感应器 Step 3:](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-04.png)
 
 Figure to install and adjust the water inlet pipe and blow downpipe size and position , ensure the ceramic toilet installation position and can be matched with corresponding installation .
@@ -111,9 +95,7 @@ Installation is complete graph
 感应器及安装支架完成后, 确定好尺寸, 小心地在墙面定好座便器的位置.
 
 Step 1: set the spacing of the bowl sensor and mounting bracket is complete , fixed size and carefully on the wall position your toilet .
-
 图8
-
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-07.png)
 
 步骤 2: 安装进水, 排污联接管件在进水口管件上装上封水橡胶垫圈, 在排污联接管上装上封水橡胶垫圈, 联接上排污口, (确保封水橡胶垫圈使座便器与墙面音来丝合缝).
@@ -121,11 +103,7 @@ Step 1: set the spacing of the bowl sensor and mounting bracket is complete , fi
 Step 2: install the water inlet , outlet pipe installed on the water inlet ; the rubber sealing ring , pipe with rubber sealing ring connected to the sewage outfall , connection ,( make sure the water sealing rubber gasket to make toilet dovetail with the wall ).
 
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-08.png)
-
-图9
-
-I
-
+图9 I
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-09.png)
 
 步骤 3: 安装座便器
@@ -135,9 +113,7 @@ I
 Step 3: ceramic toilet installation place the new bowl on the wall through the carrier . wrench thenut to tighten and make them attached securely . see fig .10.
 
 ( torque for tightening nuts is recommended to be within the range from 8 nm to 12 nm )
-
 图10
-
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-10.png)
 
 调整座便器至水平,然后完成固定,如图11;使用密封胶,保证座便器边沿紧贴墙面如图12.
@@ -145,11 +121,7 @@ Step 3: ceramic toilet installation place the new bowl on the wall through the c
 Adjust to horizontal and finish tightening , see fig .11.
 
 Apply sealant to make sure the bowl ' sedge seals to the wall . see fig .12.
-
-图11
-
-图12
-
+图11 图12
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-11.png)
 
 1. 确保所有连接已旋紧.
@@ -161,9 +133,7 @@ Apply sealant to make sure the bowl ' sedge seals to the wall . see fig .12.
 1. ensure that all the connections are tight .
 2. turn on the water supply and check for any leaks .
 3. flush the toilet to check for correctoperation .
-
 图13
-
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-12.png)
 
 ![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-13.png)
@@ -178,9 +148,7 @@ Postcode: 350000
 电话: 400-6622-163
 邮编: 350000
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -192,13 +160,9 @@ Postcode: 350000
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | ZZZ_转曲感应式挂墙座 |

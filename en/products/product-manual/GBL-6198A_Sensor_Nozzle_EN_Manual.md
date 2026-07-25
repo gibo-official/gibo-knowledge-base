@@ -18,9 +18,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
-
 ## 感应水嘴
-
 | | |
 |---|---|
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
@@ -55,13 +53,9 @@ Pls install the washer according to the below drawing . it ' s convenient & hygi
 Power wire comes through pipe AC 220 v
 
 ![A_Sensor_Nozzle Installing Scheme for Gbl -6198 Ad](../../../assets/images/ins/GBL-6198AD Instruction-ins-04.png)
-
 Unit: mm
-
 ![A_Sensor_Nozzle Installing Scheme for Gbl -6198 Ad](../../../assets/images/ins/GBL-6198AD Instruction-ins-05.png)
-
 ## Notes
-
 Install the controller strictly according to the direction in left drawing .
 
 When flow rate becomes small or no water comes out , pls clean the filter in water inlet . don ' t remove it !
@@ -70,9 +64,7 @@ Keep the sucker well for future maintenance .
 
 Keep the glass of sensor eye clean . not to clean it by chemical liquid . only neutral detergent and clean water is acceptable .
 ---
-
 ## 联系方式
-
 | | |
 |---|---|
 | **服务热线** | 0591-88066000 |
@@ -84,13 +76,9 @@ Keep the glass of sensor eye clean . not to clean it by chemical liquid . only n
 **福建洁博利厨卫科技有限公司**
 
 <img src="../../../assets/images/ins/gibo-footer.png" alt="GIBO QR" width="130" />
-
 *扫码访问官网*
-
 ---
-
 ### 产品信息
-
 | 项目 | 内容 |
 |------|------|
 | **型号** | GBL-6198 |

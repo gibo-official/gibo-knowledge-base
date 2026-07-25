@@ -317,10 +317,7 @@ Modular water-electricity separation design
 The recessed-tank smart-toilet base parts adopt a flat-layout modular design — clear modules, easy to replace, low after-sales cost, achieving water-electricity separation and ensuring use safety from within.
 Integrated ceramic cistern design
 The recessed tank is an integrated ceramic cistern — more stable and with more stable quality.
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image]
 Waterproof box
 Ivory shaft
 Outlet on the base
@@ -349,29 +346,20 @@ Smart cover rear end
 Smart cover front end
 Cover-mounting holes on the ceramic
 Zhi Mei You Pin
-①
-②
-③
-
+①②③
 Recessed-tank Cistern System
 Recessed-tank Cistern
 Siphon Flushing System
 A built-in booster pump ensures strong flush power without being limited by water pressure.
 Super-swirl turbine flushing sweeps away waste like ocean waves, leaving the bowl clean with no residue — worry-free after cleaning.
-[Image]
-[Image]
-
+[Image][Image]
 5 seconds after the body leaves the seat sensor, the toilet auto-senses and flushes. The original dual-swirl turbine siphon-jet flushing technology uses two powerful water columns on the left and right inner walls, combined with central multi-hole small water columns, forming an all-around powerful swirling and 360° turbine water flow for flushing, supplemented by bottom jet water columns for assisted flushing.
-[Image]
-[Image]
-
+[Image][Image]
 The recessed-tank smart-toilet series is easy to disassemble and assemble,
 convenient for after-sales and maintenance.
 E2
 Competitor
-[Image]
-[Image]
-
+[Image][Image]
 Recessed-tank Smart All-in-one Unit
 Zhi Mei You Pin
 [Image]
@@ -380,9 +368,7 @@ Pre-filter Water Purifier
 Cleaner water, more reassuring flush
 Small flush
 Large flush
-[Image]
-[Image]
-[Image]
+[Image][Image][Image]
 Flush waterway
 Posterior/feminine wash waterway
 
@@ -405,9 +391,7 @@ Air mixed into the water for washing — gentle, comfortable and more water-savi
 [Image]
 
 Multiple wash modes — self-cleaning & bacteria removal
-[Image]
-[Image]
-[Image]
+[Image][Image][Image]
 All-stainless-steel cleaning spray tube — automatically draws water for cleaning before and after use, effectively preventing bacterial growth for greater peace of mind each use.
 Integrated stainless-steel cleaning nozzle: one spray gun concentrates three different nozzles to meet different washing needs. The 304 stainless steel spray tube, via body sensing, presses the posterior or feminine wash button to perform bacteria-removal cleaning before and after use, for more reassuring washing.
 Hidden nozzle: when on standby, a baffle shields the spray tube, avoiding external contamination.
@@ -450,13 +434,7 @@ A light toe-kick auto raises the lid; one more kick auto opens the seat ring —
 Remote lid open
 One-click quick release
 One-click easy removal, more convenient for deep cleaning.
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-[Image]
-
+[Image][Image][Image][Image][Image][Image]
 After toileting, extend the foot into the sensing zone to auto-sense and flush,
 bringing great convenience to men's toileting (can also
 be changed to foot-kick flush).
@@ -478,9 +456,7 @@ Siphon flushing system, no water-pressure requirement, adapts to any piping.
 Instant-heat washing, drying, constant-temperature seat.
 Smart remote control, sensor flushing, sensor lid open.
 Recessed-tank Smart All-in-one Unit
-[Image]
-[Image]
-[Image]
+[Image][Image][Image]
 3101 Ruisi Series
 3104 Luoke Series
 3105 Ruijia Series
@@ -509,9 +485,7 @@ Zhi Mei You Pin
 2018 GIBO New Product Launch
 GIBO New Product Sharing
 New Product · New Concept · Opening the New Era of Smart Kitchen & Bath
-[Image]
-[Image]
-
+[Image][Image]
 Company Introduction
 Great
 Benefit
@@ -561,9 +535,7 @@ Meets various water-use needs during kitchen water fetching, vegetable washing a
 Continuous output auto-stops after 3 minutes
 · Instant output on sensing, off on hand-leave
 Continuous output auto-stops after 1 minute
-[Image]
-[Image]
-[Image]
+[Image][Image][Image]
 Liteon Smart Sensing Technology
 Capturing every water-use need
 Xiaoxibao II
@@ -609,11 +581,7 @@ Quibbling over every 1°, just for 1° more comfort
 [Image]
 Coming soon......
 Light-luxury smart upgrade edition
-
-Dizhou
-[Image]
-Xinya
-[Image]
+Dizhou[Image]Xinya[Image]
 Dianqing
 [Image]
 Shiwaluo
@@ -621,9 +589,7 @@ Shiwaluo
 GIBO · For Your Better Life
 Thank you for watching!
 New Product · New Concept · Opening the New Era of Smart Kitchen & Bath
-2018
-[Image]
-
+2018[Image]
 ### Source: U106IRM_V1.0 Data Manual
 
 (This material is parameter-heavy; filtered per marketing screening. For technical details see the original Micro Drive file.)
@@ -641,22 +607,14 @@ Internal training material — do not distribute externally
 [Image]
 [Image]
 LDL-2023.07.18
-
-[Image]
-1
-2
-4
-3
-[Image]
+[Image]1243[Image]
 Mechanical press
 
 Lid open
 Seat-occupied sensing
 Foot-sense flush
 Seat-ring open
-[Image]
-
-[Image]
+[Image] [Image]
 Pure mechanical foot-kick
 Just give it a kick when using
 Pros: Mechanical-travel type, no technical requirement, uses a direct button for on/off action; metal material, durable appearance
@@ -671,9 +629,7 @@ dTOF-laser-sensing foot-sense
 Extend a foot and wave it in the toilet ceramic sensing zone (enter the sensing zone) to execute the action; laser sensing.
 Pros: Non-contact sensing, no difference between black/white color sensing, comfortable foot-feel, not picky about shoes
 Cons: Also requires ceramic hole drilling, relatively higher cost; requires locating the front of the sensing zone
-dTOF
-[Image]
-
+dTOF[Image]
 Capacitive body-sensing foot-sense
 Extend a foot and wave it in the toilet ceramic icon zone (enter the sensing zone) to execute the action; capacitive sensing.
 Pros: Non-contact sensing, no difference between black/white color sensing, comfortable foot-feel, not picky about shoes; ceramic needs no hole drilling
