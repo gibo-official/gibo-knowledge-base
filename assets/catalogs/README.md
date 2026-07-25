@@ -1,267 +1,37 @@
 ---
-title: "README"
+title: "产品画册目录（Catalogs）"
 lang: zh-CN
-category: 索引导航
+category: 资产目录
 product: ""
-tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
-summary: "最后更新：2026-07-14"
+tags: ["GIBO", "洁博利", "资产目录", "画册"]
+summary: "产品画册目录（Catalogs）（最后更新：2026-07-14）"
 updated: 2026-07-14
 date: 2026-07-14
 ---
-# catalogs — 产品画册目录
+# 产品画册目录（Catalogs）
 
+**文档版本**：V1.0
 
+**最后更新**：2026-07-14
 
-**文档版本**
+**适用范围**：站点导航、AI 知识库引用
 
-：V1.0
+本目录存放 GIBO / 洁博利全系产品画册（Catalog），含中文版与英文版，供客户选型、工程商报备、展会发放使用。
 
-**最后更新**
+## 文件清单
 
-：2026-07-14
-
-**适用范围**
-
-：站点导航、AI知识库引用
-
-
-
-本目录存放 GIBO/洁博利 全系产品画册（Catalog），含中文版与英文版，供客户选型、工程商报备、展会发放使用。
-
-
-
-#
-
-# 文件列表
-
-
-
-| 文件名 | 说明 | 大小 |
+| 文件名 | 类型 | 大小 |
 |--------|------|------|
-| catalog_2015-cn-single-page.pdf | 中文2015单页产品概览（早期版） | 3.2MB |
-| catalog_2022-cn.pdf | 中文2022全系产品画册（主文件） | 4.1MB |
-| catalog_2022-cn-03.webp | 中文2022画册第3页（详情图） | 479KB |
-| catalog_2022-cn-05.webp | 中文2022画册第5页（详情图） | 435KB |
-| catalog_2022-cn-household-3qu.pdf | 中文2022家居系列三折页 | 5.7MB |
-| catalog_2022-cn-solution-vertical.pdf | 中文2022解决方案竖版画册 | 2.6MB |
-| catalog_2023-en.pdf | 英文2023全系产品画册（国际版） | 11MB |
-| catalog_2025_list-en.pdf | 英文2025产品清单速查表 | 2.1MB |
-| catalog_parts2025-en.pdf | 英文2025配件清单手册 | 4.5MB |
-
-# 文件命名规范
-
-
-
-```
-
-catalog_{年份}
-
-- {语言}
-
-- {版本/描述}. pdf
-
-catalog_{年份}
-
-- {语言}
-
-- {页码}. webp
-
-
-
-# 画册单页图片
-
-```
-
-
-
-| 字 | 段 | 取 | 值 | 说 | 明 |
-
-|
+| [catalog_2015-cn-single-page.pdf](./catalog_2015-cn-single-page.pdf) | PDF 文档 | 3.2MB |
+| [catalog_2022-cn-03.webp](./catalog_2022-cn-03.webp) | 图片 | 478.2KB |
+| [catalog_2022-cn-05.webp](./catalog_2022-cn-05.webp) | 图片 | 434.7KB |
+| [catalog_2022-cn-household-3qu.pdf](./catalog_2022-cn-household-3qu.pdf) | PDF 文档 | 5.7MB |
+| [catalog_2022-cn-solution-vertical.pdf](./catalog_2022-cn-solution-vertical.pdf) | PDF 文档 | 2.6MB |
+| [catalog_2022-cn.pdf](./catalog_2022-cn.pdf) | PDF 文档 | 4.0MB |
+| [catalog_2023-en.pdf](./catalog_2023-en.pdf) | PDF 文档 | 10.5MB |
+| [catalog_2025_list-en.pdf](./catalog_2025_list-en.pdf) | PDF 文档 | 2.0MB |
+| [catalog_parts2025-en.pdf](./catalog_parts2025-en.pdf) | PDF 文档 | 4.5MB |
 
 ---
 
-| - |
-
----
-
-| - |
-
----
-
-| - |
-
-| 年 | 份 | 2 | 0 | 1 | 5 | / | 2 | 0 | 2 | 2 | / | 2 | 0 | 2 | 3 | / | 2 | 0 | 2 | 5 | 画 | 册 | 出 | 版 | 年 | 份 |
-
-| 语 | 言 | ` | c | n | ` | / | ` | e | n | ` | c | n | = | 中 | 文 | ， | e | n | = | 英 | 文 |
-
-| 版 | 本 | ` | s | i | n | g | l | e |
-
-- page` / `household
-
-- 3qu` / `solution
-
-| - | v | e | r | t | i | c | a | l | ` | / | ` | l | i | s | t | ` | / | ` | p | a | r | t | s | ` | 画 | 册 | 类 | 型 |
-
-| 页 | 码 | ` | 0 | 3 | ` | / | ` | 0 | 5 | ` | 画 | 册 | 单 | 页 | 序 | 号 | （ | W | e | b | P | 格 | 式 | ） |
-
-
-
-#
-
-# 画册版本说明
-
-
-
-#
-
-#
-
-# 中文画册（2022 版）
-
-
-
-| 文 | 件 | 适 | 用 | 场 | 景 |
-
-|
-
----
-
-| - |
-
----
-
-| - |
-
-| ` | c | a | t | a | l | o | g | _ | 2 | 0 | 2 | 2 |
-
-| - | c | n | . | p | d | f | ` | 全 | 系 | 产 | 品 | 介 | 绍 | ， | 发 | 送 | 给 | 新 | 客 | 户 | 的 | 首 | 选 | 文 | 件 |
-
-| ` | c | a | t | a | l | o | g | _ | 2 | 0 | 2 | 2 |
-
-- cn
-
-- household
-
-| - | 3 | q | u | . | p | d | f | ` | 家 | 居 | / | 家 | 装 | 渠 | 道 | ， | 三 | 折 | 页 | 便 | 于 | 打 | 印 | 分 | 发 |
-
-| ` | c | a | t | a | l | o | g | _ | 2 | 0 | 2 | 2 |
-
-- cn
-
-- solution
-
-| - | v | e | r | t | i | c | a | l | . | p | d | f | ` | 工 | 程 | / | 项 | 目 | 渠 | 道 | ， | 竖 | 版 | 适 | 合 | 手 | 机 | 浏 | 览 |
-
-| ` | c | a | t | a | l | o | g | _ | 2 | 0 | 2 | 2 |
-
-- cn
-
-| - | 0 | 3 | . | w | e | b | p | ` | / | ` | 0 | 5 | . | w | e | b | p | ` | 画 | 册 | 精 | 选 | 页 | ， | 用 | 于 | 官 | 网 | / | 微 | 信 | 快 | 速 | 预 | 览 |
-
-
-
-#
-
-#
-
-# 英文画册
-
-
-
-| 文 | 件 | 适 | 用 | 场 | 景 |
-
-|
-
----
-
-| - |
-
----
-
-| - |
-
-| ` | c | a | t | a | l | o | g | _ | 2 | 0 | 2 | 3 |
-
-| - | e | n | . | p | d | f | ` | 海 | 外 | 客 | 户 | 全 | 系 | 产 | 品 | 介 | 绍 | （ | 2 | 0 | 2 | 3 | 国 | 际 | 版 | ） |
-
-| ` | c | a | t | a | l | o | g | _ | 2 | 0 | 2 | 5 | _ | l | i | s | t |
-
-| - | e | n | . | p | d | f | ` | 产 | 品 | 型 | 号 | 速 | 查 | 表 | ， | 方 | 便 | 客 | 户 | 快 | 速 | 选 | 型 |
-
-| ` | c | a | t | a | l | o | g | _ | p | a | r | t | s | 2 | 0 | 2 | 5 |
-
-| - | e | n | . | p | d | f | ` | 维 | 修 | / | 备 | 件 | 场 | 景 | ， | 配 | 件 | 清 | 单 | 独 | 立 | 成 | 册 |
-
-
-
-#
-
-#
-
-# 历史版本
-
-
-
-`catalog_2015
-
-- cn
-
-- single
-
-- page.pdf` 为早期单页概览，保留供老客户参考。
-
-
-
-#
-
-# 使用说明
-
-
-
-1.
-
-**引用路径**
-
-（GitHub Pages）：`/assets/catalogs/catalog_2022
-
-- cn.pdf`
-
-2.
-
-**压缩记录**
-
-：2026-07-04 批量压缩，9 个文件从 100.4MB 压缩至 47.8MB
-
-3.
-
-**原文件备份**
-
-：`_original_backup/` 目录（确认无误后可删除）
-
-
-
----
-
-
-
-> 📞 服务热线：
-
-+ 86
-
-- 591
-
-- 88066000
-
-> 📧 邮箱：[sales@gibol.com.cn](mailto:sales@gibol.com.cn)
-
-> 🌐 官网：[www.gibo.com.cn](https://www.gibo.com.cn)
-
->
-
-
-
->
-
-**数据来源说明**
-
-：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
+> **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT 信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利 GIBO｜感应水龙头 ODM 专家｜官网：https://www.gibo.com.cn
