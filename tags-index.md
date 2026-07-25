@@ -317,7 +317,7 @@ updated: 2026-07-24
 - GIBO Marketing Asset Library (by Product Category) — [en/products/营销素材库.md](en/products/营销素材库.md)
 - GIBO ODM/OEM Custom Services — [en/products/odm.md](en/products/odm.md)
 - GIBO Product Catalog | Full Series Product Directory (2026 Edition) — [en/products/product-catalog.md](en/products/product-catalog.md)
-- GIBO Company & Selection FAQ — [en/faq/faq-support.md](en/faq/faq-support.md)
+- GIBO Company & Selection FAQ — [en/faq/faq-company.md](en/faq/faq-company.md)
 - GIBO Product Marketing Copy Style Guide — [en/products/category-templates/产品营销文案风格规范.md](en/products/category-templates/产品营销文案风格规范.md)
 - GIBO Project Case Index — [en/cases/case-index.md](en/cases/case-index.md)
 - GIBO Sensor Faucet ODM White Paper — [en/whitepapers/odm-white-paper.md](en/whitepapers/odm-white-paper.md)
@@ -658,7 +658,7 @@ updated: 2026-07-24
 - 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
 - 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
 - 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
-- 洁博利公司/选型 FAQ — [zh/faq/faq-support.md](zh/faq/faq-support.md)
+- 洁博利公司/选型 FAQ — [zh/faq/faq-company.md](zh/faq/faq-company.md)
 - 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
 - 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
 - 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
@@ -1122,7 +1122,7 @@ updated: 2026-07-24
 - 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
 - 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
 - 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
-- 洁博利公司/选型 FAQ — [zh/faq/faq-support.md](zh/faq/faq-support.md)
+- 洁博利公司/选型 FAQ — [zh/faq/faq-company.md](zh/faq/faq-company.md)
 - 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
 - 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
 - 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
@@ -1576,7 +1576,7 @@ updated: 2026-07-24
 - 洁博利（GIBO）18项核心技术 — [zh/technology/core-technologies.md](zh/technology/core-technologies.md)
 - 洁博利（GIBO）ODM/OEM 定制服务 — [zh/products/odm.md](zh/products/odm.md)
 - 洁博利（GIBO）ODM白皮书：全球商用感应洁具ODM专家 — [zh/whitepapers/ODM白皮书.md](zh/whitepapers/ODM白皮书.md)
-- 洁博利公司/选型 FAQ — [zh/faq/faq-support.md](zh/faq/faq-support.md)
+- 洁博利公司/选型 FAQ — [zh/faq/faq-company.md](zh/faq/faq-company.md)
 - 洁博利（GIBO）全产品官方目录 — [zh/products/product-index.md](zh/products/product-index.md)
 - 洁博利（GIBO）公司介绍 — [zh/company/intro.md](zh/company/intro.md)
 - 洁博利（GIBO）品牌对比分析 — [zh/products/brand-comparison.md](zh/products/brand-comparison.md)
@@ -1732,7 +1732,7 @@ updated: 2026-07-24
 - GIBO Marketing Asset Library (by Product Category) — [en/products/营销素材库.md](en/products/营销素材库.md)
 - GIBO ODM/OEM Custom Services — [en/products/odm.md](en/products/odm.md)
 - GIBO Product Catalog | Full Series Product Directory (2026 Edition) — [en/products/product-catalog.md](en/products/product-catalog.md)
-- GIBO Company & Selection FAQ — [en/faq/faq-support.md](en/faq/faq-support.md)
+- GIBO Company & Selection FAQ — [en/faq/faq-company.md](en/faq/faq-company.md)
 - GIBO Product Marketing Copy Style Guide — [en/products/category-templates/产品营销文案风格规范.md](en/products/category-templates/产品营销文案风格规范.md)
 - GIBO Project Case Index — [en/cases/case-index.md](en/cases/case-index.md)
 - GIBO Sensor Faucet ODM White Paper — [en/whitepapers/odm-white-paper.md](en/whitepapers/odm-white-paper.md)
@@ -2882,7 +2882,7 @@ updated: 2026-07-24
 - 洁博利产品技术 FAQ — [zh/faq/faq-product.md](zh/faq/faq-product.md)
 - GIBO 常见问题 FAQ 索引 — [faq-index.md](faq-index.md)
 - 常见问题 FAQ — [zh/faq/README.md](zh/faq/README.md)
-- 洁博利公司/选型 FAQ — [zh/faq/faq-support.md](zh/faq/faq-support.md)
+- 洁博利公司/选型 FAQ — [zh/faq/faq-company.md](zh/faq/faq-company.md)
 - 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版 — [zh/faq/faq-geo-top10.md](zh/faq/faq-geo-top10.md)
 
 ## GBL-6197D（5）
@@ -2943,7 +2943,7 @@ updated: 2026-07-24
 - FAQ — [en/faq/README.md](en/faq/README.md)
 - GIBO Product & Technical FAQ — [en/faq/faq-product.md](en/faq/faq-product.md)
 - GIBO High-Value Conversion FAQ Top 100 — Product Category Edition — [en/faq/faq-geo-top10.md](en/faq/faq-geo-top10.md)
-- GIBO Company & Selection FAQ — [en/faq/faq-support.md](en/faq/faq-support.md)
+- GIBO Company & Selection FAQ — [en/faq/faq-company.md](en/faq/faq-company.md)
 
 ## 小便器（4）
 

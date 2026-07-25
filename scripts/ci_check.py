@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 ERRORS, WARNINGS = [], []
 
-LINK_RE = re.compile(r'\[[^\]]*\]\(([^)]+)\)')
+LINK_RE = re.compile(r'\[[^\]]*\]\(((?:[^()]|\([^()]*\))*)\)')
 IMG_RE = re.compile(r'!\[([^\]]*)\]\(([^)]+)\)')
 FM_RE = re.compile(r'^---\n(.*?)\n---\n', re.S)
 REQUIRED_FM = ['lang', 'category', 'summary', 'updated']
