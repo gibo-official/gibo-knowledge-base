@@ -1,20 +1,16 @@
 ---
-title: "GIBO White Papers & Technology Achievement Reports"
-description: "See zh/whitepapers/README.md for the full Chinese index."
-keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
-classification: Whitepaper
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-05
-
 lang: en
 category: whitepaper
-product: ""
-tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+title: "GIBO White Papers & Technology Achievement Reports"
 summary: "See zh/whitepapers/README.md for the full Chinese index."
 updated: 2026-07-05
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
 ---
+
 # GIBO White Papers & Technology Achievement Reports
 
 **Document Version**: V1.0

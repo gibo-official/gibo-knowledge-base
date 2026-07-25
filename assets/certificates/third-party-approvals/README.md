@@ -1,13 +1,13 @@
 ---
-title: "第三方采信（Third-party Approvals）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "第三方采信"]
+title: "第三方采信（Third-party Approvals）"
 summary: "第三方采信（Third-party Approvals）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "第三方采信"]
 ---
+
 # 第三方采信（Third-party Approvals）
 
 **文档版本**：V1.0

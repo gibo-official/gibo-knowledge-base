@@ -1,19 +1,18 @@
 ---
-title: "Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology"
-date: 2026-06-09
-author: GIBO Technology Center
-source: Corporate Website (gibo.com.cn) / CNIPA Patent Data / GIBO Product Documentation
-keywords: smart shower, intelligent bathroom, dTOF sensor, temperature stability, touchless control, IoT shower, GIBO 4D Luxury Series, anti-scald, accessible design
-status: Complete
-series: Technical White Paper Series
-
 lang: en
 category: whitepaper
-product: ""
-tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+title: "Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology"
 summary: "title: 'Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology'"
 updated: 2026-06-09
+keywords: smart shower, intelligent bathroom, dTOF sensor, temperature stability, touchless control, IoT shower, GIBO 4D Luxury Series, anti-scald, accessible design
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+status: Complete
+author: GIBO Technology Center
+source: Corporate Website (gibo.com.cn) / CNIPA Patent Data / GIBO Product Documentation
+series: Technical White Paper Series
 ---
+
 
 # Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology
 

@@ -1,21 +1,17 @@
 ---
-title: "GIBO G1 Toilet Sensor Product Manual"
-description: "GIBO G1 Toilet Sensor product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
-keywords: G1,GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-product_model: "G1"
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-manual
-product: "G1"
-tags: ["GIBO", "product-manual", "G1", "AI-knowledge-base"]
+title: "GIBO G1 Toilet Sensor Product Manual"
 summary: "GIBO G1 Toilet Sensor product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: G1,GIBO,sensor sanitary ware,sensor faucet,Product
+product_model: "G1"
+product: "G1"
+tags: ["GIBO", "product-manual", "G1", "AI-knowledge-base"]
 ---
+
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # G1

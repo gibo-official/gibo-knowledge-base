@@ -1,28 +1,15 @@
 ---
-title: B4 Auto Valve Control & Water-saving Irrigation System Solution
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/mixing-valve-assembly.md
-  - ../components/ultra-low-power-module.md
-  - ../components/battery-power-module.md
-  - ../components/iot-communication-module.md
-tags:
-  - Auto Valve Control
-  - Water-saving Irrigation
-  - Smart Irrigation
-  - Outdoor Solution
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: B4 Auto Valve Control & Water-saving Irrigation System Solution
 summary: "title: B4 Auto Valve Control & Water-saving Irrigation System Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # B4 Auto Valve Control & Water-saving Irrigation System Solution
 

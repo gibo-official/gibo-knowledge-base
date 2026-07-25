@@ -1,20 +1,16 @@
 ---
-title: "GIBO Sensor Sanitary Ware Product Manual"
-description: "GIBO  Sensor Sanitary Ware product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-03
-
 lang: en
 category: product-manual
-product: ""
-tags: ["GIBO", "product-manual", "AI-knowledge-base"]
+title: "GIBO Sensor Sanitary Ware Product Manual"
 summary: "GIBO  Sensor Sanitary Ware product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
 updated: 2026-07-03
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
+
 # GIBO Product Manual List
 
 **Document Version**: V1.0

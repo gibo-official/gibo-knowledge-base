@@ -1,20 +1,16 @@
 ---
-title: "TYREK Product Specification"
-description: "The TYREK Electrolytic Sterilization Module D05-01 is a palm-sized electrolyzed-water generation module connected to the tap-water line. Once powered,"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: ""
-tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+title: "TYREK Product Specification"
 summary: "The TYREK Electrolytic Sterilization Module D05-01 is a palm-sized electrolyzed-water generation module connected to the tap-water line. Once powered,"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
 ---
+
 # TYREK Product Specification
 
 **Document Version**: V1.0

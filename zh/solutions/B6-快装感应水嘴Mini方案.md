@@ -1,27 +1,15 @@
 ---
-title: B6-快装感应水嘴Mini方案
-date: 2026-06-12
-status: V2.0-扩写完成
-related:
-  - ../../products/product-catalog.md
-  - ../../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/quick-install-structure.md
-  - ../components/ultra-low-power-module.md
-  - ../components/waterproof-seal-assembly.md
-tags:
-  - 快装感应水嘴
-  - Mini感应水嘴
-  - 3秒快装
-  - 节水改造
-  - ODM方案
-
 lang: zh-CN
 category: 解决方案
-product: ""
+title: B6-快装感应水嘴Mini方案
 summary: "title: B6-快装感应水嘴Mini方案"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-扩写完成
+related:
 ---
+
 
 # B6 快装感应水嘴Mini方案
 

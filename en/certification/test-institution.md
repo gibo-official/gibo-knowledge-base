@@ -1,20 +1,16 @@
 ---
-title: "Authorized Testing & Certification Institutions"
-description: "Responsible for product water-saving certification, water efficiency labeling, and Boiling Quality Award evaluation. Core certification body for the d"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
-classification: Certification
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: certification
-product: ""
-tags: ["GIBO", "certification", "AI-knowledge-base"]
+title: "Authorized Testing & Certification Institutions"
 summary: "Responsible for product water-saving certification, water efficiency labeling, and Boiling Quality Award evaluation. Core certification body for the d"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
 ---
+
 # Authorized Testing & Certification Institutions
 
 **Document Version**: V1.0

@@ -1,13 +1,13 @@
 ---
-title: "图片资产索引（Images）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "图片"]
+title: "图片资产索引（Images）"
 summary: "图片资产索引（Images）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "图片"]
 ---
+
 # 图片资产索引（Images）
 
 **文档版本**：V1.0

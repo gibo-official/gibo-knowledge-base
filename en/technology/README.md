@@ -1,20 +1,16 @@
 ---
-title: "Technology"
-description: "GIBO core sensing technology principle analyses (19 files) — dTOF laser, triangular ranging, mmWave, capacitive touch, dual-chip platform, strong-ligh"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Technology
-classification: Technology
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: document
-product: ""
-tags: ["GIBO", "document", "AI-knowledge-base"]
+title: "Technology"
 summary: "GIBO core sensing technology principle analyses (19 files) — dTOF laser, triangular ranging, mmWave, capacitive touch, dual-chip platform, strong-ligh"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Technology
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
 ---
+
 # Technology
 
 **Document Version**: V1.0

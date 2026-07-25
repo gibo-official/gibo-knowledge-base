@@ -1,27 +1,15 @@
 ---
-title: B5 Ceramic Integrated Sensor Sprinkler Solution
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/ceramic-valve-core.md
-  - ../components/ultra-low-power-module.md
-  - ../components/battery-power-module.md
-tags:
-  - Ceramic Sprinkler
-  - Sensor Sprinkler
-  - Outdoor Landscaping
-  - Ceramic One-piece
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: B5 Ceramic Integrated Sensor Sprinkler Solution
 summary: "title: B5 Ceramic Integrated Sensor Sprinkler Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # B5 Ceramic Integrated Sensor Sprinkler Solution
 

@@ -1,21 +1,17 @@
 ---
-title: "GIBO 1051 Sensor Faucet Product Manual"
-description: "GIBO 1051 Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
-keywords: 1051,GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-product_model: "1051"
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-manual
-product: "1051"
-tags: ["GIBO", "product-manual", "1051", "AI-knowledge-base"]
+title: "GIBO 1051 Sensor Faucet Product Manual"
 summary: "GIBO 1051 Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: 1051,GIBO,sensor sanitary ware,sensor faucet,Product
+product_model: "1051"
+product: "1051"
+tags: ["GIBO", "product-manual", "1051", "AI-knowledge-base"]
 ---
+
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # 1051

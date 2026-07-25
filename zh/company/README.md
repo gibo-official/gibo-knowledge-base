@@ -1,20 +1,16 @@
 ---
-title: "公司介绍"
-description: "洁博利企业资料中心，含公司简介（intro）、品牌故事（brand-story）、品牌语义图谱（brand-semantic）、品牌白皮书（brand-white-paper）、发展历程（history）、服务政策（service-policy）。"
-keywords: 洁博利,GIBO,感应洁具,公司
-classification: 公司
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 公司资料
-product: ""
-tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
+title: "公司介绍"
 summary: "洁博利企业资料中心，含公司简介（intro）、品牌故事（brand-story）、品牌语义图谱（brand-semantic）、品牌白皮书（brand-white-paper）、发展历程（history）、服务政策（service-policy）。"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,公司
+product: ""
+tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
 ---
+
 # 公司介绍
 
 **文档版本**：V1.0

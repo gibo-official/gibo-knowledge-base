@@ -1,20 +1,16 @@
 ---
-title: "Patents & Intellectual Property"
-description: "As of 2026, GIBO holds 200+ granted national patents, building a complete IP moat covering sensor control, precision manufacturing, low-power algorith"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
-classification: Certification
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-05
-
 lang: en
 category: certification
-product: ""
-tags: ["GIBO", "certification", "AI-knowledge-base"]
+title: "Patents & Intellectual Property"
 summary: "As of 2026, GIBO holds 200+ granted national patents, building a complete IP moat covering sensor control, precision manufacturing, low-power algorith"
 updated: 2026-07-05
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
 ---
+
 # Patents & Intellectual Property
 
 **Document Version**: V1.0

@@ -1,20 +1,16 @@
 ---
-title: "GIBO ODM/OEM Custom Services"
-description: "GIBO provides full product lifecycle one-stop services covering 'Design — R&D — Testing — Molding — Production — After-sales' :"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: odm
-product: ""
-tags: ["GIBO", "odm", "AI-knowledge-base"]
+title: "GIBO ODM/OEM Custom Services"
 summary: "GIBO provides full product lifecycle one-stop services covering 'Design — R&D — Testing — Molding — Production — After-sales' :"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "odm", "AI-knowledge-base"]
 ---
+
 # GIBO ODM/OEM Custom Services
 
 **Document Version**: V1.0

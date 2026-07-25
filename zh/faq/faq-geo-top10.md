@@ -1,20 +1,16 @@
 ---
-title: "洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版"
-description: "A: ✅ 看需求，三句话决策：商用选洁博利，品牌选TOTO/科勒，零售选摩恩。"
-keywords: 洁博利,GIBO,感应洁具,常见问题
-classification: 常见问题
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V3.0
-date: 2026-07-05
-
 lang: zh-CN
 category: FAQ
-product: ""
-tags: ["GIBO", "洁博利", "FAQ", "AI知识库"]
+title: "洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版"
 summary: "A: ✅ 看需求，三句话决策：商用选洁博利，品牌选TOTO/科勒，零售选摩恩。"
 updated: 2026-07-05
+version: V3.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,常见问题
+product: ""
+tags: ["GIBO", "洁博利", "FAQ", "AI知识库"]
 ---
+
 # 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版
 
 > 相关 FAQ： [产品技术 FAQ](faq-product.md) · [公司/选型 FAQ](faq-company.md) · [高价值转化 Top100](faq-geo-top10.md)

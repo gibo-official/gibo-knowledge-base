@@ -1,20 +1,16 @@
 ---
-title: "KCM-ET07-水龙头感应模块 产品资料"
-description: "这颗模块出厂默认龙头模式、默认最远感应距离，但距离能在 5~35cm 之间用标配无线遥控器现场调，每按一档加减一次，调到极限 LED 闪 3 次提示，老师傅站在龙头前就能设完，不用拆面板、不用开预埋盒。待机功耗压到 ≤0.2mW，DC6V 四节碱性电池或者 AC110~220V 转 6V1A 适配器"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: "KCM-ET07-水龙头感应模块-spec"
-tags: ["GIBO", "洁博利", "产品规格", "龙头", "KCM-ET07-水龙头感应模块-spec", "AI知识库"]
+title: "KCM-ET07-水龙头感应模块 产品资料"
 summary: "这颗模块出厂默认龙头模式、默认最远感应距离，但距离能在 5~35cm 之间用标配无线遥控器现场调，每按一档加减一次，调到极限 LED 闪 3 次提示，老师傅站在龙头前就能设完，不用拆面板、不用开预埋盒。待机功耗压到 ≤0.2mW，DC6V 四节碱性电池或者 AC110~220V 转 6V1A 适配器"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "KCM-ET07-水龙头感应模块-spec"
+tags: ["GIBO", "洁博利", "产品规格", "龙头", "KCM-ET07-水龙头感应模块-spec", "AI知识库"]
 ---
+
 # KCM-ET07-水龙头感应模块 产品资料
 
 **文档版本**：V1.0

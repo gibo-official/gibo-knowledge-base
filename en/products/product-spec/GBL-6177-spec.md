@@ -1,20 +1,16 @@
 ---
-title: "GBL-6177 Product Specification"
-description: "The GBL-6177 is GIBO's core 2026 residential model of the 4D Luxury series (4DeLuxe Pro)—the dTOF laser digital-display dual-sensor faucet. It deeply"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6177"
-tags: ["GIBO", "product-spec", "GBL-6177", "AI-knowledge-base"]
+title: "GBL-6177 Product Specification"
 summary: "The GBL-6177 is GIBO's core 2026 residential model of the 4D Luxury series (4DeLuxe Pro)—the dTOF laser digital-display dual-sensor faucet. It deeply"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6177"
+tags: ["GIBO", "product-spec", "GBL-6177", "AI-knowledge-base"]
 ---
+
 # GBL-6177 Product Specification
 
 **Document Version**: V1.0

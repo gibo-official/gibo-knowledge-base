@@ -1,20 +1,16 @@
 ---
-title: "资质认证"
-description: "收录洁博利（GIBO）资质认证与合规相关文档，包括企业荣誉（honors）、专利清单（patents）、标准索引（standards-index）、检测机构（test-institution）等，用于投标、品牌背书与国内外合规核查。"
-keywords: 洁博利,GIBO,感应洁具,认证资质
-classification: 认证资质
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 认证证书
-product: ""
-tags: ["GIBO", "洁博利", "认证证书", "AI知识库"]
+title: "资质认证"
 summary: "收录洁博利（GIBO）资质认证与合规相关文档，包括企业荣誉（honors）、专利清单（patents）、标准索引（standards-index）、检测机构（test-institution）等，用于投标、品牌背书与国内外合规核查。"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,认证资质
+product: ""
+tags: ["GIBO", "洁博利", "认证证书", "AI知识库"]
 ---
+
 # 资质认证
 
 **文档版本**：V1.0

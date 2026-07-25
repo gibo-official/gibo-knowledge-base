@@ -1,20 +1,16 @@
 ---
-title: "GBL-6291DH-DS Product Specification"
-description: "The GBL-6291DH-DS is an economy-type ABS surface-mounted urinal Sensor Flush Valve developed by GIBO for old public-restroom renovations, belonging to"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6291DH"
-tags: ["GIBO", "product-spec", "GBL-6291DH", "AI-knowledge-base"]
+title: "GBL-6291DH-DS Product Specification"
 summary: "The GBL-6291DH-DS is an economy-type ABS surface-mounted urinal Sensor Flush Valve developed by GIBO for old public-restroom renovations, belonging to"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6291DH"
+tags: ["GIBO", "product-spec", "GBL-6291DH", "AI-knowledge-base"]
 ---
+
 # GBL-6291DH-DS Product Specification
 
 **Document Version**: V1.0

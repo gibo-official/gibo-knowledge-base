@@ -1,20 +1,16 @@
 ---
-title: "BC-31519 Product Specification"
-description: "BC-31519 is GIBO's wireless remote + hand-wave sensor flush-mechanism kit designed for the intelligent age-friendly retrofit of ordinary toilets, belo"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "BC-31519-spec"
-tags: ["GIBO", "product-spec", "BC-31519-spec", "AI-knowledge-base"]
+title: "BC-31519 Product Specification"
 summary: "BC-31519 is GIBO's wireless remote + hand-wave sensor flush-mechanism kit designed for the intelligent age-friendly retrofit of ordinary toilets, belo"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "BC-31519-spec"
+tags: ["GIBO", "product-spec", "BC-31519-spec", "AI-knowledge-base"]
 ---
+
 # BC-31519 Product Specification
 
 **Document Version**: V1.0

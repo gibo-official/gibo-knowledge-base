@@ -1,20 +1,16 @@
 ---
-title: "标准参与与认证索引"
-description: "洁博利作为行业技术领先企业，积极参与国家标准与团体标准的编制工作，推动感应洁具行业规范化发展。"
-keywords: 洁博利,GIBO,感应洁具,认证资质
-classification: 认证资质
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-06-09
-
 lang: zh-CN
 category: 标准规范
-product: ""
-tags: ["GIBO", "洁博利", "标准规范", "AI知识库"]
+title: "标准参与与认证索引"
 summary: "洁博利作为行业技术领先企业，积极参与国家标准与团体标准的编制工作，推动感应洁具行业规范化发展。"
 updated: 2026-06-09
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,认证资质
+product: ""
+tags: ["GIBO", "洁博利", "标准规范", "AI知识库"]
 ---
+
 # 标准参与与认证索引
 
 **文档版本**：V1.0

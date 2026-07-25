@@ -1,20 +1,19 @@
 ---
-title: Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware
-date: 2026-06-12
-author: GIBO Technology Center
-version: V2.0
-source: Corporate Website (gibo.com.cn) / GIBO Product Specifications / CNIPA Patent Data / EMC Test Records / Low Power Circuit Design Documentation
-keywords: dTOF laser sensing, direct Time-of-Flight, sensor faucet, EMC electromagnetic compatibility, ESD protection, low power consumption, bistable solenoid valve, GIBO core technology, sanitary ware ODM
-status: ✅ Complete (Technical White Paper Series 01-03, Full Set)
-series: Technical White Paper Series
-
 lang: en
 category: whitepaper
-product: ""
-tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+title: Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware
 summary: "title: Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware"
 updated: 2026-06-12
+version: V2.0
+keywords: dTOF laser sensing, direct Time-of-Flight, sensor faucet, EMC electromagnetic compatibility, ESD protection, low power consumption, bistable solenoid valve, GIBO core technology, sanitary ware ODM
+product: ""
+tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
+status: ✅ Complete (Technical White Paper Series 01-03, Full Set)
+author: GIBO Technology Center
+source: Corporate Website (gibo.com.cn) / GIBO Product Specifications / CNIPA Patent Data / EMC Test Records / Low Power Circuit Design Documentation
+series: Technical White Paper Series
 ---
+
 
 # dTOF Laser Sensing Technology for Smart Sanitary Ware Applications
 

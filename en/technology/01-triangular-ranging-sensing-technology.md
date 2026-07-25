@@ -1,20 +1,16 @@
 ---
-title: "Triangular Ranging Sensing Technology — Technical Principle Analysis"
-description: "This technology offers excellent performance in short-range precision measurement (5–30 cm), making it ideal for sensor faucets and sanitary ware appl"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Technology
-classification: Technology
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: document
-product: ""
-tags: ["GIBO", "document", "AI-knowledge-base"]
+title: "Triangular Ranging Sensing Technology — Technical Principle Analysis"
 summary: "This technology offers excellent performance in short-range precision measurement (5–30 cm), making it ideal for sensor faucets and sanitary ware appl"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Technology
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
 ---
+
 # Triangular Ranging Sensing Technology — Technical Principle Analysis
 
 **Document Version**: V1.0

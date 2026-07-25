@@ -1,20 +1,16 @@
 ---
-title: "洁博利（GIBO）工程案例总览"
-description: "洁博利感应洁具产品凭借卓越的稳定性和可靠品质，多次入选国家级重点项目："
-keywords: 洁博利,GIBO,感应洁具,工程案例
-classification: 工程案例
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-06-09
-
 lang: zh-CN
 category: 案例
-product: ""
-tags: ["GIBO", "洁博利", "案例", "AI知识库"]
+title: "洁博利（GIBO）工程案例总览"
 summary: "洁博利感应洁具产品凭借卓越的稳定性和可靠品质，多次入选国家级重点项目："
 updated: 2026-06-09
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,工程案例
+product: ""
+tags: ["GIBO", "洁博利", "案例", "AI知识库"]
 ---
+
 # 洁博利（GIBO）工程案例总览
 
 **文档版本**：V1.0

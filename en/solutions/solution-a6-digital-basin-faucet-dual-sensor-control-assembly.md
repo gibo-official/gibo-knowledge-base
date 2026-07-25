@@ -1,28 +1,15 @@
 ---
-title: A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution
-date: 2026-06-12
-status: V1.0 - Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/dual-sensor-control-board.md
-  - ../components/led-digital-display-module.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - Digital Display Faucet
-  - Dual Sensor
-  - Capacitive Touch
-  - Water Temperature Display
-  - Basin Faucet
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution
 summary: "title: A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0 - Expanded
+related:
 ---
+
 
 # A6 Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution
 

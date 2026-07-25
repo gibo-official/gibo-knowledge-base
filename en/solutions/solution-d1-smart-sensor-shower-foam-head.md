@@ -1,28 +1,15 @@
 ---
-title: D1 Smart Sensor Shower Foam Head Solution
-date: 2026-06-12
-status: V1.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/mixing-valve-assembly.md
-  - ../components/ultra-low-power-module.md
-  - ../components/iot-communication-module.md
-tags:
-  - Smart Shower
-  - Foam Shower Head
-  - Thermostatic Shower
-  - Sensor Shower
-  - ODM Solution
-  - High-end Hotel
-
 lang: en
 category: solution
-product: ""
+title: D1 Smart Sensor Shower Foam Head Solution
 summary: "title: D1 Smart Sensor Shower Foam Head Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-Expanded
+related:
 ---
+
 
 # D1 Smart Sensor Shower Foam Head Solution
 

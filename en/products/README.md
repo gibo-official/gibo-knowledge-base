@@ -1,20 +1,16 @@
 ---
-title: "Products"
-description: "GIBO product center — core products, catalog, index, selection guide, brand comparison, ODM, and marketing material library, with subdirs for category"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product
-product: ""
-tags: ["GIBO", "product", "AI-knowledge-base"]
+title: "Products"
 summary: "GIBO product center — core products, catalog, index, selection guide, brand comparison, ODM, and marketing material library, with subdirs for category"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product", "AI-knowledge-base"]
 ---
+
 # Products
 
 **Document Version**: V1.0

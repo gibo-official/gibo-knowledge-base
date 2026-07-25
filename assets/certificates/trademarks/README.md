@@ -1,13 +1,13 @@
 ---
-title: "商标证书（Trademarks）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "商标"]
+title: "商标证书（Trademarks）"
 summary: "商标证书（Trademarks）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "商标"]
 ---
+
 # 商标证书（Trademarks）
 
 **文档版本**：V1.0

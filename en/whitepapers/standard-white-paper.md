@@ -1,20 +1,16 @@
 ---
-title: "The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices'"
-description: "In October 2022, the State Administration for Market Regulation and the Standardization Administration of China officially released GB/T 41863-2022 'N"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
-classification: Whitepaper
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: whitepaper
-product: "41863"
-tags: ["GIBO", "whitepaper", "41863", "AI-knowledge-base"]
+title: "The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices'"
 summary: "In October 2022, the State Administration for Market Regulation and the Standardization Administration of China officially released GB/T 41863-2022 'N"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
+product: "41863"
+tags: ["GIBO", "whitepaper", "41863", "AI-knowledge-base"]
 ---
+
 # The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 "Non-Contact Water Supply Devices"
 
 **Document Version**: V1.0

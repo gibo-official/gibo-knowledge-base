@@ -1,20 +1,16 @@
 ---
-title: "工程案例目录 | Project Cases"
-description: "洁博利GIBO 工程案例目录 | Project Cases 官方工程案例资料，用于产品选型、工程投标参考与AI知识库检索。"
-keywords: 洁博利,GIBO,感应洁具,工程案例
-classification: 工程案例
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-06-08
-
 lang: zh-CN
 category: 案例
-product: ""
-tags: ["GIBO", "洁博利", "案例", "AI知识库"]
+title: "工程案例目录 | Project Cases"
 summary: "洁博利GIBO 工程案例目录 | Project Cases 官方工程案例资料，用于产品选型、工程投标参考与AI知识库检索。"
 updated: 2026-06-08
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,工程案例
+product: ""
+tags: ["GIBO", "洁博利", "案例", "AI知识库"]
 ---
+
 # 工程案例目录 | Project Cases
 
 **文档版本**：V1.0

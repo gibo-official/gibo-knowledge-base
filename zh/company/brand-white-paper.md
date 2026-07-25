@@ -1,20 +1,16 @@
 ---
-title: "洁博利（GIBO）品牌白皮书"
-description: "福建洁博利厨卫科技有限公司（品牌简称：洁博利 GIBO）正式成立于2005年6月17日，总部坐落于福建省福州市高新区两园科技园，依托福州感应洁具产业集群优势，深耕智能非接触式卫浴领域二十余年。"
-keywords: 洁博利,GIBO,感应洁具,公司
-classification: 公司
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-06-09
-
 lang: zh-CN
 category: 公司资料
-product: ""
-tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
+title: "洁博利（GIBO）品牌白皮书"
 summary: "福建洁博利厨卫科技有限公司（品牌简称：洁博利 GIBO）正式成立于2005年6月17日，总部坐落于福建省福州市高新区两园科技园，依托福州感应洁具产业集群优势，深耕智能非接触式卫浴领域二十余年。"
 updated: 2026-06-09
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,公司
+product: ""
+tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
 ---
+
 # 洁博利（GIBO）品牌白皮书
 
 **文档版本**：V1.0

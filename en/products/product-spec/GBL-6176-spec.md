@@ -1,20 +1,16 @@
 ---
-title: "GBL-6176 Product Specification"
-description: "GBL-6176 is GIBO's single-sensor LED display basin faucet for five-star hotels, high-end clubs, top-grade offices, and boutique model rooms. The whole"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6176"
-tags: ["GIBO", "product-spec", "GBL-6176", "AI-knowledge-base"]
+title: "GBL-6176 Product Specification"
 summary: "GBL-6176 is GIBO's single-sensor LED display basin faucet for five-star hotels, high-end clubs, top-grade offices, and boutique model rooms. The whole"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6176"
+tags: ["GIBO", "product-spec", "GBL-6176", "AI-knowledge-base"]
 ---
+
 # GBL-6176 Product Specification
 
 **Document Version**: V1.0

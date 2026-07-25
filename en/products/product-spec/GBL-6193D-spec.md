@@ -1,20 +1,16 @@
 ---
-title: "GBL-6193D Product Specification"
-description: "The GBL-6193D is a split-type sensor spout from GIBO's 'Mini-Wash' series, built around one word—'small.' At just 92mm×70mm×73mm, it sits directly on"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6193D"
-tags: ["GIBO", "product-spec", "GBL-6193D", "AI-knowledge-base"]
+title: "GBL-6193D Product Specification"
 summary: "The GBL-6193D is a split-type sensor spout from GIBO's 'Mini-Wash' series, built around one word—'small.' At just 92mm×70mm×73mm, it sits directly on"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6193D"
+tags: ["GIBO", "product-spec", "GBL-6193D", "AI-knowledge-base"]
 ---
+
 # GBL-6193D Product Specification
 
 **Document Version**: V1.0

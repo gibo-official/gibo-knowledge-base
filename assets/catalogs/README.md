@@ -1,13 +1,13 @@
 ---
-title: "产品画册目录（Catalogs）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "画册"]
+title: "产品画册目录（Catalogs）"
 summary: "产品画册目录（Catalogs）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "画册"]
 ---
+
 # 产品画册目录（Catalogs）
 
 **文档版本**：V1.0

@@ -1,26 +1,15 @@
 ---
-title: B3 2.4G Wireless Remote Control Module Solution
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/iot-communication-module.md
-  - ../../company/brand-semantic.md
-tags:
-  - Wireless Remote Control
-  - 2.4G Communication
-  - Smart Linkage
-  - IoT Module
-  - ODM Solution
-
 lang: en
 category: solution
-product: "24g"
+title: B3 2.4G Wireless Remote Control Module Solution
 summary: "title: B3 2.4G Wireless Remote Control Module Solution"
 updated: 2026-06-12
+product: "24g"
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # B3 2.4G Wireless Remote Control Module Solution
 

@@ -1,20 +1,16 @@
 ---
-title: "GBL-6634-1 Product Specification"
-description: "The GBL-6634-1 Sensor Soap Dispenser + Knee Control adds a knee-control switch on top of the 6634's infrared sensor soap dispensing—when hands are occ"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6634"
-tags: ["GIBO", "product-spec", "GBL-6634", "AI-knowledge-base"]
+title: "GBL-6634-1 Product Specification"
 summary: "The GBL-6634-1 Sensor Soap Dispenser + Knee Control adds a knee-control switch on top of the 6634's infrared sensor soap dispensing—when hands are occ"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6634"
+tags: ["GIBO", "product-spec", "GBL-6634", "AI-knowledge-base"]
 ---
+
 # GBL-6634-1 Product Specification
 
 **Document Version**: V1.0

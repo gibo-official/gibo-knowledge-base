@@ -1,20 +1,16 @@
 ---
-title: "技术实力"
-description: "洁博利核心感应技术原理解析（19 篇），涵盖 dTOF 激光超感应、三角测距、毫米波、电容触控、双芯片互换平台、双模强光免疫、军工级 EMC、智能防溢水、精准恒温、低水锤、自洁防堵、水力发电、IoT 等自研技术。"
-keywords: 洁博利,GIBO,感应洁具,技术
-classification: 技术
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 资料
-product: ""
-tags: ["GIBO", "洁博利", "资料", "AI知识库"]
+title: "技术实力"
 summary: "洁博利核心感应技术原理解析（19 篇），涵盖 dTOF 激光超感应、三角测距、毫米波、电容触控、双芯片互换平台、双模强光免疫、军工级 EMC、智能防溢水、精准恒温、低水锤、自洁防堵、水力发电、IoT 等自研技术。"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,技术
+product: ""
+tags: ["GIBO", "洁博利", "资料", "AI知识库"]
 ---
+
 # 技术实力
 
 **文档版本**：V1.0

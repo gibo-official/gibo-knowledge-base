@@ -1,25 +1,15 @@
 ---
-title: "Low-power dTOF Laser Ultra-Sensing Technology — Principle Analysis"
-description: "In-depth analysis of GIBO's low-power dTOF (direct Time-of-Flight) laser ultra-sensing technology working principle, VCSEL laser emission, photon flight time measurement, millimeter-level ranging algorithm, anti-ambient light interference design and engineering applications. Covers 940nm laser, dTOF chip selection, low-power circuit architecture and typical product solutions."
-date: 2026-07-04
-author: "GIBO Technology Team"
-status: V1.0
-tags:
-  - dTOF Laser Sensing
-  - Direct Time-of-Flight
-  - 940nm VCSEL
-  - Millimeter-level Ranging
-  - Low-power Laser Sensing
-  - GIBO Core Technology
-  - GIBO Patent
-  - Sensor Sanitary Ware
-
 lang: en
 category: document
-product: ""
+title: "Low-power dTOF Laser Ultra-Sensing Technology — Principle Analysis"
 summary: "In-depth analysis of GIBO's low-power dTOF (direct Time-of-Flight) laser ultra-sensing technology working principle, VCSEL laser emission, photon flight time measurement, millimeter-level ranging algo"
 updated: 2026-07-04
+product: ""
+tags:
+status: V1.0
+author: "GIBO Technology Team"
 ---
+
 
 # Low-power dTOF Laser Ultra-Sensing Technology — Principle Analysis
 

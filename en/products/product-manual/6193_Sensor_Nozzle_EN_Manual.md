@@ -1,21 +1,17 @@
 ---
-title: "GIBO 6193 Sensor Nozzle Product Manual"
-description: "GIBO 6193 Sensor Nozzle product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
-keywords: 6193,GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-product_model: "6193"
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-manual
-product: "6193"
-tags: ["GIBO", "product-manual", "6193", "AI-knowledge-base"]
+title: "GIBO 6193 Sensor Nozzle Product Manual"
 summary: "GIBO 6193 Sensor Nozzle product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: 6193,GIBO,sensor sanitary ware,sensor faucet,Product
+product_model: "6193"
+product: "6193"
+tags: ["GIBO", "product-manual", "6193", "AI-knowledge-base"]
 ---
+
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # 6193

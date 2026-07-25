@@ -1,27 +1,15 @@
 ---
-title: B6 Quick-Install Mini Sensor Faucet Solution
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/quick-install-structure.md
-  - ../components/ultra-low-power-module.md
-  - ../components/waterproof-seal-assembly.md
-tags:
-  - Quick-install Sensor Faucet
-  - Mini Sensor Faucet
-  - 3-Second Quick Install
-  - Water-saving Retrofitting
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: B6 Quick-Install Mini Sensor Faucet Solution
 summary: "title: B6 Quick-Install Mini Sensor Faucet Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # B6 Quick-Install Mini Sensor Faucet Solution
 

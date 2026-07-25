@@ -1,20 +1,16 @@
 ---
-title: "KCM-组合面板-WDW Product Specification"
-description: "The KCM-1312-WDW / KCM-8307-WDW Combined Panel is a primary-secondary dual-sensor control panel that GIBO builds for squat pans, based on the 4-in-1 s"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "KCM-组合面板-WDW-spec"
-tags: ["GIBO", "product-spec", "KCM-组合面板-WDW-spec", "AI-knowledge-base"]
+title: "KCM-组合面板-WDW Product Specification"
 summary: "The KCM-1312-WDW / KCM-8307-WDW Combined Panel is a primary-secondary dual-sensor control panel that GIBO builds for squat pans, based on the 4-in-1 s"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "KCM-组合面板-WDW-spec"
+tags: ["GIBO", "product-spec", "KCM-组合面板-WDW-spec", "AI-knowledge-base"]
 ---
+
 # KCM-组合面板-WDW Product Specification
 
 **Document Version**: V1.0

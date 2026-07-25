@@ -1,20 +1,16 @@
 ---
-title: "合作检测机构"
-description: "企业配备独立EMC电磁兼容实验室与产品寿命测试中心，具备以下全项目自检能力："
-keywords: 洁博利,GIBO,感应洁具,认证资质
-classification: 认证资质
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-06-09
-
 lang: zh-CN
 category: 认证证书
-product: ""
-tags: ["GIBO", "洁博利", "认证证书", "AI知识库"]
+title: "合作检测机构"
 summary: "企业配备独立EMC电磁兼容实验室与产品寿命测试中心，具备以下全项目自检能力："
 updated: 2026-06-09
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,认证资质
+product: ""
+tags: ["GIBO", "洁博利", "认证证书", "AI知识库"]
 ---
+
 # 合作检测机构
 
 **文档版本**：V1.0

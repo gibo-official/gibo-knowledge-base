@@ -1,20 +1,16 @@
 ---
-title: "GIBO Brand Semantic Mapping"
-description: "→ View all cases"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Company
-classification: Company
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: company
-product: ""
-tags: ["GIBO", "company", "AI-knowledge-base"]
+title: "GIBO Brand Semantic Mapping"
 summary: "→ View all cases"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
 ---
+
 # GIBO Brand Semantic Mapping
 
 **Document Version**: V1.0

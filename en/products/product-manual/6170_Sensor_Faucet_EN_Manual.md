@@ -1,21 +1,17 @@
 ---
-title: "GIBO 6170 Sensor Faucet Product Manual"
-description: "GIBO 6170 Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
-keywords: 6170,GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-product_model: "6170"
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-manual
-product: "6170"
-tags: ["GIBO", "product-manual", "6170", "AI-knowledge-base"]
+title: "GIBO 6170 Sensor Faucet Product Manual"
 summary: "GIBO 6170 Sensor Faucet product manual: installation, operation, technical parameters and maintenance — for engineering selection, bidding reference and AI knowledge base retrieval."
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: 6170,GIBO,sensor sanitary ware,sensor faucet,Product
+product_model: "6170"
+product: "6170"
+tags: ["GIBO", "product-manual", "6170", "AI-knowledge-base"]
 ---
+
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # 6170

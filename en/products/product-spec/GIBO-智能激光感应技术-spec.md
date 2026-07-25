@@ -1,20 +1,16 @@
 ---
-title: "GIBO-智能激光感应技术 Product Specification"
-description: "Traditional IR judges presence by 'how strong the reflected light is,' and easily fails with dark clothing, stainless-steel walls, or direct sunlight;"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: ""
-tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+title: "GIBO-智能激光感应技术 Product Specification"
 summary: "Traditional IR judges presence by 'how strong the reflected light is,' and easily fails with dark clothing, stainless-steel walls, or direct sunlight;"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
 ---
+
 # GIBO-智能激光感应技术 Product Specification
 
 **Document Version**: V1.0

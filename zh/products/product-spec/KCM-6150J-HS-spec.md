@@ -1,20 +1,16 @@
 ---
-title: "KCM-6150J-HS 产品资料"
-description: "这颗模块用的是洁博利的激光测距方案（核心技术 2 低功耗 dTOF 激光超感应技术的近场分支）：直接量激光打到物体再弹回来的飞行时间判定距离，对 29.7×29.7cm 标准白板出厂感应距离 15cm±10%，换成 JJC 18% 灰色校色卡偏差仍在 ±10% 以内、黑色校色卡 ±20% 以内，不挑"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: "KCM-6150J-HS-spec"
-tags: ["GIBO", "洁博利", "产品规格", "KCM-6150J-HS-spec", "AI知识库"]
+title: "KCM-6150J-HS 产品资料"
 summary: "这颗模块用的是洁博利的激光测距方案（核心技术 2 低功耗 dTOF 激光超感应技术的近场分支）：直接量激光打到物体再弹回来的飞行时间判定距离，对 29.7×29.7cm 标准白板出厂感应距离 15cm±10%，换成 JJC 18% 灰色校色卡偏差仍在 ±10% 以内、黑色校色卡 ±20% 以内，不挑"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "KCM-6150J-HS-spec"
+tags: ["GIBO", "洁博利", "产品规格", "KCM-6150J-HS-spec", "AI知识库"]
 ---
+
 # KCM-6150J-HS 产品资料
 
 **文档版本**：V1.0

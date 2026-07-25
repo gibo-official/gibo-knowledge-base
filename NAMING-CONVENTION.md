@@ -1,13 +1,13 @@
 ---
-title: "NAMING-CONVENTION"
 lang: zh-CN
 category: 仓库文档
-product: ""
-tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
+title: "NAMING-CONVENTION"
 summary: "最后更新：2026-07-14"
 updated: 2026-07-14
-date: 2026-07-21
+product: ""
+tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 ---
+
 # GIBO 知识库资产文件命名规范
 
 

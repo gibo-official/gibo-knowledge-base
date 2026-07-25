@@ -1,20 +1,16 @@
 ---
-title: "Certifications"
-description: "GIBO certification and compliance documents — corporate honors, patent list, standards index, and testing institutions, supporting bidding, brand endo"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
-classification: Certification
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: certification
-product: ""
-tags: ["GIBO", "certification", "AI-knowledge-base"]
+title: "Certifications"
 summary: "GIBO certification and compliance documents — corporate honors, patent list, standards index, and testing institutions, supporting bidding, brand endo"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
 ---
+
 # Certifications
 
 **Document Version**: V1.0

@@ -1,24 +1,15 @@
 ---
-title: B1 Pulse Solenoid Valve Assembly Solution
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/pulse-solenoid-valve.md
-tags:
-  - Pulse Solenoid Valve
-  - Intelligent Valve Control
-  - ODM Assembly
-  - Sensor Sanitary Ware Core Component
-
 lang: en
 category: solution
-product: ""
+title: B1 Pulse Solenoid Valve Assembly Solution
 summary: "title: B1 Pulse Solenoid Valve Assembly Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # B1 Pulse Solenoid Valve Assembly Solution
 

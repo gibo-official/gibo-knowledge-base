@@ -1,28 +1,15 @@
 ---
-title: A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案
-date: 2026-06-12
-status: V1.0-扩写完成
-related:
-  - ../../products/product-catalog.md
-  - ../../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/dtof-laser-sensor-module.md
-  - ../components/flush-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - dTOF激光
-  - 马桶冲水
-  - 挥手感应
-  - 脚踢感应
-  - 智能卫浴
-  - ODM方案
-
 lang: zh-CN
 category: 解决方案
-product: ""
+title: A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案
 summary: "title: A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-扩写完成
+related:
 ---
+
 
 # A3 马桶dTOF挥手脚踢激光感应冲水控制模块方案
 

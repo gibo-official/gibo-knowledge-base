@@ -1,20 +1,16 @@
 ---
-title: "GBL-6170 Product Specification"
-description: "GBL-6170 is GIBO's 'single-window dual-sensor' basin sensor faucet first pioneered in 2019, granted an invention patent in 2020. Its core innovation:"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6170"
-tags: ["GIBO", "product-spec", "GBL-6170", "AI-knowledge-base"]
+title: "GBL-6170 Product Specification"
 summary: "GBL-6170 is GIBO's 'single-window dual-sensor' basin sensor faucet first pioneered in 2019, granted an invention patent in 2020. Its core innovation:"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6170"
+tags: ["GIBO", "product-spec", "GBL-6170", "AI-knowledge-base"]
 ---
+
 # GBL-6170 Product Specification
 
 **Document Version**: V1.0

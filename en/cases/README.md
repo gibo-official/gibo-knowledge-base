@@ -1,20 +1,16 @@
 ---
-title: "Project Cases | 工程案例"
-description: "For complete case information, please refer to the English case index: case-index.md"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Case Study
-classification: Case Study
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-10
-
 lang: en
 category: case
-product: ""
-tags: ["GIBO", "case", "AI-knowledge-base"]
+title: "Project Cases | 工程案例"
 summary: "For complete case information, please refer to the English case index: case-index.md"
 updated: 2026-06-10
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Case Study
+product: ""
+tags: ["GIBO", "case", "AI-knowledge-base"]
 ---
+
 # Project Cases | 工程案例
 
 **Document Version**: V1.0

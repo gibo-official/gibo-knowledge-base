@@ -1,27 +1,15 @@
 ---
-title: A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution
-date: 2026-06-12
-status: V1.0 - Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/flush-control-board.md
-  - ../components/pulse-solenoid-valve.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - Millimeter Wave Sensing
-  - Urinal Flush
-  - Penetrating Sensing
-  - Intelligent Flush
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution
 summary: "title: A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0 - Expanded
+related:
 ---
+
 
 # A5 Low-power Urinal mmWave Sensor Flush Control Assembly Solution
 

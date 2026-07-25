@@ -1,20 +1,16 @@
 ---
-title: "厨房二合一新品 Product Specification"
-description: "GIBO's Kitchen Pull-out Sensor Faucet (new product) is a water + foam 2-in-1 smart faucet built for high-end kitchens pursuing ultimate convenience. I"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: ""
-tags: ["GIBO", "product-spec", "AI-knowledge-base"]
+title: "厨房二合一新品 Product Specification"
 summary: "GIBO's Kitchen Pull-out Sensor Faucet (new product) is a water + foam 2-in-1 smart faucet built for high-end kitchens pursuing ultimate convenience. I"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-spec", "AI-knowledge-base"]
 ---
+
 # 厨房二合一新品 Product Specification
 
 **Document Version**: V1.0

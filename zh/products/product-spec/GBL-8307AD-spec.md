@@ -1,20 +1,16 @@
 ---
-title: "GBL-8307AD 产品资料"
-description: "GBL-8307AD 是洁博利针对低水压冲洗难题专门研发的暗装蹲便感应冲水器。在许多老旧小区、农村自建房和高层住宅的二次供水系统中，进水压力往往偏低（有时仅 0.05MPa 左右），普通感应阀难以提供足够的冲洗力度——GBL-8307AD 通过内部优化的流体力学增压通道设计，即使在水压极低的条件下也"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-10
-
 lang: zh-CN
 category: 产品规格
-product: "GBL-8307AD"
-tags: ["GIBO", "洁博利", "产品规格", "GBL-8307AD", "AI知识库"]
+title: "GBL-8307AD 产品资料"
 summary: "GBL-8307AD 是洁博利针对低水压冲洗难题专门研发的暗装蹲便感应冲水器。在许多老旧小区、农村自建房和高层住宅的二次供水系统中，进水压力往往偏低（有时仅 0.05MPa 左右），普通感应阀难以提供足够的冲洗力度——GBL-8307AD 通过内部优化的流体力学增压通道设计，即使在水压极低的条件下也"
 updated: 2026-07-10
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "GBL-8307AD"
+tags: ["GIBO", "洁博利", "产品规格", "GBL-8307AD", "AI知识库"]
 ---
+
 # GBL-8307AD 产品资料
 
 **文档版本**：V1.0

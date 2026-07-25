@@ -1,27 +1,15 @@
 ---
-title: A4-dTOF出水嘴激光感应水龙头控制板方案
-date: 2026-06-12
-status: V1.0-扩写完成
-related:
-  - ../../products/product-catalog.md
-  - ../../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/dtof-laser-sensor-module.md
-  - ../components/dtof-laser-faucet-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - dTOF激光
-  - 感应水龙头
-  - 出水嘴控制
-  - 水雾穿透
-  - ODM方案
-
 lang: zh-CN
 category: 解决方案
-product: ""
+title: A4-dTOF出水嘴激光感应水龙头控制板方案
 summary: "title: A4-dTOF出水嘴激光感应水龙头控制板方案"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-扩写完成
+related:
 ---
+
 
 # A4 dTOF出水嘴激光感应水龙头控制板方案
 

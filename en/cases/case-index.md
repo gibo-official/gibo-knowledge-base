@@ -1,20 +1,16 @@
 ---
-title: "GIBO Project Case Index"
-description: "GIBO sensor sanitary ware products have been selected for multiple national key projects due to their exceptional stability and reliability:"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Case Study
-classification: Case Study
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: case
-product: ""
-tags: ["GIBO", "case", "AI-knowledge-base"]
+title: "GIBO Project Case Index"
 summary: "GIBO sensor sanitary ware products have been selected for multiple national key projects due to their exceptional stability and reliability:"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Case Study
+product: ""
+tags: ["GIBO", "case", "AI-knowledge-base"]
 ---
+
 # GIBO Project Case Index
 
 **Document Version**: V1.0

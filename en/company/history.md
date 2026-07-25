@@ -1,20 +1,16 @@
 ---
-title: "Development History"
-description: "Founder Zheng Shaobo entered the smart sensor sanitary ware field, pioneering MCU-controlled sensor master control technology in China. Successfully d"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Company
-classification: Company
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: company
-product: ""
-tags: ["GIBO", "company", "AI-knowledge-base"]
+title: "Development History"
 summary: "Founder Zheng Shaobo entered the smart sensor sanitary ware field, pioneering MCU-controlled sensor master control technology in China. Successfully d"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Company
+product: ""
+tags: ["GIBO", "company", "AI-knowledge-base"]
 ---
+
 # Development History
 
 **Document Version**: V1.0

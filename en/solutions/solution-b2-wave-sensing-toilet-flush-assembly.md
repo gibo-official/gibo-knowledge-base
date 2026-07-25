@@ -1,26 +1,15 @@
 ---
-title: B2 Wave Sensing Toilet Flush Assembly Solution
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/flush-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - Sensor Flush Valve
-  - Toilet Flush Assembly
-  - Aging-friendly
-  - Smart Sanitary Ware
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: B2 Wave Sensing Toilet Flush Assembly Solution
 summary: "title: B2 Wave Sensing Toilet Flush Assembly Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # B2 Wave Sensing Toilet Flush Assembly Solution
 

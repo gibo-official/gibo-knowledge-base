@@ -1,13 +1,13 @@
 ---
-title: "标准库总目录（Standards）"
 lang: zh-CN
 category: 索引导航
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "标准"]
+title: "标准库总目录（Standards）"
 summary: "标准库总目录（Standards）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "标准"]
 ---
+
 # 标准库总目录（Standards）
 
 **文档版本**：V3.0

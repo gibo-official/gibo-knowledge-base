@@ -1,13 +1,13 @@
 ---
-title: "README"
 lang: zh-CN
 category: 索引导航
-product: ""
-tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
+title: "README"
 summary: "最后更新：2026-07-14"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 ---
+
 # Schema.org 结构化数据目录
 
 **文档版本**

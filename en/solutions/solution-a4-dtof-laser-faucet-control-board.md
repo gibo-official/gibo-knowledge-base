@@ -1,27 +1,15 @@
 ---
-title: A4 - dTOF Spout Laser Sensing Faucet Control Board Solution
-date: 2026-06-12
-status: V1.0 - Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/dtof-laser-sensor-module.md
-  - ../components/dtof-laser-faucet-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - dTOF Laser
-  - Sensor Faucet
-  - Spout Control
-  - Water Mist Penetration
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: A4 - dTOF Spout Laser Sensing Faucet Control Board Solution
 summary: "title: A4 - dTOF Spout Laser Sensing Faucet Control Board Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0 - Expanded
+related:
 ---
+
 
 # A4 dTOF Spout Laser Sensing Faucet Control Board Solution
 

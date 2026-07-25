@@ -1,20 +1,16 @@
 ---
-title: "GBL-双模感应厨房水龙头 Product Specification"
-description: "The GBL Dual-mode Sensor Kitchen Faucet has two sensing paths on the body—upper and lower: the lower sensing window handles 'water on at hand, off whe"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-双模感应厨房水龙头"
-tags: ["GIBO", "product-spec", "faucet", "GBL-双模感应厨房水龙头", "AI-knowledge-base"]
+title: "GBL-双模感应厨房水龙头 Product Specification"
 summary: "The GBL Dual-mode Sensor Kitchen Faucet has two sensing paths on the body—upper and lower: the lower sensing window handles 'water on at hand, off whe"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-双模感应厨房水龙头"
+tags: ["GIBO", "product-spec", "faucet", "GBL-双模感应厨房水龙头", "AI-knowledge-base"]
 ---
+
 # GBL-双模感应厨房水龙头 Product Specification
 
 **Document Version**: V1.0

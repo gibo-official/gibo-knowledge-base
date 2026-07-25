@@ -1,27 +1,15 @@
 ---
-title: A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution
-date: 2026-06-12
-status: V1.1 - Optimized (Integrated Standardized Working Principle)
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/flush-control-board.md
-  - ../components/pulse-solenoid-valve.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - Triangulation Ranging
-  - Squat Pan
-  - Sensor Flush
-  - Public Sanitary Ware
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution
 summary: "title: A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.1 - Optimized (Integrated Standardized Working Principle)
+related:
 ---
+
 
 # A2 Triangulation Ranging Squat Pan Sensor Control Module Solution
 

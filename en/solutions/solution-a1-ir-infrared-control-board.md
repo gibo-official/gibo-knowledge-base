@@ -1,27 +1,15 @@
 ---
-title: A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware
-date: 2026-06-12
-status: V1.0 - Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/infrared-sensor-module.md
-  - ../components/infrared-faucet-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - IR Infrared Sensor
-  - Control Board
-  - Ultra-low-power
-  - Sensor Sanitary Ware
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware
 summary: "title: A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0 - Expanded
+related:
 ---
+
 
 # A1 Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware
 

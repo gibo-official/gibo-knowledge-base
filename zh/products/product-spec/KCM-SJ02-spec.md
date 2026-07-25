@@ -1,20 +1,16 @@
 ---
-title: "KCM-SJ02 产品资料"
-description: "这颗组件装在厨卫空间的感应洁具里，上电自检、进入感应范围闪灯、判误 2 秒、确认有人再延时冲水，整套逻辑就是为隔间高频使用打磨的。它不挑材质——JJC 标准灰卡、黑卡测出来的感应距离偏差都压在 ±10% 以内；待机功耗 ≤0.2mW，电池盒或 100-240V 转 6V 适配器都能带；欠压和断电各有"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: "KCM-SJ02-spec"
-tags: ["GIBO", "洁博利", "产品规格", "KCM-SJ02-spec", "AI知识库"]
+title: "KCM-SJ02 产品资料"
 summary: "这颗组件装在厨卫空间的感应洁具里，上电自检、进入感应范围闪灯、判误 2 秒、确认有人再延时冲水，整套逻辑就是为隔间高频使用打磨的。它不挑材质——JJC 标准灰卡、黑卡测出来的感应距离偏差都压在 ±10% 以内；待机功耗 ≤0.2mW，电池盒或 100-240V 转 6V 适配器都能带；欠压和断电各有"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "KCM-SJ02-spec"
+tags: ["GIBO", "洁博利", "产品规格", "KCM-SJ02-spec", "AI知识库"]
 ---
+
 # KCM-SJ02 产品资料
 
 **文档版本**：V1.0

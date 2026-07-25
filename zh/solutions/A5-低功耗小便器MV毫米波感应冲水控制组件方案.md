@@ -1,27 +1,15 @@
 ---
-title: A5-低功耗小便器MV毫米波感应冲水控制组件方案
-date: 2026-06-12
-status: V1.0-扩写完成
-related:
-  - ../../products/product-catalog.md
-  - ../../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/flush-control-board.md
-  - ../components/pulse-solenoid-valve.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - 毫米波感应
-  - 小便器冲水
-  - 穿透感应
-  - 智能冲水
-  - ODM方案
-
 lang: zh-CN
 category: 解决方案
-product: ""
+title: A5-低功耗小便器MV毫米波感应冲水控制组件方案
 summary: "title: A5-低功耗小便器MV毫米波感应冲水控制组件方案"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-扩写完成
+related:
 ---
+
 
 # A5 低功耗小便器MV毫米波感应冲水控制组件方案
 

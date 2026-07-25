@@ -1,20 +1,16 @@
 ---
-title: "Z系列智能马桶 Product Specification"
-description: "The Z Series full-feature smart toilet is a smart bathroom solution built for high-rise residences, old communities, and low-water-pressure households"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: ""
-tags: ["GIBO", "product-spec", "toilet", "AI-knowledge-base"]
+title: "Z系列智能马桶 Product Specification"
 summary: "The Z Series full-feature smart toilet is a smart bathroom solution built for high-rise residences, old communities, and low-water-pressure households"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-spec", "toilet", "AI-knowledge-base"]
 ---
+
 # Z系列智能马桶 Product Specification
 
 **Document Version**: V1.0

@@ -1,13 +1,13 @@
 ---
-title: "国家标准（GB）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "国家标准"]
+title: "国家标准（GB）"
 summary: "国家标准（GB）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "国家标准"]
 ---
+
 # 国家标准（GB）
 
 **文档版本**：V2.0

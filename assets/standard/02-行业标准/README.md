@@ -1,13 +1,13 @@
 ---
-title: "行业标准（HB）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "行业标准"]
+title: "行业标准（HB）"
 summary: "行业标准（HB）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "行业标准"]
 ---
+
 # 行业标准（HB）
 
 **文档版本**：V1.0

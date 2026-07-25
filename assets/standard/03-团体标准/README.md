@@ -1,13 +1,13 @@
 ---
-title: "团体标准（TB）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "团体标准"]
+title: "团体标准（TB）"
 summary: "团体标准（TB）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "团体标准"]
 ---
+
 # 团体标准（TB）
 
 **文档版本**：V1.0

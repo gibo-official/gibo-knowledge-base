@@ -1,20 +1,16 @@
 ---
-title: "GBL-6172A 产品资料"
-description: "GBL-6172A TOF 双感应数显激光龙头是洁博利（GIBO）面向高端写字楼、购物中心、机场等公共洗手间的高端面盆龙头，荣膺 2024 年「节能感应龙头标杆奖」。它创新采用 LITEON 灵动双感应技术——侧面挥手出水、底部伸手感应，0.5 秒极速响应；龙头自带 LED 数显屏幕，实时显示水温，"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-10
-
 lang: zh-CN
 category: 产品规格
-product: "GBL-6172A"
-tags: ["GIBO", "洁博利", "产品规格", "GBL-6172A", "AI知识库"]
+title: "GBL-6172A 产品资料"
 summary: "GBL-6172A TOF 双感应数显激光龙头是洁博利（GIBO）面向高端写字楼、购物中心、机场等公共洗手间的高端面盆龙头，荣膺 2024 年「节能感应龙头标杆奖」。它创新采用 LITEON 灵动双感应技术——侧面挥手出水、底部伸手感应，0.5 秒极速响应；龙头自带 LED 数显屏幕，实时显示水温，"
 updated: 2026-07-10
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "GBL-6172A"
+tags: ["GIBO", "洁博利", "产品规格", "GBL-6172A", "AI知识库"]
 ---
+
 # GBL-6172A 产品资料
 
 **文档版本**：V1.0

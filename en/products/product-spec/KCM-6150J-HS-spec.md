@@ -1,20 +1,16 @@
 ---
-title: "KCM-6150J-HS Product Specification"
-description: "The KCM-6150J-HS is a laser sensing module installed in kitchen/bath faucets and urinal flushers: when a hand reaches or a person approaches, the sole"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "KCM-6150J-HS-spec"
-tags: ["GIBO", "product-spec", "KCM-6150J-HS-spec", "AI-knowledge-base"]
+title: "KCM-6150J-HS Product Specification"
 summary: "The KCM-6150J-HS is a laser sensing module installed in kitchen/bath faucets and urinal flushers: when a hand reaches or a person approaches, the sole"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "KCM-6150J-HS-spec"
+tags: ["GIBO", "product-spec", "KCM-6150J-HS-spec", "AI-knowledge-base"]
 ---
+
 # KCM-6150J-HS Product Specification
 
 **Document Version**: V1.0

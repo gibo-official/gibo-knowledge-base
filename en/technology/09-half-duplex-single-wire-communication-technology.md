@@ -1,16 +1,15 @@
 ---
-title: "Half-duplex Single-wire Communication Technology — Technical Principle Analysis"
-date: 2026-07-05
-author: "GIBO Technology Team"
-status: V1.0
-
 lang: en
 category: document
-product: ""
-tags: ["GIBO", "document", "AI-knowledge-base"]
+title: "Half-duplex Single-wire Communication Technology — Technical Principle Analysis"
 summary: "title: 'Half-duplex Single-wire Communication Technology — Technical Principle Analysis'"
 updated: 2026-07-05
+product: ""
+tags: ["GIBO", "document", "AI-knowledge-base"]
+status: V1.0
+author: "GIBO Technology Team"
 ---
+
 
 # Half-duplex Single-wire Communication Technology — Technical Principle Analysis
 

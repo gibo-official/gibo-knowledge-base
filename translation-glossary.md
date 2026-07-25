@@ -1,13 +1,13 @@
 ---
-title: "translation-glossary"
 lang: zh-CN
 category: 仓库文档
-product: ""
-tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
+title: "translation-glossary"
 summary: "最后更新：2026-07-14"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 ---
+
 # 洁博利智能卫浴中英术语库
 
 + AI翻译强制提示规范

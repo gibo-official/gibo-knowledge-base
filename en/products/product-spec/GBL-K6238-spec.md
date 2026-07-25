@@ -1,20 +1,16 @@
 ---
-title: "GBL-K6238 Product Specification"
-description: "The GBL-K6238 Integrated Urinal Sensor Flush Valve is GIBO's industry-first integrated-design product launched in 2012, highly integrating the sensor,"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-K6238"
-tags: ["GIBO", "product-spec", "GBL-K6238", "AI-knowledge-base"]
+title: "GBL-K6238 Product Specification"
 summary: "The GBL-K6238 Integrated Urinal Sensor Flush Valve is GIBO's industry-first integrated-design product launched in 2012, highly integrating the sensor,"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-K6238"
+tags: ["GIBO", "product-spec", "GBL-K6238", "AI-knowledge-base"]
 ---
+
 # GBL-K6238 Product Specification
 
 **Document Version**: V1.0

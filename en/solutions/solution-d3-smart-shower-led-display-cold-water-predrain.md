@@ -1,30 +1,15 @@
 ---
-title: D3 Smart Shower LED Display & Cold Water Pre-drainage Solution
-date: 2026-06-12
-status: V1.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/led-digital-display-module.md
-  - ../components/mixing-valve-assembly.md
-  - ../components/iot-communication-module.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - Smart Shower
-  - LED Digital Display
-  - Cold Water Pre-drainage
-  - Ambient Light
-  - IoT
-  - High-end Bathroom
-  - Turnkey Shower
-
 lang: en
 category: solution
-product: ""
+title: D3 Smart Shower LED Display & Cold Water Pre-drainage Solution
 summary: "title: D3 Smart Shower LED Display & Cold Water Pre-drainage Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-Expanded
+related:
 ---
+
 
 # D3 Smart Shower LED Display & Cold Water Pre-drainage Solution
 

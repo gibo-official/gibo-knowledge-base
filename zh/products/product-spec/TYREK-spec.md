@@ -1,20 +1,16 @@
 ---
-title: "TYREK 产品资料"
-description: "智能马桶的臀洗水路、喷杆自清洁，洗地机清水箱，这些场景每天都要用水、又不便频繁拆洗。D05-01 不靠滤芯、不靠化学添加，靠电解自来水本身产生活性杀菌物质，过水即杀菌，没有额外耗材，也没有消毒剂残留的顾虑。"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: ""
-tags: ["GIBO", "洁博利", "产品规格", "AI知识库"]
+title: "TYREK 产品资料"
 summary: "智能马桶的臀洗水路、喷杆自清洁，洗地机清水箱，这些场景每天都要用水、又不便频繁拆洗。D05-01 不靠滤芯、不靠化学添加，靠电解自来水本身产生活性杀菌物质，过水即杀菌，没有额外耗材，也没有消毒剂残留的顾虑。"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: ""
+tags: ["GIBO", "洁博利", "产品规格", "AI知识库"]
 ---
+
 # TYREK 产品资料
 
 **文档版本**：V1.0

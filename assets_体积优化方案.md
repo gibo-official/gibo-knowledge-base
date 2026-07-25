@@ -1,13 +1,13 @@
 ---
-title: "assets_体积优化方案"
 lang: zh-CN
 category: 仓库文档
-product: ""
-tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
+title: "assets_体积优化方案"
 summary: "最后更新：2026-07-14"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 ---
+
 # assets 体积分析与 Gitee 同步优化方案
 
 

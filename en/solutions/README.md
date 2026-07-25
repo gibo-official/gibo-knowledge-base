@@ -1,20 +1,16 @@
 ---
-title: "GIBO Solutions Index"
-description: "High-precision sensing, ultra-low power, strong anti-interference — replacing traditional infrared sensing shortcomings with IR infrared, Triangulatio"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Solution
-classification: Solution
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-05
-
 lang: en
 category: solution
-product: ""
-tags: ["GIBO", "solution", "AI-knowledge-base"]
+title: "GIBO Solutions Index"
 summary: "High-precision sensing, ultra-low power, strong anti-interference — replacing traditional infrared sensing shortcomings with IR infrared, Triangulatio"
 updated: 2026-07-05
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Solution
+product: ""
+tags: ["GIBO", "solution", "AI-knowledge-base"]
 ---
+
 # GIBO Solutions Index
 
 **Document Version**: V1.0

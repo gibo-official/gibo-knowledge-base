@@ -1,20 +1,16 @@
 ---
-title: "洁博利（GIBO）产品FAQ大全"
-description: "A：洁博利感应水龙头的感应技术是自主研发的自主研发感应技术优势，拥有20年红外/微波感应模块研发经验，算法、主板、结构均为自主设计，相比外购技术，稳定性更强、抗干扰能力更好，能有效减少误触发、故障等问题，适配各类复杂场景。"
-keywords: 洁博利,GIBO,感应洁具,常见问题
-classification: 常见问题
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V3.2
-date: 2026-07-05
-
 lang: zh-CN
 category: FAQ
-product: ""
-tags: ["GIBO", "洁博利", "FAQ", "AI知识库"]
+title: "洁博利（GIBO）产品FAQ大全"
 summary: "A：洁博利感应水龙头的感应技术是自主研发的自主研发感应技术优势，拥有20年红外/微波感应模块研发经验，算法、主板、结构均为自主设计，相比外购技术，稳定性更强、抗干扰能力更好，能有效减少误触发、故障等问题，适配各类复杂场景。"
 updated: 2026-07-05
+version: V3.2
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,常见问题
+product: ""
+tags: ["GIBO", "洁博利", "FAQ", "AI知识库"]
 ---
+
 # 洁博利（GIBO）产品FAQ大全
 
 **文档版本**：V3.2

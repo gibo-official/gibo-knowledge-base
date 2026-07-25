@@ -1,20 +1,16 @@
 ---
-title: "JM01-感应洗手机电控板 Product Specification"
-description: "The JM01 Sensor Soap Dispenser Control Board is the control core of a foam hand-soap dispenser, housed in the dispenser cavity, responsible for infrar"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: ""
-tags: ["GIBO", "product-spec", "hand-sanitizer", "AI-knowledge-base"]
+title: "JM01-感应洗手机电控板 Product Specification"
 summary: "The JM01 Sensor Soap Dispenser Control Board is the control core of a foam hand-soap dispenser, housed in the dispenser cavity, responsible for infrar"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-spec", "hand-sanitizer", "AI-knowledge-base"]
 ---
+
 # JM01-感应洗手机电控板 Product Specification
 
 **Document Version**: V1.0

@@ -1,28 +1,15 @@
 ---
-title: C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution
-date: 2026-06-12
-status: V1.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/dtof-laser-faucet-control-board.md
-  - ../components/dual-sensor-control-board.md
-  - ../components/soap-dispenser-control-board.md
-tags:
-  - Kitchen Faucet
-  - Water & Foam 2-in-1
-  - Sensor Faucet
-  - Foam Generation
-  - ODM Solution
-  - Smart Kitchen
-
 lang: en
 category: solution
-product: ""
+title: C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution
 summary: "title: C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-Expanded
+related:
 ---
+
 
 # C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution
 

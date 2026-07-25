@@ -1,13 +1,13 @@
 ---
-title: "证书资产总览（Certificates）"
 lang: zh-CN
 category: 索引导航
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "证书"]
+title: "证书资产总览（Certificates）"
 summary: "证书资产总览（Certificates）（最后更新：2026-07-09）"
 updated: 2026-07-09
-date: 2026-07-09
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "证书"]
 ---
+
 # 证书资产总览（Certificates）
 
 **文档版本**：V1.0

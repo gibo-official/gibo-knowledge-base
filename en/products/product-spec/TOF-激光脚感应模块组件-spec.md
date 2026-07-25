@@ -1,20 +1,16 @@
 ---
-title: "TOF-激光脚感应模块组件 Product Specification"
-description: "This module uses dTOF laser ranging (Core Technology 2, Low-power dTOF Laser Ultra-sensing Technology; the main board's sensor is the laser dTOF MT380"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: ""
-tags: ["GIBO", "product-spec", "sensor-module", "AI-knowledge-base"]
+title: "TOF-激光脚感应模块组件 Product Specification"
 summary: "This module uses dTOF laser ranging (Core Technology 2, Low-power dTOF Laser Ultra-sensing Technology; the main board's sensor is the laser dTOF MT380"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "product-spec", "sensor-module", "AI-knowledge-base"]
 ---
+
 # TOF-激光脚感应模块组件 Product Specification
 
 **Document Version**: V1.0

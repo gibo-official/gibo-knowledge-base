@@ -1,29 +1,15 @@
 ---
-title: D2 Smart Shower Thermostatic Control Solution (Industrial)
-date: 2026-06-12
-status: V1.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/mixing-valve-assembly.md
-  - ../components/led-digital-display-module.md
-  - ../components/iot-communication-module.md
-tags:
-  - Smart Shower
-  - Thermostatic Control
-  - Industrial-grade Temperature Control
-  - Anti-scald Protection
-  - ODM Solution
-  - Hotel Engineering
-  - Bulk Projects
-
 lang: en
 category: solution
-product: ""
+title: D2 Smart Shower Thermostatic Control Solution (Industrial)
 summary: "title: D2 Smart Shower Thermostatic Control Solution (Industrial)"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-Expanded
+related:
 ---
+
 
 # D2 Smart Shower Thermostatic Control Solution (Industrial)
 

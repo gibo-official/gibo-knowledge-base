@@ -1,20 +1,16 @@
 ---
-title: "GBL-6161D 产品资料"
-description: "GBL-6161D 是装在洗手台上的感应龙头，手伸过去出水、拿走关水，不用碰任何开关。它主要给那些想做非接触式用水、但又不想大动干戈布线的场所用——老楼改造、没有预留电源的点位，装上 4 节电池就能干活。"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: "GBL-6161D"
-tags: ["GIBO", "洁博利", "产品规格", "GBL-6161D", "AI知识库"]
+title: "GBL-6161D 产品资料"
 summary: "GBL-6161D 是装在洗手台上的感应龙头，手伸过去出水、拿走关水，不用碰任何开关。它主要给那些想做非接触式用水、但又不想大动干戈布线的场所用——老楼改造、没有预留电源的点位，装上 4 节电池就能干活。"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "GBL-6161D"
+tags: ["GIBO", "洁博利", "产品规格", "GBL-6161D", "AI知识库"]
 ---
+
 # GBL-6161D 产品资料
 
 **文档版本**：V1.0

@@ -1,20 +1,16 @@
 ---
-title: "GBL-9168 Product Specification"
-description: "The GBL-9168 Basin Sensor Control Module is a sensor control board tucked under the basin or inside the faucet body; paired with a solenoid valve and"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-9168"
-tags: ["GIBO", "product-spec", "GBL-9168", "AI-knowledge-base"]
+title: "GBL-9168 Product Specification"
 summary: "The GBL-9168 Basin Sensor Control Module is a sensor control board tucked under the basin or inside the faucet body; paired with a solenoid valve and"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-9168"
+tags: ["GIBO", "product-spec", "GBL-9168", "AI-knowledge-base"]
 ---
+
 # GBL-9168 Product Specification
 
 **Document Version**: V1.0

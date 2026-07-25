@@ -1,20 +1,16 @@
 ---
-title: "GBL-6193DB 产品资料"
-description: "GBL-6193DB 是洁博利专为医疗严苛环境设计的双感应洗手器。产品采用 ABS 镀铬外壳，壁挂式安装，配备上下两组独立感应区域：第一感应区（上方，感应距离 15cm±2cm）负责出水洗手，第二感应区（下方 / 侧面，感应距离 7cm±1cm）负责膝盖或身体部位触发关水。这一双感应设计实现了真正的"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-10
-
 lang: zh-CN
 category: 产品规格
-product: "GBL-6193DB"
-tags: ["GIBO", "洁博利", "产品规格", "GBL-6193DB", "AI知识库"]
+title: "GBL-6193DB 产品资料"
 summary: "GBL-6193DB 是洁博利专为医疗严苛环境设计的双感应洗手器。产品采用 ABS 镀铬外壳，壁挂式安装，配备上下两组独立感应区域：第一感应区（上方，感应距离 15cm±2cm）负责出水洗手，第二感应区（下方 / 侧面，感应距离 7cm±1cm）负责膝盖或身体部位触发关水。这一双感应设计实现了真正的"
 updated: 2026-07-10
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "GBL-6193DB"
+tags: ["GIBO", "洁博利", "产品规格", "GBL-6193DB", "AI知识库"]
 ---
+
 # GBL-6193DB 产品资料
 
 **文档版本**：V1.0

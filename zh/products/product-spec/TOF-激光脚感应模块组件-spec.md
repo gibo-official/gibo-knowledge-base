@@ -1,20 +1,16 @@
 ---
-title: "TOF-激光脚感应模块组件 产品资料"
-description: "这颗模块用的是 DTOF 激光测距（核心技术 2 低功耗 dTOF 激光超感应技术，主控板传感器为激光 DTOF MT3801LP），直接量脚踢动作到模块的距离判定，出厂感应距离 10cm±10%（29.7×29.7cm 标准白板），换成 JJC 灰色、黑色校色卡偏差都在 ±20% 以内，不挑地砖深"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: ""
-tags: ["GIBO", "洁博利", "产品规格", "感应模块", "AI知识库"]
+title: "TOF-激光脚感应模块组件 产品资料"
 summary: "这颗模块用的是 DTOF 激光测距（核心技术 2 低功耗 dTOF 激光超感应技术，主控板传感器为激光 DTOF MT3801LP），直接量脚踢动作到模块的距离判定，出厂感应距离 10cm±10%（29.7×29.7cm 标准白板），换成 JJC 灰色、黑色校色卡偏差都在 ±20% 以内，不挑地砖深"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: ""
+tags: ["GIBO", "洁博利", "产品规格", "感应模块", "AI知识库"]
 ---
+
 # TOF-激光脚感应模块组件 产品资料
 
 **文档版本**：V1.0

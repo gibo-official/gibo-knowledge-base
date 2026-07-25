@@ -1,20 +1,16 @@
 ---
-title: "GBL-8300AD Product Specification"
-description: "The GBL-8300AD is a concealed squat-toilet Sensor Flush Valve launched by GIBO for high-density-traffic public restrooms. Its core differentiator is t"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-8300AD"
-tags: ["GIBO", "product-spec", "GBL-8300AD", "AI-knowledge-base"]
+title: "GBL-8300AD Product Specification"
 summary: "The GBL-8300AD is a concealed squat-toilet Sensor Flush Valve launched by GIBO for high-density-traffic public restrooms. Its core differentiator is t"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-8300AD"
+tags: ["GIBO", "product-spec", "GBL-8300AD", "AI-knowledge-base"]
 ---
+
 # GBL-8300AD Product Specification
 
 **Document Version**: V1.0

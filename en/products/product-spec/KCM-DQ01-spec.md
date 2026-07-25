@@ -1,20 +1,16 @@
 ---
-title: "KCM-DQ01 Product Specification"
-description: "The KCM-DQ01 2-in-1 Sensor Module is a multi-function sensor control core that GIBO builds for basin complete units. One module integrates three IR se"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "KCM-DQ01-spec"
-tags: ["GIBO", "product-spec", "KCM-DQ01-spec", "AI-knowledge-base"]
+title: "KCM-DQ01 Product Specification"
 summary: "The KCM-DQ01 2-in-1 Sensor Module is a multi-function sensor control core that GIBO builds for basin complete units. One module integrates three IR se"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "KCM-DQ01-spec"
+tags: ["GIBO", "product-spec", "KCM-DQ01-spec", "AI-knowledge-base"]
 ---
+
 # KCM-DQ01 Product Specification
 
 **Document Version**: V1.0

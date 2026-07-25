@@ -1,27 +1,15 @@
 ---
-title: A1-低功耗感应洁具专用IR红外线路板控制模块方案
-date: 2026-06-12
-status: V1.0-扩写完成
-related:
-  - ../../products/product-catalog.md
-  - ../../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/infrared-sensor-module.md
-  - ../components/infrared-faucet-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - IR红外感应
-  - 控制主板
-  - 超低功耗
-  - 感应洁具
-  - ODM方案
-
 lang: zh-CN
 category: 解决方案
-product: ""
+title: A1-低功耗感应洁具专用IR红外线路板控制模块方案
 summary: "title: A1-低功耗感应洁具专用IR红外线路板控制模块方案"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-扩写完成
+related:
 ---
+
 
 # A1 低功耗感应洁具专用IR红外线路板控制模块方案
 

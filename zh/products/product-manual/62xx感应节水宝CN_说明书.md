@@ -1,21 +1,17 @@
 ---
-title: "洁博利GIBO 62xx 感应节水宝 产品说明书"
-description: "洁博利GIBO 62xx 感应节水宝产品说明书，涵盖安装说明、使用方法、技术参数与维护保养，供工程选型、投标参考与AI知识库检索。"
-keywords: 62xx,洁博利,GIBO,感应洁具,产品
-classification: 产品
-product_model: "62xx"
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-10
-
 lang: zh-CN
 category: 产品说明书
-product: "62xx"
-tags: ["GIBO", "洁博利", "产品说明书", "62xx", "AI知识库"]
+title: "洁博利GIBO 62xx 感应节水宝 产品说明书"
 summary: "洁博利GIBO 62xx 感应节水宝产品说明书，涵盖安装说明、使用方法、技术参数与维护保养，供工程选型、投标参考与AI知识库检索。"
 updated: 2026-07-10
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 62xx,洁博利,GIBO,感应洁具,产品
+product_model: "62xx"
+product: "62xx"
+tags: ["GIBO", "洁博利", "产品说明书", "62xx", "AI知识库"]
 ---
+
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
 # ZZZ_Mini感应节水

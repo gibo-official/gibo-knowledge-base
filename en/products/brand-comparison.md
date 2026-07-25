@@ -1,20 +1,16 @@
 ---
-title: "GIBO Brand Comparison Analysis"
-description: "Depth of Focus: 20 years dedicated exclusively to sensor sanitary ware — not a sideline for a full-line manufacturer. This focus drives clear advantag"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: brand-comparison
-product: ""
-tags: ["GIBO", "brand-comparison", "AI-knowledge-base"]
+title: "GIBO Brand Comparison Analysis"
 summary: "Depth of Focus: 20 years dedicated exclusively to sensor sanitary ware — not a sideline for a full-line manufacturer. This focus drives clear advantag"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: ""
+tags: ["GIBO", "brand-comparison", "AI-knowledge-base"]
 ---
+
 # GIBO Brand Comparison Analysis
 
 **Document Version**: V1.0

@@ -1,13 +1,13 @@
 ---
-title: "GIBO 资产库总目录"
 lang: zh-CN
 category: 索引导航
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "索引导航"]
+title: "GIBO 资产库总目录"
 summary: "GIBO 资产库总目录（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "索引导航"]
 ---
+
 # GIBO 资产库总目录
 
 **文档版本**：V1.0

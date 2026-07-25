@@ -1,20 +1,16 @@
 ---
-title: "GBL-6636AD 产品资料"
-description: "GBL-6636AD 是洁博利面向机场航站楼、高端商场等采用镜柜式一体化洗手台的公共卫生间推出的皂液二合一控制总成。它不是单一的皂液器，而是一套完整的'洗手解决方案'——将感应出水和感应出皂两个功能通过统一的控制总成和预埋件系统实现高度集成。"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-10
-
 lang: zh-CN
 category: 产品规格
-product: "GBL-6636AD"
-tags: ["GIBO", "洁博利", "产品规格", "GBL-6636AD", "AI知识库"]
+title: "GBL-6636AD 产品资料"
 summary: "GBL-6636AD 是洁博利面向机场航站楼、高端商场等采用镜柜式一体化洗手台的公共卫生间推出的皂液二合一控制总成。它不是单一的皂液器，而是一套完整的'洗手解决方案'——将感应出水和感应出皂两个功能通过统一的控制总成和预埋件系统实现高度集成。"
 updated: 2026-07-10
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "GBL-6636AD"
+tags: ["GIBO", "洁博利", "产品规格", "GBL-6636AD", "AI知识库"]
 ---
+
 # GBL-6636AD 产品资料
 
 **文档版本**：V1.0

@@ -1,20 +1,16 @@
 ---
-title: "Standards Participation & Certification Index"
-description: "GIBO operates independent labs with full-spectrum testing capabilities:"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
-classification: Certification
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: standard
-product: ""
-tags: ["GIBO", "standard", "AI-knowledge-base"]
+title: "Standards Participation & Certification Index"
 summary: "GIBO operates independent labs with full-spectrum testing capabilities:"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
+product: ""
+tags: ["GIBO", "standard", "AI-knowledge-base"]
 ---
+
 # Standards Participation & Certification Index
 
 **Document Version**: V1.0

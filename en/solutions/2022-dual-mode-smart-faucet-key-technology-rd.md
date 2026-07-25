@@ -1,17 +1,16 @@
 ---
-title: 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration
-classification: Science & Technology Project
-publisher: Fujian GIBO Kitchen & Bath Technology Co., Ltd.
-source: Fujian Provincial Science & Technology Plan Project Task Book (Innovation Fund, project No. 2022C0022, document No. Min-Ke-Zi [2022] No. 17)
-keywords: Dual-mode Smart Control Faucet, Voice Interaction, Gesture Recognition, Self-adaptive Pressure-reducing Solenoid Valve, Water-hammer-proof Disc-shaped Diaphragm, Single-window Dual-mode
-
 lang: en
 category: solution
-product: "2022"
-tags: ["GIBO", "solution", "2022", "AI-knowledge-base"]
+title: 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration
 summary: "title: 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration"
 updated: 2026-07-14
+publisher: Fujian GIBO Kitchen & Bath Technology Co., Ltd.
+keywords: Dual-mode Smart Control Faucet, Voice Interaction, Gesture Recognition, Self-adaptive Pressure-reducing Solenoid Valve, Water-hammer-proof Disc-shaped Diaphragm, Single-window Dual-mode
+product: "2022"
+tags: ["GIBO", "solution", "2022", "AI-knowledge-base"]
+source: Fujian Provincial Science & Technology Plan Project Task Book (Innovation Fund, project No. 2022C0022, document No. Min-Ke-Zi [2022] No. 17)
 ---
+
 
 # 2022 Dual-mode Smart Control Faucet Key Technology R&D and Industrialization Demonstration
 

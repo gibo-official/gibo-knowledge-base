@@ -1,13 +1,13 @@
 ---
-title: "工程案例（Cases）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "案例"]
+title: "工程案例（Cases）"
 summary: "工程案例（Cases）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "案例"]
 ---
+
 # 工程案例（Cases）
 
 **文档版本**：V1.0

@@ -1,27 +1,15 @@
 ---
-title: Ceramic Sprinkler Technical Deep Dive
-date: 2026-06-12
-status: V2.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../../company/brand-white-paper.md
-  - ../components/ceramic-valve-core.md
-  - ../components/waterproof-seal-assembly.md
-  - B5-陶瓷一体式感应洒水器方案.md
-tags:
-  - Ceramic Sprinkler
-  - Ceramic Materials
-  - Technical Deep Dive
-  - Materials Engineering
-  - Sensing Technology
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: Ceramic Sprinkler Technical Deep Dive
 summary: "title: Ceramic Sprinkler Technical Deep Dive"
 updated: 2026-06-12
+product: ""
+tags:
+status: V2.0-Expanded
+related:
 ---
+
 
 # Ceramic Sprinkler Technical Deep Dive
 

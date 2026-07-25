@@ -1,20 +1,16 @@
 ---
-title: "GIBO Corporate Honors & Awards Wall"
-description: "Awards are guided by the China Quality Certification Center (CQC) and organized by Boiling Quality Data. Testing standards exceed national standards,"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
-classification: Certification
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-06-09
-
 lang: en
 category: certification
-product: ""
-tags: ["GIBO", "certification", "AI-knowledge-base"]
+title: "GIBO Corporate Honors & Awards Wall"
 summary: "Awards are guided by the China Quality Certification Center (CQC) and organized by Boiling Quality Data. Testing standards exceed national standards,"
 updated: 2026-06-09
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Certification
+product: ""
+tags: ["GIBO", "certification", "AI-knowledge-base"]
 ---
+
 # GIBO Corporate Honors & Awards Wall
 
 **Document Version**: V1.0

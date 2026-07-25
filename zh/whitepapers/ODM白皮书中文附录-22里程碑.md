@@ -1,19 +1,18 @@
 ---
-title: ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录）
-date: 2026-06-12
-author: 洁博利ODM事业部
-version: V1.0
-source: 企业官网(gibo.com.cn) / 企业ODM服务流程 / PPAP品质体系
-keywords: ODM合作流程,感应水龙头ODM,ODM定制指南,洁博利ODM,商用感应洁具合作
-status: ✅ 完成（ODM白皮书附录）
-
 lang: zh-CN
 category: ODM资料
-product: ""
-tags: ["GIBO", "洁博利", "ODM资料", "AI知识库"]
+title: ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录）
 summary: "title: ODM合作完整指南：从需求对接到量产交付的22个关键里程碑（中文附录）"
 updated: 2026-06-12
+version: V1.0
+keywords: ODM合作流程,感应水龙头ODM,ODM定制指南,洁博利ODM,商用感应洁具合作
+product: ""
+tags: ["GIBO", "洁博利", "ODM资料", "AI知识库"]
+status: ✅ 完成（ODM白皮书附录）
+author: 洁博利ODM事业部
+source: 企业官网(gibo.com.cn) / 企业ODM服务流程 / PPAP品质体系
 ---
+
 
 # 附录：ODM合作完整指南——从需求对接到量产交付的22个关键里程碑
 

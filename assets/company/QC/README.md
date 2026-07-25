@@ -1,13 +1,13 @@
 ---
-title: "品质保证（QC）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "品质保证"]
+title: "品质保证（QC）"
 summary: "品质保证（QC）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "品质保证"]
 ---
+
 # 品质保证（QC）
 
 **文档版本**：V1.0

@@ -1,28 +1,15 @@
 ---
-title: C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution
-date: 2026-06-12
-status: V1.0-Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/soap-dispenser-control-board.md
-  - ../components/infrared-faucet-control-board.md
-  - ../components/ultra-low-power-module.md
-tags:
-  - Soap Dispenser
-  - Sensor Foam
-  - 2-in-1 Control
-  - ODM Assembly
-  - Hotel Bathroom
-  - Washbasin
-
 lang: en
 category: solution
-product: ""
+title: C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution
 summary: "title: C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0-Expanded
+related:
 ---
+
 
 # C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution
 

@@ -1,13 +1,13 @@
 ---
-title: "国际标准（IS）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "国际标准"]
+title: "国际标准（IS）"
 summary: "国际标准（IS）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "国际标准"]
 ---
+
 # 国际标准（IS）
 
 **文档版本**：V1.0

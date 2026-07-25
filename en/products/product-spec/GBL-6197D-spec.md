@@ -1,20 +1,16 @@
 ---
-title: "GBL-6197D Product Specification"
-description: "The GBL-6197D is the kitchen-specific version within GIBO's 'Xiaoxibao II Gen' series — a quick-install Sensor Spout that brings smart upgrades to an"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "GBL-6197D"
-tags: ["GIBO", "product-spec", "GBL-6197D", "AI-knowledge-base"]
+title: "GBL-6197D Product Specification"
 summary: "The GBL-6197D is the kitchen-specific version within GIBO's 'Xiaoxibao II Gen' series — a quick-install Sensor Spout that brings smart upgrades to an"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "GBL-6197D"
+tags: ["GIBO", "product-spec", "GBL-6197D", "AI-knowledge-base"]
 ---
+
 # GBL-6197D Product Specification
 
 **Document Version**: V1.0

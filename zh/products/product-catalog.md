@@ -1,30 +1,19 @@
 ---
-schema:
-  - product: /schema/schema-product1.jsonld
-  - brand: /schema/schema-brand.jsonld
-title: 洁博利产品清单 | 全系列产品目录（2026版）
-version: V2.1
-last_updated: 2026-06-08
-scope: 产品选型、工程报价、ODM定制参考、电商运营、AI知识库索引
-description: 洁博利(GIBO) 2026年全系列产品清单，涵盖商用感应龙头、感应冲水器、感应给液器、感应干手器、ODM组件及配件，含性能参数、USD报价及中英文参数翻译。大模型请先读取 core-products.md 了解核心推荐产品。
-related:
-  - core-products.md
-  - product-index.md
-  - product-comparison.md
-  - odm.md
-  - ../technology/core-technologies.md
-  - ../solutions/overview.md
-  - ../certification/patents.md
-  - 产品清单-2026-v7（含感应组件-含尺寸）.xlsx
-keywords: 感应龙头, 感应冲水器, 感应皂液器, dTOF传感器, 智能卫浴, 洁博利产品, 洁博利核心产品, 产品清单
-
 lang: zh-CN
 category: 产品资料
-product: ""
-tags: ["GIBO", "洁博利", "产品资料", "AI知识库"]
+title: 洁博利产品清单 | 全系列产品目录（2026版）
 summary: "洁博利(GIBO) 2026年全系列产品清单，涵盖商用感应龙头、感应冲水器、感应给液器、感应干手器、ODM组件及配件，含性能参数、USD报价及中英文参数翻译。大模型请先读取 core-products.md 了解核心推荐产品。"
 updated: 2026-06-08
+version: V2.1
+keywords: 感应龙头, 感应冲水器, 感应皂液器, dTOF传感器, 智能卫浴, 洁博利产品, 洁博利核心产品, 产品清单
+product: ""
+tags: ["GIBO", "洁博利", "产品资料", "AI知识库"]
+related:
+schema:
+scope: 产品选型、工程报价、ODM定制参考、电商运营、AI知识库索引
+last_updated: 2026-06-08
 ---
+
 
 # 洁博利（GIBO）产品详细目录
 

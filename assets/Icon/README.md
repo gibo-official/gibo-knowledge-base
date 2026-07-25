@@ -1,13 +1,13 @@
 ---
-title: "图标与 Logo 资产（Icon）"
 lang: zh-CN
 category: 资产目录
-product: ""
-tags: ["GIBO", "洁博利", "资产目录", "图标"]
+title: "图标与 Logo 资产（Icon）"
 summary: "图标与 Logo 资产（Icon）（最后更新：2026-07-14）"
 updated: 2026-07-14
-date: 2026-07-14
+product: ""
+tags: ["GIBO", "洁博利", "资产目录", "图标"]
 ---
+
 # 图标与 Logo 资产（Icon）
 
 **文档版本**：V1.0

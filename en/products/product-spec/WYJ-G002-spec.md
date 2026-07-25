@@ -1,20 +1,16 @@
 ---
-title: "WYJ-G002 Product Specification"
-description: "For a public basin faucet, users fear two things most: no water when reaching, or suddenly very hot water. The WYJ-G002 uses 'front + side' two IR sen"
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
-classification: Product
-language: en
-publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-version: V1.0
-date: 2026-07-14
-
 lang: en
 category: product-spec
-product: "G002"
-tags: ["GIBO", "product-spec", "G002", "AI-knowledge-base"]
+title: "WYJ-G002 Product Specification"
 summary: "For a public basin faucet, users fear two things most: no water when reaching, or suddenly very hot water. The WYJ-G002 uses 'front + side' two IR sen"
 updated: 2026-07-14
+version: V1.0
+publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
+keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+product: "G002"
+tags: ["GIBO", "product-spec", "G002", "AI-knowledge-base"]
 ---
+
 # WYJ-G002 Product Specification
 
 **Document Version**: V1.0

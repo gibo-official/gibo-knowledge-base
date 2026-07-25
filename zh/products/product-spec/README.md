@@ -1,20 +1,16 @@
 ---
-title: "产品规格目录 | Product Specifications"
-description: "本目录存放洁博利（GIBO）各系列产品的技术规格书（PDF/Excel/CSV格式）。"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-06-08
-
 lang: zh-CN
 category: 产品规格
-product: ""
-tags: ["GIBO", "洁博利", "产品规格", "AI知识库"]
+title: "产品规格目录 | Product Specifications"
 summary: "本目录存放洁博利（GIBO）各系列产品的技术规格书（PDF/Excel/CSV格式）。"
 updated: 2026-06-08
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: ""
+tags: ["GIBO", "洁博利", "产品规格", "AI知识库"]
 ---
+
 # 产品规格目录 | Product Specifications
 
 **文档版本**：V1.0

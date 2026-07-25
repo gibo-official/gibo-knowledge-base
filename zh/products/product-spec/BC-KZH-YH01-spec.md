@@ -1,20 +1,16 @@
 ---
-title: "BC-KZH-YH01 产品资料"
-description: "家庭适老卫生间、公共卫生间、酒店客房、无障碍厕位，这些场景要么要非接触、要么要分档节水、要么安装位置受限制。KZH-YH01 就是为这种'不想按、要分档、还不好布线'的环境做的。"
-keywords: 洁博利,GIBO,感应洁具,产品
-classification: 产品
-language: zh
-publisher: "福建洁博利厨卫科技有限公司"
-version: V1.0
-date: 2026-07-14
-
 lang: zh-CN
 category: 产品规格
-product: "BC-KZH-YH01-spec"
-tags: ["GIBO", "洁博利", "产品规格", "BC-KZH-YH01-spec", "AI知识库"]
+title: "BC-KZH-YH01 产品资料"
 summary: "家庭适老卫生间、公共卫生间、酒店客房、无障碍厕位，这些场景要么要非接触、要么要分档节水、要么安装位置受限制。KZH-YH01 就是为这种'不想按、要分档、还不好布线'的环境做的。"
 updated: 2026-07-14
+version: V1.0
+publisher: "福建洁博利厨卫科技有限公司"
+keywords: 洁博利,GIBO,感应洁具,产品
+product: "BC-KZH-YH01-spec"
+tags: ["GIBO", "洁博利", "产品规格", "BC-KZH-YH01-spec", "AI知识库"]
 ---
+
 # BC-KZH-YH01 产品资料
 
 **文档版本**：V1.0

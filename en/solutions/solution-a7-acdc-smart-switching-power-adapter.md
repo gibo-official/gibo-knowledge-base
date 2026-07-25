@@ -1,28 +1,15 @@
 ---
-title: A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware
-date: 2026-06-12
-status: V1.0 - Expanded
-related:
-  - ../products/product-catalog.md
-  - ../products/odm.md
-  - ../../company/brand-white-paper.md
-  - ../components/ac-dc-dual-power-module.md
-  - ../components/ultra-low-power-module.md
-  - ../components/waterproof-seal-assembly.md
-tags:
-  - AC/DC Switching
-  - Power Adapter
-  - Dual Power Supply
-  - Sensor Sanitary Ware
-  - Project Power Supply
-  - ODM Solution
-
 lang: en
 category: solution
-product: ""
+title: A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware
 summary: "title: A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware"
 updated: 2026-06-12
+product: ""
+tags:
+status: V1.0 - Expanded
+related:
 ---
+
 
 # A7 AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware
 
