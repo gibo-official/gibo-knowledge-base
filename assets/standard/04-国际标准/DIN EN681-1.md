@@ -119,7 +119,7 @@ CEN-Mitglieder sind die nationalen Normungsinstitute von
 
 Belgien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Island, Italien, Lettland, Litauen, Luxemburg, Malta, den Niederlanden, Norwegen, Österreich, Polen, Portugal, Schweden, der Schweiz, der Slowakei, Slowenien, Spanien, der Tschechischen Republik, Ungarn, dem Vereinigten Königreich und Zypern.
 
-![](images/7717c9b459cc781f8cdde748a592c54cce7a707d0642eaf05f48114f1328af73.jpg)
+![DIN EN681-1 Elastomer-Dichtungen— Werkstoff-Anforderungen für Rohrleitungs-Dichtungen für Anwendungen in der Wasserversorgung und Entwässerung — Teil 1: Vulkanisierter Gummi](images/7717c9b459cc781f8cdde748a592c54cce7a707d0642eaf05f48114f1328af73.jpg)
 
 EUROPÃISCHES KOMITEE FÜR NORMUNG EUROPEAN COMMITTEE FOR STANDARDIZATION COMITÉ EUROPÉEN DE NORMALISATION
 
@@ -627,7 +627,7 @@ ANMERKUNG Wenn ein Dehnungsgerät nach Bild A.1 verwendet wird, wird das Gerät 
 
 Maße in mm
 
-![](images/b044dc465409dbc75b35e863b91a4a9876dc1ef93ec1c3a5ec2142425704f717.jpg)  
+![DIN EN681-1 A.5 Durchführung](images/b044dc465409dbc75b35e863b91a4a9876dc1ef93ec1c3a5ec2142425704f717.jpg)
 Bild A.1 — Beispiel eines Gerätes zur Prüfung der Spannungsrelaxation im Zugversuch (alle Maße sind Richtwerte)
 
 # Anhang B (normativ)
@@ -658,7 +658,7 @@ Die Bestimmung des Druckverformungsrests erfolgt nach dem Verfahren in ISO 815.
 
 Maße in mm
 
-![](images/7d66315b203c995c5e5beff8a556694b8962ef822aa14fb037423e9c79c82712.jpg)  
+![DIN EN681-1 B.4Durchführung](images/7d66315b203c995c5e5beff8a556694b8962ef822aa14fb037423e9c79c82712.jpg)
 Bild B.1 — Spannvorrichtung für den Druckverformungsrest in heißem Wasser
 
 # Anhang C (normativ)

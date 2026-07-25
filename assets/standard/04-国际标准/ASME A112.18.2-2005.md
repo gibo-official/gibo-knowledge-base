@@ -78,7 +78,7 @@ Automatic notifications about any updates to this publication are available.
 
 • To receive printed updates, please complete and return the attached card.
 
-![](images/a2bcfd141ac657a4b8666d2276ab243cb54534de1c6022247cce62d2804b9eaa.jpg)
+![ASME A112.18.2-2005 CSA Standards Update Service ASME A112.18.2-2005/CSA B125.2-05 June 2005](images/a2bcfd141ac657a4b8666d2276ab243cb54534de1c6022247cce62d2804b9eaa.jpg)
 
 X
 
@@ -124,11 +124,11 @@ CSA B125.2-05
 
 Plumbing waste fittings
 
-![](images/b05b31c93075ea3ecd49d44420ba5ce25ca043a1ef1a546a1b2744a04511d3e2.jpg)
+![ASME A112.18.2-2005 CSA Standards Update Service ASME A112.18.2-2005/CSA B125.2-05 June 2005](images/b05b31c93075ea3ecd49d44420ba5ce25ca043a1ef1a546a1b2744a04511d3e2.jpg)
 
 The American Society of Mechanical Engineers
 
-![](images/cd2036d8869fefbeeb3f22be0a5763468f54f513295edb37883c929f53ad698e.jpg)
+![ASME A112.18.2-2005 CSA Standards Update Service ASME A112.18.2-2005/CSA B125.2-05 June 2005](images/cd2036d8869fefbeeb3f22be0a5763468f54f513295edb37883c929f53ad698e.jpg)
 
 CANADIAN STANDARDS ASSOCIATION
 
