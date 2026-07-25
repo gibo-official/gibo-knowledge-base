@@ -6,7 +6,7 @@ summary: "GIBO  Sensor Sanitary Ware product manual: installation, operation, te
 updated: 2026-07-03
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: GIBO,sensor sanitary ware,sensor faucet
 product: ""
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---

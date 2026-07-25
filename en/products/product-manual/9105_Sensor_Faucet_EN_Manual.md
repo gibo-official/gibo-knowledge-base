@@ -6,7 +6,7 @@ summary: "GIBO 9105 Sensor Faucet product manual: installation, operation, techn
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: Sensor_Faucet,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Faucet,GIBO,sensor sanitary ware,sensor faucet
 product_model: "9105"
 product: "9105"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]

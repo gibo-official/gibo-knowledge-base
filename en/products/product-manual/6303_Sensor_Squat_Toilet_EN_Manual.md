@@ -6,7 +6,7 @@ summary: "GIBO 6303 Squat Toilet Sensor product manual: installation, operation,
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: Sensor_Squat_Toilet,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Squat_Toilet,GIBO,sensor sanitary ware,sensor faucet
 product_model: "6303"
 product: "6303"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]

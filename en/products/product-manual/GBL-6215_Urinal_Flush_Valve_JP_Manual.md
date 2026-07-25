@@ -6,7 +6,7 @@ summary: "GIBO  Urinal Flusher product manual: installation, operation, technica
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: GIBO,sensor sanitary ware,sensor faucet
 product: "GBL-6215_Urinal_Flush_Valve_JP_Manual"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---

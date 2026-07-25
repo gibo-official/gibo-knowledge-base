@@ -6,7 +6,7 @@ summary: "GIBO 64106 Shower product manual: installation, operation, technical p
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: Sensor_Shower,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Shower,GIBO,sensor sanitary ware,sensor faucet
 product_model: "64106"
 product: "64106"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]

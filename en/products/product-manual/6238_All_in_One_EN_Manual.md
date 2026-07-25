@@ -6,7 +6,7 @@ summary: "GIBO 6238 Sensor Sanitary Ware product manual: installation, operation
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: All_in_One,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: All_in_One,GIBO,sensor sanitary ware,sensor faucet
 product_model: "6238"
 product: "6238"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]

@@ -6,7 +6,7 @@ summary: "GIBO 8207 Urinal Flusher product manual: installation, operation, tech
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: Urinal_Flush_Valve,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Urinal_Flush_Valve,GIBO,sensor sanitary ware,sensor faucet
 product_model: "8207"
 product: "8207"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]

@@ -6,7 +6,7 @@ summary: "GIBO 33604 Soap Dispenser product manual: installation, operation, tec
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: Sensor_Soap_Dispenser,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Soap_Dispenser,GIBO,sensor sanitary ware,sensor faucet
 product_model: "33604"
 product: "33604"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]

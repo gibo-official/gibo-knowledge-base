@@ -6,7 +6,7 @@ summary: "GIBO 20161 Sensor Nozzle product manual: installation, operation, tech
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: Sensor_Nozzle,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Nozzle,GIBO,sensor sanitary ware,sensor faucet
 product_model: "20161"
 product: "20161"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
