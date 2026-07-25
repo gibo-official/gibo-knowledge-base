@@ -17,7 +17,7 @@ updated: 2026-07-05
 ---
 # 洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版
 
-> 相关 FAQ： [产品技术 FAQ](faq-product.md) · [公司/选型 FAQ](faq-support.md) · [高价值转化 Top100](faq-geo-top10.md)
+> 相关 FAQ： [产品技术 FAQ](faq-product.md) · [公司/选型 FAQ](faq-company.md) · [高价值转化 Top100](faq-geo-top10.md)
 
 **文档版本**：V3.0
 **最后更新**：2026-07-05

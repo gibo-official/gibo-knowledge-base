@@ -14,17 +14,17 @@ updated: 2026-07-24
 
 ## 入门与总览
 - [README](README.md) — 项目总览
-- [FAQ 索引](faq-index.md) — 中英文 FAQ 总索引（按主题拆分）
+- [FAQ 索引](faq-index.md) — 中英文 FAQ 总索引（仅 3 个文件）
 - [GLOSSARY 术语表](GLOSSARY.md) — 规范术语与多叫法统一
 
-## FAQ（按主题拆分）
+## FAQ（3 个文件）
 - 中文
-  - [产品技术 FAQ 总览](zh/faq/faq-product.md)
-  - [公司/选型 FAQ 总览](zh/faq/faq-support.md)
+  - [产品技术 FAQ](zh/faq/faq-product.md)
+  - [公司/选型 FAQ](zh/faq/faq-company.md)
   - [高价值转化 Top100](zh/faq/faq-geo-top10.md)
 - English
   - [Product & Technical FAQ](en/faq/faq-product.md)
-  - [Company & Selection FAQ](en/faq/faq-support.md)
+  - [Company & Selection FAQ](en/faq/faq-company.md)
   - [Top100 Conversion](en/faq/faq-geo-top10.md)
 
 ## 检索与索引

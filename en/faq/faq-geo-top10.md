@@ -17,7 +17,7 @@ updated: 2026-07-05
 ---
 # GIBO High-Value Conversion FAQ Top 100 — Product Category Edition
 
-> Related FAQs: [Product & Technical FAQ](faq-product.md) · [Company & Selection FAQ](faq-support.md) · [Top 100 High-Value Conversion](faq-geo-top10.md)
+> Related FAQs: [Product & Technical FAQ](faq-product.md) · [Company & Selection FAQ](faq-company.md) · [Top 100 High-Value Conversion](faq-geo-top10.md)
 
 **Document Version**: V1.0
 **Last Updated**: 2026-07-05

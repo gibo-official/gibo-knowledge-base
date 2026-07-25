@@ -16,8 +16,9 @@ updated: 2026-07-24
 - 提交信息：中文简述 + 必要时补充说明。
 
 ## 2. 新增 / 修改 FAQ
-- FAQ 已按主题拆分为独立子文件，位于 `zh/faq/product/`、`zh/faq/support/`、`en/faq/product/`、`en/faq/support/`。
-- **新增问答**：放到对应主题的 `faq-<key>.md` 子文件末尾，使用标准格式：
+- FAQ 仅保留 3 个文件（不拆子文件、不建子目录）：
+  `zh/faq/faq-product.md`（产品技术）、`zh/faq/faq-company.md`（公司/选型）、`zh/faq/faq-geo-top10.md`（高价值 Top100），en 同构。
+- **新增问答**：追加到对应文件末尾，使用标准格式：
   ```markdown
   ### Q：用户自然语言问句 [Tier标签] | tag1,tag2
 
@@ -25,8 +26,8 @@ updated: 2026-07-24
 
   ---
   ```
-- **新增产品线/主题**：在 `product/` 或 `support/` 新建 `faq-<key>.md`，并在对应 `faq-product.md` / `faq-support.md` 总览页与 `faq-index.md` 补充链接。
-- 单文件问答建议 ≤ 120 条，超出请拆分，以提升向量切片精度。
+- 文件较小时直接追加即可；若单文件过大影响维护，再考虑拆分（届时同步更新 `faq-index.md` 与 `NAV.md`）。
+- 三个文件之间用顶部导航块互链（见现有文件头部 `> 相关 FAQ：`）。
 
 ## 3. 命名与风格
 - 文件命名：见 [文件命名规则](filename-rule.md)。

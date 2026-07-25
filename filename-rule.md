@@ -24,13 +24,9 @@ updated: 2026-07-24
 
 ## 目录约定
 - 语言目录：`zh/`（中文）、`en/`（英文）。
-- FAQ 子文件位于 `zh/faq/product/`、`zh/faq/support/` 等，文件名 `faq-<key>.md`：
-  - `faq-tap.md`（感应龙头）、`faq-flusher.md`（冲水器）、`faq-sensor.md`（模块）、
-    `faq-soap.md`（皂液器）、`faq-hand-dryer.md`（干手器）、`faq-shower.md`（淋浴）、
-    `faq-toilet.md`（马桶）、`faq-odm.md`（ODM）、`faq-trouble.md`（故障）、`faq-installation.md`（安装）、
-    `faq-company.md`（公司）、`faq-comparison.md`（对比）、`faq-user.md`（体验）、
-    `faq-scenario.md`（场景）、`faq-buying.md`（购买决策）。
-- 总览页：`faq-product.md`、`faq-support.md`、`faq-geo-top10.md`。
+- FAQ 仅 3 个文件，不拆子文件、不建子目录：
+  - `faq-product.md`（产品技术 FAQ）、`faq-company.md`（公司/选型 FAQ）、`faq-geo-top10.md`（高价值 Top100），位于 `zh/faq/`、`en/faq/`。
+  - 历史上曾按主题拆为 `product/`、`support/` 子目录（faq-tap.md 等），现已合并回上述 3 个文件。
 - 图片资源：`assets/products/...`、`assets/standard/...`，建议小写连字符。
 
 ## 归档文件

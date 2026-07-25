@@ -44,7 +44,7 @@
 
 ### 1.4 行动建议（已部分落地）
 1. **`docs-style-guide.md` 已增补两条硬规则**（见下）：① 参数图必须「图+表双写」；② 图片必须带描述性 `alt`。
-2. **回填 alt 文本**：优先处理 `product-spec/`、`product-manual/`、`faq/product/` 等受管区的参数图（当前仅 49 张非空 alt，含 4 张参数图）。
+2. **回填 alt 文本**：优先处理 `product-spec/`、`product-manual/`、`faq/`（含 `faq-product.md`/`faq-company.md`）等受管区的参数图（当前仅 49 张非空 alt，含 4 张参数图）。
 3. **将 alt 必填纳入 CI（WARN 级，待本批稳定后开启）**，逐批收敛空 alt 比例。
 
 ---

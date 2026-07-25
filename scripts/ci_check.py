@@ -113,6 +113,8 @@ def main():
     args = sys.argv[1:]
     if args:
         files = [Path(a).resolve() for a in args if a.endswith('.md')]
+        # 跳过已删除（不存在）的文件，避免 PR/删除场景下误报读取失败
+        files = [f for f in files if f.exists()]
     else:
         files = sorted(ROOT.rglob('*.md'))
         files = [f for f in files if '.git' not in f.parts]

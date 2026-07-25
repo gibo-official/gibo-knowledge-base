@@ -10,15 +10,11 @@ updated: 2026-07-24
 
 # FAQ Directory Guide
 
-FAQ in this directory is split into standalone sub-files by topic for retrieval and AI vector chunking (Milvus).
+FAQ in this directory keeps only 3 files (no per-topic sub-files, no sub-directories) for easier maintenance and AI vector chunking (Milvus).
 
-## Entry Points
-- [Product & Technical FAQ](faq-product.md): faucet/flusher/module/soap/hand-dryer/shower/toilet/ODM/trouble/installation
-- [Company & Selection FAQ](faq-support.md): company/comparison/experience/scenario/purchase
-- [Top100 Conversion](faq-geo-top10.md): curated high-conversion Q&A
-
-## Sub-files
-- `product/`: product-technical sub-files (faq-tap.md etc.)
-- `support/`: company/selection sub-files (faq-company.md etc.)
+## Files
+- [Product & Technical FAQ](faq-product.md): faucet/flusher/module/soap/hand-dryer/shower/toilet/ODM/trouble/installation (519 Q)
+- [Company & Selection FAQ](faq-company.md): company/comparison/experience/scenario/purchase (391 Q)
+- [Top100 Conversion](faq-geo-top10.md): curated high-conversion Q&A (100 Q)
 
 > Legacy aggregated files archived as `faq-backup.md` / `faq-geo-backup.md`.
