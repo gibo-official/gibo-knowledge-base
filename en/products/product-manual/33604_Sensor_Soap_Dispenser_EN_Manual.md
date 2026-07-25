@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Sensor_Soap_Dispenser,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "33604"
 product: "33604"
-tags: ["GIBO", "product-manual", "33604", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

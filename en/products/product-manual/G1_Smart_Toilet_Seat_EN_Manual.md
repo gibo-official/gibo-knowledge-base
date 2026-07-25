@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Smart_Toilet_Seat,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "G1"
 product: "G1"
-tags: ["GIBO", "product-manual", "G1", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

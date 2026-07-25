@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: All_in_One,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6238"
 product: "6238"
-tags: ["GIBO", "product-manual", "6238", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

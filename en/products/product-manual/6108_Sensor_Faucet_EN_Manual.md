@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Sensor_Faucet,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6108"
 product: "6108"
-tags: ["GIBO", "product-manual", "6108", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

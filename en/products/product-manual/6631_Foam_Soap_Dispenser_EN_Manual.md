@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Foam_Soap_Dispenser,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6631"
 product: "6631"
-tags: ["GIBO", "product-manual", "6631", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

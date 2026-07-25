@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Sensor_Nozzle,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "20201"
 product: "20201"
-tags: ["GIBO", "product-manual", "20201", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

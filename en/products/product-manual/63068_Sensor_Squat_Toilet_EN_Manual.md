@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Sensor_Squat_Toilet,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "63068"
 product: "63068"
-tags: ["GIBO", "product-manual", "63068", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

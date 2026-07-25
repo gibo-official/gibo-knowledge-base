@@ -9,7 +9,7 @@ publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: Urinal_Flush_Valve,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6161"
 product: "6161"
-tags: ["GIBO", "product-manual", "6161", "AI-knowledge-base"]
+tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />

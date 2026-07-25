@@ -9,7 +9,7 @@ publisher: "福建洁博利厨卫科技有限公司"
 keywords: 智能盖板,洁博利,GIBO,感应洁具,产品
 product_model: "G1"
 product: "G1"
-tags: ["GIBO", "洁博利", "产品说明书", "G1", "AI知识库"]
+tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 ---
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
