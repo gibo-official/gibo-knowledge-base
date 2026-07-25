@@ -31,7 +31,7 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/8306_EN_ToiletSensor-ins-01.png)
 
 ## Installation Instructions
 
@@ -61,7 +61,7 @@ Auto toilet normal mode : when a person stands in the sensing range over 3 secon
 
 ## Product Specifications
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet Product Specifications](../../../assets/images/ins/8306_EN_ToiletSensor-ins-02.png)
 
 ## I Nstallation
 
@@ -73,16 +73,16 @@ Auto toilet normal mode : when a person stands in the sensing range over 3 secon
 
 4) move away the protection cover from the embedded box . connect power wire and solenoid wire and fix the faceplate into the embedded box .
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-03.png)
+![Sensor_Squat_Toilet I Nstallation](../../../assets/images/ins/8306_EN_ToiletSensor-ins-03.png)
 Embedded dimension
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-04.png)
+![Sensor_Squat_Toilet I Nstallation](../../../assets/images/ins/8306_EN_ToiletSensor-ins-04.png)
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-05.png)
+![Sensor_Squat_Toilet I Nstallation](../../../assets/images/ins/8306_EN_ToiletSensor-ins-05.png)
 
 Centerline
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-06.png)
+![Sensor_Squat_Toilet I Nstallation](../../../assets/images/ins/8306_EN_ToiletSensor-ins-06.png)
 
 1 ) Water-flow regulating
 
@@ -94,7 +94,7 @@ Please use screwdriver to back - out the filter net . clean the filter net with 
 
 Note : please turn off the water regulating valve before you back - out the filter net .
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-07.png)
+![Sensor_Squat_Toilet I Nstallation](../../../assets/images/ins/8306_EN_ToiletSensor-ins-07.png)
 
 ## Replace Batteries
 
@@ -108,7 +108,7 @@ Step 2: replace with four aa alkaline batteries
 
 Note : make sure the batteries are installed correctly ("+" positive and "-" negative charge ). do not mix new old batteries . do not mix batteries of different brands .
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-08.png)
+![Sensor_Squat_Toilet Replace Batteries](../../../assets/images/ins/8306_EN_ToiletSensor-ins-08.png)
 Battery box
 
 ## Note
@@ -121,19 +121,19 @@ Battery box
 
 Solenoid valve components exploded view
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-09.png)
+![Sensor_Squat_Toilet Note](../../../assets/images/ins/8306_EN_ToiletSensor-ins-09.png)
 
 ## Installation Scheme 1
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-10.png)
+![Sensor_Squat_Toilet Installation Scheme 1](../../../assets/images/ins/8306_EN_ToiletSensor-ins-10.png)
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-11.png)
+![Sensor_Squat_Toilet Installation Scheme 1](../../../assets/images/ins/8306_EN_ToiletSensor-ins-11.png)
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-12.png)
+![Sensor_Squat_Toilet Installation Scheme 1](../../../assets/images/ins/8306_EN_ToiletSensor-ins-12.png)
 
 ## Troubleshooting
 
-![](../../../assets/images/ins/8306_EN_ToiletSensor-ins-13.png)
+![Sensor_Squat_Toilet Troubleshooting](../../../assets/images/ins/8306_EN_ToiletSensor-ins-13.png)
 ---
 
 ## 联系方式

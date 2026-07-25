@@ -61,12 +61,12 @@ Not<sub>e :</sub> Pl<sub>ease ma</sub>k<sub>e sure</sub> the dist<sub>ance</sub>
 
 ## INSTRUCTIONS
 
-![](../../../assets/images/ins/6153_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet INSTRUCTIONS](../../../assets/images/ins/6153_EN_SensorFaucet-ins-01.png)
 Unitmm:
 
-![](../../../assets/images/ins/6153_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet INSTRUCTIONS](../../../assets/images/ins/6153_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/6153_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet INSTRUCTIONS](../../../assets/images/ins/6153_EN_SensorFaucet-ins-03.png)
 
 ## FUNCTIONS
 
@@ -128,7 +128,7 @@ D<sub>o no</sub>t <sub>worry :</sub> If batt<sub>ery power runs ou</sub>t th<sub
 
 ## TROUBLESHOOTING
 
-![](../../../assets/images/ins/6153_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet TROUBLESHOOTING](../../../assets/images/ins/6153_EN_SensorFaucet-ins-04.png)
 ---
 
 ## 联系方式

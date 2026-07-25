@@ -38,13 +38,13 @@ Faucet adapter
 
 Rubbergasket
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle Product Configuration](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-01.png)
 
 \* this product is match to male m 22 and female m 24 of faucet nozzle
 
 ## Function Inducation
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle Function Inducation](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-02.png)
 
 1 side sensor for long time water flow : wave your hand to turn on & turn off the water flow .
 
@@ -52,7 +52,7 @@ Rubbergasket
 
 ## Installation Drawing
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle Installation Drawing](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-03.png)
 
 ## Product Usage
 
@@ -60,16 +60,16 @@ Rubbergasket
 
 2 automatically turn on & off when your hands entering & leaving the sensing range . it will self closing after continue use 1 minute .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-04.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-05.png)
 \* before installation , please fully charge the product firstly .
 
 ## Applicable Faucet
 
 2 it is not suitable for the pull - out faucet , short faucet , basin faucet and others .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-06.png)
+![Sensor_Nozzle Applicable Faucet](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-06.png)
 
 ## Usage Maintenance
 
@@ -80,7 +80,7 @@ If the volume of water is found to be small or no water , it may be blocked by t
 1. in normal use , the battery life is about 6 months ; if it is not used foralong time , please charge it within 6 months in case the battery uses up . product can not work normally when charge it . and should turn off the handle of the faucet in advance .
 2. USB cable and power adapter are not included with product itself .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-07.png)
+![Sensor_Nozzle Usage Maintenance](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-07.png)
 
 ## Precautions for Usage
 
@@ -94,17 +94,17 @@ If the volume of water is found to be small or no water , it may be blocked by t
 
 5 when using the product , please make sure that the USB charging protection plug is tightly fitted , in case gas enters and rusts the charging port .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-08.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-08.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-09.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-09.png)
 1
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-10.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-10.png)
 23
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-11.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-11.png)
 
 FAQ
 
@@ -140,9 +140,9 @@ And like these are not covered by this warranty .
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-12.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-12.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-13.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-13.png)
 
 Touchless faucets prayer
 
@@ -150,13 +150,13 @@ Touchless faucets prayer
 
 2
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-14.png)
+![Sensor_Nozzle Product Configuration](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-14.png)
 
 \* this product is fixable in pull out type kitchen faucet , pull out hose with female connector g 1/2 connector .
 
 ## Function Inducation
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-15.png)
+![Sensor_Nozzle Function Inducation](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-15.png)
 
 1 side sensor for long time water flow : wave your hand to turn on & turn off the water flow .
 
@@ -164,7 +164,7 @@ Touchless faucets prayer
 
 ## Installation Drawing
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-16.png)
+![Sensor_Nozzle Installation Drawing](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-16.png)
 \* before installation , please fully charge the product firstly .
 \* notice : before screwing off / on the sprayer , please fix or grasp the pull out hose well , to avoid the pull out hose retracting back into the faucet .
 
@@ -176,11 +176,11 @@ Touchless faucets prayer
 
 3 pull out water flow : keep holding the hand on the side sensor window , then water is out . the water will be turned off after 2 seconds since hand leaves the sensor window .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-17.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-17.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-18.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-18.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-19.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-19.png)
 1 long time water flow
 3 pull out water flow
 
@@ -190,7 +190,7 @@ Touchless faucets prayer
 
 1 it is only suitable for the high spout pull out kitchen faucet with g 1/2 thread .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-20.png)
+![Sensor_Nozzle Applicable Faucet](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-20.png)
 
 \* according to the use habit , suggest to put the side sensor window in by or at the right / left side . the use effect would be better than putting the sensor window in the front facing to the people .
 
@@ -203,9 +203,9 @@ If the volume of water is found to be small or no water , it may be blocked by t
 1. in normal use , the battery life is about 6 months ; if it is not used foralong time , please charge it within 6 months in case the battery uses up . product can not work normally when charge it . and should turn off the handle of the faucet in advance .
 2. USB cable and power adapter are not included with product itself .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-21.png)
+![Sensor_Nozzle Usage Maintenance](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-21.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-22.png)
+![Sensor_Nozzle Usage Maintenance](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-22.png)
 
 ## Precautions for Usage
 
@@ -219,17 +219,17 @@ If the volume of water is found to be small or no water , it may be blocked by t
 
 5 when using the product , please make sure that the USB charging protection plug is tightly fitted , in case gas enters and rusts the charging port .
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-23.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-23.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-24.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-24.png)
 1
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-25.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-25.png)
 3
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-26.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-26.png)
 
 FAQ
 
@@ -265,9 +265,9 @@ FAQ
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-27.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-27.png)
 
-![](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-28.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/GBL-6197_EN_SensorNozzle-ins-28.png)
 ---
 
 ## 联系方式

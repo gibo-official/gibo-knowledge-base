@@ -61,7 +61,7 @@ The following pictures for yourreference do not necessa rily com ply with the pr
 
 ## PRODUCT SPECIFICATIONS
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-01.png)
+![蹲便感应器 PRODUCT SPECIFICATIONS](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-01.png)
 UNIT mm:
 
 ## BEFORE YOU BEGIN
@@ -72,19 +72,19 @@ UNIT mm:
 
 5. Pleaseopen the master va lve to cleanthe water way before IN stall i ng the product to avoid the bloc kag e.
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-02.png)
+![蹲便感应器 BEFORE YOU BEGIN](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-02.png)
 
 ## INSTALLATION DRAWING
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-03.png)
+![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-03.png)
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-04.png)
+![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-04.png)
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-05.png)
+![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-05.png)
 
 ## NOTE
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-06.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-06.png)
 
 \*Test run the water for the IN l et pipe to ensure it IS free oflea kage .
 
@@ -96,7 +96,7 @@ UNIT mm:
 
 3When the sq uat is unused forAlong time the machine will activateAfl ush every 24 hou rs..
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-07.png)
+![蹲便感应器 USAGE EXPOSITION](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-07.png)
 
 ## MAINTENANCE INSTRUCTIONS
 
@@ -106,7 +106,7 @@ If you need to clean the filter useAwrench rotati ng the va lve cover remove the
 
 N OTE : Cleanthe filter before the water suPPly va lve to be closed .
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-08.png)
+![蹲便感应器 MAINTENANCE INSTRUCTIONS](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-08.png)
 
 ## CHANGE OF BATTERY
 
@@ -118,19 +118,19 @@ Take out the battery box from themo u nti ngAND IN se rt IN batteriesAcco rd IN 
 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-09.png)
+![蹲便感应器 CHANGE OF BATTERY](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-09.png)
 
 ## NOTE
 
 PleasedON ot direct ly washit with water Use wet clothto cleanit.\* Do notcrush it or failure may be caused\* Do not cleanit with acid or Alka linedete rgents\*
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-10.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-10.png)
 
 ## COMMON TROUBLE SHOOTING
 
 if anything abnormal happens while using please refer to the following table and solve accordingly if the problem remains call the service number
 
-![](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-11.png)
+![蹲便感应器 COMMON TROUBLE SHOOTING](../../../assets/images/ins/6303A%E4%B8%AD%E6%80%A7%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8EEN-ins-11.png)
 
 ## ONE-YEARWARRANTY
 

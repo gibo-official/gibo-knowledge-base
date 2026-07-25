@@ -32,7 +32,7 @@ updated: 2026-07-14
 ---
 # 成品尺寸 285x138mm
 
-![](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-01.png)
+![Sensor_Soap_Dispenser成品尺寸 285x138mm](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-01.png)
 
 goldbunker
 
@@ -44,17 +44,17 @@ SD-280
 
 사/용/설/명/서
 
-![](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-02.png)
+![Sensor_Soap_Dispenser 자동 거품 디스펜서](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-02.png)
 
 1, 자동 거품 디스펜서를 물기가 없는 평형한 곳에 놓으십시오.
 
 2.알코올 농도가 낮은 액체 비누를 사용하십시오.
 
-![](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-03.png)
+![Sensor_Soap_Dispenser 자동 거품 디스펜서](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-03.png)
 
 ## 주의
 
-![](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-04.png)
+![Sensor_Soap_Dispenser 주의](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-04.png)
 
 3. 의도하지 않게 작동(거품이 나올수 있으므로)할 수 있으므로, 제품을 옮길때에는 전원버튼을 꺼주십시오.
 
@@ -79,7 +79,7 @@ SD-280
 
 ## 조립 방법
 
-![](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-05.png)
+![Sensor_Soap_Dispenser 조립 방법](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-05.png)
 
 ## 작동 방법
 
@@ -127,7 +127,7 @@ SD-280
 
 5. 충전식 배터리는 제품의 올바른 작용에 영향을 미치거나 고장을 일으킬 수 있으므로 충전용 배터리는 사용하지 마십시오.
 
-![](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-06.png)
+![Sensor_Soap_Dispenser 배터리 안전성](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-06.png)
 ---
 
 ## 联系方式

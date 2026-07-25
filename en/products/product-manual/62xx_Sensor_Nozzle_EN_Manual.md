@@ -34,20 +34,20 @@ updated: 2026-07-14
 Touchless faucet adapter
 Installation Manual
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-01.png)
+![Sensor_Nozzle感应节水器](../../../assets/images/ins/1051_EN_SensorFaucet-ins-01.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-02.png)
+![Sensor_Nozzle感应节水器](../../../assets/images/ins/1051_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-03.png)
+![Sensor_Nozzle感应节水器](../../../assets/images/ins/1051_EN_SensorFaucet-ins-03.png)
 Double sensors rapid response air injection
 
 ## Basic Parameters
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-04.png)
+![Sensor_Nozzle Basic Parameters](../../../assets/images/ins/1051_EN_SensorFaucet-ins-04.png)
 
 ## Product Hazardous Substances Declaration
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-05.png)
+![Sensor_Nozzle Product Hazardous Substances Declaration](../../../assets/images/ins/1051_EN_SensorFaucet-ins-05.png)
 
 This form is compiled according to the rules of sj / t 11364.
 ○: shows that the contentof the hazardous substance in all homogeneous materials of the part is below limitof ROHS and gb / t 26572.
@@ -91,11 +91,11 @@ Please carefully read and follow below before installing and using the product .
 9. the working water pressure is 0.05-0.8 mpa , please donot use this product under the water inlet pressure exceeding 0.8 mpa .
 10. before using this product , make sure that the USB charging protection plug is fastened to prevent water from entering .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-06.png)
+![Sensor_Nozzle Attention](../../../assets/images/ins/1051_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-07.png)
+![Sensor_Nozzle Attention](../../../assets/images/ins/1051_EN_SensorFaucet-ins-07.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-08.png)
+![Sensor_Nozzle Attention](../../../assets/images/ins/1051_EN_SensorFaucet-ins-08.png)
 
 ## Product Warranty
 
@@ -116,23 +116,23 @@ The three guarantees will not be implemented in one of the following situations 
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-09.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/1051_EN_SensorFaucet-ins-09.png)
 
 Warranty card
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-10.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/1051_EN_SensorFaucet-ins-10.png)
 
 ## Rohs C €
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-11.png)
+![Sensor_Nozzle Rohs C €](../../../assets/images/ins/1051_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-12.png)
+![Sensor_Nozzle Rohs C €](../../../assets/images/ins/1051_EN_SensorFaucet-ins-12.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-13.png)
+![Sensor_Nozzle Rohs C €](../../../assets/images/ins/1051_EN_SensorFaucet-ins-13.png)
 
 ## Product Introduction
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-14.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-14.png)
 
 Touchless faucet adapter
 
@@ -142,21 +142,21 @@ Connector item nr
 
 Marked position
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-15.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-15.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-16.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-16.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-17.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-17.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-18.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-18.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-19.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-19.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-20.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-20.png)
 
 Internal thread connector internal thread connector internal thread connector
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-21.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-21.png)
 
 Installed Wrench
 
@@ -164,7 +164,7 @@ External thread connector external thread connector external thread connector
 
 Sealed ring item nr marked position
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-22.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-22.png)
 
 m 22- n sealed ring
 
@@ -180,7 +180,7 @@ Universal sealed ring
 
 Water outlet nozzle
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-23.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-23.png)
 
 Battery power indicator
 
@@ -194,7 +194,7 @@ Water inlet nozzle
 
 USB charging
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-24.png)
+![Sensor_Nozzle Product Introduction](../../../assets/images/ins/1051_EN_SensorFaucet-ins-24.png)
 
 Flashing 1 time when hand sensor ---- normal working indication
 
@@ -211,11 +211,11 @@ Green light is always on ---- fully charged
 ① remove faucet aerator
 Remove original aerator of main faucet , clean the impurity in faucet spout .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-25.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/1051_EN_SensorFaucet-ins-25.png)
 
 [NO TEXT]
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-26.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/1051_EN_SensorFaucet-ins-26.png)
 
 Remove internal
 
@@ -226,7 +226,7 @@ Thread aerator
 ② install connector of faucet adapter
 Select connector that matches size of original tap thread , select sealed ring of the corresponding model and install connector , tighten it counterclockwise with a wrench .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-27.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/1051_EN_SensorFaucet-ins-27.png)
 
 [GRAPHIC: CIRCULY REBEA]
 
@@ -240,7 +240,7 @@ Install external thread connector
 
 Push sensor faucet adapter upwards and fasten the self - locking ring with the connector to complete the installation .( the position of sensor faucet adapter can be adjusted by rotating the sensor horizontally )
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-28.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/1051_EN_SensorFaucet-ins-28.png)
 
 When selecting the installation location , avoid installing side sensor window close to the wall and avoid any obstacles within 10 cm from the side . the distance between the bottom sensor window and the bottom of the pool is greater than 15 cm to avoid affecting normal use .
 
@@ -248,13 +248,13 @@ Disassembly
 
 Put the spanner between the connector and the lock ring , press the center position of the self - lock ring , and pull the spanner upward to remove it .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-29.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/1051_EN_SensorFaucet-ins-29.png)
 
 Power charging
 
 When electric power display light is normally on , it should be charged in time . turn off the faucet handle , remove the adapter from the faucet and use a micro USB data cable ( android data cable ) to charge the faucet adapter .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-30.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/1051_EN_SensorFaucet-ins-30.png)
 
 Micro USB charging connector
 
@@ -264,13 +264,13 @@ Usage
 
 Side sensor : when hand is placed 0-5 cm from the side sensor window , the water is discharged continuously for 3 minutes . if want to close water , put the hand in the sensing position again , the water will be stopped .
 
-![](../../../assets/images/ins/20201_EN_SensorNozzle-ins-31.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/20201_EN_SensorNozzle-ins-31.png)
 
 Bottom sensor : when hand is placed at the bottom and the sensing distance is 0-10 cm from sensor window , water will out . when the hand is removed , water stops .
 
-![](../../../assets/images/ins/20201_EN_SensorNozzle-ins-32.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/20201_EN_SensorNozzle-ins-32.png)
 
-![](../../../assets/images/ins/20201_EN_SensorNozzle-ins-33.png)
+![Sensor_Nozzle Installation](../../../assets/images/ins/20201_EN_SensorNozzle-ins-33.png)
 ---
 
 ## 联系方式

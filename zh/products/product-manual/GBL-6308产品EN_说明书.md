@@ -34,11 +34,11 @@ updated: 2026-07-10
 
 ## ■ Part List & Accessory
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-01.png)
+![产品 ■ Part List & Accessory](../../../assets/images/ins/GBL-6308_EN_Other-ins-01.png)
 
 ## ■ Standard Size
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-02.png)
+![产品 ■ Standard Size](../../../assets/images/ins/GBL-6308_EN_Other-ins-02.png)
 
 ## ■ Caution
 
@@ -48,15 +48,15 @@ updated: 2026-07-10
 
 3. do not spray water or wash the casing with strong acid , which may result in short - circuitor corrosion on casing . wipe off any stain withawet soft cloth .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-03.png)
+![产品 ■ Caution](../../../assets/images/ins/GBL-6308_EN_Other-ins-03.png)
 
 ## ■ Specification
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-04.png)
+![产品 ■ Specification](../../../assets/images/ins/GBL-6308_EN_Other-ins-04.png)
 
 ## How to Use
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-05.png)
+![产品 How to Use](../../../assets/images/ins/GBL-6308_EN_Other-ins-05.png)
 
 1. when user enters the sensing area , the unit enters the sensing status .
 
@@ -64,7 +64,7 @@ updated: 2026-07-10
 
 ## ■ Installation
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-06.png)
+![产品 ■ Installation](../../../assets/images/ins/GBL-6308_EN_Other-ins-06.png)
 
 Water pipe to avoid obstruction .
 - make sure to turn off water supply before installation .
@@ -81,7 +81,7 @@ C . connect control stop valve cap to water stop assembly .
 
 a . insert the vacuum breaker and lining in the outlet pipe .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-07.png)
+![产品 ■ Installation](../../../assets/images/ins/GBL-6308_EN_Other-ins-07.png)
 
 B . insert the spud coupling with flange and rubber gasket from the opposite directions through outlet pipe .
 
@@ -103,7 +103,7 @@ b. Range of adjustable distance: inwardly shortened 10mm to outwardly lengthened
 
 6. install / replace battery :( users should install the battery before using .)
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-08.png)
+![产品 ■ Installation](../../../assets/images/ins/GBL-6308_EN_Other-ins-08.png)
 
 a . unscrew the hexagonal screw with hexagonal wrench .
 
@@ -113,9 +113,9 @@ C . insert battery as in direction shown in the battery box .
 
 D . replace the battery box cover , casing and locking ring in reverse order .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-09.png)
+![产品 ■ Installation](../../../assets/images/ins/GBL-6308_EN_Other-ins-09.png)
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-10.png)
+![产品 ■ Installation](../../../assets/images/ins/GBL-6308_EN_Other-ins-10.png)
 
 E . tighten hexagonal screw with hexagonal wrench .
 
@@ -125,7 +125,7 @@ E . tighten hexagonal screw with hexagonal wrench .
 
 (1) turn on the water supply .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-11.png)
+![产品 ■ Installation](../../../assets/images/ins/GBL-6308_EN_Other-ins-11.png)
 
 (2) uncover the film on the sensor
 
@@ -143,7 +143,7 @@ Window and waiting for about 5 minutes .
 
 The magnet could be used to set up the different working mode to meet different flush way .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-12.png)
+![产品 ■ Adjustment](../../../assets/images/ins/GBL-6308_EN_Other-ins-12.png)
 
 • how to set up the working mode :
 
@@ -168,7 +168,7 @@ B . adjust control stop valve to adjust water volume by screwdriver .
 
 C . tighten control stop cap clockwise .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-13.png)
+![产品 2. Adjust Water Volume :](../../../assets/images/ins/GBL-6308_EN_Other-ins-13.png)
 
 ## 3.clean Filter Screen:
 
@@ -178,7 +178,7 @@ Poor water quality will result in obstructed and reduced flow .
 
 -- remove the flush ometer body from the vacuum breaker flush connection and water stop valve as the direction shown in the picture .
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-14.png)
+![产品 3.clean Filter Screen:](../../../assets/images/ins/GBL-6308_EN_Other-ins-14.png)
 
 -- remove the filter unit with the screwdriver , cleanin and replace it .
 
@@ -186,7 +186,7 @@ Poor water quality will result in obstructed and reduced flow .
 
 ## Troubleshooting
 
-![](../../../assets/images/ins/GBL-6308_EN_Other-ins-15.png)
+![产品 Troubleshooting](../../../assets/images/ins/GBL-6308_EN_Other-ins-15.png)
 ① note :- make sure to locate the trouble , and refer to the list for troubleshooting .
 - make sure to use " aa " battery .
 ---

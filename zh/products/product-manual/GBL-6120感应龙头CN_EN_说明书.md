@@ -130,7 +130,7 @@ The control box back panel jack alignment angle plate inserted in the end of the
 
 Step 1
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-01.png)
+![感应龙头 Installation of Control Box](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-01.png)
 
 Step 1:
 
@@ -146,11 +146,11 @@ Step 3:
 
 ## 安装参考图b
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-02.png)
+![感应龙头安装参考图b](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-02.png)
 
 Install the gasket , spring gasket , nut and slotted flat point stud according to the sequence of the illustration and fix the assembled fauceton the basin .
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-03.png)
+![感应龙头安装参考图b](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-03.png)
 
 ## 安装使用准备工作
 
@@ -182,7 +182,7 @@ Insert the other end of the control wire into the aviation socket and screw tigh
 
 ## 第二步
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-04.png)
+![感应龙头第二步](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-04.png)
 Step2
 
 ## 龙头安装
@@ -200,20 +200,20 @@ Step2
 
 Step 3
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-05.png)
+![感应龙头第三步:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-05.png)
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-06.png)
+![感应龙头第三步:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-07.png)
+![感应龙头第三步:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-07.png)
 Step 21. 方便: 开启和关闭水源均由机器自动完成, 无需人为操作.
 
 ## Technical Statistics
 
 ## 技术参数
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-08.png)
+![感应龙头技术参数](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-08.png)
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-09.png)
+![感应龙头技术参数](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-09.png)
 
 ## Use Exposition
 
@@ -223,7 +223,7 @@ The faucet letout water when the hand reaches sensing area .当手伸到感应�
 
 ## 使用说明
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-10.png)
+![感应龙头使用说明](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-10.png)
 
 ## Maintenance
 
@@ -237,7 +237,7 @@ Note : the filter net is at the water inlet . please close triangle valve before
 
 ## 清洗过滤网:
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-11.png)
+![感应龙头清洗过滤网:](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-11.png)
 
 新安装的产品, 因管道中的沙石等极易在过滤网中产生淤堵, 如使用中发现出水量减少时, 请及时旋下过滤网冲洗, 并按原样装回.
 
@@ -255,7 +255,7 @@ Screw off the 4 screws on the cover of the battery box to remove the cover .
 
 Step 2:
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-12.png)
+![感应龙头更换电池](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-12.png)
 
 Change 4 new no .5 alkaline batteries and install the battery cover .
 
@@ -275,7 +275,7 @@ Step 1
 
 换上四节新的5号碱性电池, 安装完毕后照原样装回.
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-13.png)
+![感应龙头更换电池](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-13.png)
 
 注意: 电池的正负极性必须正确, 不同新旧或不同品牌的电池不能混用.
 
@@ -283,11 +283,11 @@ Step 2
 
 ## Notes of Use
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-14.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-14.png)
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-15.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-15.png)
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-16.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-16.png)
 
 Do not clean with water instead with clean and dry soft cloth .
 请不要用水擦洗, 应使用洁净的干软布清洁.
@@ -295,7 +295,7 @@ Do not clean with water instead with clean and dry soft cloth .
 Do not shake the faucet in case of any damage .
 请不要摇晃龙头, 否则易引起故障.
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-17.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-17.png)
 
 ## Common Troubleshooting
 
@@ -309,15 +309,15 @@ Do not wash with alkaline or acid detergents .
 
 ## 常见故障排除
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-18.png)
+![感应龙头常见故障排除](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-18.png)
 
 ## Installation Scheme
 
 ## 整体安装示意图
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-19.png)
+![感应龙头整体安装示意图](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-19.png)
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-20.png)
+![感应龙头整体安装示意图](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-20.png)
 
 ## One-yearwarranty
 
@@ -354,7 +354,7 @@ Ensure better service from us .
 
 ## 维修零件图
 
-![](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-21.png)
+![感应龙头维修零件图](../../../assets/images/ins/GBL-6120_CN_EN_SensorFaucet-ins-21.png)
 ---
 
 ## 联系方式

@@ -57,42 +57,42 @@ updated: 2026-07-14
 
 4 If water pressure is greater than 0.7MPa, A decompressor may be necessary to prevent damage to the unit.
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet PREPERATION BEFORE INSTALLATION](../../../assets/images/ins/9105_EN_SensorFaucet-ins-01.png)
 
 Diagram Unit:MM
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet PREPERATION BEFORE INSTALLATION](../../../assets/images/ins/9105_EN_SensorFaucet-ins-02.png)
 
 ## FAUCET BODY INSTALLATION
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet FAUCET BODY INSTALLATION](../../../assets/images/ins/9105_EN_SensorFaucet-ins-03.png)
 
 ## 1. Mounting Hole Setting
 
 The appropriate installation mounting hole dimension is $\Phi35(+4-2)$ mm, the maximum thickness of the counter is 30mm. Pls confirm the mounting hole was appropriate or not when used the sink which has the mounting hole already.
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet 1. Mounting Hole Setting](../../../assets/images/ins/9105_EN_SensorFaucet-ins-04.png)
 Chart 1
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet 1. Mounting Hole Setting](../../../assets/images/ins/9105_EN_SensorFaucet-ins-05.png)
 Chart 23. The Inlet/Outlet Hose Installation Of Faucet Body See chart 3, according to mark, install the inlet/outlet hose to the correspondent inlet/outlet hose connector (inlet hot water is 1, inlet cold water is 2, outlet mixing water is 3), install the plummet on the pull-out hose, fix it.
 
 ## INSTALLATION INSTRUCTIONS
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet INSTALLATION INSTRUCTIONS](../../../assets/images/ins/9105_EN_SensorFaucet-ins-06.png)
 
 2. The Fastener Installation Of Faucet Body See chart 1, screw off the clamp nut from the body, use the insert of the facet body through the sink hole. See chart 2, 3, ordinally install the rubber gasket, metallic gasket, mounting nut in the insert of the faucet body, contrarotate the mounting nut appropriate, use the cross screwdriver to rotate the two screw spike on the mounting nut, then the faucet body can install and fix on the sink.
 
 ## THE INSTALLATIONn OF CONTROL BOX
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet THE INSTALLATIONn OF CONTROL BOX](../../../assets/images/ins/9105_EN_SensorFaucet-ins-07.png)
 Chart 41. See chart 4, install the control box on the wall as the chart dimension showed.
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet THE INSTALLATIONn OF CONTROL BOX](../../../assets/images/ins/9105_EN_SensorFaucet-ins-08.png)
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet THE INSTALLATIONn OF CONTROL BOX](../../../assets/images/ins/9105_EN_SensorFaucet-ins-09.png)
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet THE INSTALLATIONn OF CONTROL BOX](../../../assets/images/ins/9105_EN_SensorFaucet-ins-10.png)
 Chart 5
 Chart 62. See chart 5, use the screw to fix the control box in the correspondent screw hole on the braket.
 
@@ -102,14 +102,14 @@ Chart 62. See chart 5, use the screw to fix the control box in the correspondent
 
 ## INSTALLATION INSTRUCTIONS
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet INSTALLATION INSTRUCTIONS](../../../assets/images/ins/9105_EN_SensorFaucet-ins-11.png)
 Chart 75. See chart 7, install the correspondent five-core sensor line, connect the black line with the correspondent connector and thighten the waterproof nut. Kindly note should be install the sensor line under the arrow mark to make sure the correct connect.
 
 6. Open the battery box cover on the control box, install the battery in the battery box, pls note the positive electrode and negative electrode should be install correct.
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet INSTALLATION INSTRUCTIONS](../../../assets/images/ins/9105_EN_SensorFaucet-ins-12.png)
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet INSTALLATION INSTRUCTIONS](../../../assets/images/ins/9105_EN_SensorFaucet-ins-13.png)
 Chart 8
 Chart 97, Connect the double hose according to the "HOT" "CLOD" mark on the control box with correspondent valve for water supply and fix it. The finished installation showed as chart 9.
 
@@ -125,7 +125,7 @@ hands out of the sense area, the water close immediately. Water will close autom
 
 4, Function debugging finihsed, can be used in normal.
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet DEBUGGING & USAGE](../../../assets/images/ins/9105_EN_SensorFaucet-ins-14.png)
 
 ## PRODUCT FEATURES
 
@@ -146,13 +146,13 @@ hands out of the sense area, the water close immediately. Water will close autom
 
 ## TECHNICAL PARAMETER
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet TECHNICAL PARAMETER](../../../assets/images/ins/9105_EN_SensorFaucet-ins-15.png)
 
 ## CHANGING BATTERIES
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet CHANGING BATTERIES](../../../assets/images/ins/9105_EN_SensorFaucet-ins-16.png)
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet CHANGING BATTERIES](../../../assets/images/ins/9105_EN_SensorFaucet-ins-17.png)
 
 1 Indicator light will flash every 3-4 seconds if battery power is low alerting you to change batteries.
 
@@ -165,17 +165,17 @@ Note: make sure the batteries are installed correctly( "+" positive and "-" nega
 
 ## TROUBLESHOOTING
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet TROUBLESHOOTING](../../../assets/images/ins/9105_EN_SensorFaucet-ins-18.png)
 
 ## INSTALLATION INSTRUCTIONS
 
 ## MAINTENANCE
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-19.png)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9105_EN_SensorFaucet-ins-19.png)
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-20.png)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9105_EN_SensorFaucet-ins-20.png)
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-21.png)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9105_EN_SensorFaucet-ins-21.png)
 
 1 DO NOT immerse faucet in water. Pls use damp towel or cotton cloth to wipe clean.
 2 Please avoid any rocking or violent motion.
@@ -183,7 +183,7 @@ Note: make sure the batteries are installed correctly( "+" positive and "-" nega
 
 ## INSPECTION AFTER INSTALLATION
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-22.png)
+![Sensor_Faucet INSPECTION AFTER INSTALLATION](../../../assets/images/ins/9105_EN_SensorFaucet-ins-22.png)
 
 1 make sure tightened all the connecting nuts and the handle on the close position, turn on the main water supply, inspect the water whether leak, if leaked, pls tightened the nuts again. 2 Take down the shower head, and let the water flow 1min to clean the dirt, to inspect whether leak, if everything is ok, close the faucet, and install the shower head.
 
@@ -208,7 +208,7 @@ Note: make sure the batteries are installed correctly( "+" positive and "-" nega
 
 ## PARTS NAME
 
-![](../../../assets/images/ins/9105_EN_SensorFaucet-ins-23.png)
+![Sensor_Faucet PARTS NAME](../../../assets/images/ins/9105_EN_SensorFaucet-ins-23.png)
 ---
 
 ## 联系方式

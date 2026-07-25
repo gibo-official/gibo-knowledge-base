@@ -31,7 +31,7 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-01.png)
+![感应皂液器其他](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-01.png)
 
 ## 全自动感应皂液龙头 Automatic Soap Dispenser
 
@@ -111,7 +111,7 @@ Install the gasket , spring gasket , nut and slotted flat point stud according t
 
 Plug the faucet control , AC power or betterybox line and the red / black line of the control box . then screw the other end of hose on the outletof the valve . thus the automatic faucet installation is finished .
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-02.png)
+![感应皂液器 Step 4](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-02.png)
 第一步 固定孔位
 第二步 安装角板
 
@@ -133,16 +133,16 @@ Plug the faucet control , AC power or betterybox line and the red / black line o
 
 将龙头控制线和控制盒, 电源适配器或电池盒的红/黑线相插, 再把软管的另一端插紧到电磁阀出水端上, 这样龙头就全部组装好了.
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-03.png)
+![感应皂液器第四步:](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-03.png)
 第三步 安装龙头
 
 ## Installation of the Faucet
 
 ## 整体安装示意图
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-04.png)
+![感应皂液器整体安装示意图](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-04.png)
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-05.png)
+![感应皂液器整体安装示意图](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-05.png)
 第四步 管线连接
 
 ## Use Exposition
@@ -200,9 +200,9 @@ The soap dispenser stops the soap flow when the hand leaves the sensing area .
 
 ## 技术参数
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-06.png)
+![感应皂液器技术参数](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-06.png)
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-07.png)
+![感应皂液器技术参数](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-07.png)
 
 Step 2
 
@@ -216,7 +216,7 @@ Maintenance department to change batteries .
 
 When there is no power left in the battery , the sensor will shut down the battery valve to avoid wasting waste p 1:
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-08.png)
+![感应皂液器更换电池](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-08.png)
 
 Screw off the 4 screws on the cover of the battery box to remove the cover .
 Step 2:
@@ -238,17 +238,17 @@ Step 1
 
 注意: 电池的正负极性必须正确, 不同新旧或不同品牌的电池不能混用.
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-09.png)
+![感应皂液器更换电池](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-09.png)
 
 ## Notes of Use
 
 ## 使用注意事项
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-10.png)
+![感应皂液器使用注意事项](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-10.png)
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-11.png)
+![感应皂液器使用注意事项](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-11.png)
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-12.png)
+![感应皂液器使用注意事项](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-12.png)
 
 Do not clean with water instead with clean and dry soft cloth .
 请不要用水擦洗, 应使用洁净的干软布清洁.
@@ -259,23 +259,23 @@ Do not shake the faucet in case of any damage .
 Do not wash the control box or failures may be caused .
 请不要用水冲洗控制盒, 否则易引起故障.
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-13.png)
+![感应皂液器使用注意事项](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-13.png)
 
 Do not wash with alkaline or acid detergents .不能用酸碱一类强洗涤剂擦洗.
 
 ## Common Troubleshooting
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-14.png)
+![感应皂液器 Common Troubleshooting](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-14.png)
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-15.png)
+![感应皂液器 Common Troubleshooting](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-15.png)
 
 ## Service Partspage
 
 ## 维修零件图
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-16.png)
+![感应皂液器维修零件图](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-16.png)
 
-![](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-17.png)
+![感应皂液器维修零件图](../../../assets/images/ins/Automaticsoapdispensermanual_EN_Other-ins-17.png)
 
 ## One-yearwarranty
 

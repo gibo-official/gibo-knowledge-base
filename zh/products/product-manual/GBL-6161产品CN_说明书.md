@@ -30,7 +30,7 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-01.png)
+![产品感应小便器](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-01.png)
 
 ## 安装之前
 
@@ -58,9 +58,9 @@ updated: 2026-07-10
 
 4, 在水压高于0.8MPa使用时, 应加装减压装置, 以免对机器造成破坏.
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-02.png)
+![产品安装使用准备工作](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-02.png)
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-03.png)
+![产品安装使用准备工作](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-03.png)
 
 ## 龙头安装
 
@@ -78,11 +78,11 @@ updated: 2026-07-10
 
 将电池盒线与龙头引出线对接插紧, 感应水龙头就全部安装好了.
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-04.png)
+![产品龙头安装](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-04.png)
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-05.png)
+![产品龙头安装](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-05.png)
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-06.png)
+![产品龙头安装](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-06.png)
 
 2.即感应出水: 伸手感应自动出水, 指示灯闪烁一次, 离开感应自动关水;
 
@@ -104,25 +104,25 @@ updated: 2026-07-10
 
 ## 技术参数
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-07.png)
+![产品技术参数](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-07.png)
 
 ## 使用说明
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-08.png)
+![产品使用说明](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-08.png)
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-09.png)
+![产品使用说明](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-09.png)
 当手伸到感应范围时, 龙头自动出水当手离开感应范围时, 龙头自动关水
 挥手上方感应范围时, 龙头自动出水再挥手上方感应范围时,龙头自动关水
 
 ## 使用注意事项
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-10.png)
+![产品使用注意事项](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-10.png)
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-11.png)
+![产品使用注意事项](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-11.png)
 1.请不要使用粗糙麻布, 铁砂等进行擦洗.
 2.请不要摇晃龙头, 否则易引起故障.
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-12.png)
+![产品使用注意事项](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-12.png)
 3.不能用酸碱类洗涤剂进行擦洗.
 
 ## 电池安装与更换
@@ -137,9 +137,9 @@ updated: 2026-07-10
 
 注意: 电池的正负极性必须正确, 不同新旧或不同品牌的电池不能混用.
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-13.png)
+![产品电池安装与更换](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-13.png)
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-14.png)
+![产品电池安装与更换](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-14.png)
 
 ## 保修条款
 
@@ -155,7 +155,7 @@ updated: 2026-07-10
 
 ## 产品部件图
 
-![](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-15.png)
+![产品产品部件图](../../../assets/images/ins/GBL-6161%E8%AF%B4%E6%98%8E%E4%B9%A620210416-ins-15.png)
 
 福建洁博利厨卫科技有限公司 fujian gibo kitchen & bath tech co ., ltd .
 

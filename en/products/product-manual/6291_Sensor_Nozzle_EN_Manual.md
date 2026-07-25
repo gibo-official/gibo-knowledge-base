@@ -31,7 +31,7 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6291_EN_SensorNozzle-ins-01.png)
 
 AUTOMATIC U RINAL FLUSH ER INSTALLATION INSTRUCTIONS
 
@@ -63,7 +63,7 @@ The following pictures for yourreference do not necessa rily com ply with the pr
 
 ## PRODUCTSPECIFICATIONS
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle PRODUCTSPECIFICATIONS](../../../assets/images/ins/6291_EN_SensorNozzle-ins-02.png)
 
 ## PREPARATORYWORK
 
@@ -73,23 +73,23 @@ make sure the ON the same centerline3 u ria nlwith the fl ushIN g ma chIN e.
 
 4. make sure thedia meter of IN l et must bigge r than G 1 " (D N 15) ./25. Pleaseopen the master valve to cleanthe water way before IN stall i ng the product to avoid the blockag e.
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle PREPARATORYWORK](../../../assets/images/ins/6291_EN_SensorNozzle-ins-03.png)
 
 ## INSTALLATIONDRAWING
 
 ## Back inlet
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle Back inlet](../../../assets/images/ins/6291_EN_SensorNozzle-ins-04.png)
 
 UNIT mm:
 
 ## Top inlet
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle Top inlet](../../../assets/images/ins/6291_EN_SensorNozzle-ins-05.png)
 
 ## NOTE
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-06.png)
+![Sensor_Nozzle NOTE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-06.png)
 
 \*Test run the water for the IN l et pipe to ensure it is free oflea kage
 
@@ -101,7 +101,7 @@ B 2 second flush is actuated 2 secondsafter the
 
 user stands with IN 30cm before the bowland after he has used itAsecond flush of 4-8 se- condsis actuated with flush time adjusted .according to the length of use time
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-07.png)
+![Sensor_Nozzle USAGEEXPOSITION](../../../assets/images/ins/6291_EN_SensorNozzle-ins-07.png)
 
 ## MAINTENANCEINSTRUCTIONS
 
@@ -111,7 +111,7 @@ If youneed to cleanthe fi lte r, useAwrench rotati ngthe valve cove r, remove th
 
 NOTE : Clean the filter before the water supply valve to be closed .
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-08.png)
+![Sensor_Nozzle Clean IN g THE filternet](../../../assets/images/ins/6291_EN_SensorNozzle-ins-08.png)
 
 ## CHANGEOFBATTERY
 
@@ -119,19 +119,19 @@ Take out the battery box from the mounting And IN sert IN batteries according to
 
 \*Th e po lArity of the batteries ( ) nust be co rrect;＋ － \* Do notmixol d And new batteries norbatteries ofdifferentbra nd s; \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-09.png)
+![Sensor_Nozzle CHANGEOFBATTERY](../../../assets/images/ins/6291_EN_SensorNozzle-ins-09.png)
 
 ## NOTE
 
 Please do not directly washit with wate r\* Use wet cloth to cleanit Do notcrush it or failure may be ca used .\* Do not cleanit with acid or Alka linedete rgents\*
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-10.png)
+![Sensor_Nozzle NOTE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-10.png)
 
 ## COMMONTROUBLESHOOTING
 
 if anything abnormal happens while using please refer to the following table and solve accordingly if the problem remains call the service number
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-11.png)
+![Sensor_Nozzle COMMONTROUBLESHOOTING](../../../assets/images/ins/6291_EN_SensorNozzle-ins-11.png)
 
 ## ONE-YEARWARRANTY
 
@@ -147,11 +147,11 @@ please keep your invoice of our product properly to ensure better service from u
 
 Back inlet
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-12.png)
+![Sensor_Nozzle SERVICEPARTSPAGE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-12.png)
 
 Top inlet
 
-![](../../../assets/images/ins/6291_EN_SensorNozzle-ins-13.png)
+![Sensor_Nozzle SERVICEPARTSPAGE](../../../assets/images/ins/6291_EN_SensorNozzle-ins-13.png)
 ---
 
 ## 联系方式

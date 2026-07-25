@@ -46,29 +46,29 @@ updated: 2026-07-14
 
 ## 各部の名称
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-01.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-01.png)
 
 ※本製品はM22(口径22mm/内ネジタイプ)およびM24(口径24mm/外ネジタイプ)の蛇口に適しています.
 
 機能紹介
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-02.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-02.png)
 
 取付方法
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-03.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-03.png)
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-04.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-04.png)
 
 使用方法
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-05.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-05.png)
 
 適応する蛇口
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-06.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-06.png)
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-07.png)
+![Sensor_Nozzle各部の名称](../../../assets/images/ins/mini_JP_SensorNozzle-ins-07.png)
 
 ## メンテナンス方法
 
@@ -81,7 +81,7 @@ updated: 2026-07-14
 注意
 2. 充電用のUSB Type-Cケーブルや電源アダプターは, 本製品に含まれておりません. 別途ご用意ください.
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-08.png)
+![Sensor_Nozzleメンテナンス方法](../../../assets/images/ins/mini_JP_SensorNozzle-ins-08.png)
 
 ## 使用上の注意
 
@@ -97,15 +97,15 @@ updated: 2026-07-14
 
 [5]ご使用の際はUSB充電ポートの保護キャップがしっかりと装着されていることを確認し, 水気の浸入により充電ポートが請びないように注意してください.
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-09.png)
+![Sensor_Nozzle使用上の注意](../../../assets/images/ins/mini_JP_SensorNozzle-ins-09.png)
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-10.png)
+![Sensor_Nozzle使用上の注意](../../../assets/images/ins/mini_JP_SensorNozzle-ins-10.png)
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-11.png)
+![Sensor_Nozzle使用上の注意](../../../assets/images/ins/mini_JP_SensorNozzle-ins-11.png)
 
 ## 商品仕様
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-12.png)
+![Sensor_Nozzle商品仕様](../../../assets/images/ins/mini_JP_SensorNozzle-ins-12.png)
 
 取り付け後に水漏れする
 1. 給水口コネクターにパッキンが付いているか, パッキンの厚さが適切であるかどうかを確認してください.
@@ -133,7 +133,7 @@ updated: 2026-07-14
 お手数ですが当店専用のお問い合わせサイトまでご連絡ください.
 こちらより必要事項をご記入頂き連絡頂けますとスムーズに対応が行えます.
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-13.png)
+![Sensor_Nozzleお問い合わせについて](../../../assets/images/ins/mini_JP_SensorNozzle-ins-13.png)
 
 https://8shop.jp/qr.html
 QRコードの読み取りが出来ない場合は, 上記URLをスマートフォン等の鍛末でブラウザに入力しこ確認ください.
@@ -176,7 +176,7 @@ CLOVER
 〒160-0022
 東京都新宿区新宿2-15-28 新宿丸正ビル302
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-14.png)
+![Sensor_Nozzle製品不具合でない保証対象外の内容について](../../../assets/images/ins/mini_JP_SensorNozzle-ins-14.png)
 
 ## 本書は, 本書記載内容で, 保証対応させて頂くことをお約束するものです.
 
@@ -197,7 +197,7 @@ This warranty is valid only in japan .
 7. こ使用後のキズ・変色・汚れ及び保管上の不備による損傷.
 8. 本書記憶事項と異なった使用によって生じた故障及び損傷.
 
-![](../../../assets/images/ins/mini_JP_SensorNozzle-ins-15.png)
+![Sensor_Nozzle本書は, 本書記載内容で, 保証対応させて頂くことをお約束するものです.](../../../assets/images/ins/mini_JP_SensorNozzle-ins-15.png)
 ---
 
 ## 联系方式

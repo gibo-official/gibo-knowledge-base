@@ -33,7 +33,7 @@ updated: 2026-07-14
 ---
 Function Inducation
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6197_EN_SensorNozzle-ins-01.png)
 
 User Manual
 
@@ -41,18 +41,18 @@ Automatic Tap Adapter
 
 Product Configuration
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6197_EN_SensorNozzle-ins-02.png)
 
 \*This product is match to male M22 and female M24 & G1/2 of faucet nozzle
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6197_EN_SensorNozzle-ins-03.png)
 
 1 Side sensor for long time water flow: Wave your hand to turn on & turn off the water flow.
 2 Bottom sensor for short time water flow: Automatically turn on & off when entering & leaving the sensing range.
 
 Installation Drawing
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6197_EN_SensorNozzle-ins-04.png)
 
 ## Product Usage
 
@@ -60,9 +60,9 @@ Installation Drawing
 2 Short time water output: put hand to bottom of sensor window, the faucet is out of water, water will stop when hand leave; 3 minutes overtime water output protection.
 3 Pull out water outlet: Keep holding hand on the side sensor window, then water is out. The water will be turned off after 1 second since hand leaves the sensor window.
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/6197_EN_SensorNozzle-ins-05.png)
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-06.png)
+![Sensor_Nozzle Product Usage](../../../assets/images/ins/6197_EN_SensorNozzle-ins-06.png)
 
 1 Long time water output 2 Short time water output 3 Pull out water outlet \*Before installation, please fully charge the product firstly.
 
@@ -71,11 +71,11 @@ Installation Drawing
 1 This product is suitable for installation on the high-foot/high-bend faucet. The original faucet nozzle should be $\geq$ 25cm away from the table top.
 2 This product is not suitable for installation on pull-out faucet, low-bend faucet, basin faucet and other shaped faucet.
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-07.png)
+![Sensor_Nozzle Applicable Faucet](../../../assets/images/ins/6197_EN_SensorNozzle-ins-07.png)
 
 1
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-08.png)
+![Sensor_Nozzle Applicable Faucet](../../../assets/images/ins/6197_EN_SensorNozzle-ins-08.png)
 
 ## Usage Maintenance
 
@@ -107,11 +107,11 @@ need to charge
 
 5 When using the product, please make sure that the USB charging protection plug is tightly fitted, in case gas enters and rusts the charging port.
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-09.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/6197_EN_SensorNozzle-ins-09.png)
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-10.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/6197_EN_SensorNozzle-ins-10.png)
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-11.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/6197_EN_SensorNozzle-ins-11.png)
 2
 
 3
@@ -180,7 +180,7 @@ outer casing is scratched and corroded; the water pressure is not used in the
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/6197_EN_SensorNozzle-ins-12.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/6197_EN_SensorNozzle-ins-12.png)
 ---
 
 ## 联系方式

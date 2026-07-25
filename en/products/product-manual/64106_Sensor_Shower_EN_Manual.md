@@ -41,7 +41,7 @@ updated: 2026-07-14
 
 2 M ea sure the IN sta llation positionof the And pa nelshower em bedded box make sure the ON the3 s hower head same centerline with the em bedded box 4 make sure thedia meter of IN l et must bigge r than G 1/2 " (D N 15) 5 Pleaseopen the master va lve to clean the water way before IN stall i ng the product to avoid the blockag e.
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-01.png)
+![Sensor_Shower PREPARATORYWORK](../../../assets/images/ins/64106_EN_ToiletSensor-ins-01.png)
 Embedded dimens i on
 
 ## IN STAL LATIONSTEPPANELINSTALLATION
@@ -52,7 +52,7 @@ Embedded dimens i on
 
 3 Remove construction protection cover after the wall is finished And connect the ower su pply. Connect the power terminalwith solenoid va lve And fix the pa nel onto the pre la id electron ic box-
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-02.png)
+![Sensor_Shower IN STAL LATIONSTEPPANELINSTALLATION](../../../assets/images/ins/64106_EN_ToiletSensor-ins-02.png)
 
 ## BEFOREYOUBEGIN
 
@@ -100,18 +100,18 @@ Activate IN sta nt lyON se nsIN g to save wate r.
 
 4. Level the bo rd eri ngArea of thepre lAid box with studsAnd make sure thepre lAid- - box pa ra llel with theground .
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-03.png)
+![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-03.png)
 Size A
 
 UNIT mm:
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-04.png)
+![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-04.png)
 Size B
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-05.png)
+![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-05.png)
 Size A
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-06.png)
+![Sensor_Shower TO FIX THE PRE LAIDBOX-](../../../assets/images/ins/64106_EN_ToiletSensor-ins-06.png)
 Size B
 
 ## NOTE
@@ -126,7 +126,7 @@ If youneed to cleanthe fi lte r, useAwrench rotati ngthe va lve cove r, remove t
 
 N OTE : Cleanthe filter before the water suPPly va lve to be closed .
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-07.png)
+![Sensor_Shower MAINTENANCEINSTRUCTIONS](../../../assets/images/ins/64106_EN_ToiletSensor-ins-07.png)
 
 ## CHANGEOFBATTERY
 
@@ -138,13 +138,13 @@ Take out the battery box from the mounting And IN sert IN batteries according to
 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-08.png)
+![Sensor_Shower CHANGEOFBATTERY](../../../assets/images/ins/64106_EN_ToiletSensor-ins-08.png)
 
 ## NOTE
 
 Please do not directly washit with water Use wet cloth to cleanit\* Do notcrush it or failure may be caused\* Do not cleanit with acid or Alka linedete rgents.\*
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-09.png)
+![Sensor_Shower NOTE](../../../assets/images/ins/64106_EN_ToiletSensor-ins-09.png)
 
 UNIT : mm
 
@@ -156,17 +156,17 @@ The sensorstops the water fl ow when the bodyleaves the sensi ngArea .
 
 ## IN STAL LATIONSTEP
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-10.png)
+![Sensor_Shower IN STAL LATIONSTEP](../../../assets/images/ins/64106_EN_ToiletSensor-ins-10.png)
 
 ## COMMONTROUBLESHOOTING
 
 if anything abnormal happens while using please refer to the following table and solve accordingly if the problem remains call the service number
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-11.png)
+![Sensor_Shower COMMONTROUBLESHOOTING](../../../assets/images/ins/64106_EN_ToiletSensor-ins-11.png)
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-12.png)
+![Sensor_Shower COMMONTROUBLESHOOTING](../../../assets/images/ins/64106_EN_ToiletSensor-ins-12.png)
 
-![](../../../assets/images/ins/64106_EN_ToiletSensor-ins-13.png)
+![Sensor_Shower COMMONTROUBLESHOOTING](../../../assets/images/ins/64106_EN_ToiletSensor-ins-13.png)
 UNIT : mm
 
 ## ONE-YEARWARRANTY

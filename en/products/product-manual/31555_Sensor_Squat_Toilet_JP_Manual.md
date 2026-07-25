@@ -33,25 +33,25 @@ updated: 2026-07-14
 ---
 560034 10-1.2
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-01.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-02.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-03.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-03.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-04.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-04.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-05.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-05.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-06.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-06.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-07.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-07.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-08.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-08.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-09.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-09.png)
 
-![](../../../assets/images/ins/31555_JP_ToiletSensor-ins-10.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/31555_JP_ToiletSensor-ins-10.png)
 ---
 
 ## 联系方式

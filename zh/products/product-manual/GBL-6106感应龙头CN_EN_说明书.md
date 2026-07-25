@@ -32,14 +32,14 @@ updated: 2026-07-10
 ---
 ## Installation Instructions Touchless Faucet
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-01.png)
+![感应龙头 Installation Instructions Touchless Faucet](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-01.png)
 
 ## 使用说明
 
 1. faucet automatically supplies water as soon as hands are within the sensing range .
 1, 当手伸到感应范围时, 龙头自动出水.
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-02.png)
+![感应龙头使用说明](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-02.png)
 
 2. faucet automatically stops supplying water when hands are outof sensing range .
 2, 当手离开感应范围时, 龙头自动关水.
@@ -48,9 +48,9 @@ updated: 2026-07-10
 
 ## 使用注意事项
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-03.png)
+![感应龙头使用注意事项](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-04.png)
+![感应龙头使用注意事项](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-04.png)
 
 1. always keep faucet surface clean and dry . do not immerse faucet in water . please use damp towel or cotton cloth to wipe gently .
 
@@ -59,7 +59,7 @@ updated: 2026-07-10
 
 1, 请不要用水擦洗, 应使用洁净的干软布清洁.
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-05.png)
+![感应龙头使用注意事项](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-05.png)
 
 3. please do not use acid / alkaline detergents for cleaning .
 
@@ -75,7 +75,7 @@ updated: 2026-07-10
 
 Step 2: replace with 4 new aa alkaline batteries and install them back . note : the positive and negative polarity of the battery must be correct , and batteries of new and old or different brands can ' t be mixed .
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-06.png)
+![感应龙头电池安装与更换](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-06.png)
 
 1. 低电压提醒: 当工作电压为 $\leqslant(4.6-4.9V)\pm0.1V$ 时, 它会进入低电压警报状态, 使用时指示灯闪烁, 离开感应时继续闪烁5次, 表示需要更换电池. 水龙头可以正常工作.
 2. 欠压保护: 当工作电压 $\leqslant 4.5 \pm 0.1V$ 时, 进入欠压保护状态, 使用时LED指示灯闪烁, 传感器继续闪烁10次, 提示需要立即更换电池. 此时, 水龙头无法正常工作.
@@ -88,11 +88,11 @@ Step 2: replace with 4 new aa alkaline batteries and install them back . note : 
 
 用4节新的AA碱性电池替换并重新安装:注意:电池的极性必须正确,新旧电池或不同品牌的电池不能混用.
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-07.png)
+![感应龙头电池安装与更换](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-07.png)
 
 ## One-year Warranty
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-08.png)
+![感应龙头 One-year Warranty](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-08.png)
 
 ## 保修条款
 
@@ -124,7 +124,7 @@ Warranty is valid if 1-3 are determined to be reason for defect .
 
 \*公司保留维修时使用最新配件的权利
 
-![](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-09.png)
+![感应龙头保修条款](../../../assets/images/ins/GBL-6106_CN_EN_SensorFaucet-ins-09.png)
 ---
 
 ## 联系方式

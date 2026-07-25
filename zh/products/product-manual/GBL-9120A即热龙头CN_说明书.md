@@ -30,7 +30,7 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-01.png)
+![A即热龙头感应水龙头](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-01.png)
 
 ## 产品概述
 
@@ -54,11 +54,11 @@ updated: 2026-07-10
 
 ## 产品配置
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-02.png)
+![A即热龙头产品配置](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-02.png)
 
 ## 安装图示
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-03.png)
+![A即热龙头安装图示](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-03.png)
 
 1, 本产品内部有电源自动开关, 故在日常使用中无需拔下电源插头.
 
@@ -66,7 +66,7 @@ updated: 2026-07-10
 
 3, 连接电源: 按照下图将机器电源线的L-火线(红色)N-零线(蓝色), 地线(黄绿色)对应牢固接入插头内的插片上, 完毕后插入市电插座通电.
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-04.png)
+![A即热龙头安装图示](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-04.png)
 
 ## 产品使用
 
@@ -74,9 +74,9 @@ updated: 2026-07-10
 
 2, 短出水: 伸手至下感应窗处, 龙头出水, 手离开即停止3分钟超时出水保护.
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-05.png)
+![A即热龙头产品使用](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-05.png)
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-06.png)
+![A即热龙头产品使用](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-06.png)
 
 3, 电量较低时, 伸手感应, 指示灯慢闪5下, 需要充电, 可继续使用.
 
@@ -84,7 +84,7 @@ updated: 2026-07-10
 
 水嘴充电提示
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-07.png)
+![A即热龙头产品使用](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-07.png)
 
 插入充电充满时绿灯长亮
 
@@ -94,13 +94,13 @@ updated: 2026-07-10
 
 水嘴技术参数
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-08.png)
+![A即热龙头技术参数](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-08.png)
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-09.png)
+![A即热龙头技术参数](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-09.png)
 
 ## 机座技术参数
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-10.png)
+![A即热龙头机座技术参数](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-10.png)
 
 ## 使用注意事项
 
@@ -171,11 +171,11 @@ updated: 2026-07-10
 
 ## 合格证
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-11.png)
+![A即热龙头合格证](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-11.png)
 
 ## 保修卡
 
-![](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-12.png)
+![A即热龙头保修卡](../../../assets/images/ins/GBL-9120A%E5%8D%B3%E7%83%AD%E9%BE%99%E5%A4%B4-A4%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BD%AC%E6%9B%B2-11%E7%89%8820210104-ins-12.png)
 ---
 
 ## 联系方式

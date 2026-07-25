@@ -33,32 +33,32 @@ updated: 2026-07-10
 ---
 2 短出水模式
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-01.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-01.png)
 
 Mini感应节水水嘴
 
 Mini touchless faucet adapter
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-02.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-02.png)
 \*本产品适配M22外牙与M24内牙的龙头水嘴.
 
 长出水: 侧感应窗为挥手出水, 再挥手停水. (连续出水超过 $180\pm 10$ 秒, 自动断水)短出水: 下感应窗为伸手出水, 收手停水. (连续出水超过 $60\pm 10$ 秒, 自动断水)
 
 安装图示
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-03.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-03.png)
 
 产品使用
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-04.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-04.png)
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-05.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-05.png)
 
 1 本产品适合安装在浴室龙头, 高脚/高弯菜盘龙头上, 原龙头出水嘴距离台面需≥25cm.
 
 2 本产品不适合安装在抽拉龙头, 低弯菜盘龙头和其它异形龙头上.
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-06.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-06.png)
 
 如果发现出水量变小或不出水, 可能因过滤网堵塞, 请旋开进水接头, 取出过滤垫片, 并用清水洗净, 装回即可.
 
@@ -66,9 +66,9 @@ Mini touchless faucet adapter
 
 提示 正常使用时, 电池续航时间约9个月; 若长期不使用, 请至少9个月内充电一次, 以防止电量耗尽, 无法充电.
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-07.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-07.png)
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-08.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-08.png)
 
 使用注意事项
 
@@ -82,13 +82,13 @@ Mini touchless faucet adapter
 
 5 产品使用时, 请确保充电保护塞扣紧贴合, 以防水气进入, 锈蚀充电口.
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-09.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-09.png)
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-10.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-10.png)
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-11.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-11.png)
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-12.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-12.png)
 
 技术参数
 
@@ -130,11 +130,11 @@ Mini touchless faucet adapter
 
 合格证
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-13.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-13.png)
 
 保修卡
 
-![](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-14.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-14.png)
 ---
 
 ## 联系方式

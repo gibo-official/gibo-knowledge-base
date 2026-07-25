@@ -49,7 +49,7 @@ NOTE: Clean the filter before the water supply valve to be closed.
 
 注意: 清洗过滤网前须关闭供水阀.
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-01.png)
+![淋浴器安装说明书 INSTALLATION INSTRUCTIONS](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-01.png)
 
 ## CHANGE OF BATTERY
 
@@ -74,7 +74,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 ## NOTE
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-02.png)
+![淋浴器 NOTE](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-02.png)
 
 \*Please do not directly wash it with water, Use wet cloth to clean it.
 
@@ -88,11 +88,11 @@ Take out the battery box from the mounting and insert in batteries according to 
 \*请不要撞击否则易引起故障.
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-03.png)
+![淋浴器 NOTE](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-03.png)
 
 Unit:mm
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.png)
+![淋浴器 NOTE](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.png)
 
 ## COMMON TROUBLE SHOOTING 常见故障排除
 
@@ -100,13 +100,13 @@ Unit:mm
 
 If anything abnormal happens while using, please refer to the following table and solve accordingly. If the problem remains, call the service number.
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.png)
+![淋浴器 INSTALLATION STEP](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.png)
 
 如果在使用过程中发现异常情况, 请参照下表来解决. 若仍有疑问, 请拨打服务电话联系解决.
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.png)
+![淋浴器 INSTALLATION STEP](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.png)
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.png)
+![淋浴器 INSTALLATION STEP](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.png)
 
 ## USAGE EXPOSITION
 
@@ -118,9 +118,9 @@ The sensor stops the water flow when the body leaves the sensing area. 当人体
 
 ## TECHNICAL STATISTICS
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-08.png)
+![淋浴器 TECHNICAL STATISTICS](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-08.png)
 
-![](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-09.png)
+![淋浴器 TECHNICAL STATISTICS](../../../assets/images/ins/64106415AD%E6%B7%8B%E6%B5%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-09.png)
 
 ## ONE-YEARWARRANTY
 

@@ -75,7 +75,7 @@ Conduct 0.9 mpa /60 s water pressure test after installation and make sure that 
 
 Drill 2 holes withadiameter of 5 mm and depth of 30 mm and hammer expansion pipes into the holes . step 2 with the 2 st 4×30 attached with self tapping screws ,( shows the direction of he outlet should be down ). use the hose , connected solenoid valve and the triangle valve . control box is installed .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Step 1](../../../assets/images/ins/6122_EN_SensorFaucet-ins-01.png)
 Step 1
 Step 2
 
@@ -91,21 +91,21 @@ Install the gasket , spring gasket , nut and slotted flat point stud according t
 
 Plug the faucet control line and the red / black line of the control box . then screw the other end of g 1/2 hose on the water outletof the valve , thus the automatic faucet installation is finished
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-03.png)
 Step 2
 
 Step 1
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-04.png)
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/6122_EN_SensorFaucet-ins-05.png)
 Step 3
 
 ## Product Spares
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Product Spares](../../../assets/images/ins/6122_EN_SensorFaucet-ins-06.png)
 
 1. automatic flush : actuated and stopped automatically responding to the infrared signal .
 
@@ -125,7 +125,7 @@ Step 3
 
 ## Technical Statistics
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Technical Statistics](../../../assets/images/ins/6122_EN_SensorFaucet-ins-07.png)
 
 ## Use Exposition
 
@@ -133,9 +133,9 @@ Step 3
 
 2. the faucet stops the water flow when the hand leaves the sensing area .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Use Exposition](../../../assets/images/ins/6122_EN_SensorFaucet-ins-08.png)
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Use Exposition](../../../assets/images/ins/6122_EN_SensorFaucet-ins-09.png)
 
 ## Maintenance
 
@@ -147,7 +147,7 @@ Please screw off the filter net and was hit when the water volume decreases
 
 Note : the filter net is at the water inlet , please close triangle valve before take out the filter net .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Cleaning the Filter Net :](../../../assets/images/ins/6122_EN_SensorFaucet-ins-10.png)
 
 ## Battery Changing
 
@@ -161,7 +161,7 @@ Open the control box cover and take out the battery box ,
 
 ( see the drawing ), then unscrew the screws on the
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Battery Changing](../../../assets/images/ins/6122_EN_SensorFaucet-ins-11.png)
 
 Battery box cover .
 
@@ -171,26 +171,26 @@ Change 4 new no .5 alkaline batteries and install the battery cover .
 
 Note : the polarity of batteries must be correct . do not mix old and new batteries or batteries of different brands .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Battery Changing](../../../assets/images/ins/6122_EN_SensorFaucet-ins-12.png)
 Step2
 
 ## Notes of Use
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/6122_EN_SensorFaucet-ins-13.png)
 Do not clean with water instead with clean and dry soft cloth .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/6122_EN_SensorFaucet-ins-14.png)
 Do not shake the faucet in case of any damage .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/6122_EN_SensorFaucet-ins-15.png)
 Do not wash the control box or failures may be caused .
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/6122_EN_SensorFaucet-ins-16.png)
 Do not wash with alkaline or acid detergents .
 
 ## Common Troubleshooting
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet Common Troubleshooting](../../../assets/images/ins/6122_EN_SensorFaucet-ins-17.png)
 
 ## One-year Warranty
 
@@ -212,7 +212,7 @@ Products with quality defects shall be repaired without any charge .
 
 ## Control Box Assembly
 
-![](../../../assets/images/ins/6122_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet Control Box Assembly](../../../assets/images/ins/6122_EN_SensorFaucet-ins-18.png)
 ---
 
 ## 联系方式

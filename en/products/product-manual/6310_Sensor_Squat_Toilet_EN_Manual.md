@@ -31,7 +31,7 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/6310_EN_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/6310_EN_ToiletSensor-ins-01.png)
 
 # AUTOMATIC TOILET FLUSHER INSTRUCTION OF USE
 
@@ -47,7 +47,7 @@ The installation of the device is simple. It is suitable for hotels, health sect
 
 SPECIFICATION
 
-![](../../../assets/images/ins/6310_EN_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet AUTOMATIC TOILET FLUSHER INSTRUCTION OF USE](../../../assets/images/ins/6310_EN_ToiletSensor-ins-02.png)
 
 ## DIMENSION OF INSTALLATION FOR RJYXB-AT01
 

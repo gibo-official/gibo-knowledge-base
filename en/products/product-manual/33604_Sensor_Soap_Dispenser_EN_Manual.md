@@ -35,7 +35,7 @@ updated: 2026-07-14
 
 ## Sensor Foaming Soap Dispenser User ' S Guide
 
-![](../../../assets/images/ins/33604_EN_SoapDispenser-ins-01.png)
+![Sensor_Soap_Dispenser Sensor Foaming Soap Dispenser User ' S Guide](../../../assets/images/ins/33604_EN_SoapDispenser-ins-01.png)
 
 ## Attentions
 
@@ -55,9 +55,9 @@ updated: 2026-07-14
 
 ## Features Introduced
 
-![](../../../assets/images/ins/33604_EN_SoapDispenser-ins-02.png)
+![Sensor_Soap_Dispenser Features Introduced](../../../assets/images/ins/33604_EN_SoapDispenser-ins-02.png)
 
-![](../../../assets/images/ins/33604_EN_SoapDispenser-ins-03.png)
+![Sensor_Soap_Dispenser Features Introduced](../../../assets/images/ins/33604_EN_SoapDispenser-ins-03.png)
 
 1. +/- Button
 
@@ -77,7 +77,7 @@ updated: 2026-07-14
 
 ## Assembly Instructions
 
-![](../../../assets/images/ins/33604_EN_SoapDispenser-ins-04.png)
+![Sensor_Soap_Dispenser Assembly Instructions](../../../assets/images/ins/33604_EN_SoapDispenser-ins-04.png)
 
 ## Operation
 
@@ -85,7 +85,7 @@ updated: 2026-07-14
 
 2. open the battery cover , correctly insert 4 aa alkaline batteries . observing the polarities in the battery compartment . then close the battery cover .
 
-![](../../../assets/images/ins/33604_EN_SoapDispenser-ins-05.png)
+![Sensor_Soap_Dispenser Operation](../../../assets/images/ins/33604_EN_SoapDispenser-ins-05.png)
 
 3. pouring desired amountof liquid ( must ) into the tank . rotate the tank gently in the clockwise direction tofix it .
 

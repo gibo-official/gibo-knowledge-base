@@ -37,30 +37,30 @@ Installation Manual
 
 Product Configuration
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6195_EN_SensorNozzle-ins-01.png)
 
 \*Before installation, please fully charge the product firstly.
 \*This product is match to male M22 and female M24 of faucet nozzle
 
 Function Inducation
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6195_EN_SensorNozzle-ins-02.png)
 
 Long time water output(side sensor window): water output when wave hand, water stop when wave again.
 Short time water output (lower sensor window): water output when wave hand, water stop when hand leave.
 
 Installation Drawing
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6195_EN_SensorNozzle-ins-03.png)
 
 Product Usage
 
 1 Long time water output: waving side sensor window, the faucet out of the water, wave again to stop; 3 minutes overtime water output protection.
 2 Short time water output: put hand to the bottom of the sensor window, the faucet is out of water, water will stop when hand leave; 3 minutes overtime water output protection.
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6195_EN_SensorNozzle-ins-04.png)
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6195_EN_SensorNozzle-ins-05.png)
 
 1 Long time water output
 
@@ -70,7 +70,7 @@ Applicable Faucet
 
 1 This product is suitable for installation on the high-foot/high-bend faucet. The original faucet nozzle should be $\geq$ 25cm away from the table top.
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-06.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6195_EN_SensorNozzle-ins-06.png)
 
 ## Usage Maintenance
 
@@ -81,9 +81,9 @@ Applicable Faucet
 1. In normal use, the battery life is about 9 months; if it is not used foralong time, please charge it within 3 months in case the battery uses up. Product can not work normally when charge it, and should turn off the handle of the faucet in advance.
 2. USB cable and power adapter are not included with product itself.
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-07.png)
+![Sensor_Nozzle Usage Maintenance](../../../assets/images/ins/6195_EN_SensorNozzle-ins-07.png)
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-08.png)
+![Sensor_Nozzle Usage Maintenance](../../../assets/images/ins/6195_EN_SensorNozzle-ins-08.png)
 
 ## Precautions for Usage
 
@@ -97,11 +97,11 @@ Applicable Faucet
 
 5 When using the product, please make sure that the USB charging protection plug is tightly fitted, in case gas enters and rusts the charging port.
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-09.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/6195_EN_SensorNozzle-ins-09.png)
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-10.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/6195_EN_SensorNozzle-ins-10.png)
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-11.png)
+![Sensor_Nozzle Precautions for Usage](../../../assets/images/ins/6195_EN_SensorNozzle-ins-11.png)
 1
 2
 
@@ -109,7 +109,7 @@ Applicable Faucet
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-12.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/6195_EN_SensorNozzle-ins-12.png)
 
 ## FAQ Handling
 
@@ -151,9 +151,9 @@ and like these are not covered by this warranty.
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-13.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/6195_EN_SensorNozzle-ins-13.png)
 
-![](../../../assets/images/ins/6195_EN_SensorNozzle-ins-14.png)
+![Sensor_Nozzle Qualification Certificate](../../../assets/images/ins/6195_EN_SensorNozzle-ins-14.png)
 
 RoHS C€
 ---

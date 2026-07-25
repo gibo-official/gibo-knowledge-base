@@ -31,13 +31,13 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-01.png)
+![小便冲水器感应水龙头](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-01.png)
 ISO9001: 2008
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-02.png)
+![小便冲水器感应水龙头](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-02.png)
 质量检验中心
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-03.png)
+![小便冲水器感应水龙头](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-03.png)
 中装协会员单位
 
 ## Automatic Urinal Flusher INSTALLATION INSTRUCTIONS 全自动感应小便冲水器安装说明书
@@ -58,7 +58,7 @@ ISO9001: 2008
 
 ## 技术参数
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-04.png)
+![小便冲水器技术参数](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-04.png)
 
 ## [功能特点]
 
@@ -72,7 +72,7 @@ ISO9001: 2008
 
 ## 包装清单
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-05.png)
+![小便冲水器包装清单](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-05.png)
 
 ## 部件名称
 
@@ -80,18 +80,18 @@ ISO9001: 2008
 
 左进水
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-06.png)
+![小便冲水器预埋盒]](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-06.png)
 A CF B E
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-07.png)
+![小便冲水器预埋盒]](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-07.png)
 
 ## 上进水
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-08.png)
+![小便冲水器上进水](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-08.png)
 EF B
 A进水口 B出水口 C水量调节阀 D电磁阀 E保护螺丝固定孔 F电磁阀插头 G面板螺丝固定孔
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-09.png)
+![小便冲水器上进水](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-09.png)
 
 ## 部件名称
 
@@ -103,7 +103,7 @@ C.感应模块 D.面板
 
 E.面框固定孔 F.磁钢
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-10.png)
+![小便冲水器部件名称](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-10.png)
 
 ## 电池盒
 
@@ -126,15 +126,15 @@ E.面框固定孔 F.磁钢
 
 墙内安装示意图（单位：mm）
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-11.png)
+![小便冲水器[安全注意事项]](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-11.png)
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-12.png)
+![小便冲水器[安全注意事项]](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-12.png)
 
 A.G1/2"外牙直接 B.G1/2"内弯接头 C.进水管
 
 使用频率低
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-13.png)
+![小便冲水器[安全注意事项]](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-13.png)
 
 ## 安装指南
 
@@ -143,7 +143,7 @@ A.瓷砖 B.墙体 C.保护罩 D.预埋盒 E.砂浆层 F.装饰罩 G.G1/2"内弯�
 
 ## 提示
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-14.png)
+![小便冲水器提示](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-14.png)
 
 请参考本示意图尺寸进行挖墙；对管道进行试压合格后，并对管道口的砂土进行清理，再安装本机器。
 
@@ -161,11 +161,11 @@ A.瓷砖 B.墙体 C.保护罩 D.预埋盒 E.砂浆层 F.装饰罩 G.G1/2"内弯�
 
 ## 使用说明
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-15.png)
+![小便冲水器使用说明](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-15.png)
 
 使用频率高
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-16.png)
+![小便冲水器使用说明](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-16.png)
 
 1. 关闭水路，打开感应面板，取出电池盒并打开电池盒盖；
 2. 按电池盒正负极标明方向更换电池。
@@ -182,11 +182,11 @@ A.瓷砖 B.墙体 C.保护罩 D.预埋盒 E.砂浆层 F.装饰罩 G.G1/2"内弯�
 当第二人紧接第一人使用时，感应器只执行第二段冲水6-8秒；
 连续5次高频冲水模式后，执行一次低频冲水模式。
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-17.png)
+![小便冲水器1. 低频使用时工作程序](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-17.png)
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-18.png)
+![小便冲水器1. 低频使用时工作程序](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-18.png)
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-19.png)
+![小便冲水器1. 低频使用时工作程序](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-19.png)
 
 请使用高性能碱性电池，以避免频繁更换电池；
 请使用同一品牌电池，避免新旧电池混用；
@@ -194,13 +194,13 @@ A.瓷砖 B.墙体 C.保护罩 D.预埋盒 E.砂浆层 F.装饰罩 G.G1/2"内弯�
 
 ## 日常维护与保养
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-20.png)
+![小便冲水器日常维护与保养](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-20.png)
 勿用水直接冲洗
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-21.png)
+![小便冲水器日常维护与保养](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-21.png)
 防止撞击
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-22.png)
+![小便冲水器日常维护与保养](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-22.png)
 勿用腐蚀性清洁剂
 
 请勿将水直接对准感应器进行冲洗，以免损坏机器或水进入机器内，影响电池及机器使用寿命，亦可能有触电危险。
@@ -209,7 +209,7 @@ A.瓷砖 B.墙体 C.保护罩 D.预埋盒 E.砂浆层 F.装饰罩 G.G1/2"内弯�
 
 ## 简单故障排除
 
-![](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-23.png)
+![小便冲水器简单故障排除](../../../assets/images/ins/2015%E4%B8%AD%E6%80%A7%E5%B0%8F%E4%BE%BF%E8%AF%B4%E6%98%8E%E4%B9%A640x13cm-ins-23.png)
 使用电池的机器如果发现机器感应窗低压指示时（即无人感应时指示灯间隔5秒一闪，有人每隔一秒闪三下），请及时更换电池。
 ---
 

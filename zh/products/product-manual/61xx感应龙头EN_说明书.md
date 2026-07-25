@@ -31,11 +31,11 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-01.png)
+![感应龙头感应水龙头](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-01.png)
 
 ## Installation Instructions
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-02.png)
+![感应龙头 Installation Instructions](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-02.png)
 
 ## Before You Begin
 
@@ -81,13 +81,13 @@ Connect the mixer valve water outlet ( movable connector ) with control box wate
 
 Step 1
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-03.png)
+![感应龙头 Installation of Control Box](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-03.png)
 
 Step 1
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-04.png)
+![感应龙头 Installation of Control Box](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-04.png)
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-05.png)
+![感应龙头 Installation of Control Box](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-05.png)
 Step
 Step2
 Step 1
@@ -108,36 +108,36 @@ Insert the other end of the control wire into the aviation socket and screw tigh
 
 Step 2
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-06.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-06.png)
 8311 as the picture shows , installapvc pipe with 32 mm diame tei inside the wall in terms of basin location
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-07.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-07.png)
 Step 28307
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-08.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-08.png)
 
 Step 1
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-09.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-09.png)
 
 Step 28331-3
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-10.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-10.png)
 
 Step 2
 
 Install sensor wire and hose inside the faucet body and fix the faucet body on the wall .
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-11.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-11.png)
 Step 3
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-12.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-12.png)
 Step 3
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-13.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-13.png)
 Step 3
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-14.png)
+![感应龙头 Installation of the Faucet](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-14.png)
 Step 31. automatic flush : actuated and stopped automatically responding to the infrared signal
 
 2. intelligent adjustment : adjust the automatic adjustment distance according to the circumstances under which the faucet is used
@@ -164,7 +164,7 @@ Step 31. automatic flush : actuated and stopped automatically responding to the 
 
 ## Technical Statistics
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-15.png)
+![感应龙头 Technical Statistics](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-15.png)
 
 ## Use Exposition
 
@@ -172,7 +172,7 @@ The faucet letout water when the hand reaches sensing area
 
 The faucet stops the water flow when the hand leaves the sensing area .
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-16.png)
+![感应龙头 Use Exposition](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-16.png)
 
 ## Maintenance
 
@@ -184,21 +184,21 @@ The water volume decreases
 
 Note : the filter net is at the water inlet . please close triangle valve before take out the filter net
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-17.png)
+![感应龙头 Maintenance](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-17.png)
 
 ## Notes of Use
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-18.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-18.png)
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-19.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-19.png)
 
 Do not clean with water instead with clean and dry soft cloth .
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-20.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-20.png)
 
 Do not shake the faucet in case of any damage .
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-21.png)
+![感应龙头 Notes of Use](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-21.png)
 
 Do not wash the control box or failures may be caused .
 
@@ -206,24 +206,24 @@ Do not wash the control box or failures may be caused .
 
 Do not wash with alkaline or acid detergents .
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-22.png)
+![感应龙头 Common Troubleshooting](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-22.png)
 
 ## Service Partspage
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-23.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-23.png)
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-24.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-24.png)
 
 8311
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-25.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-25.png)
 8331-3
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-26.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-26.png)
 
 0
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-27.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-27.png)
 
 Mounting hardware
 
@@ -231,7 +231,7 @@ Mounting hardware
 
 Sensor assy
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-28.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-28.png)
 
 ## One-yearwarranty
 
@@ -255,7 +255,7 @@ Maintenance period of 1 year during which any products with quality defects shal
 
 Control box
 
-![](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-29.png)
+![感应龙头 Service Partspage](../../../assets/images/ins/GIBO_EN_SensorFaucet_v3-ins-29.png)
 
 90
 ---

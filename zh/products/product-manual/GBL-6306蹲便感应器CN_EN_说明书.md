@@ -62,7 +62,7 @@ Note : clean the filter before the water supply valve to be closed .
 
 注意: 清洗过滤网前须关闭供水阀.
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-01.png)
+![蹲便感应器维护须知](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-01.png)
 
 ## Change of Battery
 
@@ -86,7 +86,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 \*指示灯一直闪烁, 表示电池电量不足, 请及时更换电池.
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-02.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-02.png)
 
 ## Note
 
@@ -104,23 +104,23 @@ Use wet cloth to clean it .
 \*请不要撞击否则易引起故障.
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-03.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-03.png)
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-04.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-04.png)
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-05.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-05.png)
 
 If anything abnormal happens while using , please refer to the following table and solve accordingly . if the problem remains , call the service number .
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-06.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-06.png)
 
 如果在使用过程中发现异常情况, 请参照下表来解决. 若仍有疑问, 请拨打服务电话联系解决.
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-07.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-07.png)
 
 维修零件图
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-08.png)
+![蹲便感应器注意](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-08.png)
 
 ## B & C Model B , C 型
 
@@ -150,15 +150,15 @@ If anything abnormal happens while using , please refer to the following table a
 
 \*公司保留维修时使用最新配件的权利.
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-09.png)
+![蹲便感应器B & C Model B , C 型](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-09.png)
 
 Installation drawing for b & c model
 
 B, C型/安装示意图
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-10.png)
+![蹲便感应器B & C Model B , C 型](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-10.png)
 
-![](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-11.png)
+![蹲便感应器B & C Model B , C 型](../../../assets/images/ins/GBL-6306_CN_EN_ToiletSensor-ins-11.png)
 ---
 
 ## 联系方式

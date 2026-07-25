@@ -61,15 +61,15 @@ updated: 2026-07-10
 
 2) if you press red button on the control box and release the button after you hear the buzzer beeping two times but you do not set security stop time as above , the buzzer will be ep one time after around 8 seconds . the faucet is now ready for use and the security time is set as the last time vous et .
 
-![](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
+![厨房龙头 3. Security Stop Setting](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
 
-![](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
+![厨房龙头 3. Security Stop Setting](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
 
 ## Technical Statistics / 技术参数
 
-![](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
+![厨房龙头Technical Statistics / 技术参数](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
 
-![](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.png)
+![厨房龙头Technical Statistics / 技术参数](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.png)
 
 ## Note / 注意事项
 
@@ -93,7 +93,7 @@ updated: 2026-07-10
 
 5 we suggest the battery case install outside the control box , the distance between themmust be better at 50 cm , the battery performance would be more stable .
 
-![](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
+![厨房龙头Note / 注意事项](../../../assets/images/ins/R%E8%A7%A6%E6%8E%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E4%B8%AD%E8%8B%B1%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
 ---
 
 ## 联系方式

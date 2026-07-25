@@ -71,9 +71,9 @@ Please do not install too close to shiny surfaces or its sensor directly facing 
 
 4、在水压高于 $0.7\mathrm{MPa}$ 使用时，应加装减压装置，以免对机器造成破坏。
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-01.jpg)
+![D_Sensor_Faucet安装使用准备工作](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-01.jpg)
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-02.jpg)
+![D_Sensor_Faucet安装使用准备工作](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-02.jpg)
 
 ## FAUCET INSTALLATION
 
@@ -101,7 +101,7 @@ This installation process is now complete and the sensor faucet is ready to use.
 
 将垫片、螺母、螺丝按图示顺序组装好，再将装好的龙头体锁固
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-03.jpg)
+![D_Sensor_Faucet龙头安装](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-03.jpg)
 
 在面盆上。
 
@@ -117,7 +117,7 @@ This installation process is now complete and the sensor faucet is ready to use.
 
 1. Automatic flush: Infrared sensor faucet automatically turns on and turns off.
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-04.jpg)
+![D_Sensor_Faucet FUNCTIONS](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-04.jpg)
 
 2.Cold & hot water: There is a mixer to adjust water temperature.
 
@@ -157,21 +157,21 @@ This installation process is now complete and the sensor faucet is ready to use.
 
 ## TECHNICAL STATISTICS
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-05.jpg)
+![D_Sensor_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-05.jpg)
 
 ## 技术参数
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-06.jpg)
+![D_Sensor_Faucet技术参数](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-06.jpg)
 
 ## INSTRUCTIONS 使用说明
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-07.jpg)
+![D_Sensor_FaucetINSTRUCTIONS 使用说明](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-07.jpg)
 
 1. Faucet automatically supplies water as soon as hands in sensing range.
 
 1、当手伸到感应范围时，龙头自动出水。
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-08.jpg)
+![D_Sensor_FaucetINSTRUCTIONS 使用说明](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-08.jpg)
 
 2. Faucet automatically stops working 1s after hands out of sensing range.
 
@@ -179,9 +179,9 @@ This installation process is now complete and the sensor faucet is ready to use.
 
 ## MAINTENANCE 维护保养
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-09.jpg)
+![D_Sensor_FaucetMAINTENANCE 维护保养](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-09.jpg)
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-10.jpg)
+![D_Sensor_FaucetMAINTENANCE 维护保养](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-10.jpg)
 
 1. Always keep faucet surface clean and dry. DO NOT immerse faucet in water. Please use damp towel or cotton cloth to wipe gently if cleaning is required.
 
@@ -191,7 +191,7 @@ This installation process is now complete and the sensor faucet is ready to use.
 
 2、请不要摇晃龙头，否则易引起故障。
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-11.jpg)
+![D_Sensor_FaucetMAINTENANCE 维护保养](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-11.jpg)
 
 3. Please DO NOT use acid/alkaline detergents for cleaning.
 
@@ -217,20 +217,20 @@ DO NOT mix batteries with different brands.
 
 注意：电池的正负极性必须正确，不同新旧或不同品牌的电池不能混用。
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-12.jpg)
+![D_Sensor_Faucet更换电池](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-12.jpg)
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-13.jpg)
+![D_Sensor_Faucet更换电池](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-13.jpg)
 
 ## FAULT DETECT
 
 Please refer to the following suggested solutions if any abnormal phenomena happens. Any problems please contact local distributor.  
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-14.jpg)
+![D_Sensor_Faucet FAULT DETECT](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-14.jpg)
 
 ## 简单故障排除
 
 如果在使用过程中发现异常情况，请参照下表来解决。若仍有疑问，请拨打销售商服务电话联系解决。
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-15.jpg)
+![D_Sensor_Faucet简单故障排除](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-15.jpg)
 
 ## ONE-YEAR WARRANTY
 
@@ -264,18 +264,18 @@ Supplier has right to use latest maintenance accessories.
 
 \* 公司保留维修时使用最新配件的权利
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-16.jpg)
+![D_Sensor_Faucet1年有限担保](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-16.jpg)
 
 ## GBL-6108D感应龙头出货检验标准
 
 检测依据: CJ/T194-2004《非接触式给水器具》
 
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-17.jpg)
+![D_Sensor_FaucetGBL-6108D感应龙头出货检验标准](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-17.jpg)
 
 ## GBL-6108D InspectionStandards
 
 Inspection Basis:CJ/T194-2004 "Touch Free Water Supply Facility"  
-![](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-18.jpg)
+![D_Sensor_Faucet GBL-6108D InspectionStandards](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-18.jpg)
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com

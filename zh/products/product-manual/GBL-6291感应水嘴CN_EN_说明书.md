@@ -62,7 +62,7 @@ Note : clean the filter before the water supply valve to be closed .
 
 注意: 清洗过滤网前须关闭供水阀.
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-01.png)
+![感应水嘴清洗过滤网](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-01.png)
 
 ## Change of Battery
 
@@ -90,7 +90,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 \* please do not directly was hit with water , use wet cloth to clean it .
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-02.png)
+![感应水嘴 Note](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-02.png)
 
 \* do not crush itor failure may be caused .
 
@@ -106,21 +106,21 @@ Take out the battery box from the mounting and insert in batteries according to 
 Four aa alkaline batteries
 (no included)
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-03.png)
+![感应水嘴注意](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-03.png)
 
 If anything abnormal happens while using , please refer to the following table and solve accordingly . if the problem remains , call the service number .
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-04.png)
+![感应水嘴注意](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-04.png)
 
 如果在使用过程中发现异常情况, 请参照下表来解决. 若仍有疑问, 请拨打服务电话联系解决.
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-05.png)
+![感应水嘴注意](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-05.png)
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-06.png)
+![感应水嘴注意](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-06.png)
 上进水
 Top inlet
 
-![](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-07.png)
+![感应水嘴注意](../../../assets/images/ins/GBL-6291_CN_EN_SensorNozzle-ins-07.png)
 
 \* our company has an extensive quality promise to the end customers . our products proved to be correctly installed and properly used enjoyamaintenance period of 1 year during which any products with quality defects shall be repaired without any charge .
 \* quality defects caused by the following factors are not included in the promise :

@@ -48,21 +48,21 @@ Pls install the washer according to the below drawing . it ' s convenient & hygi
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-01.png)
 
 ## Installing Scheme for Gbl -6198 Ad
 
-![](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle Installing Scheme for Gbl -6198 Ad](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-02.png)
 
-![](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle Installing Scheme for Gbl -6198 Ad](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-03.png)
 
 Power wire comes through pipe AC 220 v
 
-![](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle Installing Scheme for Gbl -6198 Ad](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-04.png)
 
 Unit: mm
 
-![](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle Installing Scheme for Gbl -6198 Ad](../../../assets/images/ins/GBL-6198_EN_SensorNozzle-ins-05.png)
 
 ## Notes
 

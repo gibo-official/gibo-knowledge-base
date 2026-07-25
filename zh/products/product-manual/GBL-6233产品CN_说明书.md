@@ -59,17 +59,17 @@ The warranty , including products , is limited clearly . our company is not resp
 
 ## 维修零件图 Servicepartspage
 
-![](../../../assets/images/ins/GBL-6233%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E9%85%8D%E7%AB%8B%E4%BE%BF-ins-01.png)
+![产品维修零件图 Servicepartspage](../../../assets/images/ins/GBL-6233%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E9%85%8D%E7%AB%8B%E4%BE%BF-ins-01.png)
 
 ## Installation Diagram
 
 ## 单位: Mm
 
-![](../../../assets/images/ins/GBL-6233%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E9%85%8D%E7%AB%8B%E4%BE%BF-ins-02.png)
+![产品单位: Mm](../../../assets/images/ins/GBL-6233%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E9%85%8D%E7%AB%8B%E4%BE%BF-ins-02.png)
 
 ## 整体安装示意图
 
-![](../../../assets/images/ins/GBL-6233%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E9%85%8D%E7%AB%8B%E4%BE%BF-ins-03.png)
+![产品整体安装示意图](../../../assets/images/ins/GBL-6233%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E9%85%8D%E7%AB%8B%E4%BE%BF-ins-03.png)
 ---
 
 ## 联系方式

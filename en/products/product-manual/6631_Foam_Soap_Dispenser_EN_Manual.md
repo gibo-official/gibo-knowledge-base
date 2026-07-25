@@ -31,7 +31,7 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
+![Foam_Soap_Dispenser感应洗手机](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
 
 ## NOTEBEFOREINSTALLATION
 
@@ -87,9 +87,9 @@ Installation finished and the soap dispenser is ready to use.
 
 3 .Please shake up the mixed liquid soap before put it into usage.
 
-![](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
+![Foam_Soap_Dispenser NOTE:](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
 
-![](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
+![Foam_Soap_Dispenser NOTE:](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
 
 ## INSTRUCTIONS
 
@@ -115,7 +115,7 @@ Installation finished and the soap dispenser is ready to use.
 
 ## TECHNICALINFORMATION
 
-![](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.png)
+![Foam_Soap_Dispenser TECHNICALINFORMATION](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.png)
 
 ## MAINTENANCE
 
@@ -133,7 +133,7 @@ Step 2 : ReplaceAnew soap aerator connect two soap hoses and fix the IR sensor t
 
 Step 3 : Fix the soap aerator to the faucet body with the screw. Replacement finished.
 
-![](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
+![Foam_Soap_Dispenser SOAPAERATORINSTALLATION](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
 
 ## BATTERYINSTALLATION
 
@@ -147,7 +147,7 @@ Note: make sure the batteries are installed correctly ( " + "positive and " - " 
 
 ## TROUBLESHOOTING
 
-![](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-06.png)
+![Foam_Soap_Dispenser TROUBLESHOOTING](../../../assets/images/ins/6631%E8%8B%B1%E6%96%87%E6%B3%A1%E6%B2%AB%E7%9A%82%E6%B6%B2%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-06.png)
 
 ## ONE-YEARWARRANTY
 

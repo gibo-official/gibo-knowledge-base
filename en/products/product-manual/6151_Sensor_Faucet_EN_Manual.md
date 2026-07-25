@@ -37,7 +37,7 @@ updated: 2026-07-14
 
 ## TECH NICAL PARAMETERS
 
-![](../../../assets/images/ins/6151_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet TECH NICAL PARAMETERS](../../../assets/images/ins/6151_EN_SensorFaucet-ins-01.png)
 
 ## STEP BY STEP GUIDE TO AUTOMATIC FAUCET INSTALLATION- -
 
@@ -81,13 +81,13 @@ Connect the Main <sub>powe</sub>r <sub>supp</sub>ly
 
 ## Unit<sub>:</sub>mm
 
-![](../../../assets/images/ins/6151_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Unit<sub>:</sub>mm](../../../assets/images/ins/6151_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/6151_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Unit<sub>:</sub>mm](../../../assets/images/ins/6151_EN_SensorFaucet-ins-03.png)
 
 ## SENSOR FAUCETS AFTERCARE MAI NTENANCE&
 
-![](../../../assets/images/ins/6151_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet SENSOR FAUCETS AFTERCARE MAI NTENANCE&](../../../assets/images/ins/6151_EN_SensorFaucet-ins-04.png)
 
 ## AFTERCARE & MAINTENANCE
 

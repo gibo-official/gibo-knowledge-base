@@ -50,7 +50,7 @@ updated: 2026-07-14
 3. if water pressure is greater than .7 m , a decompressor may be necessary to prevent damage to the unit .
 2. 36"(6cm) - 4. 33"(11cm)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Preparation Installation](../../../assets/images/ins/6108_EN_SensorFaucet-ins-01.png)
 
 ## Faucet Installation
 
@@ -75,9 +75,9 @@ Step 10: connect soap bottle cable labeled 3 to the faucet soap soap sensor cabl
 
 Step 11: connect soap hose labeled 4 to the faucet soap hose labeled 4.
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Faucet Installation](../../../assets/images/ins/6108_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Faucet Installation](../../../assets/images/ins/6108_EN_SensorFaucet-ins-03.png)
 
 Step 12: priming soap dispenser for first time use : within one minute of connecting the power cables , place hand in sensor range until soap comes out . soap shall dispense within ten (10) seconds . the soap dispenser is now primed and will dispense soap . if you do not place your hand in the sensor range within one minute , then swipe your hand three tofour (3-4) times across the sensor to prime the dispenser . the soap dispenser is now primed and will dispense soap .
 
@@ -103,24 +103,24 @@ Step 12: priming soap dispenser for first time use : within one minute of connec
 
 ## Technical Statistics
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Technical Statistics](../../../assets/images/ins/6108_EN_SensorFaucet-ins-04.png)
 
 ## Instructions
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-05.png)
 
 1. soap dispenser automatically supplies soap when hands are within the sensor range .
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-07.png)
 2. faucet automatically supplies water as soon as hands are within the sensor range .
 
 3. faucet automatically stops supplying water when hands are outof sensor range .
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-08.png)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-09.png)
 
 1. do not immerse faucet in water . please use damp towel or cotton cloth to wipe gently .
 
@@ -128,7 +128,7 @@ Step 12: priming soap dispenser for first time use : within one minute of connec
 
 If soap flow is obstructed , please replace the soap in the bottle with warm water and then dispense the water by placing hands in the soap sensor range . repeat process until the water dispenses from the soap dispenser . if obstruction remains , detach soap hose ( by squeezing clasp attaching the hoses ) from the top of the faucet and follow the steps below to replace the soap hose . additional soap hose is included .
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-10.png)
 
 3. please do not use acid / alkaline detergents for cleaning .
 
@@ -136,21 +136,21 @@ Repeat process - until warm water dispenses from the soap dispenser .
 
 Faucet body cover
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-12.png)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-13.png)
 Step 1: turn off power source , sensor cables , and all connections as illustrated . unscrew the faucet body cover and disconnect the soap hose . remove the clogged soap hose .( see picture 1&2)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-14.png)
 
 Step 2: thread the soap hose from the bottom of the faucet body to the top .( see 3&4)
 
 Step 3: connect soap hose with the clasp and screw the faucet cover back on .
 (See 5 & 6)
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/6108_EN_SensorFaucet-ins-15.png)
 Step 4: reattach soap hose to soap dispenser bottle top with clasp .( see 7)
 
 ## Battery Installtion
@@ -162,11 +162,11 @@ Step 4: reattach soap hose to soap dispenser bottle top with clasp .( see 7)
 
 4. note : make sure the batteries are installed correctly ("+" positive and "-" negative charge ). do not mix new and old batteries . do not mix batteries of different brands .
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet Battery Installtion](../../../assets/images/ins/6108_EN_SensorFaucet-ins-16.png)
 
 ## Troubleshooting
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/6108_EN_SensorFaucet-ins-17.png)
 
 ## Warranty
 
@@ -198,7 +198,7 @@ This warranty does not cover the following :
 
 Faucet structure and accessories
 
-![](../../../assets/images/ins/6108_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet Warranty](../../../assets/images/ins/6108_EN_SensorFaucet-ins-18.png)
 ---
 
 ## 联系方式

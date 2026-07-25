@@ -31,13 +31,13 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet感应水龙头](../../../assets/images/ins/1051_EN_SensorFaucet-ins-01.png)
 
 ## Automatic Faucet
 
 ## Installation Instructions
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Installation Instructions](../../../assets/images/ins/1051_EN_SensorFaucet-ins-02.png)
 
 ## Before You Begin
 
@@ -79,9 +79,9 @@ STEP 2
 
 The control box back panel jack alignment angle plate inserted in the end of the fixed angle ( shows the direction of he outlet should be down ). use the hose , connected solenoid valve and the triangle valve . control box is installed .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Note](../../../assets/images/ins/1051_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Note](../../../assets/images/ins/1051_EN_SensorFaucet-ins-04.png)
 Step 1
 Step2
 
@@ -101,51 +101,51 @@ Insert the other end of the control wire into the aviation socket and screw tigh
 
 Step 1
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-05.png)
 Step 2
 Installation Drawing 105
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-06.png)
 Step 1
 
 Step 2
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-07.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-08.png)
 
 Step 1
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-09.png)
 
 Installation Drawing 0066
 Step 3
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-10.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-12.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-13.png)
 Step 3
 Step 2
 
 Step 1
 Installation drawing c
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-14.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-15.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet Step 3:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-16.png)
 
 ## Installation Drawing 109
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet Installation Drawing 109](../../../assets/images/ins/1051_EN_SensorFaucet-ins-17.png)
 Step 2
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet Installation Drawing 109](../../../assets/images/ins/1051_EN_SensorFaucet-ins-18.png)
 Step 3
 Installation Drawing 1075
 The faucet stops the water flow when the hand leaves the sensing area .
@@ -174,13 +174,13 @@ The faucet stops the water flow when the hand leaves the sensing area .
 
 ## Technical Statistics
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-19.png)
+![Sensor_Faucet Technical Statistics](../../../assets/images/ins/1051_EN_SensorFaucet-ins-19.png)
 
 ## Use Exposition
 
 The faucet letout water when the hand reaches sensing area .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-20.png)
+![Sensor_Faucet Use Exposition](../../../assets/images/ins/1051_EN_SensorFaucet-ins-20.png)
 
 ## Maintenance
 
@@ -192,7 +192,7 @@ Please screw off the filter net and was hit when the water volume decreases
 
 Note : the filter net is at the water inlet . please close triangle valve before take out the filter net .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-21.png)
+![Sensor_Faucet Cleaning the Filter Net :](../../../assets/images/ins/1051_EN_SensorFaucet-ins-21.png)
 
 When the batteries is outof power , the indicate light will flash at an inter mitt ence of 3-4 seconds tonote the maintenance department to change batteries .
 
@@ -208,24 +208,24 @@ Note : the polarity of batteries must be correct . do not mix old and new batter
 
 1075 exploded drawing
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-22.png)
+![Sensor_Faucet Step 2:](../../../assets/images/ins/1051_EN_SensorFaucet-ins-22.png)
 Step 1
 
 ## Notes of Use
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-23.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/1051_EN_SensorFaucet-ins-23.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-24.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/1051_EN_SensorFaucet-ins-24.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-25.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/1051_EN_SensorFaucet-ins-25.png)
 
 Do not clean with water instead with clean and dry soft cloth .
 
 Do not shake the faucet in case of any damage .
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-26.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/1051_EN_SensorFaucet-ins-26.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-27.png)
+![Sensor_Faucet Notes of Use](../../../assets/images/ins/1051_EN_SensorFaucet-ins-27.png)
 
 Do not wash the control box or failures may be caused .
 
@@ -233,9 +233,9 @@ Do not wash with alkaline or acid detergents .
 
 ## Common Troubleshooting
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-28.png)
+![Sensor_Faucet Common Troubleshooting](../../../assets/images/ins/1051_EN_SensorFaucet-ins-28.png)
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-29.png)
+![Sensor_Faucet Common Troubleshooting](../../../assets/images/ins/1051_EN_SensorFaucet-ins-29.png)
 1051 exploded drawing
 
 \* our company has an extensive quality promise to the end customers . our products proved to be correctly installed and properly used enjoyamaintenance period of 1 year during which any products with quality defects shall be repaired without any charge .
@@ -254,7 +254,7 @@ Do not wash with alkaline or acid detergents .
 
 AC / DC normal control box
 
-![](../../../assets/images/ins/1051_EN_SensorFaucet-ins-30.png)
+![Sensor_Faucet Service Partspage](../../../assets/images/ins/1051_EN_SensorFaucet-ins-30.png)
 ---
 
 ## 联系方式

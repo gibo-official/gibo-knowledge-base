@@ -63,7 +63,7 @@ Note: make sure the batteries are installed correctly ( " + " positive and " - "
 
 ## Trouble Shooting
 
-![](../../../assets/images/ins/8200shower-ins-01.png)
+![Urinal_Flush_Valve Trouble Shooting](../../../assets/images/ins/8200shower-ins-01.png)
 
 ## Automatic Shower
 
@@ -89,7 +89,7 @@ Note: make sure the batteries are installed correctly ( " + " positive and " - "
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/8200shower-ins-02.png)
+![Urinal_Flush_Valve Technical Parameters](../../../assets/images/ins/8200shower-ins-02.png)
 
 ## Instructions
 
@@ -105,15 +105,15 @@ Wave on sensor water comes out; wave on the sensor again water stops Security st
 
 water inlet
 
-![](../../../assets/images/ins/8200shower-ins-03.png)
+![Urinal_Flush_Valve Installation](../../../assets/images/ins/8200shower-ins-03.png)
 water outlet
 4) Move away the protection cover from the embedded box. Connect power wire and solenoid wire and fix the faceplate into the embedded box
 
 ## Automatic Shower Instructions
 
-![](../../../assets/images/ins/8200shower-ins-04.png)
+![Urinal_Flush_Valve Automatic Shower Instructions](../../../assets/images/ins/8200shower-ins-04.png)
 
-![](../../../assets/images/ins/8200shower-ins-05.png)
+![Urinal_Flush_Valve Automatic Shower Instructions](../../../assets/images/ins/8200shower-ins-05.png)
 
 A. Adjust water pressure and water flow. Setting appropriate sensor distance
 

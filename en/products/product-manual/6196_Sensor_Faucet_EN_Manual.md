@@ -35,7 +35,7 @@ updated: 2026-07-14
 
 Product Configuration
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet DOUBLE SENSOR FAUCET](../../../assets/images/ins/6196_EN_SensorFaucet-ins-01.png)
 \*Filter valve, check valve and battery are optional accessories. If you need to buy, please contact the seller.
 
 ## Installation Guide
@@ -55,15 +55,15 @@ Put the battery case back
 
 Side sensor: Wave sensor, 1st Waving - Watering, 2nd Waving - Turn off. Bottom sensor: Ready sensor, Watering when hand's in the sensor range, Turn off automatic when hands leave.
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-02.png)
 
 Unscrew mounting nut and metal gasket, Insert the faucet with the hose into the installation hole. Install the metal gasket and the mounting nut under the deck and tighten the screw successively. Tighten the hose and filter valve (optional) successively to the Angle valve.
 
 Turn on the angle valve to check whether the pipeline leaks. Turn on the handle, and the sensors would be ready to turn on/off the water.
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-04.png)
 
 Product Use
 
@@ -71,7 +71,7 @@ Product Use
 
 2 Bottom sensor: Ready sensor mode, Watering when hand's in the sensor range, Turn off automatic when hands leave. One minutes overtime water protection.
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-05.png)
 
 1
 
@@ -85,16 +85,16 @@ Notice Please turn off the handle before replacing the battery. useacross screwd
 
 Cover of filter valve
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet 2 Faucet installation](../../../assets/images/ins/6196_EN_SensorFaucet-ins-07.png)
 Need to replace the batteries when flashes continuously. Replace with new batteries according to the installation method.
 
 ## Technical Parameters
 
 ## Warranty Instruction
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Warranty Instruction](../../../assets/images/ins/6196_EN_SensorFaucet-ins-08.png)
 
 1 This product is subject to the national three-guarantee policy, and the warranty period is 12 months on the premise that it is certified to be installed and used inastandard manner. For the product with quality problems or faults, it will be returned within 7 days and replaced within 15 days after being appraised by the after-sales service center of the manufacturer.
 
@@ -111,7 +111,7 @@ Need to replace the batteries when flashes continuously. Replace with new batter
 
 1 This faucet is suitable for installation on concave or flat basin, The distance from basin surface to the aerator should be more than 25cm.
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-09.png)
 
 1 Do not use rough articles to scrub sensor window, such as: coarse linen, brush, steel wire ball. Do not use water to douse it or dripping wet cloth to wipe the product, so as not to cause sensor failure or product damage.
 2 Do not use strong acid and alkali detergents for cleaning.
@@ -121,11 +121,11 @@ Need to replace the batteries when flashes continuously. Replace with new batter
 
 2
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-10.png)
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Applicable Basin](../../../assets/images/ins/6196_EN_SensorFaucet-ins-12.png)
 
 3
 
@@ -156,11 +156,11 @@ No water while hand's in the sensor range
 
 ## Certificate Of Qualification
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Certificate Of Qualification](../../../assets/images/ins/6196_EN_SensorFaucet-ins-13.png)
 
 ## Warranty Card
 
-![](../../../assets/images/ins/6196_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet Warranty Card](../../../assets/images/ins/6196_EN_SensorFaucet-ins-14.png)
 ---
 
 ## 联系方式

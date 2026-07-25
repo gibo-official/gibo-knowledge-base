@@ -83,11 +83,11 @@ Installation finished and the soap dispenser is ready to use .
 
 Soap dispenser body
 
-![](../../../assets/images/ins/6630_EN_SoapDispenser-ins-01.png)
+![Sensor_Soap_Dispenser Note:](../../../assets/images/ins/6630_EN_SoapDispenser-ins-01.png)
 
-![](../../../assets/images/ins/6630_EN_SoapDispenser-ins-02.png)
+![Sensor_Soap_Dispenser Note:](../../../assets/images/ins/6630_EN_SoapDispenser-ins-02.png)
 
-![](../../../assets/images/ins/6630_EN_SoapDispenser-ins-03.png)
+![Sensor_Soap_Dispenser Note:](../../../assets/images/ins/6630_EN_SoapDispenser-ins-03.png)
 
 ## I Nstructions
 
@@ -105,7 +105,7 @@ Soap dispenser body
 
 ## Technical Information
 
-![](../../../assets/images/ins/6630_EN_SoapDispenser-ins-04.png)
+![Sensor_Soap_Dispenser Technical Information](../../../assets/images/ins/6630_EN_SoapDispenser-ins-04.png)
 
 ## Maintenance
 
@@ -123,7 +123,7 @@ Step 2: replaceanew soap aerator connect two soap hoses and fix their sensor to 
 
 Step 3: fix the soap aerator to the faucet body with the screw . replacement finished .
 
-![](../../../assets/images/ins/6630_EN_SoapDispenser-ins-05.png)
+![Sensor_Soap_Dispenser Soap Aerator Installation](../../../assets/images/ins/6630_EN_SoapDispenser-ins-05.png)
 
 ## Battery Installation
 
@@ -137,7 +137,7 @@ Note : make sure the batteries are installed correctly ("+" positive and "-" neg
 
 ## Troubleshooting
 
-![](../../../assets/images/ins/6630_EN_SoapDispenser-ins-06.png)
+![Sensor_Soap_Dispenser Troubleshooting](../../../assets/images/ins/6630_EN_SoapDispenser-ins-06.png)
 
 ## One-year Warranty
 

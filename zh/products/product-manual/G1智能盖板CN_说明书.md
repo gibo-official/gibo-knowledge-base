@@ -31,7 +31,7 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-01.png)
+![智能盖板智能盖板](../../../assets/images/ins/G1_EN_SmartSeat-ins-01.png)
 
 ## Instant Heating Seat Cover
 
@@ -65,7 +65,7 @@ updated: 2026-07-10
 
 ## 出厂清单
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-02.png)
+![智能盖板出厂清单](../../../assets/images/ins/G1_EN_SmartSeat-ins-02.png)
 
 ## 安装步骤
 
@@ -73,9 +73,9 @@ updated: 2026-07-10
 
 2, 按照以下所示安装步骤将恒温加热盖板装到马桶上, 插上电源, 即可使用.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-03.png)
+![智能盖板安装步骤](../../../assets/images/ins/G1_EN_SmartSeat-ins-03.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-04.png)
+![智能盖板安装步骤](../../../assets/images/ins/G1_EN_SmartSeat-ins-04.png)
 
 请备好十字螺丝刀, 直尺, 以用于旋紧固定座;
 
@@ -83,46 +83,46 @@ updated: 2026-07-10
 
 ## 安装图示
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-05.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-05.png)
 1. 取下原有普通盖板
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-06.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-06.png)
 2. 将橡胶膨胀螺丝插入陶瓷固定孔.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-07.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-07.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-08.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-08.png)
 3. 用十字螺丝刀将盖板固定套件旋至固定孔.
 5. 将不锈钢装饰罩套入固定套件.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-09.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-09.png)
 6. 将两个固定孔对准固定螺柱, 插入.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-10.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-10.png)
 4. 用直尺量好两支固定杆间距为125mm后锁固.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-11.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-11.png)
 7. 插上电源, 并与盖板电源线对接, 拧紧.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-12.png)
+![智能盖板安装图示](../../../assets/images/ins/G1_EN_SmartSeat-ins-12.png)
 8. 收纳超长部份的电源线, 合上插座保护罩.
 
 ## 产品尺寸图
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-13.png)
+![智能盖板产品尺寸图](../../../assets/images/ins/G1_EN_SmartSeat-ins-13.png)
 单位: mm
 
 ## 技术参数
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-14.png)
+![智能盖板技术参数](../../../assets/images/ins/G1_EN_SmartSeat-ins-14.png)
 
 ## 使用说明
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-15.png)
+![智能盖板使用说明](../../../assets/images/ins/G1_EN_SmartSeat-ins-15.png)
 
 蓝色LED指示灯
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-16.png)
+![智能盖板使用说明](../../../assets/images/ins/G1_EN_SmartSeat-ins-16.png)
 
 1. 智能加热盖板上电后即进入工作状态, 座圈底部蓝色LED指示灯长亮;
 
@@ -134,15 +134,15 @@ updated: 2026-07-10
 
 ## 注意事项
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-17.png)
+![智能盖板注意事项](../../../assets/images/ins/G1_EN_SmartSeat-ins-17.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-18.png)
+![智能盖板注意事项](../../../assets/images/ins/G1_EN_SmartSeat-ins-18.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-19.png)
+![智能盖板注意事项](../../../assets/images/ins/G1_EN_SmartSeat-ins-19.png)
 
 请勿用花洒, 水管等对盖板进行喷淋清洗, 以免对盖板内部电路和加热丝造成短路, 损坏产品; 可用绒质软布擦拭盖板.
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-20.png)
+![智能盖板注意事项](../../../assets/images/ins/G1_EN_SmartSeat-ins-20.png)
 
 请勿使用锤子, 螺丝刀等尖锐物敲击盖板, 损坏产品.
 
@@ -152,7 +152,7 @@ updated: 2026-07-10
 
 ## 产品配件名称
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-21.png)
+![智能盖板产品配件名称](../../../assets/images/ins/G1_EN_SmartSeat-ins-21.png)
 ---
 
 ## 联系方式

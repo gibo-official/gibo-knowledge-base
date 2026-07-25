@@ -49,7 +49,7 @@ Rotate the screw and take out the filter net with big straight screwdriver to wa
 
 需要调整水量时, 请用 "一" 字螺丝刀旋转调整至合适位置, 顺时针方向水量变小(旋到底为止水), 逆时针方向水量变大.
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-01.png)
+![小便冲水器1. 水量调节](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-01.png)
 
 ## 2. 清洗过滤网
 
@@ -59,7 +59,7 @@ Note : shut off water volume adjustment valve before taking off the filter net .
 
 注意: 取下过滤网前须先关闭水量调节阀.
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-02.png)
+![小便冲水器2. 清洗过滤网](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-02.png)
 
 ## Change of Battery
 
@@ -75,7 +75,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 ## 更换电池
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-03.png)
+![小便冲水器更换电池](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-03.png)
 
 ## 注意
 
@@ -89,7 +89,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 ## Note
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-04.png)
+![小便冲水器 Note](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-04.png)
 
 \* please do not directly was hit with water , use wet cloth to clean it .
 \* do not crush itor failure may be caused .
@@ -103,11 +103,11 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-05.png)
+![小便冲水器注意](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-05.png)
 
 ## Common Troubleshooting
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-06.png)
+![小便冲水器 Common Troubleshooting](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-06.png)
 维修零件图
 
 ## One-yearwarranty
@@ -130,7 +130,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 2) 对于工业和商业用途的产品不包括在此保证范围内, 但此保证会自动延续到此用途的客户手中, 依此类推.
 
-![](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-07.png)
+![小便冲水器一年有限担保](../../../assets/images/ins/GIBO_CN_EN_UrinalSensor-ins-07.png)
 
 3) 对于误用, 滥用, 疏忽和使用非原厂配件所产生的质量问题不包括在此保证范围内.
 

@@ -63,13 +63,13 @@ updated: 2026-07-10
 
 2) if you press red button on the control box and release the button after you hear the buzzer beeping two times but you do not set security stop time as above , the buzzer will be ep one time after around 8 seconds . the faucet is now ready for use and the security time is set as the last time you set .
 
-![](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-01.png)
+![感应龙头 3. Security Stop Setting](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-01.png)
 
-![](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-02.png)
+![感应龙头 3. Security Stop Setting](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-02.png)
 
 ## Technical Statistics / 技术参数
 
-![](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-03.png)
+![感应龙头Technical Statistics / 技术参数](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-03.png)
 
 ## Note / 注意事项
 
@@ -100,7 +100,7 @@ updated: 2026-07-10
 1. yellow color wire is signal wire , which is directly connected to the faucet body . black color wire is ground wire , which is connected to the battery case holder . the battery case holder can be installed on to the wall or placed on the ground .
 2. it ' s suggested to place the battery case far away from the control box ( distance between battery case holder and control box $\ geq slant 50 cm $) to ensure product performance .
 
-![](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-04.png)
+![感应龙头 Attention](../../../assets/images/ins/2015_CN_EN_SensorFaucet-ins-04.png)
 ---
 
 ## 联系方式

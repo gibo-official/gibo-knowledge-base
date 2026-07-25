@@ -52,9 +52,9 @@ updated: 2026-07-14
 
 4. Pls installadepressuring device when the water pressure is higher than 0.8MPa.
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-01.png)
+![Urinal_Flush_Valve PREPARATION BEFORE INSTALLATION](../../../assets/images/ins/6161_EN_UrinalSensor-ins-01.png)
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-02.png)
+![Urinal_Flush_Valve PREPARATION BEFORE INSTALLATION](../../../assets/images/ins/6161_EN_UrinalSensor-ins-02.png)
 
 ## INSTALLATION
 
@@ -68,9 +68,9 @@ Note: Please connect the water hose correctly according to the instructions of t
 
 3.3 Connect the wire of the battery box and the wire of the sensor tightly, and the automatic faucet is installed.
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-03.png)
+![Urinal_Flush_Valve INSTALLATION](../../../assets/images/ins/6161_EN_UrinalSensor-ins-03.png)
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-04.png)
+![Urinal_Flush_Valve INSTALLATION](../../../assets/images/ins/6161_EN_UrinalSensor-ins-04.png)
 
 1.1. Constant water flowing: Inducting once to turn on, and inducting again to turn off.
 1.2. Instant water flowing: Automatically turn on & turn off when washing hands.
@@ -93,25 +93,25 @@ It will be self-closing after using $60 \pm 5$ seconds.
 
 ## PRODUCT TECHNICAL PARAMETER
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-05.png)
+![Urinal_Flush_Valve PRODUCT TECHNICAL PARAMETER](../../../assets/images/ins/6161_EN_UrinalSensor-ins-05.png)
 
 ## INSTRUCTION OF USAGE
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-06.png)
+![Urinal_Flush_Valve INSTRUCTION OF USAGE](../../../assets/images/ins/6161_EN_UrinalSensor-ins-06.png)
 The faucet turn on automatically when hands into the sensing arange. The faucet turn off automatically when hands leave the sensing arange.
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-07.png)
+![Urinal_Flush_Valve INSTRUCTION OF USAGE](../../../assets/images/ins/6161_EN_UrinalSensor-ins-07.png)
 Induct the upper sensor once to turn on, and induct it again to turn off the faucet.
 
 ## PRECAUTIONS OF USAGE
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-08.png)
+![Urinal_Flush_Valve PRECAUTIONS OF USAGE](../../../assets/images/ins/6161_EN_UrinalSensor-ins-08.png)
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-09.png)
+![Urinal_Flush_Valve PRECAUTIONS OF USAGE](../../../assets/images/ins/6161_EN_UrinalSensor-ins-09.png)
 1. Please do not use roug or iron sand for cleaning
 2. Please don't shake the faucet, It will easily cause malfunction
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-10.png)
+![Urinal_Flush_Valve PRECAUTIONS OF USAGE](../../../assets/images/ins/6161_EN_UrinalSensor-ins-10.png)
 3. Please do not scrub with acid or alkali detergent
 
 ## BATTERY INSTALLATION AND REPLACEMENT
@@ -125,11 +125,11 @@ At this time, the induction faucet is forcibly turn off.
 Step 1: Pull out the battery box and remove the battery.
 Step 2: Replace with four new AA alkaline batteries, and install them back. Note: The positive and negative polarity of the battery must be correct, and batteries of different new and old or different brands cannot be mixed.
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-11.png)
+![Urinal_Flush_Valve BATTERY INSTALLATION AND REPLACEMENT](../../../assets/images/ins/6161_EN_UrinalSensor-ins-11.png)
 
 If an abnormal situation is found during use, please refer to the table below to solve it. If you still have any questions, please call the dealer's service phone to solve the problem.
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-12.png)
+![Urinal_Flush_Valve BATTERY INSTALLATION AND REPLACEMENT](../../../assets/images/ins/6161_EN_UrinalSensor-ins-12.png)
 
 ## WARRANTY
 
@@ -147,7 +147,7 @@ If an abnormal situation is found during use, please refer to the table below to
 
 ## PRODUCT PARTS DIAGRAM
 
-![](../../../assets/images/ins/6161_EN_UrinalSensor-ins-13.png)
+![Urinal_Flush_Valve PRODUCT PARTS DIAGRAM](../../../assets/images/ins/6161_EN_UrinalSensor-ins-13.png)
 ---
 
 ## 联系方式

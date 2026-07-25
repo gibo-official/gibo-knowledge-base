@@ -38,7 +38,7 @@ b. 进行水泥墙面铺平工程, 并以图示将瓷砖贴上, 完工后瓷砖�
 
 c.壁面工程完成后, 即可拆下施工保护罩, 连接好电源, 将电源线端子与电磁阀端子分别对接, 然后将面板固定于预埋盒上即可.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-01.png)
+![Urinal_Flush_Valve面板安装](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-01.png)
 
 ## 小便斗安装
 
@@ -50,7 +50,7 @@ c, 将橡胶塞与装饰杯接入小便斗进水弯管, 根据安装位置, 调�
 
 d, 根据水压及流量进行水压调试, 并把感应距离设定在最佳长度.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-02.png)
+![Urinal_Flush_Valve小便斗安装](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-02.png)
 标准安装位置图
 
 ## 安装步骤
@@ -65,9 +65,9 @@ c. 安装前测量好小便斗及冲水器面板的安装位置;
 
 d. 小便斗与出水口保持在同一中心线上.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-03.png)
+![Urinal_Flush_Valve准备工作](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-03.png)
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-04.png)
+![Urinal_Flush_Valve准备工作](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-04.png)
 
 ## 固定预埋盒
 
@@ -108,11 +108,11 @@ e. 进行进水管路给水测试, 确认管路无渗漏水之处.
 
 ## 产品规格
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-05.png)
+![Urinal_Flush_Valve产品规格](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-05.png)
 
 ## 使用说明
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-06.png)
+![Urinal_Flush_Valve使用说明](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-06.png)
 使用者立于小便斗前方30cm以内, 2秒后进行第一次冲水2秒
 使用者使用完毕后, 进行第二次冲水, 时间4\~8秒
 第二次冲水根据使用时间长短自动调整冲水时间
@@ -125,7 +125,7 @@ e. 进行进水管路给水测试, 确认管路无渗漏水之处.
 
 感应距离调整时, 在面板背面找到小旋钮位置, 用小型"一字"螺丝刀旋转调整, 顺时针方向可调长感应距离, 逆时针方向调短感应距离, 调整完毕将面板固定回原来位置即可.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-07.png)
+![Urinal_Flush_Valve1. 感应距离调节](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-07.png)
 
 ## 2. 水量调节
 
@@ -135,7 +135,7 @@ e. 进行进水管路给水测试, 确认管路无渗漏水之处.
 
 需要清洗过滤阀时, 请用"一字"螺丝刀旋出过滤网, 用清水冲洗干净后重新装回即可.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-08.png)
+![Urinal_Flush_Valve3. 清洗过滤网](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-08.png)
 
 ## 调整完毕后将面板固定回原来位置.
 
@@ -143,11 +143,11 @@ e. 进行进水管路给水测试, 确认管路无渗漏水之处.
 
 从预埋盒中取出电池盒, 找到螺丝固定位置, 旋出螺丝, 按提示方向轻轻推出滑盖.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-09.png)
+![Urinal_Flush_Valve更换电池](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-09.png)
 
 将4节7号碱性电池按照提示(十一)依次装入电池盒内, 重新装上滑盖, 并旋紧螺丝.
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-10.png)
+![Urinal_Flush_Valve更换电池](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-10.png)
 
 \- 电池正负(+-)极性必须正确;
 
@@ -157,18 +157,18 @@ e. 进行进水管路给水测试, 确认管路无渗漏水之处.
 
 ## 注意事项
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-11.png)
+![Urinal_Flush_Valve注意事项](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-11.png)
 请不要用水直接冲洗若不洁请使用湿布擦拭
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-12.png)
+![Urinal_Flush_Valve注意事项](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-12.png)
 请不要撞击否则易引起故障
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-13.png)
+![Urinal_Flush_Valve注意事项](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-13.png)
 不能用酸碱一类强腐蚀性洗涤剂来擦洗
 
 ## 常见故障排除
 
-![](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-14.png)
+![Urinal_Flush_Valve常见故障排除](../../../assets/images/ins/GBL-6215_JP_UrinalSensor-ins-14.png)
 ---
 
 ## 联系方式

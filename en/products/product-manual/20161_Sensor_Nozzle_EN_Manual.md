@@ -55,7 +55,7 @@ There are two sensors on the diy tap device .
 
 ## Technical Information
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle Technical Information](../../../assets/images/ins/20161_EN_SensorNozzle-ins-01.png)
 
 1. please note that tap water is required . if water is not clean it may requireafilter to avoid damage to the devise .
 
@@ -71,67 +71,67 @@ There are two sensors on the diy tap device .
 
 ## a . Male Connector Faucet Installation
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle a . Male Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-02.png)
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle a . Male Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-03.png)
 2. select correct male connector .
 
 1. unscrew the faucet nozzle .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle a . Male Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-04.png)
 3. screw the correct connector .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle a . Male Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-05.png)
 4. screw the sensor tap onto the connector . the installation is complete and the sensor tap is ready to use .
 
 ## B . Female Connector Faucet Installation
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-06.png)
+![Sensor_Nozzle B . Female Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-06.png)
 
 1. unscrew the faucet nozzle .
 
 2. select correct female connector .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-07.png)
+![Sensor_Nozzle B . Female Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-07.png)
 
 3. screw the correct connector .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-08.png)
+![Sensor_Nozzle B . Female Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-08.png)
 4. screw the sensor tap onto the connector . the installation is complete and the sensor tap is ready to use .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-09.png)
+![Sensor_Nozzle B . Female Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-09.png)
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-10.png)
+![Sensor_Nozzle B . Female Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-10.png)
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-11.png)
+![Sensor_Nozzle B . Female Connector Faucet Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-11.png)
 
 ## Maintenance
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-12.png)
+![Sensor_Nozzle Maintenance](../../../assets/images/ins/20161_EN_SensorNozzle-ins-12.png)
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-13.png)
+![Sensor_Nozzle Maintenance](../../../assets/images/ins/20161_EN_SensorNozzle-ins-13.png)
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-14.png)
+![Sensor_Nozzle Maintenance](../../../assets/images/ins/20161_EN_SensorNozzle-ins-14.png)
 
 ⚠️ please do not use rough items to clean the sensor eye .
 
 ⚠️ please avoid any rocking or violent motion .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-15.png)
+![Sensor_Nozzle Maintenance](../../../assets/images/ins/20161_EN_SensorNozzle-ins-15.png)
 
 Please do not use acid / alkaline detergents for cleaning .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-16.png)
+![Sensor_Nozzle Maintenance](../../../assets/images/ins/20161_EN_SensorNozzle-ins-16.png)
 
 ⚠️ please turn off the faucet handle if you do not use the product foracertain time , for example at night .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-17.png)
+![Sensor_Nozzle Maintenance](../../../assets/images/ins/20161_EN_SensorNozzle-ins-17.png)
 
 The water pressure may havealittle effect after the cleaning of water tank in your building , but it is only temporarily .
 
 ## Battery Installation
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-18.png)
+![Sensor_Nozzle Battery Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-18.png)
 Red LED flashes
 
 1. sensor indicator light will flash 5 seconds if battery power is low , alerting you to change batteries .
@@ -139,7 +139,7 @@ Red LED flashes
 
 3. step 2: replace with three aaa alkaline batteries and install the cover onto the battery case .
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-19.png)
+![Sensor_Nozzle Battery Installation](../../../assets/images/ins/20161_EN_SensorNozzle-ins-19.png)
 
 3pcs AAA alkaline batteries (not included)
 
@@ -151,45 +151,45 @@ make sure the batteries are installed correctly ("+" positive and "-" negative c
 
 ## Filter Net Cleaning
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-20.png)
+![Sensor_Nozzle Filter Net Cleaning](../../../assets/images/ins/20161_EN_SensorNozzle-ins-20.png)
 
 Filter net gasket
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-21.png)
+![Sensor_Nozzle Filter Net Cleaning](../../../assets/images/ins/20161_EN_SensorNozzle-ins-21.png)
 
 Please getoutof the filter net and clean it with clean water if water flow is low . please install back after cleaning .
 
 ## Spare Parts
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-22.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-22.png)
 
 nut
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-23.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-23.png)
 
 gasket
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-24.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-24.png)
 
 connector
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-25.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-25.png)
 
 Filter net gasket
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-26.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-26.png)
 
 Diy sensor tap body
 
 Side sensor
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-27.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-27.png)
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-28.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-28.png)
 
 A1 female connector
 
-![](../../../assets/images/ins/20161_EN_SensorNozzle-ins-29.png)
+![Sensor_Nozzle Spare Parts](../../../assets/images/ins/20161_EN_SensorNozzle-ins-29.png)
 
 B1
 

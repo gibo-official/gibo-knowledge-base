@@ -49,7 +49,7 @@ updated: 2026-07-10
 
 4. installing ceramic products , because of their vulnerability and cracked , so you can ' t boltor nuts crew too tightly , and must be handled with care .
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-01.png)
+![座便感应器安装注意事项 Installation Notes](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-01.png)
 
 ## 挂墙式座便器安装支架的安装
 
@@ -69,7 +69,7 @@ updated: 2026-07-10
 
 3. fixed and the feet , can be adjusted in accordance with the requirements .
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-02.png)
+![座便感应器 Step 11. Should Firstof All Ensure That the Inductive Flushing Valve Installation Size Correctly , See Fig :< Fully Automatic Squat Sensor Installation Instructions >;](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-02.png)
 
 ## 步骤2:
 
@@ -81,7 +81,7 @@ Drill four holes with diameter of 10-12 mm and fill in the holes with bulges cre
 
 图3
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-03.png)
+![座便感应器 Step 2:](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-03.png)
 
 ## 步骤3:
 
@@ -93,11 +93,11 @@ As requested by the drawing size , adjust the adjustable feet , fixed firmly usi
 
 图4
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-04.png)
+![座便感应器 Step 3:](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-04.png)
 
 Figure to install and adjust the water inlet pipe and blow downpipe size and position , ensure the ceramic toilet installation position and can be matched with corresponding installation .
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-05.png)
+![座便感应器 Step 3:](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-05.png)
 图6
 
 ## 步骤5: 感应器及安装支架安装完成如图.
@@ -106,7 +106,7 @@ Step5:
 Sensor andamounting bracket
 Installation is complete graph
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-06.png)
+![座便感应器步骤5: 感应器及安装支架安装完成如图.](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-06.png)
 
 ## 陶瓷座便器安装 Ceramic Toilet Installation
 
@@ -118,19 +118,19 @@ Step 1: set the spacing of the bowl sensor and mounting bracket is complete , fi
 
 图8
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-07.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-07.png)
 
 步骤 2: 安装进水, 排污联接管件在进水口管件上装上封水橡胶垫圈, 在排污联接管上装上封水橡胶垫圈, 联接上排污口, (确保封水橡胶垫圈使座便器与墙面音来丝合缝).
 
 Step 2: install the water inlet , outlet pipe installed on the water inlet ; the rubber sealing ring , pipe with rubber sealing ring connected to the sewage outfall , connection ,( make sure the water sealing rubber gasket to make toilet dovetail with the wall ).
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-08.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-08.png)
 
 图9
 
 I
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-09.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-09.png)
 
 步骤 3: 安装座便器
 
@@ -142,7 +142,7 @@ Step 3: ceramic toilet installation place the new bowl on the wall through the c
 
 图10
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-10.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-10.png)
 
 调整座便器至水平,然后完成固定,如图11;使用密封胶,保证座便器边沿紧贴墙面如图12.
 
@@ -154,7 +154,7 @@ Apply sealant to make sure the bowl ' sedge seals to the wall . see fig .12.
 
 图12
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-11.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-11.png)
 
 1. 确保所有连接已旋紧.
 
@@ -168,9 +168,9 @@ Apply sealant to make sure the bowl ' sedge seals to the wall . see fig .12.
 
 图13
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-12.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-12.png)
 
-![](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-13.png)
+![座便感应器步骤 1: 座便器的定位](../../../assets/images/ins/%E8%BD%AC%E6%9B%B2%E6%84%9F%E5%BA%94%E5%BC%8F%E6%8C%82%E5%A2%99%E5%BA%A7%E4%BE%BF%E5%99%A8%E4%B8%AD%E8%8B%B1%E6%96%87%E8%AF%B4%E6%98%8E%E4%B9%A6-2-ins-13.png)
 
 Fuzhou gibo induction sanitaryware co . ltd
 Address : b -54, push an gln duc trial park , can gsh an district fuzhou , china

@@ -27,13 +27,13 @@ Faucet Adapter
 
 Rubbergasket
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-01.jpg)
+![D感应节水水嘴 Product Configuration](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-01.jpg)
 
 \*This product is match to male M22 and female M24 of faucet nozzle
 
 ## Function Inducation
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-02.jpg)
+![D感应节水水嘴 Function Inducation](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-02.jpg)
 
 1 Side sensor for long time water flow: Wave your hand to turn on & turn off the water flow.
 
@@ -41,7 +41,7 @@ Rubbergasket
 
 ## Installation Drawing
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-03.jpg)
+![D感应节水水嘴 Installation Drawing](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-03.jpg)
 
 ## Product Usage
 
@@ -49,7 +49,7 @@ Rubbergasket
 
 2 Automatically turn on & off when your hands entering & leaving the sensing range. It will self closing after continue use 1 minute.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-04.jpg)
+![D感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-04.jpg)
 
 ![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-05.jpg)  
 \*Before installation, please fully charge the product firstly.
@@ -58,7 +58,7 @@ Rubbergasket
 
 2 It is not suitable for the pull-out faucet, short faucet, basin faucet and others.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-06.jpg)
+![D感应节水水嘴 Applicable Faucet](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-06.jpg)
 
 ## Usage Maintenance
 
@@ -69,7 +69,7 @@ If the volume of water is found to be small or no water, it may be blocked by th
 1. In normal use, the battery life is about 6 months; if it is not used for a long time, please charge it within 6 months in case the battery uses up. Product can not work normally when charge it. and should turn off the handle of the faucet in advance.
 2. USB cable and power adapter are not included with product itself.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-07.jpg)
+![D感应节水水嘴 Usage Maintenance](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-07.jpg)
 
 ## Precautions for Usage
 
@@ -83,7 +83,7 @@ If the volume of water is found to be small or no water, it may be blocked by th
 
 5 When using the product, please make sure that the USB charging protection plug is tightly fitted, in case gas enters and rusts the charging port.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-08.jpg)
+![D感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-08.jpg)
 
 ![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-09.jpg)  
 1
@@ -95,7 +95,7 @@ If the volume of water is found to be small or no water, it may be blocked by th
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-11.jpg)
+![D感应节水水嘴 Technical Parameters](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-11.jpg)
 
 FAQ
 
@@ -131,22 +131,22 @@ and like these are not covered by this warranty.
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-12.jpg)
+![D感应节水水嘴 Qualification Certificate](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-12.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-13.jpg)
+![D感应节水水嘴 Qualification Certificate](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-13.jpg)
 
 Touchless Faucet Sprayer
 
 ## Product Configuration
 
 2  
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-14.jpg)
+![D感应节水水嘴 Product Configuration](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-14.jpg)
 
 \*This product is fixable in pull out type kitchen faucet, Pull out hose with female connector G1/2 connector.
 
 ## Function Inducation
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-15.jpg)
+![D感应节水水嘴 Function Inducation](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-15.jpg)
 
 1 Side sensor for long time water flow: Wave your hand to turn on & turn off the water flow.
 
@@ -166,9 +166,9 @@ Touchless Faucet Sprayer
 
 3 Pull out water flow: Keep holding the hand on the side sensor window, then water is out. The water will be turned off after 2 seconds since hand leaves the sensor window.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-17.jpg)
+![D感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-17.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-18.jpg)
+![D感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-18.jpg)
 
 ![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-19.jpg)  
 1 Long time water flow  
@@ -180,7 +180,7 @@ Touchless Faucet Sprayer
 
 1 It is ONLY suitable for the high spout pull out kitchen faucet with G1/2 thread.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-20.jpg)
+![D感应节水水嘴 Applicable Faucet](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-20.jpg)
 
 \*According to the use habit, Suggest to put the side sensor window in by or at the right/left side. The use effect would be better than putting the sensor window in the front facing to the people.
 
@@ -193,9 +193,9 @@ If the volume of water is found to be small or no water, it may be blocked by th
 1. In normal use, the battery life is about 6 months; if it is not used for a long time, please charge it within 6 months in case the battery uses up. Product can not work normally when charge it. and should turn off the handle of the faucet in advance.
 2. USB cable and power adapter are not included with product itself.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-21.jpg)
+![D感应节水水嘴 Usage Maintenance](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-21.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-22.jpg)
+![D感应节水水嘴 Usage Maintenance](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-22.jpg)
 
 ## Precautions for Usage
 
@@ -209,7 +209,7 @@ If the volume of water is found to be small or no water, it may be blocked by th
 
 5 When using the product, please make sure that the USB charging protection plug is tightly fitted, in case gas enters and rusts the charging port.
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-23.jpg)
+![D感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-23.jpg)
 
 ![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-24.jpg)  
 1
@@ -219,7 +219,7 @@ If the volume of water is found to be small or no water, it may be blocked by th
 
 ## Technical Parameters
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-26.jpg)
+![D感应节水水嘴 Technical Parameters](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-26.jpg)
 
 FAQ
 
@@ -255,8 +255,8 @@ FAQ
 
 ## Qualification Certificate
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-27.jpg)
+![D感应节水水嘴 Qualification Certificate](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-27.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-28.jpg)
+![D感应节水水嘴 Qualification Certificate](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-28.jpg)
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

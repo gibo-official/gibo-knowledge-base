@@ -35,9 +35,9 @@ updated: 2026-07-10
 
 ## 全自动感应龙头
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-01.png)
+![感应龙头全自动感应龙头](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-01.png)
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-02.png)
+![感应龙头全自动感应龙头](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-02.png)
 
 ## 注意事项
 
@@ -63,9 +63,9 @@ updated: 2026-07-10
 
 工程作业时请以实物为主。
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-03.png)
+![感应龙头一. 示意图](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-03.png)
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-04.png)
+![感应龙头一. 示意图](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-04.png)
 
 ## 二:安装步骤
 
@@ -81,22 +81,22 @@ updated: 2026-07-10
 
 6. 将控制盒电源线和感应器电源线接口相连接。
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-05.png)
+![感应龙头二:安装步骤](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-05.png)
 $\bigcirc$
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-06.png)
+![感应龙头二:安装步骤](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-06.png)
 侧面效果
 图：2
 
 图：1
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-07.png)
+![感应龙头二:安装步骤](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-07.png)
 图：3
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-08.png)
+![感应龙头二:安装步骤](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-08.png)
 图：4
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-09.png)
+![感应龙头二:安装步骤](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-09.png)
 
 ## 产品功能
 
@@ -120,7 +120,7 @@ $\bigcirc$
 
 如有使用交流电源，请必须先断开电源，再取下控制盒，打开控制盒盖子，取出电池盒，拔出电池盒上盖取出旧电池，更换新的4节5号碱性电池，检查正负极无误，装上电池盒上盖，然后装上控制盒盖子，把控制盒挂在挂片上。
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-10.png)
+![感应龙头更换电池](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-10.png)
 
 ## 注意：
 
@@ -128,9 +128,9 @@ $\bigcirc$
 
 ## 使用说明
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-11.png)
+![感应龙头使用说明](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-11.png)
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-12.png)
+![感应龙头使用说明](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-12.png)
 当手伸到感应范围时，
 龙头自动出水。
 当手离开感应范围时，
@@ -138,28 +138,28 @@ $\bigcirc$
 
 ## 使用注意事项
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-13.png)
+![感应龙头使用注意事项](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-13.png)
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-14.png)
+![感应龙头使用注意事项](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-14.png)
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-15.png)
+![感应龙头使用注意事项](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-15.png)
 请不要用水冲洗龙头，应使用洁净干软棉布清洁。
 请不要摇晃龙头，否则易引起故障。
 不能用酸碱性类洗涤剂擦洗。
 
 ## 简单故障分析与处理
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-16.png)
+![感应龙头简单故障分析与处理](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-16.png)
 
 ## 产品配件分解图
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-17.png)
+![感应龙头产品配件分解图](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-17.png)
 
 ## 清洗过滤网
 
 当感应器使用初期或感应出水量减少时，可能是过滤网堵塞，需对其进行清洗，清洗过滤网前切记关闭水源。
 
-![](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-18.png)
+![感应龙头清洗过滤网](../../../assets/images/ins/6154%E5%A2%99%E5%87%BA%E6%B0%B4%E6%84%9F%E5%BA%94%E9%BE%99%E5%A4%B4%E8%AF%B4%E6%98%8E%E4%B9%A620231123-ins-18.png)
 ---
 
 ## 联系方式

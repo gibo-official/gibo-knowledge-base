@@ -35,7 +35,7 @@ updated: 2026-07-10
 
 ## 喷香机结构
 
-![](../../../assets/images/ins/%E8%87%AA%E5%8A%A8%E5%96%B7%E9%A6%99%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-ins-01.png)
+![自动喷香机喷香机结构](../../../assets/images/ins/%E8%87%AA%E5%8A%A8%E5%96%B7%E9%A6%99%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-ins-01.png)
 
 ## 喷香机安装
 
@@ -49,7 +49,7 @@ updated: 2026-07-10
 
 ## the Dispenser Structure
 
-![](../../../assets/images/ins/%E8%87%AA%E5%8A%A8%E5%96%B7%E9%A6%99%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-ins-02.png)
+![自动喷香机 the Dispenser Structure](../../../assets/images/ins/%E8%87%AA%E5%8A%A8%E5%96%B7%E9%A6%99%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-ins-02.png)
 
 ## Mounting the Dispenser
 

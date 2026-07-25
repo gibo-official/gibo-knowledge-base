@@ -39,7 +39,7 @@ Configura çã o do produto
 
 Junta de borracha
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-01.png)
+![Sensor_Water_Saving_Device感应水嘴](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-01.png)
 
 \* antes da instala çã o , carregue totalmenteoproduto primeiro .
 \* este produto é compat í vel comma chom 22 ef ê me am 24 debi code tornei ra
@@ -48,14 +48,14 @@ Indução
 
 Bocal desa í dade água
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-02.png)
+![Sensor_Water_Saving_Device感应水嘴](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-02.png)
 
 Sensor lateral para fluxo de água contínuo . passe am ã oper to para ligaredesligarofluxode água .
 Sensor inferior para curtos jatos de água . ligaedes liga automaticamente quando entrandoousa in doda á reade alcance do sensor .
 
 Desenho da instala çã o
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-03.png)
+![Sensor_Water_Saving_Device感应水嘴](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-03.png)
 
 2 boc alder osca externa
 
@@ -65,9 +65,9 @@ Uso do produto
 
 2 ligaedes liga automaticamente quando suas m ã o sentra mesa em do alcance do sensor . ira sedes ligar automaticamente ap ó str ê s minuto de uso .
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-04.png)
+![Sensor_Water_Saving_Device感应水嘴](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-04.png)
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-05.png)
+![Sensor_Water_Saving_Device感应水嘴](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-05.png)
 
 1 fluxo de água longo
 
@@ -79,7 +79,7 @@ Torneiras aplicáveis
 
 N ã opo desert roca do portor neirasbaixaseoutras .
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-06.png)
+![Sensor_Water_Saving_Device感应水嘴](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-06.png)
 
 ## Manu Ten Çã O De Uso
 
@@ -89,7 +89,7 @@ N ã opo desert roca do portor neirasbaixaseoutras .
 
 a ten çã ono usoc oti diano , avid ada bateria é aproximadamente de se is meses , sefi car muito tempo sem utilizar , por favor re carreg á- lacasoelaseconsuma . o produton ã oc on segue funcionar de vida men teen quanto car regan do . ed eve - se fechar ator neira primeira mente .
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-07.png)
+![Sensor_Water_Saving_Device Manu Ten Çã O De Uso](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-07.png)
 
 ## Pre Cau Çõ Es De Uso
 
@@ -103,18 +103,18 @@ a ten çã ono usoc oti diano , avid ada bateria é aproximadamente de se is mes
 
 5 durante ou so do produto , certifi que - se queaprote çã odocarregadorusbestejafi rmementeequipadasembrec has
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-08.png)
+![Sensor_Water_Saving_Device Pre Cau Çõ Es De Uso](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-08.png)
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-09.png)
+![Sensor_Water_Saving_Device Pre Cau Çõ Es De Uso](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-09.png)
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-10.png)
+![Sensor_Water_Saving_Device Pre Cau Çõ Es De Uso](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-10.png)
 12
 
 3
 
 ## Parâmetros Técnicos
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-11.png)
+![Sensor_Water_Saving_Device Parâmetros Técnicos](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-11.png)
 
 ## Perguntas Frequentes
 
@@ -141,9 +141,9 @@ a ten çã ono usoc oti diano , avid ada bateria é aproximadamente de se is mes
 
 ## Certificado De Qualidade
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-12.png)
+![Sensor_Water_Saving_Device Certificado De Qualidade](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-12.png)
 
-![](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-13.png)
+![Sensor_Water_Saving_Device Certificado De Qualidade](../../../assets/images/ins/%E8%91%A1%E8%AF%AD-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88-ins-13.png)
 ---
 
 ## 联系方式

@@ -61,7 +61,7 @@ updated: 2026-07-14
 
 ## PRODUCT SPECIFICATIONS
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet PRODUCT SPECIFICATIONS](../../../assets/images/ins/8300_EN_ToiletSensor-ins-01.png)
 
 1.Check whether the supply charge is complied with rated specification before your installation.
 
@@ -71,7 +71,7 @@ updated: 2026-07-14
 
 4.make sure the squat on the same centerline with the flushing machine.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet PRODUCT SPECIFICATIONS](../../../assets/images/ins/8300_EN_ToiletSensor-ins-02.png)
 Embedded dimension
 
 ## TO FIX THE PRE-LAID BOX
@@ -86,9 +86,9 @@ Embedded dimension
 
 inlet pipe to ensure it is free of leakage.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-03.png)
+![Sensor_Squat_Toilet TO FIX THE PRE-LAID BOX](../../../assets/images/ins/8300_EN_ToiletSensor-ins-03.png)
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-04.png)
+![Sensor_Squat_Toilet TO FIX THE PRE-LAID BOX](../../../assets/images/ins/8300_EN_ToiletSensor-ins-04.png)
 Center Line
 
 ## PANEL INSTALLATION
@@ -99,13 +99,13 @@ Center Line
 
 3.Remove construction protection cover after the wall is finished and connect the power supply. Connect the power terminal with solenoid valve and fix the panel onto the pre-laid electronic box.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-05.png)
+![Sensor_Squat_Toilet PANEL INSTALLATION](../../../assets/images/ins/8300_EN_ToiletSensor-ins-05.png)
 
 1. When someone enters sensing area more than 4 seconds the machine actuates 2. Auto flush is actuated 9 seconds after someone has used it.
 
 3. When the squat is unused forAlong time, the machine will activateAflush every 24 hours.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-06.png)
+![Sensor_Squat_Toilet PANEL INSTALLATION](../../../assets/images/ins/8300_EN_ToiletSensor-ins-06.png)
 
 ## MAINTENANCE INSTRUCTIONS
 
@@ -117,7 +117,7 @@ If you need to clean the filter, useAwrench rotating the valve cover, remove
 
 the piston filter, Rinse with the clean water after the re-install back. NOTE: Clean the filter before the water supply valve to be closed.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-07.png)
+![Sensor_Squat_Toilet 2.Cleaning the filter ne](../../../assets/images/ins/8300_EN_ToiletSensor-ins-07.png)
 Fixed the panel back to original location after adjustment.
 
 ## CHANGE OF BATTERY
@@ -132,7 +132,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 batteries do not have enough power.(For DC current products)
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-08.png)
+![Sensor_Squat_Toilet NOTE:](../../../assets/images/ins/8300_EN_ToiletSensor-ins-08.png)
 
 ## NOTE:
 
@@ -140,31 +140,31 @@ batteries do not have enough power.(For DC current products)
 
 \*Do not clean it with acid or alkaline detergents.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-09.png)
+![Sensor_Squat_Toilet NOTE:](../../../assets/images/ins/8300_EN_ToiletSensor-ins-09.png)
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-10.png)
+![Sensor_Squat_Toilet NOTE:](../../../assets/images/ins/8300_EN_ToiletSensor-ins-10.png)
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-11.png)
+![Sensor_Squat_Toilet NOTE:](../../../assets/images/ins/8300_EN_ToiletSensor-ins-11.png)
 
 ## COMMON TROUBLE SHOOTING
 
 If anything abnormal happens while using, please refer to the following table and solve accordingly. If the problem remains, call the service number.
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-12.png)
+![Sensor_Squat_Toilet COMMON TROUBLE SHOOTING](../../../assets/images/ins/8300_EN_ToiletSensor-ins-12.png)
 
 ## INSTALLATION SCHEME
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-13.png)
+![Sensor_Squat_Toilet INSTALLATION SCHEME](../../../assets/images/ins/8300_EN_ToiletSensor-ins-13.png)
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-14.png)
+![Sensor_Squat_Toilet INSTALLATION SCHEME](../../../assets/images/ins/8300_EN_ToiletSensor-ins-14.png)
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-15.png)
+![Sensor_Squat_Toilet INSTALLATION SCHEME](../../../assets/images/ins/8300_EN_ToiletSensor-ins-15.png)
 
 ## SERVICEPARTSPAGE
 
 Solenoid valve components exploded view
 
-![](../../../assets/images/ins/8300_EN_ToiletSensor-ins-16.png)
+![Sensor_Squat_Toilet SERVICEPARTSPAGE](../../../assets/images/ins/8300_EN_ToiletSensor-ins-16.png)
 
 ## ONE-YEARWARRANTY
 

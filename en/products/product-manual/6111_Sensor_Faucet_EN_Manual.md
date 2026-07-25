@@ -41,13 +41,13 @@ Adjustment : power after 40 seconds , then start flashing , will be automatic ad
 
 ## Specification
 
-![](../../../assets/images/ins/6111_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Specification](../../../assets/images/ins/6111_EN_SensorFaucet-ins-01.png)
 
 ## Dimension of Installation for Gbl -6111 Ad
 
 ## Unit:mm
 
-![](../../../assets/images/ins/6111_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Unit:mm](../../../assets/images/ins/6111_EN_SensorFaucet-ins-02.png)
 
 ## Notices
 
@@ -71,13 +71,13 @@ Battery : the function of undervoltage atten ion enables the inductor light norm
 
 ## Specification
 
-![](../../../assets/images/ins/6111_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Specification](../../../assets/images/ins/6111_EN_SensorFaucet-ins-03.png)
 
 ## Dimension of Installation for Ht - Sz 01 D
 
 ## Unit:mm
 
-![](../../../assets/images/ins/6111_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Unit:mm](../../../assets/images/ins/6111_EN_SensorFaucet-ins-04.png)
 
 ## Notices
 

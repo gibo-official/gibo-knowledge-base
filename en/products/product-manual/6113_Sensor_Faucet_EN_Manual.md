@@ -41,13 +41,13 @@ Adjustment : power after 40 seconds , then start flashing , will be automatic ad
 
 ## Specification
 
-![](../../../assets/images/ins/6113_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Specification](../../../assets/images/ins/6113_EN_SensorFaucet-ins-01.png)
 
 ## Dimension of Installation for Gbl -6113 Ad
 
 ## Unit:mm
 
-![](../../../assets/images/ins/6113_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Unit:mm](../../../assets/images/ins/6113_EN_SensorFaucet-ins-02.png)
 
 ## Notices
 

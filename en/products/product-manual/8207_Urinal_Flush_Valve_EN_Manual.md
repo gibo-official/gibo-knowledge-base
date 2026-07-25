@@ -34,7 +34,7 @@ INSTALLATION & INSTRUCTIONS
 
 ## 用户资料
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-01.jpg)
+![Urinal_Flush_Valve用户资料](../../../assets/images/ins/8207_EN_UrinalSensor-ins-01.jpg)
 
 非常感谢您购买本公司小便斗感应器，相信您在今后对本产品的使用定将深感欣慰，同时本公司也将竭诚为您提供各项优质服务。
 
@@ -86,7 +86,7 @@ INSTALLATION & INSTRUCTIONS
 
 ## 故障排除
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-02.jpg)
+![Urinal_Flush_Valve故障排除](../../../assets/images/ins/8207_EN_UrinalSensor-ins-02.jpg)
 
 ## 功能和特点
 
@@ -123,7 +123,7 @@ INSTALLATION & INSTRUCTIONS
 
 ## 技术参数
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-04.jpg)
+![Urinal_Flush_Valve技术参数](../../../assets/images/ins/8207_EN_UrinalSensor-ins-04.jpg)
 
 ## 使用说明
 
@@ -152,7 +152,7 @@ INSTALLATION & INSTRUCTIONS
 
 需要清洗过滤阀时，请先将水量调节阀按顺时针方向将水关闭，然后用"一"字螺丝刀旋出过滤网，用清水冲洗干净后重新装回旋紧并打开水量调节阀。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-08.jpg)
+![Urinal_Flush_Valve2. 清洗过滤网](../../../assets/images/ins/8207_EN_UrinalSensor-ins-08.jpg)
 
 注意：取下过滤网前须先关闭水量调节阀。
 
@@ -164,11 +164,11 @@ INSTALLATION & INSTRUCTIONS
 
 3. 不能用酸碱一类强腐蚀性洗涤剂来擦洗。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-09.jpg)
+![Urinal_Flush_Valve● 维护](../../../assets/images/ins/8207_EN_UrinalSensor-ins-09.jpg)
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-10.jpg)
+![Urinal_Flush_Valve● 维护](../../../assets/images/ins/8207_EN_UrinalSensor-ins-10.jpg)
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-11.jpg)
+![Urinal_Flush_Valve● 维护](../../../assets/images/ins/8207_EN_UrinalSensor-ins-11.jpg)
 
 ## 交流电源检查
 
@@ -192,7 +192,7 @@ INSTALLATION & INSTRUCTIONS
 
 步骤2：更换为四节 AA 碱性电池。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-12.jpg)
+![Urinal_Flush_Valve电池更换](../../../assets/images/ins/8207_EN_UrinalSensor-ins-12.jpg)
 
 注意：确保电池安装正确（“+”正电荷和“-”负电荷）。不要混合新旧电池。请勿混用不同品牌的电池。
 
@@ -204,17 +204,17 @@ INSTALLATION & INSTRUCTIONS
 
 3. 在预埋盒四周用木块垫平，使预埋盒与地面保持同一水平线。进行进水管路给水测试，确认管路无渗漏水之处。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-13.jpg)
+![Urinal_Flush_Valve● 安装](../../../assets/images/ins/8207_EN_UrinalSensor-ins-13.jpg)
 
 4. 将保护盖从嵌入式盒中移开。连接好电源，将电源线端与电磁阀端子分别对接，然后将面板固定于预埋盒上即可。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-14.jpg)
+![Urinal_Flush_Valve● 安装](../../../assets/images/ins/8207_EN_UrinalSensor-ins-14.jpg)
 
 ## ● 安装
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-15.jpg)
+![Urinal_Flush_Valve● 安装](../../../assets/images/ins/8207_EN_UrinalSensor-ins-15.jpg)
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-16.jpg)
+![Urinal_Flush_Valve● 安装](../../../assets/images/ins/8207_EN_UrinalSensor-ins-16.jpg)
 
 5. 安装小便器套件
 
@@ -230,11 +230,11 @@ e.感应小便器即可使用。
 
 ## 后进水
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-17.jpg)
+![Urinal_Flush_Valve后进水](../../../assets/images/ins/8207_EN_UrinalSensor-ins-17.jpg)
 
 ## 上进水
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-18.jpg)
+![Urinal_Flush_Valve上进水](../../../assets/images/ins/8207_EN_UrinalSensor-ins-18.jpg)
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com

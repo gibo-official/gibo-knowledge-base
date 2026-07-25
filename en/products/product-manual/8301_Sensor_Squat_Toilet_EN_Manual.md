@@ -61,7 +61,7 @@ updated: 2026-07-14
 
 ## Product Specifications
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet Product Specifications](../../../assets/images/ins/8301_EN_ToiletSensor-ins-01.png)
 
 1. check whether the supply charge is complied with rated specification before your installation .
 
@@ -71,7 +71,7 @@ updated: 2026-07-14
 
 4. make sure the squaton the same center line with the flushing machine .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet Product Specifications](../../../assets/images/ins/8301_EN_ToiletSensor-ins-02.png)
 Embedded dimension
 
 ## Tofix the Pre - Laid Box
@@ -86,7 +86,7 @@ Embedded dimension
 
 Inlet pipe to ensure it is free of leakage .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-03.png)
+![Sensor_Squat_Toilet Tofix the Pre - Laid Box](../../../assets/images/ins/8301_EN_ToiletSensor-ins-03.png)
 
 ## Panel Installation
 
@@ -96,13 +96,13 @@ Inlet pipe to ensure it is free of leakage .
 
 3. remove construction protection cover after the wall is finished and connect the power supply . connect the power terminal with solenoid valve and fix the panel onto the pre - laid electronic box .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-04.png)
+![Sensor_Squat_Toilet Panel Installation](../../../assets/images/ins/8301_EN_ToiletSensor-ins-04.png)
 
 2. autoflush is actuated 9 seconds after someone has used it .
 
 3. when the squat is unused foralong time , the machine will activateaflush every 24 hours .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-05.png)
+![Sensor_Squat_Toilet Panel Installation](../../../assets/images/ins/8301_EN_ToiletSensor-ins-05.png)
 
 ## Maintenance Instructions
 
@@ -114,7 +114,7 @@ If you need to clean the filter , useawrench rotating the valve cover , remove
 
 The piston filter , rinse with the clean water after there - install back . note : clean the filter before the water supply valve to be closed .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-06.png)
+![Sensor_Squat_Toilet 2. Cleaning the Filter Ne](../../../assets/images/ins/8301_EN_ToiletSensor-ins-06.png)
 Fixed the panel back to original location after adjustment
 
 ## Change of Battery
@@ -129,7 +129,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 Batteries do not have enough power .( for DC current products )
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-07.png)
+![Sensor_Squat_Toilet Note:](../../../assets/images/ins/8301_EN_ToiletSensor-ins-07.png)
 
 ## Note:
 
@@ -137,31 +137,31 @@ Batteries do not have enough power .( for DC current products )
 
 \* do not clean it with acid or alkaline detergents .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-08.png)
+![Sensor_Squat_Toilet Note:](../../../assets/images/ins/8301_EN_ToiletSensor-ins-08.png)
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-09.png)
+![Sensor_Squat_Toilet Note:](../../../assets/images/ins/8301_EN_ToiletSensor-ins-09.png)
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-10.png)
+![Sensor_Squat_Toilet Note:](../../../assets/images/ins/8301_EN_ToiletSensor-ins-10.png)
 
 ## Common Troubleshooting
 
 If anything abnormal happens while using , please refer to the following table and solve accordingly . if the problem remains , call the service number .
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-11.png)
+![Sensor_Squat_Toilet Common Troubleshooting](../../../assets/images/ins/8301_EN_ToiletSensor-ins-11.png)
 
 ## Installation Scheme
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-12.png)
+![Sensor_Squat_Toilet Installation Scheme](../../../assets/images/ins/8301_EN_ToiletSensor-ins-12.png)
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-13.png)
+![Sensor_Squat_Toilet Installation Scheme](../../../assets/images/ins/8301_EN_ToiletSensor-ins-13.png)
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-14.png)
+![Sensor_Squat_Toilet Installation Scheme](../../../assets/images/ins/8301_EN_ToiletSensor-ins-14.png)
 
 ## Servicepartspage
 
 Solenoid valve components exploded view
 
-![](../../../assets/images/ins/8301_EN_ToiletSensor-ins-15.png)
+![Sensor_Squat_Toilet Servicepartspage](../../../assets/images/ins/8301_EN_ToiletSensor-ins-15.png)
 
 ## One-yearwarranty
 

@@ -65,7 +65,7 @@ A fl ush every 24 hours to prevent the water in the trap fromdrying UP andgiving
 
 ## PRODUCTSPECIFICATIONS
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet PRODUCTSPECIFICATIONS](../../../assets/images/ins/63068_EN_ToiletSensor-ins-01.png)
 UNIT mm:
 
 ## PREPARATORYWORK
@@ -76,17 +76,17 @@ UNIT mm:
 
 5. Pleaseopen the master va lve to clean the water way before IN stall i ng the product to avoid the bloc kag e.
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet PREPARATORYWORK](../../../assets/images/ins/63068_EN_ToiletSensor-ins-02.png)
 
 ## INSTALLATIONDRAWING
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-03.png)
+![Sensor_Squat_Toilet INSTALLATIONDRAWING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-03.png)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-04.png)
+![Sensor_Squat_Toilet INSTALLATIONDRAWING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-04.png)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-05.png)
+![Sensor_Squat_Toilet INSTALLATIONDRAWING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-05.png)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-06.png)
+![Sensor_Squat_Toilet INSTALLATIONDRAWING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-06.png)
 
 ## NOTE
 
@@ -100,11 +100,11 @@ test run the water for the inlet pipe to ensure it is free of leakage
 
 3When the sq uat is unused forAlong time the machine will activateAfl ush every 24 hou rs..
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-07.png)
+![Sensor_Squat_Toilet USAGEEXPOSITION](../../../assets/images/ins/63068_EN_ToiletSensor-ins-07.png)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-08.png)
+![Sensor_Squat_Toilet USAGEEXPOSITION](../../../assets/images/ins/63068_EN_ToiletSensor-ins-08.png)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-09.png)
+![Sensor_Squat_Toilet USAGEEXPOSITION](../../../assets/images/ins/63068_EN_ToiletSensor-ins-09.png)
 
 ## MAINTENANCEINSTRUCTIONS
 
@@ -114,7 +114,7 @@ If you need to clean the filter useAwrench rotati ng the va lve cover remove the
 
 after THE re - IN sta llback Cleanthe filter befo reN OTE : the water suPPly va lve to be closed .
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-10.png)
+![Sensor_Squat_Toilet MAINTENANCEINSTRUCTIONS](../../../assets/images/ins/63068_EN_ToiletSensor-ins-10.png)
 
 ## CHANGEOFBATTERY
 
@@ -126,27 +126,27 @@ Take out the battery box from themo u nti ngAND IN se rt IN batteriesAcco rd IN 
 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-11.png)
+![Sensor_Squat_Toilet CHANGEOFBATTERY](../../../assets/images/ins/63068_EN_ToiletSensor-ins-11.png)
 
 ## NOTE
 
 Please do not directly washit with water Use wet cloth to cleanit\* Do notcrush it or failure may be ca used .\* Do not cleanit with acid or Alka linedete rgents\*
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-12.png)
+![Sensor_Squat_Toilet NOTE](../../../assets/images/ins/63068_EN_ToiletSensor-ins-12.png)
 
 ## COMMONTROUBLESHOOTING
 
 if anything abnormal happens while using please refer to the following table and solve accordingly if the problem remains call the service number
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-13.png)
+![Sensor_Squat_Toilet COMMONTROUBLESHOOTING](../../../assets/images/ins/63068_EN_ToiletSensor-ins-13.png)
 
 ## SERVICEPARTSPAGE
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-14.png)
+![Sensor_Squat_Toilet SERVICEPARTSPAGE](../../../assets/images/ins/63068_EN_ToiletSensor-ins-14.png)
 
 ## B&CMODEL
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-15.png)
+![Sensor_Squat_Toilet B&CMODEL](../../../assets/images/ins/63068_EN_ToiletSensor-ins-15.png)
 
 ## ONE-YEARWARRANTY
 
@@ -164,9 +164,9 @@ if anything abnormal happens while using please refer to the following table and
 
 UNIT : mm
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-16.png)
+![Sensor_Squat_Toilet INSTALLATIONDRAWINGFOR B&CMODEL](../../../assets/images/ins/63068_EN_ToiletSensor-ins-16.png)
 
-![](../../../assets/images/ins/63068_EN_ToiletSensor-ins-17.png)
+![Sensor_Squat_Toilet INSTALLATIONDRAWINGFOR B&CMODEL](../../../assets/images/ins/63068_EN_ToiletSensor-ins-17.png)
 ---
 
 ## 联系方式

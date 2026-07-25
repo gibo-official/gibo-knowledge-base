@@ -118,7 +118,7 @@ STEP 2
 The control box back panel jack Alignment angle plate inserted in the end of the fixed angle(Shows the direction of the outlet should be down). Use the hose, Connected solenoid valve and the triangle valve. Control box is installed.
 
 Step 1  
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-01.jpg)
+![产品 INSTALLATION OF CONTROL BOX](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-01.jpg)
 
 Step 1:
 
@@ -134,11 +134,11 @@ Step 3:
 
 ## 安装参考图B
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-02.jpg)
+![产品安装参考图B](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-02.jpg)
 
 Install the gasket, spring gasket, nut and slotted flat point stud according to the sequence of the illustration and fix the assembled faucet on the basin.
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-03.jpg)
+![产品安装参考图B](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-03.jpg)
 
 ## 安装使用准备工作
 
@@ -187,9 +187,9 @@ Step2
 将控制线另一端插入航空插座并锁紧，再把G1/2软管的另一端旋到电磁阀出水端上，这样自动水龙头就全部组装好了。
 
 Step 3  
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.jpg)
+![产品第三步：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.jpg)
+![产品第三步：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.jpg)
 
 ![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.jpg)  
 Step 2
@@ -200,9 +200,9 @@ Step 2
 
 ## 技术参数
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-08.jpg)
+![产品技术参数](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-08.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-09.jpg)
+![产品技术参数](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-09.jpg)
 
 ## USE EXPOSITION
 
@@ -212,7 +212,7 @@ The faucet let out water when the hand reaches sensing area. 当手伸到感应�
 
 ## 使用说明
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-10.jpg)
+![产品使用说明](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-10.jpg)
 
 ## MAINTENANCE
 
@@ -226,7 +226,7 @@ Note: The filter net is at the water inlet. Please close triangle valve before t
 
 ## 清洗过滤网：
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-11.jpg)
+![产品清洗过滤网：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-11.jpg)
 
 新安装的产品，因管道中的沙石等极易在过滤网中产生淤堵，如使用中发现出水量减少时，请及时旋下过滤网冲洗，并按原样装回。
 
@@ -244,7 +244,7 @@ Screw off the 4 screws on the cover of the battery box to remove the cover.
 
 Step 2:
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-12.jpg)
+![产品更换电池](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-12.jpg)
 
 Change 4 new No.5 alkaline batteries and install the battery cover.
 
@@ -264,7 +264,7 @@ Step 1
 
 换上四节新的5号碱性电池，安装完毕后照原样装回。
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-13.jpg)
+![产品更换电池](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-13.jpg)
 
 注意：电池的正负极性必须正确，不同新旧或不同品牌的电池不能混用。
 
@@ -272,11 +272,11 @@ Step 2
 
 ## NOTES OF USE
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-14.jpg)
+![产品 NOTES OF USE](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-14.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-15.jpg)
+![产品 NOTES OF USE](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-15.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-16.jpg)
+![产品 NOTES OF USE](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-16.jpg)
 
 Do not clean with water instead with clean and dry soft cloth.
 请不要用水擦洗，应使用洁净的干软布清洁。
@@ -284,7 +284,7 @@ Do not clean with water instead with clean and dry soft cloth.
 Do not shake the faucet in case of any damage.  
 请不要摇晃龙头，否则易引起故障。
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-17.jpg)
+![产品 NOTES OF USE](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-17.jpg)
 
 ## COMMON TROUBLE SHOOTING
 
@@ -298,15 +298,15 @@ Do not wash with alkaline or acid detergents.
 
 ## 常见故障排除
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-18.jpg)
+![产品常见故障排除](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-18.jpg)
 
 ## INSTALLATION SCHEME
 
 ## 整体安装示意图
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-19.jpg)
+![产品整体安装示意图](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-19.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-20.jpg)
+![产品整体安装示意图](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-20.jpg)
 
 ## ONE-YEARWARRANTY
 
@@ -343,6 +343,6 @@ ensure better service from us.
 
 ## 维修零件图
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-21.jpg)
+![产品维修零件图](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-21.jpg)
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

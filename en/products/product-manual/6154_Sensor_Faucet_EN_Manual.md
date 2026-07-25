@@ -41,12 +41,12 @@ Surfaces should be maintained usingaclean damp cloth , no abrasive agents or mat
 
 ## Technical Specifica Tion
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Technical Specifica Tion](../../../assets/images/ins/6154_EN_SensorFaucet-ins-01.png)
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Technical Specifica Tion](../../../assets/images/ins/6154_EN_SensorFaucet-ins-02.png)
 a
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Technical Specifica Tion](../../../assets/images/ins/6154_EN_SensorFaucet-ins-03.png)
 
 ## Sensor Range Adjustment :
 
@@ -60,15 +60,15 @@ B , position your hand at the appropriate distance , the sensor will be self - a
 
 AC : connect the transformer
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Power Connection](../../../assets/images/ins/6154_EN_SensorFaucet-ins-04.png)
 
 DC : install 4 aa alkaline battery into the battery box .
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Power Connection](../../../assets/images/ins/6154_EN_SensorFaucet-ins-05.png)
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Power Connection](../../../assets/images/ins/6154_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Power Connection](../../../assets/images/ins/6154_EN_SensorFaucet-ins-07.png)
 
 ## Installation Step
 
@@ -82,7 +82,7 @@ Note : be sure no water leakage after connecting hose
 
 Cable connection
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Hose Connection](../../../assets/images/ins/6154_EN_SensorFaucet-ins-08.png)
 
 Connect cable with control box , then screw tightly
 
@@ -90,17 +90,17 @@ Note : should keep the cable clear and dry , be sure to work normally
 
 ## Parts Name
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Parts Name](../../../assets/images/ins/6154_EN_SensorFaucet-ins-09.png)
 
 ## Installation Step
 
 Faucet body installation
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Installation Step](../../../assets/images/ins/6154_EN_SensorFaucet-ins-10.png)
 
 1. fit the plastic pipe into the slot in the wall ,
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Installation Step](../../../assets/images/ins/6154_EN_SensorFaucet-ins-11.png)
 
 2. push the sensor cable and flexi hose through the pipe , and fix the faucet body .
 
@@ -108,7 +108,7 @@ Faucet body installation
 
 Control box installation
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Installation Step](../../../assets/images/ins/6154_EN_SensorFaucet-ins-12.png)
 
 1. put the control box on wall , drill four holes , then insert the plastic bulged tube .
 
@@ -126,7 +126,7 @@ Meanwhile , it must less than 50 cm distant from the basin .
 
 ( please check the following picture )
 
-![](../../../assets/images/ins/6154_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Note:](../../../assets/images/ins/6154_EN_SensorFaucet-ins-13.png)
 ---
 
 ## 联系方式

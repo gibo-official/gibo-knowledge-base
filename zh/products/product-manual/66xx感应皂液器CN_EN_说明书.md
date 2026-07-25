@@ -35,7 +35,7 @@ updated: 2026-07-10
 
 ## 喷香机结构
 
-![](../../../assets/images/ins/GIBO_CN_EN_SoapDispenser-ins-01.png)
+![感应皂液器喷香机结构](../../../assets/images/ins/GIBO_CN_EN_SoapDispenser-ins-01.png)
 
 ## 喷香机安装
 
@@ -49,7 +49,7 @@ updated: 2026-07-10
 
 ## the Dispenser Structure
 
-![](../../../assets/images/ins/GIBO_CN_EN_SoapDispenser-ins-02.png)
+![感应皂液器 the Dispenser Structure](../../../assets/images/ins/GIBO_CN_EN_SoapDispenser-ins-02.png)
 
 ## Mounting the Dispenser
 

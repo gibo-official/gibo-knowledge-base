@@ -35,7 +35,7 @@ updated: 2026-07-14
 
 Installation & Operation Instructions
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Automatic Sensor Faucets](../../../assets/images/ins/6157_EN_SensorFaucet-ins-01.png)
 
 ## Dear users:
 
@@ -71,7 +71,7 @@ Please clean the pipeline before installation, otherwise, the sand and other sol
 
 ## II. Technical Parameters
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet II. Technical Parameters](../../../assets/images/ins/6157_EN_SensorFaucet-ins-02.png)
 
 Strong impact is strictly forbidden!
 
@@ -83,36 +83,36 @@ Strong impact is strictly forbidden!
 
 三. 将龙头上的进水软管（G1/2）与控制盒的出水口连接紧固，然后将双头软管（自备G1/2）的一端与控制盒的进水口连接紧固，另一端与角阀相连接紧固。
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet IV. Decomposition diagram of product installation:](../../../assets/images/ins/6157_EN_SensorFaucet-ins-03.png)
 
 四. 确认所有管路无渗漏后，方可使用。
 注：单位：mm，尺寸带有“（）”为建议安装尺寸。规格尺寸仅供参考，工程作业时请以实物为主。
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet IV. Decomposition diagram of product installation:](../../../assets/images/ins/6157_EN_SensorFaucet-ins-04.png)
 When the red indicator on the sensor window flashes for 2-3 times every second, it indicates that the machine has run out of battery power, you need to replace the battery.
 
 ## V. Connection diagram of power cord
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet V. Connection diagram of power cord](../../../assets/images/ins/6157_EN_SensorFaucet-ins-05.png)
 A. 220V AC power outlet
 B. Control box power plug
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet V. Connection diagram of power cord](../../../assets/images/ins/6157_EN_SensorFaucet-ins-06.png)
 WARNING: The AC power supply can only be checked by professionals, non-professionals and children shall not check AC power supply, thus to avoid electric shock.
 
 ## VI. Replace the battery
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet VI. Replace the battery](../../../assets/images/ins/6157_EN_SensorFaucet-ins-07.png)
 
 ## VII. Clean the strainer
 
 The strainer may be clogged when the sensor is initially used or when the sensed flushing amount is reduced, please clean it promptly. Do remember to turn of the water supply before cleaning the strainer.
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet VII. Clean the strainer](../../../assets/images/ins/6157_EN_SensorFaucet-ins-08.png)
 
 ## VIII. Routine Care and Maintenance
 
-![](../../../assets/images/ins/6157_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet VIII. Routine Care and Maintenance](../../../assets/images/ins/6157_EN_SensorFaucet-ins-09.png)
 ---
 
 ## 联系方式

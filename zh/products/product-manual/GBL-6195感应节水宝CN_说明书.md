@@ -30,11 +30,11 @@ updated: 2026-07-10
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-01.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-01.png)
 
 感应节水宝 touchless faucet adapter
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-02.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-02.png)
 
 橡胶垫片
 
@@ -48,12 +48,12 @@ M22接头
 
 ## 产品配置
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-03.png)
+![感应节水宝产品配置](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-03.png)
 \*本产品适配M22外牙与M24内牙的龙头水嘴.
 
 ## 功能指示
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-04.png)
+![感应节水宝功能指示](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-04.png)
 
 长出水: 上感应窗为挥手出水, 再挥手停水. 短出水: 下感应窗为伸手出水, 收手停水
 
@@ -61,18 +61,18 @@ M22接头
 
 取下水嘴
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-05.png)
+![感应节水宝安装图示](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-05.png)
 
 1长出水:挥手上感应窗处, 龙头出水, 再挥手即停止; 3分钟超时出水保护
 
 2 短出水: 伸手至下感应窗处, 龙头出水, 手离开即停止; 3分钟超时出水保护.
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-06.png)
+![感应节水宝安装图示](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-06.png)
 1 长出水模式
 
 ## 产品使用
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-07.png)
+![感应节水宝产品使用](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-07.png)
 2 短出水模式
 
 ## 适用龙头
@@ -81,7 +81,7 @@ M22接头
 
 2 本产品不适合安装在抽拉龙头, 低弯菜盘龙头, 面盆龙头和其它异形龙头上.
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-08.png)
+![感应节水宝适用龙头](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-08.png)
 
 ## 使用维护
 
@@ -91,9 +91,9 @@ M22接头
 
 提 示 正常使用时, 电池续航时间约9个月; 若长期不使用, 请至少18个月内充电一次, 以防止电量耗尽, 无法充电.
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-09.png)
+![感应节水宝使用维护](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-09.png)
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-10.png)
+![感应节水宝使用维护](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-10.png)
 插入充电 充满时绿灯长亮
 连续闪烁需要充电
 
@@ -111,21 +111,21 @@ M22接头
 
 1
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-11.png)
+![感应节水宝使用注意事项](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-11.png)
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-12.png)
+![感应节水宝使用注意事项](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-12.png)
 2
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-13.png)
+![感应节水宝使用注意事项](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-13.png)
 3
 
 ## 技术参数
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-14.png)
+![感应节水宝技术参数](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-14.png)
 
 ## 常见问题处理
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-15.png)
+![感应节水宝常见问题处理](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-15.png)
 
 ## 安装后漏水
 
@@ -165,11 +165,11 @@ M22接头
 
 ## 合 格 证
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-16.png)
+![感应节水宝合 格 证](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-16.png)
 
 ## 保 修 卡
 
-![](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-17.png)
+![感应节水宝保 修 卡](../../../assets/images/ins/GBL-6195%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6A4%E4%B8%AD20190619-ins-17.png)
 ---
 
 ## 联系方式

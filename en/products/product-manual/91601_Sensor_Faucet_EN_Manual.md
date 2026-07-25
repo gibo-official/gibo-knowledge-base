@@ -55,28 +55,28 @@ updated: 2026-07-14
 
 ## Technical Parameter
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Technical Parameter](../../../assets/images/ins/91601_EN_SensorFaucet-ins-01.png)
 
 ## Installation Diagram
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Installation Diagram](../../../assets/images/ins/91601_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Installation Diagram](../../../assets/images/ins/91601_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Installation Diagram](../../../assets/images/ins/91601_EN_SensorFaucet-ins-04.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Installation Diagram](../../../assets/images/ins/91601_EN_SensorFaucet-ins-05.png)
 
 ## Installation Tools
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Installation Tools](../../../assets/images/ins/91601_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Installation Tools](../../../assets/images/ins/91601_EN_SensorFaucet-ins-07.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Installation Tools](../../../assets/images/ins/91601_EN_SensorFaucet-ins-08.png)
 Screwdriver
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Installation Tools](../../../assets/images/ins/91601_EN_SensorFaucet-ins-09.png)
 Movable Wrench
 4 Pcs Aa Batteries
 Gloves
@@ -96,7 +96,7 @@ Gloves
 
 2. The Screw In The Nut Should Ensure That The Screw Should Not Protrude The Nut, If The Faucet Can Not Be Secured Well, Tighten The Screw To Strengthen
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Attention :](../../../assets/images/ins/91601_EN_SensorFaucet-ins-10.png)
 
 II. Installation Of Flexible Hose / Weight / Signal Lines
 
@@ -110,7 +110,7 @@ II. Installation Of Flexible Hose / Weight / Signal Lines
 
 \- Connect The Signal Lines Between From Faucet Base And Control Box According To The Corresponding Color, Be Sure To Connect Well By Rotating The Nut In Firmly
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Attention :](../../../assets/images/ins/91601_EN_SensorFaucet-ins-11.png)
 
 ## Battery Box Installation
 
@@ -120,7 +120,7 @@ II. Installation Of Flexible Hose / Weight / Signal Lines
 
 Battery Bracket
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Battery Box Installation](../../../assets/images/ins/91601_EN_SensorFaucet-ins-12.png)
 
 ## Attention :
 
@@ -139,11 +139,11 @@ Battery Bracket
 
 ## Maintenance
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Maintenance](../../../assets/images/ins/91601_EN_SensorFaucet-ins-13.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet Maintenance](../../../assets/images/ins/91601_EN_SensorFaucet-ins-14.png)
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet Maintenance](../../../assets/images/ins/91601_EN_SensorFaucet-ins-15.png)
 
 1. Don'T Use Rough Objects To Scrape The The Sensor Module Window And Faucet Body, Such As Rough Linen, Brushes, Iron Sand Etc., To Avoid The Sensor Failure And Product Damage.
 
@@ -152,7 +152,7 @@ Battery Bracket
 
 ## Batteries Replacement
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet Batteries Replacement](../../../assets/images/ins/91601_EN_SensorFaucet-ins-16.png)
 
 1. For The Product Powered By Batteries, When The Power Is Going To Be Exhausted, The Indicator Light Will Flash Every 3 To 4 Seconds To Notify The Batteries To Be Replaced
 
@@ -170,11 +170,11 @@ Battery Bracket
 
 ## Common Troubleshooting
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet Common Troubleshooting](../../../assets/images/ins/91601_EN_SensorFaucet-ins-17.png)
 
 ## Packing List And Contents
 
-![](../../../assets/images/ins/91601_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet Packing List And Contents](../../../assets/images/ins/91601_EN_SensorFaucet-ins-18.png)
 
 ## Warranty Provisions
 

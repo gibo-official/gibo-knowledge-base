@@ -33,15 +33,15 @@ updated: 2026-07-14
 
 12  
 Step 1  
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-01.jpg)
+![Sensor_Basin_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-01.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-02.jpg)
+![Sensor_Basin_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-02.jpg)
 
 ●The following pictures for your reference do not necessarily comply with the products. Please contact the seller if you have any question related to installation. ●Make sure all the parts are ready.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-03.jpg)
+![Sensor_Basin_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-03.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-04.jpg)
+![Sensor_Basin_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-04.jpg)
 
 1. The use who chooses AC adapter for power supply,please be sure the voltage should be 220V in the area 2. Apply tap water to the machine. Do not use untreated sewerage or the electromagnetic valve may be damaged.
 
@@ -79,11 +79,11 @@ Insert the faucet main body into the basin, keep the faucet opposite to the basi
 
 Screw the check valve connector to the angle valve tightly (by hand), then screw the hose to the check valve connector tightly by professional installation tool.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-07.jpg)
+![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-07.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-08.jpg)
+![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-08.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-09.jpg)
+![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-09.jpg)
 
 Fifth step:
 
@@ -112,13 +112,13 @@ Integral installation drawing
 
 11.Considerate.External filter net can effectively remove particulate impurities such as fine sand in water Check valve is provided to prevent the reverse flow of hot and cold water at different pressure. Ensure safe use.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-11.jpg)
+![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-11.jpg)
 
 ![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-12.jpg)  
 Weak power indicating  
 Power-off automatic shutoff
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-13.jpg)
+![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-13.jpg)
 
 ![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-14.jpg)  
 1 minute timeout protection
@@ -127,15 +127,15 @@ Power-off automatic shutoff
 
 ## TECHNICAL STATISTICS
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-15.jpg)
+![Sensor_Basin_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-15.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-16.jpg)
+![Sensor_Basin_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-16.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-17.jpg)
+![Sensor_Basin_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-17.jpg)
 
 ## NOTES OF USE
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-18.jpg)
+![Sensor_Basin_Faucet NOTES OF USE](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-18.jpg)
 
 ![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-19.jpg)  
 Do not clean with water instead with clean and dry soft cloth.
@@ -154,13 +154,13 @@ Do not wash with alkaline or acid detergents.
 
 4.Rotate the handle clockwise or anticlockwise to adjust the water temperature according to the indication of cold (blue) and hot (red).
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-21.jpg)
+![Sensor_Basin_Faucet USE EXPOSITION](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-21.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-22.jpg)
+![Sensor_Basin_Faucet USE EXPOSITION](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-22.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-23.jpg)
+![Sensor_Basin_Faucet USE EXPOSITION](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-23.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-24.jpg)
+![Sensor_Basin_Faucet USE EXPOSITION](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-24.jpg)
 
 ## MAINTENANCE
 
@@ -176,7 +176,7 @@ Note: The filter net is at the water inlet. Please close
 
 triangle valve before take out the filter net.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-25.jpg)
+![Sensor_Basin_Faucet Cleaning the filter net:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-25.jpg)
 
 ## BATTERY CHANGING
 
@@ -188,7 +188,7 @@ When there is no power left in the battery, the sensor will shut downthe battery
 
 Step 1：
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-26.jpg)
+![Sensor_Basin_Faucet更换电池](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-26.jpg)
 
 Screw off the 4 screws on the cover of the battery box to remove the cover.
 
@@ -198,11 +198,11 @@ Change 4 new No.5 alkaline batteries and install the battery cover.
 
 Note: The polarity of batteries must be correct. Do not mix old and new batteries or batteries of different brands.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-27.jpg)
+![Sensor_Basin_Faucet更换电池](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-27.jpg)
 
 ## COMMON TROUBLE SHOOTING
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-28.jpg)
+![Sensor_Basin_Faucet COMMON TROUBLE SHOOTING](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-28.jpg)
 
 ## ONE-YEARWARRANTY
 

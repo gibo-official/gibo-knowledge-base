@@ -43,14 +43,14 @@ updated: 2026-07-14
 
 ●Please prepare the following tools: Monkey wrench, Glove, Batteries(4pcs of AA),etc.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/6170_EN_SensorFaucet-ins-01.png)
 ●The following pictures for your reference do not necessarily comply with the products. Please contact the seller if you have any question related to installation. ●make sure all the parts are ready.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/6170_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/6170_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/6170_EN_SensorFaucet-ins-04.png)
 
 1. The use who chooses AC adapter for power supply,please be sure the voltage should be 220V in the area. 2. Apply tap water to the machine. Do not use untreated sewerage or the electromagnetic valve may be damaged.
 
@@ -64,10 +64,10 @@ updated: 2026-07-14
 
 7. Suit basin as following picture.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/6170_EN_SensorFaucet-ins-05.png)
 Available for under counter basin
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/6170_EN_SensorFaucet-ins-06.png)
 Unavailable for above counter basin
 
 ## INSTALLATION OF THE FAUCET
@@ -88,11 +88,11 @@ Fourth step:
 
 Screw the check valve connector to the angle valve tightly (by hand), then screw the hose to the check valve connector tightly by professional installation tool.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-07.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-08.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-09.png)
 
 Fifth step:
 
@@ -102,7 +102,7 @@ Sixth step:
 
 Open the cold and hot angle valve, reach for induction and wave for side induction, and turn on/off the handl to test whether the product is in normal use, then check whether the water hose and the adapter are leaking.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-10.png)
 Integral installation drawing
 
 02.Free your hands. Open and close the water automatically with manual switch, easy to use.
@@ -121,37 +121,37 @@ Integral installation drawing
 
 11.Considerate.External filter net can effectively remove particulate impurities such as fine sand in water Check valve is provided to prevent the reverse flow of hot and cold water at different pressure. Ensure safe use
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-12.png)
 Weak power indicating
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-13.png)
 Power-off automatic shut off
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet INSTALLATION OF THE FAUCET](../../../assets/images/ins/6170_EN_SensorFaucet-ins-14.png)
 1 minute timeout protection
 
 3 minutes time out protection
 
 ## TECHNICAL STATISTICS
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/6170_EN_SensorFaucet-ins-15.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/6170_EN_SensorFaucet-ins-16.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/6170_EN_SensorFaucet-ins-17.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/6170_EN_SensorFaucet-ins-18.png)
 
 ## NOTES OF USE
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-19.png)
+![Sensor_Faucet NOTES OF USE](../../../assets/images/ins/6170_EN_SensorFaucet-ins-19.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-20.png)
+![Sensor_Faucet NOTES OF USE](../../../assets/images/ins/6170_EN_SensorFaucet-ins-20.png)
 Do not clean with water instead with clean and dry soft cloth.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-21.png)
+![Sensor_Faucet NOTES OF USE](../../../assets/images/ins/6170_EN_SensorFaucet-ins-21.png)
 Do not shake the faucet in case of any damage.
 Do not wash with alkaline or acid detergents.
 
@@ -165,13 +165,13 @@ Do not wash with alkaline or acid detergents.
 
 4.Rotate the handle clockwise or anticlockwise to adjust the water temperature according to the indication of cold (blue) and hot (red).
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-22.png)
+![Sensor_Faucet USE EXPOSITION](../../../assets/images/ins/6170_EN_SensorFaucet-ins-22.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-23.png)
+![Sensor_Faucet USE EXPOSITION](../../../assets/images/ins/6170_EN_SensorFaucet-ins-23.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-24.png)
+![Sensor_Faucet USE EXPOSITION](../../../assets/images/ins/6170_EN_SensorFaucet-ins-24.png)
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-25.png)
+![Sensor_Faucet USE EXPOSITION](../../../assets/images/ins/6170_EN_SensorFaucet-ins-25.png)
 
 ## MAINTENANCE
 
@@ -187,7 +187,7 @@ Note: The filter net is at the water inlet. Please close
 
 triangle valve before take out the filter net.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-26.png)
+![Sensor_Faucet Cleaning the filter net:](../../../assets/images/ins/6170_EN_SensorFaucet-ins-26.png)
 
 ## BATTERY CHANGING
 
@@ -199,7 +199,7 @@ When there is no power left in the battery, the sensor will shut downthe battery
 
 Step 1：
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-27.png)
+![Sensor_Faucet更换电池](../../../assets/images/ins/6170_EN_SensorFaucet-ins-27.png)
 
 Screw off the 4 screws on the cover of the battery box to remove the cover.
 
@@ -209,11 +209,11 @@ Change 4 new No.5 alkaline batteries and install the battery cover.
 
 Note: The polarity of batteries must be correct. Do not mix old and new batteries or batteries of different brands.
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-28.png)
+![Sensor_Faucet更换电池](../../../assets/images/ins/6170_EN_SensorFaucet-ins-28.png)
 
 ## COMMON TROUBLE SHOOTING
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-29.png)
+![Sensor_Faucet COMMON TROUBLE SHOOTING](../../../assets/images/ins/6170_EN_SensorFaucet-ins-29.png)
 
 ## ONE-YEARWARRANTY
 
@@ -233,7 +233,7 @@ Note: The polarity of batteries must be correct. Do not mix old and new batterie
 
 ## SERVICE PARTSPAGE
 
-![](../../../assets/images/ins/6170_EN_SensorFaucet-ins-30.png)
+![Sensor_Faucet SERVICE PARTSPAGE](../../../assets/images/ins/6170_EN_SensorFaucet-ins-30.png)
 
 FUJIAN GIBO KITCHEN & BATHROOM TEC. CO., LTD. Address :B-54, Pushang Inductrial park,Cangshan District Fuzhou,China Tel:400-6622-16 www.gibo.com.cn
 ---

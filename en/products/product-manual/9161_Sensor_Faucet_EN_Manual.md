@@ -31,9 +31,9 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet感应水龙头](../../../assets/images/ins/9161_EN_SensorFaucet-ins-01.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet感应水龙头](../../../assets/images/ins/9161_EN_SensorFaucet-ins-02.png)
 
 Thankyou for choosing our product for your home . your new faucet will give you years of trouble free performance . please read all of these instructions carefully before installing your new faucet . for installation help , questions , problems , missing parts , please contact us first .
 
@@ -53,42 +53,42 @@ Thankyou for choosing our product for your home . your new faucet will give you 
 
 ## Package Contents
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Package Contents](../../../assets/images/ins/9161_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Package Contents](../../../assets/images/ins/9161_EN_SensorFaucet-ins-04.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Package Contents](../../../assets/images/ins/9161_EN_SensorFaucet-ins-05.png)
 
 Before beginning the installation of this product , ensure all parts are present . compare parts with the package contents list . if any part is missing or damaged , do not attempt to install the product . contact customer service for replacement parts .
 
 ## Tools and Hardware Required
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-07.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-08.png)
 Adjustable Wrench
 Screwdriver
 Safety goggles
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-09.png)
 Pliers
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-10.png)
 Teflon tape
 Silicone sealant
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Tools and Hardware Required](../../../assets/images/ins/9161_EN_SensorFaucet-ins-12.png)
 6 mm diameter electric drill
 
 ## Installation
 
 ## 1. Instal the Faucet Assembly
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet 1. Instal the Faucet Assembly](../../../assets/images/ins/9161_EN_SensorFaucet-ins-13.png)
 
 Caution : always turn off the water supply before removing an existing faucetor replacing any partofafaucet . open the faucet handle to relieve water pressure and ensure the water is completely shut off .
 
@@ -112,9 +112,9 @@ Proceed to step 3
 
 ○ install the faucet body (4)- including supply hoses and sensor cable ( a )- through the hole in the sink .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-14.png)
+![Sensor_Faucet 2.instal the Escutcheon](../../../assets/images/ins/9161_EN_SensorFaucet-ins-14.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-15.png)
+![Sensor_Faucet 2.instal the Escutcheon](../../../assets/images/ins/9161_EN_SensorFaucet-ins-15.png)
 
 ## 3. Fixate the Faucet Assembly
 
@@ -122,11 +122,11 @@ Proceed to step 3
 
 ○ thread the mounting nut (7) onto the shank using the wrench provided to tighten firmly .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-16.png)
+![Sensor_Faucet 3. Fixate the Faucet Assembly](../../../assets/images/ins/9161_EN_SensorFaucet-ins-16.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-17.png)
+![Sensor_Faucet 3. Fixate the Faucet Assembly](../../../assets/images/ins/9161_EN_SensorFaucet-ins-17.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-18.png)
+![Sensor_Faucet 3. Fixate the Faucet Assembly](../../../assets/images/ins/9161_EN_SensorFaucet-ins-18.png)
 
 ## . Instal the Sensor Cable
 
@@ -136,17 +136,17 @@ Note : the side of the control box (8) with " in " and " out " showing must face
 
 \- secure the connection by hand tightening thenut ( b ) inaclockwise direction onto the threaded sensor cable .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-19.png)
+![Sensor_Faucet . Instal the Sensor Cable](../../../assets/images/ins/9161_EN_SensorFaucet-ins-19.png)
 
 If the connection are not made properly , the sensor feature will not work .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-20.png)
+![Sensor_Faucet . Instal the Sensor Cable](../../../assets/images/ins/9161_EN_SensorFaucet-ins-20.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-21.png)
+![Sensor_Faucet . Instal the Sensor Cable](../../../assets/images/ins/9161_EN_SensorFaucet-ins-21.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-22.png)
+![Sensor_Faucet . Instal the Sensor Cable](../../../assets/images/ins/9161_EN_SensorFaucet-ins-22.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-23.png)
+![Sensor_Faucet . Instal the Sensor Cable](../../../assets/images/ins/9161_EN_SensorFaucet-ins-23.png)
 
 ## Installation
 
@@ -160,7 +160,7 @@ Note : this step is for batteries installation .
 
 Thenegative ends of the battery ( q ) should always connect to the spring end of the battery slots in the battery pack . see fig 2.
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-24.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-24.png)
 
 ○ reinstall the battery pack cover ( a ) by pushing up and snapping into place . see fig 3.
 
@@ -170,13 +170,13 @@ Fig 1
 
 Fig 2
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-25.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-25.png)
 
 Fig 3
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-26.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-26.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-27.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-27.png)
 
 6. installation using the battery pack
 
@@ -184,17 +184,17 @@ Fig 3
 
 After installing the battery pack , the lighton the sensor will flash and the faucet will sound when you move your hand in the sensor area , if not , check to ensure the batteries are installed correctly .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-28.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-28.png)
 
 If the connection are not made properly , the sensor feature will not work .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-29.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-29.png)
 
 The light will flash
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-30.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-30.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-31.png)
+![Sensor_Faucet 5 .instal the Batteries](../../../assets/images/ins/9161_EN_SensorFaucet-ins-31.png)
 
 ## Installation
 
@@ -208,19 +208,19 @@ Note : this step is for batteries installation , before installation , select th
 
 ☐ screw installation : drill holes in the wall using a 6 mm (15/16") diameter drill bit . install the battery pack seat ( a ) using the molly anchors ( b ) and screws ( c ) provided . place the battery pack (9) into the battery pack seat ( a )
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-32.png)
+![Sensor_Faucet 7. Place the Battery Pack Into the Battery Pack Seat](../../../assets/images/ins/9161_EN_SensorFaucet-ins-32.png)
 
 Option 1
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-33.png)
+![Sensor_Faucet 7. Place the Battery Pack Into the Battery Pack Seat](../../../assets/images/ins/9161_EN_SensorFaucet-ins-33.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-34.png)
+![Sensor_Faucet 7. Place the Battery Pack Into the Battery Pack Seat](../../../assets/images/ins/9161_EN_SensorFaucet-ins-34.png)
 
 8. install hose in control valve connection
 
 ○ connect the hose with the green ( inlet ) tag to the hose on the control box (8) withamatching ( inlet ) tag connection together until they snap into place .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-35.png)
+![Sensor_Faucet 7. Place the Battery Pack Into the Battery Pack Seat](../../../assets/images/ins/9161_EN_SensorFaucet-ins-35.png)
 
 ## 9. Install Hose in the Control Box
 
@@ -228,11 +228,11 @@ Option 1
 
 ○ second , after the connection joint in the control box ( outlet ) connection until they snap into place .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-36.png)
+![Sensor_Faucet 9. Install Hose in the Control Box](../../../assets/images/ins/9161_EN_SensorFaucet-ins-36.png)
 
 Please note that the gasket inside on both ends of the connector , don ' t lose them , otherwise will not be able to effectively seal
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-37.png)
+![Sensor_Faucet 9. Install Hose in the Control Box](../../../assets/images/ins/9161_EN_SensorFaucet-ins-37.png)
 
 ## Installation
 
@@ -240,7 +240,7 @@ Please note that the gasket inside on both ends of the connector , don ' t lose 
 
 ○ install the weight clip ( a ) at the pointof the hose ( b ).
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-38.png)
+![Sensor_Faucet 10. Instal the Weight Clip](../../../assets/images/ins/9161_EN_SensorFaucet-ins-38.png)
 
 ## 11. Instal the Water Supply Connection
 
@@ -252,7 +252,7 @@ Note : avoid twisting wires together or placing the wires close to each other an
 
 Donotovertighten .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-39.png)
+![Sensor_Faucet 11. Instal the Water Supply Connection](../../../assets/images/ins/9161_EN_SensorFaucet-ins-39.png)
 
 ## Operation
 
@@ -260,7 +260,7 @@ Donotovertighten .
 
 8
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-40.png)
+![Sensor_Faucet 1. Flush and Check for Leaks](../../../assets/images/ins/9161_EN_SensorFaucet-ins-40.png)
 
 Important : after installation is completed . turn on the hot and cold water supplies . check for leaks . do not lose the gasket ( a ) in the hose .
 
@@ -271,7 +271,7 @@ Thus flushes away any debris that could cause damage to internal parts . check f
 
 ○ re tighten any connections if necessary , but donotovertighten . reinstall the spray head by hand tightening it back onto the spray hose inaclockwise direction .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-41.png)
+![Sensor_Faucet 1. Flush and Check for Leaks](../../../assets/images/ins/9161_EN_SensorFaucet-ins-41.png)
 
 ## 2. Flush and Check for Leaks
 
@@ -285,7 +285,7 @@ Turn the handle ( a ) to the full on position , activating the sensor ( b ) and 
 
 ○ leave the handle ( a ) in the on position , and you can start and stop the flow of water simply withawave of your hand .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-42.png)
+![Sensor_Faucet 2. Flush and Check for Leaks](../../../assets/images/ins/9161_EN_SensorFaucet-ins-42.png)
 
 ## Care and Cleaning
 
@@ -299,21 +299,21 @@ Do not use abrasive cleaners , steel wool , or harsh chemicals when cleaning thi
 
 ○ but when you turn the handle to the full off position , the water does not turn off .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-43.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-43.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-44.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-44.png)
 
 ## Troubleshooting
 
 ○ this indicates that the cartridge is damaged . turn off the water supply , remove the handle and replace the cartridge ( a ).
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-45.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-45.png)
 
 2. the lighton the sensor is flashing continuously
 
 ☐ if the handle is closed , turn the handle to the on position and move your hand in the sensor area . if the sensor flashes 10 times continuously and slowly , then replace the 4" aa " batteries .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-46.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-46.png)
 
 3. the sensor is not activating the water flow .
 
@@ -321,13 +321,13 @@ Do not use abrasive cleaners , steel wool , or harsh chemicals when cleaning thi
 
 ○ but when you turn the handle to the full off position , the water does not turn off .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-47.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-47.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-48.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-48.png)
 
 ☐ this indicates that the control box is damaged . call customer service to requestareplacement control box . replace the old control box with the new control box .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-49.png)
+![Sensor_Faucet Troubleshooting](../../../assets/images/ins/9161_EN_SensorFaucet-ins-49.png)
 
 ## Emergency Plan
 
@@ -335,19 +335,19 @@ Do not use abrasive cleaners , steel wool , or harsh chemicals when cleaning thi
 
 Refer tofigure (4), look at control box , find stem ( b ), rotate stem counterclockwise withacoin orascrewdriver , and open the solenoid valve , then you can use the handle to control the water flow .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-50.png)
+![Sensor_Faucet Emergency Plan](../../../assets/images/ins/9161_EN_SensorFaucet-ins-50.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-51.png)
+![Sensor_Faucet Emergency Plan](../../../assets/images/ins/9161_EN_SensorFaucet-ins-51.png)
 
 When you have new battery , please close the valve clockwise at first ( b ), and then replace the battery .
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-52.png)
+![Sensor_Faucet Emergency Plan](../../../assets/images/ins/9161_EN_SensorFaucet-ins-52.png)
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-53.png)
+![Sensor_Faucet Emergency Plan](../../../assets/images/ins/9161_EN_SensorFaucet-ins-53.png)
 
 ## Specification
 
-![](../../../assets/images/ins/9161_EN_SensorFaucet-ins-54.png)
+![Sensor_Faucet Specification](../../../assets/images/ins/9161_EN_SensorFaucet-ins-54.png)
 ---
 
 ## 联系方式

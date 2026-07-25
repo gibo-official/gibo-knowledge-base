@@ -55,7 +55,7 @@ Water flushing the urinal flusher must not be impure,acid,alkaline or dirty wate
 
 Don't dip the urinal flusher into water or spray water onto it due to circuit and electronic components installed inside it.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-01.png)
+![All_in_One NOTES:](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-01.png)
 
 3 DC Battery Case/AC Electric Source Installation
 
@@ -74,11 +74,11 @@ Please make sure to cut off power source and have earth connection when you inst
 
 1) Unscrewing Coupling Nut.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-02.png)
+![All_in_One 1 INSTALLING SENSOR PANEL COMPONENTS](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-02.png)
 
 2) Installing the Sensor Panel onto Urinal window, and positioning correctly the Panel Frame. Screwing tightly the Coupling Nut after installing the Fixation Panel.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-03.png)
+![All_in_One 1 INSTALLING SENSOR PANEL COMPONENTS](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-03.png)
 
 ## 2 URINAL FLUSH INSTALLATION
 
@@ -88,9 +88,9 @@ Please make sure to cut off power source and have earth connection when you inst
 4) Connect sensor and solenoid valve wires.
 Attention that the same color wires should be connected to each other.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-04.png)
+![All_in_One 2 URINAL FLUSH INSTALLATION](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-04.png)
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-05.png)
+![All_in_One 2 URINAL FLUSH INSTALLATION](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-05.png)
 
 ## 4 Trial Operation
 
@@ -98,7 +98,7 @@ Attention that the same color wires should be connected to each other.
 
 2) If Flushe ris used in appropriate places, then normally uses. This product is factory sensor distance for $60 \pm 5\mathrm{cm}$
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-06.png)
+![All_in_One 4 Trial Operation](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-06.png)
 
 ## HOW TO USE
 
@@ -113,19 +113,19 @@ Attention that the same color wires should be connected to each other.
 
 \* During use, flusher starts Preliminary Flush with low water volume. After User leaves, Valve flushes again.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-07.png)
+![All_in_One 2 Normal Functions (Normal Mode)](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-07.png)
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-08.png)
+![All_in_One 2 Normal Functions (Normal Mode)](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-08.png)
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-09.png)
+![All_in_One 2 Normal Functions (Normal Mode)](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-09.png)
 
 \* No Preliminary Flush with frequent use (use interval is less than 1minute).
 
 \* Automatic flush once after 24 hours of no use, for preventing dry and stinking siphon.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-10.png)
+![All_in_One 2 Normal Functions (Normal Mode)](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-10.png)
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-11.png)
+![All_in_One 2 Normal Functions (Normal Mode)](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-11.png)
 
 Automatic flush once after 24 hours of no use
 
@@ -134,7 +134,7 @@ Automatic flush once after 24 hours of no use
 \* Batteries installed, Sensor turns off Electromagnetic Valve automatically. Ready for use;
 \* With low battery,Indicator will doubly flash for alarming, and Flush will stop. If low battery happens during flushing, Flusher Will stop flushing first and then Indicator flash.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-12.png)
+![All_in_One 2) Water Stop Control](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-12.png)
 
 Flow Rate Adjusting Wrench
 Too low or too high Flow Rate could be adjusted to be moderate by adjusting Flow Rate Adjusting Valve.
@@ -143,7 +143,7 @@ Too low or too high Flow Rate could be adjusted to be moderate by adjusting Flow
 
 With low battery, Indicator will doubly flash for alarming
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-13.png)
+![All_in_One 2) Water Stop Control](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-13.png)
 
 With slower flow rate for unknown reasons, Please clean Strainer Steps for cleaning straing.
 1) Turn off Flow Rate Adjusting Valve with screw driver turned anti clock wise (this method is nearly the flow rate adjusting wrench)
@@ -151,11 +151,11 @@ With slower flow rate for unknown reasons, Please clean Strainer Steps for clean
 3) After flushing clean, reinstall Strainer.
 4) Screwdriver until moderate flow is reached.
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-14.png)
+![All_in_One 2) Water Stop Control](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-14.png)
 
 Solenoid valveassy
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-15.png)
+![All_in_One 2) Water Stop Control](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-15.png)
 
 BATTERY REPALCEMENT
 
@@ -167,7 +167,7 @@ REMARKS: Please change batteries when indicator starts double flashing slowly an
 
 3)Reinstall the battery cover, screw 4 bolts with Crossed Screwdriver;
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-16.png)
+![All_in_One 2) Water Stop Control](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-16.png)
 
 ## ATTENTION POINTS
 
@@ -175,13 +175,13 @@ REMARKS: Please change batteries when indicator starts double flashing slowly an
 
 ## TROUBLESHOOTING GUIDE
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-17.png)
+![All_in_One TROUBLESHOOTING GUIDE](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-17.png)
 
 \*WITH ANY PROBLEMS NOT LISTED ABOVE HAPPENS, PLEASE CONTACT OUR TECHNICIANS!
 
 ## PRODUCT PARAMETERS
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-18.png)
+![All_in_One PRODUCT PARAMETERS](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-18.png)
 
 All finishes: clean the finish withAmild soap and warm water. wipe entire surface completely dry withAclean soft cloth. Many cleaners may contain chemicals, such as ammonia chlorine, toilet cleaner etc., Which could adversely affect the finish and are not recommended for cleaning.
 
@@ -193,11 +193,11 @@ Our company provides one years warranty for it's valve free during normal reside
 
 ## INSTALLATION DIAGRAM
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-19.png)
+![All_in_One INSTALLATION DIAGRAM](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-19.png)
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-20.png)
+![All_in_One INSTALLATION DIAGRAM](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-20.png)
 
-![](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-21.png)
+![All_in_One INSTALLATION DIAGRAM](../../../assets/images/ins/6238%E8%8B%B1%E6%96%87%E4%B8%80%E4%BD%93%E5%BC%8F%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%89%E6%8A%98%E9%A1%B52017-ins-21.png)
 ---
 
 ## 联系方式

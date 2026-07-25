@@ -61,7 +61,7 @@ The following pictures for yourreference do not necessa rily com ply with the pr
 
 ## PRODUCT SPECIFICATIONS
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-01.png)
+![Sensor_Squat_Toilet PRODUCT SPECIFICATIONS](../../../assets/images/ins/6303_EN_ToiletSensor-ins-01.png)
 UNIT mm:
 
 ## BEFORE YOU BEGIN
@@ -72,19 +72,19 @@ UNIT mm:
 
 5. Pleaseopen the master va lve to cleanthe water way before IN stall i ng the product to avoid the bloc kag e.
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-02.png)
+![Sensor_Squat_Toilet BEFORE YOU BEGIN](../../../assets/images/ins/6303_EN_ToiletSensor-ins-02.png)
 
 ## INSTALLATION DRAWING
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-03.png)
+![Sensor_Squat_Toilet INSTALLATION DRAWING](../../../assets/images/ins/6303_EN_ToiletSensor-ins-03.png)
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-04.png)
+![Sensor_Squat_Toilet INSTALLATION DRAWING](../../../assets/images/ins/6303_EN_ToiletSensor-ins-04.png)
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-05.png)
+![Sensor_Squat_Toilet INSTALLATION DRAWING](../../../assets/images/ins/6303_EN_ToiletSensor-ins-05.png)
 
 ## NOTE
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-06.png)
+![Sensor_Squat_Toilet NOTE](../../../assets/images/ins/6303_EN_ToiletSensor-ins-06.png)
 
 \*Test run the water for the IN l et pipe to ensure it IS free oflea kage .
 
@@ -96,7 +96,7 @@ UNIT mm:
 
 3When the sq uat is unused forAlong time the machine will activateAfl ush every 24 hou rs..
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-07.png)
+![Sensor_Squat_Toilet USAGE EXPOSITION](../../../assets/images/ins/6303_EN_ToiletSensor-ins-07.png)
 
 ## MAINTENANCE INSTRUCTIONS
 
@@ -106,7 +106,7 @@ If you need to clean the filter useAwrench rotati ng the va lve cover remove the
 
 N OTE : Cleanthe filter before the water suPPly va lve to be closed .
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-08.png)
+![Sensor_Squat_Toilet MAINTENANCE INSTRUCTIONS](../../../assets/images/ins/6303_EN_ToiletSensor-ins-08.png)
 
 ## CHANGE OF BATTERY
 
@@ -118,19 +118,19 @@ Take out the battery box from themo u nti ngAND IN se rt IN batteriesAcco rd IN 
 
 \* Pleasecha ngebatteries when theind icatelig ht keeps flAshingind icati ng the batteries do not have enough power. (Fo r DC currentproducts)
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-09.png)
+![Sensor_Squat_Toilet CHANGE OF BATTERY](../../../assets/images/ins/6303_EN_ToiletSensor-ins-09.png)
 
 ## NOTE
 
 PleasedON ot direct ly washit with water Use wet clothto cleanit.\* Do notcrush it or failure may be caused\* Do not cleanit with acid or Alka linedete rgents\*
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-10.png)
+![Sensor_Squat_Toilet NOTE](../../../assets/images/ins/6303_EN_ToiletSensor-ins-10.png)
 
 ## COMMON TROUBLE SHOOTING
 
 if anything abnormal happens while using please refer to the following table and solve accordingly if the problem remains call the service number
 
-![](../../../assets/images/ins/6303_EN_ToiletSensor-ins-11.png)
+![Sensor_Squat_Toilet COMMON TROUBLE SHOOTING](../../../assets/images/ins/6303_EN_ToiletSensor-ins-11.png)
 
 ## ONE-YEARWARRANTY
 

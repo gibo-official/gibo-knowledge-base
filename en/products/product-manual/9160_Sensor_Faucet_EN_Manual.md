@@ -46,21 +46,21 @@ temperature adjusting, swivel faucet, suction hose and switching of soft water a
 
 ## ECHNICAL PARAMETERS
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-01.jpg)
+![Sensor_Faucet ECHNICAL PARAMETERS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-01.jpg)
 
 ## INSTALLATION DIAGRAM
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-02.jpg)
+![Sensor_Faucet INSTALLATION DIAGRAM](../../../assets/images/ins/9160_EN_SensorFaucet-ins-02.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-03.jpg)
+![Sensor_Faucet INSTALLATION DIAGRAM](../../../assets/images/ins/9160_EN_SensorFaucet-ins-03.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-04.jpg)
+![Sensor_Faucet INSTALLATION DIAGRAM](../../../assets/images/ins/9160_EN_SensorFaucet-ins-04.jpg)
 
 ## INSTALLATION TOOLS
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-05.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-05.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-06.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-06.jpg)
 
 ![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-07.jpg)  
 screwdriver  
@@ -85,11 +85,11 @@ Attention:
 
 2. Make sure the screw in nut don't protrude out, and screw the nut if the faucet is not firm.
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-09.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-09.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-10.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-10.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-11.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-11.jpg)
 
 1. To install the products with battery, it is required to drill two holes in the wall beneath the sink. The distance of the two holes is 7.5cm and the holes are 0.5cm in diameter and 3.5cm in depth. Then put the expansion screws into the holes.
 
@@ -99,7 +99,7 @@ Attention:
 
 The holder of the battery box
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-12.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-12.jpg)
 
 1. When drilling, please avoid the water pipes and spools;
 
@@ -118,11 +118,11 @@ flows in right temperature as indicated. If not, pls tighten the nuts again or a
 
 ## MAINTENANCE
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-13.jpg)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9160_EN_SensorFaucet-ins-13.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-14.jpg)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9160_EN_SensorFaucet-ins-14.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-15.jpg)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9160_EN_SensorFaucet-ins-15.jpg)
 
 1. Do not wipe clean the sensor kits and faucet body with coarse linen, brush, iron sand and
 
@@ -130,18 +130,18 @@ so on, avoid sensor failure or products defects.
 
 2. Please avoid any rocking or violent motion.
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-16.jpg)
+![Sensor_Faucet MAINTENANCE](../../../assets/images/ins/9160_EN_SensorFaucet-ins-16.jpg)
 
 3. Please DO NOT use acid or alkaline detergents for cleaning.
 
 ## CHANGING BATTERIES
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-17.jpg)
+![Sensor_Faucet CHANGING BATTERIES](../../../assets/images/ins/9160_EN_SensorFaucet-ins-17.jpg)
 
 1. Indicator light will flash every 3–4 seconds if battery power is low alerting you to change batteries.
 2. Please remove the cover and the batteries from the battery case.
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-18.jpg)
+![Sensor_Faucet CHANGING BATTERIES](../../../assets/images/ins/9160_EN_SensorFaucet-ins-18.jpg)
 
 3. Replace with four AA alkaline batteries and reinsert the screws back into the battery case.
 
@@ -161,7 +161,7 @@ batteries of different brands.
 
 ## PACKING LIST
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-19.jpg)
+![Sensor_Faucet PACKING LIST](../../../assets/images/ins/9160_EN_SensorFaucet-ins-19.jpg)
 
 ## WARRANTY
 

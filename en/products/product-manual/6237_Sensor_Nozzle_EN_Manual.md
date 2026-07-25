@@ -31,7 +31,7 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-01.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/6237_EN_SensorNozzle-ins-01.png)
 
 INSTALLATION INSTRUCTIONS
 
@@ -45,17 +45,17 @@ Automatic Urinal Flush
 
 install sensor plate 1 unscrew the nut
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-02.png)
+![Sensor_Nozzle INSTALLATION](../../../assets/images/ins/6237_EN_SensorNozzle-ins-02.png)
 
 2 install the sensor plate to the ceramic and adjust the plate position fix the sensor plate with the fixing plates and nut
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-03.png)
+![Sensor_Nozzle INSTALLATION](../../../assets/images/ins/6237_EN_SensorNozzle-ins-03.png)
 
 ## 3) Install the flush valve
 
 Install inlet water hose water volume regulator solenoid valve and outlet water hose in sequence Then fix the kit to the outlet water spout
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-04.png)
+![Sensor_Nozzle 3) Install the flush valve](../../../assets/images/ins/6237_EN_SensorNozzle-ins-04.png)
 
 ## 4 INSTALLING BATTERY COMPARTMENT
 
@@ -65,7 +65,7 @@ NOTES:
 
 please make sure that the wires are completely well connected
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-05.png)
+![Sensor_Nozzle 4 INSTALLING BATTERY COMPARTMENT](../../../assets/images/ins/6237_EN_SensorNozzle-ins-05.png)
 
 ## HOW TO USE
 
@@ -79,7 +79,7 @@ Please use screwdriver to regulate water flow. Clockwise direction is to turn do
 
 Please use screwdriver to back-out the filter net Clean the filter net with clear water and then fix it back
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-06.png)
+![Sensor_Nozzle Filter net cleaning](../../../assets/images/ins/6237_EN_SensorNozzle-ins-06.png)
 
 Note: Please turn off the water regulating valve before you back-out the filter net
 
@@ -93,27 +93,27 @@ Step 2: Replace with four AA alkaline batteries
 
 note make sure the batteries are installed correctly positive and negative charge do not mix new old batteries do not mix batteries of different brands
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-07.png)
+![Sensor_Nozzle Filter net cleaning](../../../assets/images/ins/6237_EN_SensorNozzle-ins-07.png)
 
 ## TROUBLESHOOTING GUIDE
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-08.png)
+![Sensor_Nozzle TROUBLESHOOTING GUIDE](../../../assets/images/ins/6237_EN_SensorNozzle-ins-08.png)
 
 ## SPECIFICATION
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-09.png)
+![Sensor_Nozzle SPECIFICATION](../../../assets/images/ins/6237_EN_SensorNozzle-ins-09.png)
 
 ## THE PICTURE OF ACCESORIES
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-10.png)
+![Sensor_Nozzle THE PICTURE OF ACCESORIES](../../../assets/images/ins/6237_EN_SensorNozzle-ins-10.png)
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-11.png)
+![Sensor_Nozzle THE PICTURE OF ACCESORIES](../../../assets/images/ins/6237_EN_SensorNozzle-ins-11.png)
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-12.png)
+![Sensor_Nozzle THE PICTURE OF ACCESORIES](../../../assets/images/ins/6237_EN_SensorNozzle-ins-12.png)
 
 ## INSTALLATION DIAGRAM
 
-![](../../../assets/images/ins/6237_EN_SensorNozzle-ins-13.png)
+![Sensor_Nozzle INSTALLATION DIAGRAM](../../../assets/images/ins/6237_EN_SensorNozzle-ins-13.png)
 ---
 
 ## 联系方式

@@ -57,11 +57,11 @@ updated: 2026-07-14
 
 Note: Please make sure the distance between the faucet and the basin should be at least 40cm or the sensor may have malfunction.
 
-![](../../../assets/images/ins/6155_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet PREPARATION BEFORE INSTALLATION](../../../assets/images/ins/6155_EN_SensorFaucet-ins-01.png)
 
-![](../../../assets/images/ins/6155_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet PREPARATION BEFORE INSTALLATION](../../../assets/images/ins/6155_EN_SensorFaucet-ins-02.png)
 
-![](../../../assets/images/ins/6155_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet PREPARATION BEFORE INSTALLATION](../../../assets/images/ins/6155_EN_SensorFaucet-ins-03.png)
 Unit:mm
 
 ## FUNCTIONS
@@ -74,7 +74,7 @@ Unit:mm
 
 ## TECHNICAL STATISTICS
 
-![](../../../assets/images/ins/6155_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet TECHNICAL STATISTICS](../../../assets/images/ins/6155_EN_SensorFaucet-ins-04.png)
 
 ## FEATURES OF THE PRODUCT
 
@@ -107,7 +107,7 @@ Note: make sure the batteries are installed correctly (“+” positive and “�
 
 ## TROUBLESHOOTING
 
-![](../../../assets/images/ins/6155_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet TROUBLESHOOTING](../../../assets/images/ins/6155_EN_SensorFaucet-ins-05.png)
 ---
 
 ## 联系方式

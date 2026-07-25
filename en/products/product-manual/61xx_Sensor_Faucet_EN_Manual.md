@@ -57,28 +57,28 @@ Water flushing the urinal flusher must not be impure , acid , alkaline or dirty 
 
 1) Unscrewing Coupling Nut.
 
-![](../../../assets/images/ins/2017_EN_Other-ins-01.png)
+![Sensor_Faucet 1 Installing Sensor Panel Components](../../../assets/images/ins/2017_EN_Other-ins-01.png)
 
 2) installing the sensor panel on to urinal window , and positioning correctly the panel frame . screwing tightly the coupling nut after installing the fixation panel .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-02.png)
+![Sensor_Faucet 1 Installing Sensor Panel Components](../../../assets/images/ins/2017_EN_Other-ins-02.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-03.png)
+![Sensor_Faucet 1 Installing Sensor Panel Components](../../../assets/images/ins/2017_EN_Other-ins-03.png)
 
 ## 2 Installing Flusher
 
 1) installing the black gasketonto the urinal water outlet .
 2) inserting the flusher outlet pipe into the black washer
 
-![](../../../assets/images/ins/2017_EN_Other-ins-04.png)
+![Sensor_Faucet 2 Installing Flusher](../../../assets/images/ins/2017_EN_Other-ins-04.png)
 
 ## 3 Installing Flex Hose
 
 1) connecting the two sides of the flex - hose onto the urinal inlet pipe and outlet pipe respectively .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-05.png)
+![Sensor_Faucet 3 Installing Flex Hose](../../../assets/images/ins/2017_EN_Other-ins-05.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-06.png)
+![Sensor_Faucet 3 Installing Flex Hose](../../../assets/images/ins/2017_EN_Other-ins-06.png)
 
 ## 4 Dc Battery Case / Ac Electric Source Installation
 
@@ -89,9 +89,9 @@ Note : there must be no gap after wires connection to make sure it ' s waterproo
 Please mind the positive charge ("+") and negative charge ("-").
 Please make sure to cutoff power source and have earth connection when you install AC electric source .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-07.png)
+![Sensor_Faucet 4 Dc Battery Case / Ac Electric Source Installation](../../../assets/images/ins/2017_EN_Other-ins-07.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-08.png)
+![Sensor_Faucet 4 Dc Battery Case / Ac Electric Source Installation](../../../assets/images/ins/2017_EN_Other-ins-08.png)
 
 ## 5 Trial Operation
 
@@ -99,7 +99,7 @@ Please make sure to cutoff power source and have earth connection when you insta
 
 2) if flusher is used inappropriate places , then normally uses , this product is factory sensor distance for $60\ pm 5\ mathrm { cm }$
 
-![](../../../assets/images/ins/2017_EN_Other-ins-09.png)
+![Sensor_Faucet 5 Trial Operation](../../../assets/images/ins/2017_EN_Other-ins-09.png)
 
 ## How to Use
 
@@ -113,16 +113,16 @@ Please make sure to cutoff power source and have earth connection when you insta
 
 \* during use , flusher starts preliminary flush with low water volume . after user leaves , valve flushes again .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-10.png)
+![Sensor_Faucet 2 Normal Functions (normal Mode)](../../../assets/images/ins/2017_EN_Other-ins-10.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-11.png)
+![Sensor_Faucet 2 Normal Functions (normal Mode)](../../../assets/images/ins/2017_EN_Other-ins-11.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-12.png)
+![Sensor_Faucet 2 Normal Functions (normal Mode)](../../../assets/images/ins/2017_EN_Other-ins-12.png)
 
 \* no preliminary flush with frequent use ( use interval is less than 1 minute ).
 \* automatic flush once after 24 hours of no use , for preventing dry and stinking siphon .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-13.png)
+![Sensor_Faucet 2 Normal Functions (normal Mode)](../../../assets/images/ins/2017_EN_Other-ins-13.png)
 
 Automatic flush once after 24 hours of no use
 
@@ -131,7 +131,7 @@ Automatic flush once after 24 hours of no use
 \* batteries installed , sensor turns off electromagnetic valve automatically . ready for use ;
 \* with low battery , indicator will doubly flash for alarming , and flush will stop . if low battery happens during flushing , flusher will stop flushing first and then indicator flash .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-14.png)
+![Sensor_Faucet 2) Water Stop Control](../../../assets/images/ins/2017_EN_Other-ins-14.png)
 
 Flow rate adjusting wrench
 Too low or too high flow rate could be adjusted to be moderate by adjusting flow rate adjusting valve .
@@ -140,7 +140,7 @@ Too low or too high flow rate could be adjusted to be moderate by adjusting flow
 
 With low battery , indicator will doubly flash for alarming
 
-![](../../../assets/images/ins/2017_EN_Other-ins-15.png)
+![Sensor_Faucet 2) Water Stop Control](../../../assets/images/ins/2017_EN_Other-ins-15.png)
 
 Remarks : with slower flow rate for unknown reasons , please clean strainer steps for cleaning straining .
 1) turn off flow rate adjusting valve with screwdriver turned anticlockwise ( this method is nearly the flow rate adjusting wrench )
@@ -148,7 +148,7 @@ Remarks : with slower flow rate for unknown reasons , please clean strainer step
 3) After flushing clean, reinstall Strainer.
 4) screwdriver until moderate flow is reached .
 
-![](../../../assets/images/ins/2017_EN_Other-ins-16.png)
+![Sensor_Faucet 2) Water Stop Control](../../../assets/images/ins/2017_EN_Other-ins-16.png)
 
 BATTERY REPALCEMENT
 
@@ -160,7 +160,7 @@ Remarks : please change batte ies when indicator starts double flashing slowly a
 
 3) reinstall the battery cover , screw 4 bolts with crossed screwdriver ;
 
-![](../../../assets/images/ins/2017_EN_Other-ins-17.png)
+![Sensor_Faucet 2) Water Stop Control](../../../assets/images/ins/2017_EN_Other-ins-17.png)
 
 ## Attention Points
 
@@ -172,12 +172,12 @@ Remarks : please change batte ies when indicator starts double flashing slowly a
 
 ## Troubleshooting Guide
 
-![](../../../assets/images/ins/2017_EN_Other-ins-18.png)
+![Sensor_Faucet Troubleshooting Guide](../../../assets/images/ins/2017_EN_Other-ins-18.png)
 \* with any problems not listed above happens , please contactour technicians !
 
 ## Product Parameters
 
-![](../../../assets/images/ins/2017_EN_Other-ins-19.png)
+![Sensor_Faucet Product Parameters](../../../assets/images/ins/2017_EN_Other-ins-19.png)
 
 ## Cleaning Instructions
 
@@ -197,19 +197,19 @@ The warranty , including products , is limited clearly . our company is not resp
 
 ## Installation Diagram
 
-![](../../../assets/images/ins/2017_EN_Other-ins-20.png)
+![Sensor_Faucet Installation Diagram](../../../assets/images/ins/2017_EN_Other-ins-20.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-21.png)
+![Sensor_Faucet Installation Diagram](../../../assets/images/ins/2017_EN_Other-ins-21.png)
 
 ## Product Parts Page
 
-![](../../../assets/images/ins/2017_EN_Other-ins-22.png)
+![Sensor_Faucet Product Parts Page](../../../assets/images/ins/2017_EN_Other-ins-22.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-23.png)
+![Sensor_Faucet Product Parts Page](../../../assets/images/ins/2017_EN_Other-ins-23.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-24.png)
+![Sensor_Faucet Product Parts Page](../../../assets/images/ins/2017_EN_Other-ins-24.png)
 
-![](../../../assets/images/ins/2017_EN_Other-ins-25.png)
+![Sensor_Faucet Product Parts Page](../../../assets/images/ins/2017_EN_Other-ins-25.png)
 ---
 
 ## 联系方式

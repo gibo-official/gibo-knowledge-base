@@ -31,7 +31,7 @@ updated: 2026-07-14
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-01.png)
+![Smart_Toilet_Seat智能盖板](../../../assets/images/ins/G1_EN_SmartSeat-ins-01.png)
 
 ## Auto Constant Temp Heated Toilet Seat
 
@@ -57,7 +57,7 @@ updated: 2026-07-14
 
 ## Complete List
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-02.png)
+![Smart_Toilet_Seat Complete List](../../../assets/images/ins/G1_EN_SmartSeat-ins-02.png)
 unit mm
 
 ## Installation Steps
@@ -72,60 +72,60 @@ Tools needed : a phillips screwdriveraruler .!
 
 ## Installation Guide
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-03.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-03.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-04.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-04.png)
 1 remove the old toilet seat and clean the top surface of bowl
 2 insert the expansion bolt into the holes
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-05.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-05.png)
 5 put the covers on the hinges .
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-06.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-06.png)
 6 push the seaton the hinge .
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-07.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-07.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-08.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-08.png)
 3 screw the hinge gaskets and . the fixed hinges on the bowl .( do not tighten )
 4 adjust the distance of the hinges to 125 mm in center and tighten them .
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-09.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-09.png)
 7 connect to the adapter . and plug it in
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-10.png)
+![Smart_Toilet_Seat Installation Guide](../../../assets/images/ins/G1_EN_SmartSeat-ins-10.png)
 8 store the redundant wire and . close the socket cover .
 
 ## Dimensions
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-11.png)
+![Smart_Toilet_Seat Dimensions](../../../assets/images/ins/G1_EN_SmartSeat-ins-11.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-12.png)
+![Smart_Toilet_Seat Dimensions](../../../assets/images/ins/G1_EN_SmartSeat-ins-12.png)
 
 ## Specifications
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-13.png)
+![Smart_Toilet_Seat Specifications](../../../assets/images/ins/G1_EN_SmartSeat-ins-13.png)
 
 ## Instruction of Use
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-14.png)
+![Smart_Toilet_Seat Instruction of Use](../../../assets/images/ins/G1_EN_SmartSeat-ins-14.png)
 1. the seat start to heatonce accessing power , and the LED light is on
 LED indicator light
 2 the seat start to heat when its temperature is lower than 31 and the LED light is on ℃3. the seats top heating when its temperature ℃ up to 35, and the LED light is off .4. the seat was heated cyclically .
 
 ## Notice
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-15.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-15.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-16.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-16.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-17.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-17.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-18.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-18.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-19.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-19.png)
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-20.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-20.png)
 
 Do not cleaning the toilet seat by water directly it can be cleaned byadamp cloth !
 
@@ -133,13 +133,13 @@ Do not be at the toilet seat by any sharp object like as screwdriver , hammer , 
 
 Do not use the strong acid and alkali detergent to clean the toilet seat , including detergent , mordant .!
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-21.png)
+![Smart_Toilet_Seat Notice](../../../assets/images/ins/G1_EN_SmartSeat-ins-21.png)
 
 Please use the protective socket to prevent electric leakage .
 
 ## Spare Parts Diagram
 
-![](../../../assets/images/ins/G1_EN_SmartSeat-ins-22.png)
+![Smart_Toilet_Seat Spare Parts Diagram](../../../assets/images/ins/G1_EN_SmartSeat-ins-22.png)
 ---
 
 ## 联系方式

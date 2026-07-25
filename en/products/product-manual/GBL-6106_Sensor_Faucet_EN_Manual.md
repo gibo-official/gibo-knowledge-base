@@ -48,9 +48,9 @@ updated: 2026-07-14
 
 3. decompressor should be adopted if the water pressure is higher than 0.7 mpa to prevent devices damage .
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-01.png)
+![Sensor_Faucet Preparation Before Installation](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-01.png)
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-02.png)
+![Sensor_Faucet Preparation Before Installation](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-02.png)
 
 ## Faucet Installation
 
@@ -64,9 +64,9 @@ Note : make sure the cold and hot flexible hose are installed correctly accordin
 
 4. put 4 aa alkaline batteries into the battery case . make sure the batteries are installed correctly ("+" positive and "-" negative charge ). put the battery case into the foundation . connect battery case wire and faucet wire correctly . this installation process is now complete and the sensor faucet is ready to use .
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-03.png)
+![Sensor_Faucet Faucet Installation](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-03.png)
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-04.png)
+![Sensor_Faucet Faucet Installation](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-04.png)
 
 2. cold & hot water : there isamixer within the faucet to adjust water temperature .
 
@@ -84,25 +84,25 @@ Note : make sure the cold and hot flexible hose are installed correctly accordin
 
 ## Technical Statistics
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-05.png)
+![Sensor_Faucet Technical Statistics](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-05.png)
 
 ## Instructions
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-06.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-06.png)
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-07.png)
+![Sensor_Faucet Instructions](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-07.png)
 1. faucet automatically supplies water as soon as hands are within the sensing range .
 2. faucet automatically stops supplying water when hands are outof sensing range .
 
 ## Maintenance
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-08.png)
+![Sensor_Faucet Maintenance](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-08.png)
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-09.png)
+![Sensor_Faucet Maintenance](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-09.png)
 1. always keep faucet surface clean and dry . do not immerse faucet in water . please use damp towel or cotton cloth to wipe gently .
 2. please avoid any rocking or violent motion .
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-10.png)
+![Sensor_Faucet Maintenance](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-10.png)
 3. please do not use acid / alkaline detergents for cleaning .
 
 ## Battery Replacement
@@ -111,9 +111,9 @@ Note : make sure the cold and hot flexible hose are installed correctly accordin
 
 2. under - voltage protection : when the working voltage is ≤4.5±0.1 v , it enters the under - voltage protection , the LED indicator flashes when using , leaving the sensor to continue toflash 10 times , prompting that the battery need to be replaced immediately . at this time , the sensor faucet is forcibly turn of . step 1: pull out the battery case and remove old battery . step 2: replace with 4 new aa alkaline batteries and install them back note : the positive and negative polarity of the battery must be correct , and batteries of new and old or different brands can ' t be mixed .
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-11.png)
+![Sensor_Faucet Battery Replacement](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-11.png)
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-12.png)
+![Sensor_Faucet Battery Replacement](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-12.png)
 
 ## One-year Warranty
 
@@ -131,7 +131,7 @@ Warranty is valid if 1-3 are determined to be reason for defect .
 
 ## Faucet Structure and Accessaries
 
-![](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-13.png)
+![Sensor_Faucet Faucet Structure and Accessaries](../../../assets/images/ins/GBL-6106_EN_SensorFaucet-ins-13.png)
 ---
 
 ## 联系方式
