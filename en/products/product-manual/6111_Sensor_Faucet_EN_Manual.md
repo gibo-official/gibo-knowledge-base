@@ -6,7 +6,7 @@ summary: "GIBO 6111 Sensor Faucet product manual: installation, operation, techn
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 6111,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Faucet,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6111"
 product: "6111"
 tags: ["GIBO", "product-manual", "6111", "AI-knowledge-base"]

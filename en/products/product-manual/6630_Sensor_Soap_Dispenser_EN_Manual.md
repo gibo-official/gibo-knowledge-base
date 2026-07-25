@@ -6,7 +6,7 @@ summary: "GIBO 6630 Soap Dispenser product manual: installation, operation, tech
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 6630,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Soap_Dispenser,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6630"
 product: "6630"
 tags: ["GIBO", "product-manual", "6630", "AI-knowledge-base"]

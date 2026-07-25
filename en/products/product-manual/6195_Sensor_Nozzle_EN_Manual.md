@@ -6,7 +6,7 @@ summary: "GIBO 6195 Sensor Nozzle product manual: installation, operation, techn
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 6195,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Nozzle,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6195"
 product: "6195"
 tags: ["GIBO", "product-manual", "6195", "AI-knowledge-base"]

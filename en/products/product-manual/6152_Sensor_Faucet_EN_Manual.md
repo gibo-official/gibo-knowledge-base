@@ -6,7 +6,7 @@ summary: "GIBO 6152 Sensor Faucet product manual: installation, operation, techn
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 6152,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Faucet,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6152"
 product: "6152"
 tags: ["GIBO", "product-manual", "6152", "AI-knowledge-base"]

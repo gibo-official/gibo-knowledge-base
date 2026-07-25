@@ -6,7 +6,7 @@ summary: "GIBO 20201 Sensor Nozzle product manual: installation, operation, tech
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 20201,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Nozzle,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "20201"
 product: "20201"
 tags: ["GIBO", "product-manual", "20201", "AI-knowledge-base"]

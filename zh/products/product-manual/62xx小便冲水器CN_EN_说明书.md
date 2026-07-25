@@ -6,7 +6,7 @@ summary: "洁博利GIBO 62xx 小便感应冲水器产品说明书，涵盖安装
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 62xx,洁博利,GIBO,感应洁具,产品
+keywords: 小便冲水器,洁博利,GIBO,感应洁具,产品
 product_model: "62xx"
 product: "62xx"
 tags: ["GIBO", "洁博利", "产品说明书", "62xx", "AI知识库"]

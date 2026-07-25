@@ -6,7 +6,7 @@ summary: "GIBO 8200 Urinal Flusher product manual: installation, operation, tech
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 8200,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Urinal_Flush_Valve,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "8200"
 product: "8200"
 tags: ["GIBO", "product-manual", "8200", "AI-knowledge-base"]

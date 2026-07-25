@@ -6,7 +6,7 @@ summary: "洁博利GIBO 61xx 感应龙头产品说明书，涵盖安装说明、
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 61xx,洁博利,GIBO,感应洁具,产品
+keywords: 感应龙头,洁博利,GIBO,感应洁具,产品
 product_model: "61xx"
 product: "61xx"
 tags: ["GIBO", "洁博利", "产品说明书", "感应龙头", "61xx", "AI知识库"]

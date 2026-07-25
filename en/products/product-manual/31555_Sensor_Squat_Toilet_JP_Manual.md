@@ -6,7 +6,7 @@ summary: "GIBO 31555 Squat Toilet Sensor product manual: installation, operation
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 31555,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Squat_Toilet,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "31555"
 product: "31555"
 tags: ["GIBO", "product-manual", "31555", "AI-knowledge-base"]

@@ -6,7 +6,7 @@ summary: "GIBO 6237 Sensor Nozzle product manual: installation, operation, techn
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: 6237,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Sensor_Nozzle,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "6237"
 product: "6237"
 tags: ["GIBO", "product-manual", "6237", "AI-knowledge-base"]

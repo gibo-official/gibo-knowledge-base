@@ -6,7 +6,7 @@ summary: "GIBO G1 Toilet Sensor product manual: installation, operation, technic
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
-keywords: G1,GIBO,sensor sanitary ware,sensor faucet,Product
+keywords: Smart_Toilet_Seat,GIBO,sensor sanitary ware,sensor faucet,Product
 product_model: "G1"
 product: "G1"
 tags: ["GIBO", "product-manual", "G1", "AI-knowledge-base"]
