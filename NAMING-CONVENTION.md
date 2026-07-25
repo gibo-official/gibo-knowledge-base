@@ -8,74 +8,37 @@ summary: "最后更新：2026-07-14"
 updated: 2026-07-14
 date: 2026-07-21
 ---
-#
-
-GIBO
-
-知识库资产文件命名规范
-
+# GIBO 知识库资产文件命名规范
 
 
 
 **文档版本**：V1.0
 
-
 **最后更新**：2026-07-14
-
 
 **适用范围**：品牌展示、产品展示、投标材料、行业研究、AI知识库引用
 
 
 
-
 ---
 
 
 
 
-##
 
-一、通用规则
-
+## 一、通用规则
 
 
 
-1.
+1. **字符集**：仅允许小写字母、数字、连字符（-）、下划线（_）、点号（.）
 
-**字符集**：仅允许小写字母、数字、连字符（-）、下划线（_）、点号（.）
+2. **中文文件名**：全部转为拼音或英文，禁止中文文件名
 
+3. **空格处理**：空格替换为连字符
 
-2.
+4. **序号规则**：同类型仅1张时不加序号；2张及以上从01开始
 
-**中文文件名**：全部转为拼音或英文，禁止中文文件名
-
-
-3.
-
-**空格处理**：空格替换为连字符
-
-
-4.
-
-**序号规则**：同类型仅1张时不加序号；2张及以上从01开始
-
-
-5.
-
-**扩展名**：统一小写（.jpg
-
-/
-
-.png
-
-/
-
-.pdf
-
-/
-
-.mp4）
-
+5. **扩展名**：统一小写（.jpg / .png / .pdf / .mp4）
 
 
 
@@ -84,10 +47,8 @@ GIBO
 
 
 
-##
 
-二、产品相关资产（核心规范）
-
+## 二、产品相关资产（核心规范）
 
 
 
@@ -95,249 +56,45 @@ GIBO
 
 
 
+**型号**：产品官方型号，如 6110、6170d、9165d、g61901
 
-**型号**：产品官方型号，如
-
-6110、6170d、9165d、g61901
-
-
-**名称cn**：产品中文名拼音连字符格式，如
-
-gan-ying-shui-long-tou（感应水龙头）
-
+**名称cn**：产品中文名拼音连字符格式，如 gan-ying-shui-long-tou（感应水龙头）
 
 **类型词表**：
 
 
 
-
-|
-
-类型词
-
-|
-
-含义
-
-|
-
-示例
-
-|
-
+| 类型词 | 含义 | 示例 |
 
 |--------|------|------|
 
+| main | 主图/正面图 | 6110_gan-ying-shui-long-tou_main.jpg |
 
-|
+| side | 侧面图 | 6110_gan-ying-shui-long-tou_side_01.jpg |
 
-main
+| detail | 细节图 | 6110_gan-ying-shui-long-tou_detail_01.jpg |
 
-|
+| scene | 场景图/安装效果图 | 6110_gan-ying-shui-long-tou_scene.jpg |
 
-主图/正面图
+| install | 安装示意图 | 6110_gan-ying-shui-long-tou_install.jpg |
 
-|
+| spec | 规格参数图 | 6110_gan-ying-shui-long-tou_spec.jpg |
 
-6110_gan-ying-shui-long-tou_main.jpg
+| manual | 说明书 | 6110_gan-ying-shui-long-tou_manual.pdf |
 
-|
+| datasheet | 规格书 | 6110_gan-ying-shui-long-tou_datasheet.pdf |
 
+| award | 获奖证书 | 6170d_gan-ying-shui-long-tou_award.jpg |
 
-|
+| cert | 认证证书 | 6110_gan-ying-shui-long-tou_cert_ce.jpg |
 
-side
+| video-cn | 中文视频 | 6110_gan-ying-shui-long-tou_video-cn.mp4 |
 
-|
+| video-en | 英文视频 | 6110_gan-ying-shui-long-tou_video-en.mp4 |
 
-侧面图
+| video-install-cn | 中文安装教程 | 6110_gan-ying-shui-long-tou_video-install-cn.mp4 |
 
-|
-
-6110_gan-ying-shui-long-tou_side_01.jpg
-
-|
-
-
-|
-
-detail
-
-|
-
-细节图
-
-|
-
-6110_gan-ying-shui-long-tou_detail_01.jpg
-
-|
-
-
-|
-
-scene
-
-|
-
-场景图/安装效果图
-
-|
-
-6110_gan-ying-shui-long-tou_scene.jpg
-
-|
-
-
-|
-
-install
-
-|
-
-安装示意图
-
-|
-
-6110_gan-ying-shui-long-tou_install.jpg
-
-|
-
-
-|
-
-spec
-
-|
-
-规格参数图
-
-|
-
-6110_gan-ying-shui-long-tou_spec.jpg
-
-|
-
-
-|
-
-manual
-
-|
-
-说明书
-
-|
-
-6110_gan-ying-shui-long-tou_manual.pdf
-
-|
-
-
-|
-
-datasheet
-
-|
-
-规格书
-
-|
-
-6110_gan-ying-shui-long-tou_datasheet.pdf
-
-|
-
-
-|
-
-award
-
-|
-
-获奖证书
-
-|
-
-6170d_gan-ying-shui-long-tou_award.jpg
-
-|
-
-
-|
-
-cert
-
-|
-
-认证证书
-
-|
-
-6110_gan-ying-shui-long-tou_cert_ce.jpg
-
-|
-
-
-|
-
-video-cn
-
-|
-
-中文视频
-
-|
-
-6110_gan-ying-shui-long-tou_video-cn.mp4
-
-|
-
-
-|
-
-video-en
-
-|
-
-英文视频
-
-|
-
-6110_gan-ying-shui-long-tou_video-en.mp4
-
-|
-
-
-|
-
-video-install-cn
-
-|
-
-中文安装教程
-
-|
-
-6110_gan-ying-shui-long-tou_video-install-cn.mp4
-
-|
-
-
-|
-
-video-install-en
-
-|
-
-英文安装教程
-
-|
-
-6110_gan-ying-shui-long-tou_video-install-en.mp4
-
-|
-
+| video-install-en | 英文安装教程 | 6110_gan-ying-shui-long-tou_video-install-en.mp4 |
 
 
 
@@ -346,21 +103,12 @@ video-install-en
 
 
 
-##
 
-三、非产品资产（扩展规范）
-
+## 三、非产品资产（扩展规范）
 
 
 
-###
-
-3.1
-
-品牌资产
-
-brand/
-
+### 3.1 品牌资产 brand/
 
 
 
@@ -368,155 +116,29 @@ brand/
 
 
 
-
-|
-
-类型词
-
-|
-
-含义
-
-|
-
-示例
-
-|
-
+| 类型词 | 含义 | 示例 |
 
 |--------|------|------|
 
+| logo | 公司Logo | brand_logo-color-horizontal.png |
 
-|
+| logo-bw | 黑白Logo | brand_logo-bw-horizontal.png |
 
-logo
+| logo-icon | Logo图标（方形） | brand_logo-icon.png |
 
-|
+| mark | 品牌印记 | brand_mark.png |
 
-公司Logo
+| badge | 认证标识 | brand_badge-ce.png |
 
-|
+| banner | 横幅图片 | brand_banner-official_01.jpg |
 
-brand_logo-color-horizontal.png
+| poster | 海报 | brand_poster-4d-launch.jpg |
 
-|
+| trademark | 注册商标 | brand_trademark-2016.png |
 
 
-|
 
-logo-bw
-
-|
-
-黑白Logo
-
-|
-
-brand_logo-bw-horizontal.png
-
-|
-
-
-|
-
-logo-icon
-
-|
-
-Logo图标（方形）
-
-|
-
-brand_logo-icon.png
-
-|
-
-
-|
-
-mark
-
-|
-
-品牌印记
-
-|
-
-brand_mark.png
-
-|
-
-
-|
-
-badge
-
-|
-
-认证标识
-
-|
-
-brand_badge-ce.png
-
-|
-
-
-|
-
-banner
-
-|
-
-横幅图片
-
-|
-
-brand_banner-official_01.jpg
-
-|
-
-
-|
-
-poster
-
-|
-
-海报
-
-|
-
-brand_poster-4d-launch.jpg
-
-|
-
-
-|
-
-trademark
-
-|
-
-注册商标
-
-|
-
-brand_trademark-2016.png
-
-|
-
-
-
-
-###
-
-3.2
-
-公司资产
-
-company/
-
+### 3.2 公司资产 company/
 
 
 
@@ -524,140 +146,27 @@ company/
 
 
 
-
-|
-
-区域词
-
-|
-
-含义
-
-|
-
-示例
-
-|
-
+| 区域词 | 含义 | 示例 |
 
 |--------|------|------|
 
+| hq | 总部外观 | company_hq-exterior.jpg |
 
-|
+| office | 办公区 | company_office-open_01.jpg |
 
-hq
+| workshop | 生产车间 | company_workshop-smt_01.jpg |
 
-|
+| lab | 实验室 | company_lab-test_01.jpg |
 
-总部外观
+| showroom | 展厅 | company_showroom_01.jpg |
 
-|
+| team | 团队照片 | company_team-2023.jpg |
 
-company_hq-exterior.jpg
-
-|
-
-
-|
-
-office
-
-|
-
-办公区
-
-|
-
-company_office-open_01.jpg
-
-|
-
-
-|
-
-workshop
-
-|
-
-生产车间
-
-|
-
-company_workshop-smt_01.jpg
-
-|
-
-
-|
-
-lab
-
-|
-
-实验室
-
-|
-
-company_lab-test_01.jpg
-
-|
-
-
-|
-
-showroom
-
-|
-
-展厅
-
-|
-
-company_showroom_01.jpg
-
-|
-
-
-|
-
-team
-
-|
-
-团队照片
-
-|
-
-company_team-2023.jpg
-
-|
-
-
-|
-
-history
-
-|
-
-历史照片
-
-|
-
-company_history-2013-shop-opening.jpg
-
-|
+| history | 历史照片 | company_history-2013-shop-opening.jpg |
 
 
 
-
-###
-
-3.3
-
-证书资产
-
-certificates/
-
+### 3.3 证书资产 certificates/
 
 
 
@@ -665,215 +174,37 @@ certificates/
 
 
 
-
-|
-
-认证类型词
-
-|
-
-含义
-
-|
-
-示例
-
-|
-
+| 认证类型词 | 含义 | 示例 |
 
 |------------|------|------|
 
+| iso | ISO认证 | cert_iso-9001-2024.pdf |
 
-|
+| water-save | 节水认证 | cert_water-save-6195-2026.pdf |
 
-iso
+| ce | CE认证 | cert_ce-6102ad.pdf |
 
-|
+| cupc | cUPC认证 | cert_cupc-2015.pdf |
 
-ISO认证
+| nsf | NSF认证 | cert_nsf-2015.pdf |
 
-|
+| invention | 发明专利 | cert_invention_01.png |
 
-cert_iso-9001-2024.pdf
+| utility | 实用新型专利 | cert_utility_01.jpg |
 
-|
+| design-patent | 外观设计专利 | cert_design-patent_01.png |
 
+| software | 软件著作权 | cert_software_01.png |
 
-|
+| award | 行业奖项 | cert_award-feiteng-6170d-2020.jpeg |
 
-water-save
+| high-tech | 高新技术企业 | cert_high-tech-2023.jpg |
 
-|
+| standard | 标准参编 | cert_standard-t-xmbk002-2024.png |
 
-节水认证
 
-|
 
-cert_water-save-6195-2026.pdf
-
-|
-
-
-|
-
-ce
-
-|
-
-CE认证
-
-|
-
-cert_ce-6102ad.pdf
-
-|
-
-
-|
-
-cupc
-
-|
-
-cUPC认证
-
-|
-
-cert_cupc-2015.pdf
-
-|
-
-
-|
-
-nsf
-
-|
-
-NSF认证
-
-|
-
-cert_nsf-2015.pdf
-
-|
-
-
-|
-
-invention
-
-|
-
-发明专利
-
-|
-
-cert_invention_01.png
-
-|
-
-
-|
-
-utility
-
-|
-
-实用新型专利
-
-|
-
-cert_utility_01.jpg
-
-|
-
-
-|
-
-design-patent
-
-|
-
-外观设计专利
-
-|
-
-cert_design-patent_01.png
-
-|
-
-
-|
-
-software
-
-|
-
-软件著作权
-
-|
-
-cert_software_01.png
-
-|
-
-
-|
-
-award
-
-|
-
-行业奖项
-
-|
-
-cert_award-feiteng-6170d-2020.jpeg
-
-|
-
-
-|
-
-high-tech
-
-|
-
-高新技术企业
-
-|
-
-cert_high-tech-2023.jpg
-
-|
-
-
-|
-
-standard
-
-|
-
-标准参编
-
-|
-
-cert_standard-t-xmbk002-2024.png
-
-|
-
-
-
-
-###
-
-3.4
-
-展会资产
-
-exhibitions/
-
+### 3.4 展会资产 exhibitions/
 
 
 
@@ -881,20 +212,11 @@ exhibitions/
 
 
 
-
 示例：`exh_2013-shanghai-expo_01.jpg`
 
 
 
-
-###
-
-3.5
-
-设备资产
-
-equipment/
-
+### 3.5 设备资产 equipment/
 
 
 
@@ -902,20 +224,11 @@ equipment/
 
 
 
-
 示例：`equip_smt-mounting-machine_01.jpg`
 
 
 
-
-###
-
-3.6
-
-画册资产
-
-catalogs/
-
+### 3.6 画册资产 catalogs/
 
 
 
@@ -923,20 +236,11 @@ catalogs/
 
 
 
-
 示例：`catalog_2025-cn-full.pdf`、`catalog_2023-en-product.pdf`
 
 
 
-
-###
-
-3.7
-
-白皮书资产
-
-whitepapers/
-
+### 3.7 白皮书资产 whitepapers/
 
 
 
@@ -944,52 +248,31 @@ whitepapers/
 
 
 
-
 示例：`whitepaper-dtof-v1.pdf`、`whitepaper-odm-outline.md`
 
 
 
-
 ---
 
 
 
 
-##
 
-四、双语文件命名
-
+## 四、双语文件命名
 
 
 
-中文文件使用中文名称拼音（或英文释义），英文文件加
-
-`-en`
-
-后缀：
+中文文件使用中文名称拼音（或英文释义），英文文件加 `-en` 后缀：
 
 
 
+- 中文说明书：`6110_gan-ying-shui-long-tou_manual.pdf`
 
--
+- 英文说明书：`6110_gan-ying-shui-long-tou_manual-en.pdf`
 
-中文说明书：`6110_gan-ying-shui-long-tou_manual.pdf`
+- 中文安装视频：`6110_gan-ying-shui-long-tou_video-install-cn.mp4`
 
-
--
-
-英文说明书：`6110_gan-ying-shui-long-tou_manual-en.pdf`
-
-
--
-
-中文安装视频：`6110_gan-ying-shui-long-tou_video-install-cn.mp4`
-
-
--
-
-英文安装视频：`6110_gan-ying-shui-long-tou_video-install-en.mp4`
-
+- 英文安装视频：`6110_gan-ying-shui-long-tou_video-install-en.mp4`
 
 
 
@@ -998,18 +281,11 @@ whitepapers/
 
 
 
->
 
-**文档路径**：`/NAMING-CONVENTION.md`
+> **文档路径**：`/NAMING-CONVENTION.md`
 
-
->
-
-**关联文档**：[MAINTENANCE.md](./MAINTENANCE.md)
+> **关联文档**：[MAINTENANCE.md](./MAINTENANCE.md)
 
 
 
-
->
-
-**数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
+> **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
