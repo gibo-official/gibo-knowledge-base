@@ -6,7 +6,7 @@ summary: "洁博利GIBO  感应节水宝产品说明书，涵盖安装说明、�
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 洁博利,GIBO,感应洁具,产品
+keywords: 洁博利,GIBO,感应洁具,感应水嘴
 product: "GBL-6195感应节水宝CN_说明书"
 tags: ["GIBO", "洁博利", "产品说明书", "GBL-6195感应节水宝CN_说明书", "AI知识库"]
 ---

@@ -6,7 +6,7 @@ summary: "洁博利GIBO 63xx 蹲便感应器产品说明书，涵盖安装说明
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 蹲便感应器,洁博利,GIBO,感应洁具,产品
+keywords: 蹲便感应器,洁博利,GIBO,感应洁具,大便感应器
 product_model: "63xx"
 product: "63xx"
 tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
@@ -14,7 +14,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 
-# 63068
+# 6306明装大便感应器说明书
 
 **文档版本**：V1.0
 **最后更新**：2026-07-10

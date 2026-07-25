@@ -6,7 +6,7 @@ summary: "洁博利GIBO  感应皂液器产品说明书，涵盖安装说明、�
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 洁博利,GIBO,感应洁具,产品
+keywords: 洁博利,GIBO,感应洁具,感应皂液器
 product: ""
 tags: ["GIBO", "洁博利", "产品说明书", "皂液器", "AI知识库"]
 ---

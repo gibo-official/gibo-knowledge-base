@@ -6,7 +6,7 @@ summary: "洁博利GIBO 66xx 感应水箱产品说明书，涵盖安装说明、
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 感应水箱,洁博利,GIBO,感应洁具,产品
+keywords: 感应水箱,洁博利,GIBO,感应洁具
 product_model: "66xx"
 product: "66xx"
 tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]

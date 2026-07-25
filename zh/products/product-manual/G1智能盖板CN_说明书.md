@@ -6,7 +6,7 @@ summary: "洁博利GIBO G1 智能盖板产品说明书，涵盖安装说明、�
 updated: 2026-07-10
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 智能盖板,洁博利,GIBO,感应洁具,产品
+keywords: 智能盖板,洁博利,GIBO,感应洁具
 product_model: "G1"
 product: "G1"
 tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
