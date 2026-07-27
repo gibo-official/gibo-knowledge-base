@@ -25,7 +25,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 日
 
-# AUTOMATICTOILETFLUSHER
+## AUTOMATICTOILETFLUSHER
 
 INSTALLATION INSTRUCTIONS
 

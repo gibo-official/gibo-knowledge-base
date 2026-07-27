@@ -12,6 +12,8 @@ product: "9160"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
+# GIBO 9160 Sensor Faucet Product Manual
+
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
@@ -58,12 +60,12 @@ temperature adjusting, swivel faucet, suction hose and switching of soft water a
 
 ![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-06.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-07.jpg)  
-screwdriver  
+![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-07.jpg)
+screwdriver
 wrench
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-08.jpg)  
-4 AA alkaline battery  
+![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-08.jpg)
+4 AA alkaline battery
 glove
 
 Step 1 faucet body installation

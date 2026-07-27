@@ -11,6 +11,8 @@ product: "GBL-6120产品CN_EN_说明书"
 tags: ["GIBO", "洁博利", "产品说明书", "GBL-6120产品CN_EN_说明书", "AI知识库"]
 ---
 
+# 洁博利GIBO 感应洁具 产品说明书
+
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
@@ -113,7 +115,7 @@ STEP 2
 
 The control box back panel jack Alignment angle plate inserted in the end of the fixed angle(Shows the direction of the outlet should be down). Use the hose, Connected solenoid valve and the triangle valve. Control box is installed.
 
-Step 1  
+Step 1
 ![产品 INSTALLATION OF CONTROL BOX](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-01.jpg)
 
 Step 1:
@@ -166,7 +168,7 @@ Insert the other end of the control wire into the aviation socket and screw tigh
 
 ## 第二步
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.jpg)  
+![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.jpg)
 Step2
 
 ## 龙头安装
@@ -182,12 +184,12 @@ Step2
 
 将控制线另一端插入航空插座并锁紧，再把G1/2软管的另一端旋到电磁阀出水端上，这样自动水龙头就全部组装好了。
 
-Step 3  
+Step 3
 ![产品第三步：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.jpg)
 
 ![产品第三步：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.jpg)  
+![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.jpg)
 Step 2
 
 1. 方便：开启和关闭水源均由机器自动完成，无需人为操作。
@@ -277,7 +279,7 @@ Step 2
 Do not clean with water instead with clean and dry soft cloth.
 请不要用水擦洗，应使用洁净的干软布清洁。
 
-Do not shake the faucet in case of any damage.  
+Do not shake the faucet in case of any damage.
 请不要摇晃龙头，否则易引起故障。
 
 ![产品 NOTES OF USE](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-17.jpg)

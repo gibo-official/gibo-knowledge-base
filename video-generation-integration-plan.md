@@ -14,8 +14,8 @@ tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 **最后更新**：2026-07-14
 **适用范围**：品牌展示、产品展示、投标材料、行业研究、AI知识库引用
 
-**创建日期**: 2026-06-06  
-**负责人**: 平台工程师  
+**创建日期**: 2026-06-06
+**负责人**: 平台工程师
 **目标**: 在Paperclip平台上接入视频生成模型API，使agent具备AI视频生成能力
 
 ---
@@ -145,21 +145,21 @@ DEFAULT_DURATION = 5     # seconds
 
 class KlingClient:
     """Kling AI Video Generation API Client"""
-    
+
     BASE_URL = "https://api.klingai.com"
-    
+
     def __init__(self, access_key: str, secret_key: str):
         self.access_key = access_key
         self.secret_key = secret_key
-    
+
     def _generate_signature(self, method: str, path: str, body: str = "") -> Dict[str, str]:
         """Generate HMAC-SHA256 signature for Kling API authentication"""
         timestamp = int(time.time())
         nonce = uuid.uuid4().hex[:16]
-        
+
         # Build signature string
         sign_str = f"{method}\n{path}\n{timestamp}\n{nonce}\n{body}\n"
-        
+
         # Compute HMAC-SHA256
         signature = hmac.new(
             self.secret_key.encode('utf-8'),
@@ -167,7 +167,7 @@ class KlingClient:
             hashlib.sha256
         ).digest()
         signature_b64 = base64.b64encode(signature).decode('utf-8')
-        
+
         return {
             "Content-Type": "application/json",
             "AK": self.access_key,
@@ -175,7 +175,7 @@ class KlingClient:
             "Timestamp": str(timestamp),
             "Nonce": nonce,
         }
-    
+
     def generate_video(
         self,
         prompt: str,
@@ -188,7 +188,7 @@ class KlingClient:
     ) -> Dict[str, Any]:
         """
         Generate video using Kling API
-        
+
         Args:
             prompt: Text description of the video
             model_name: Model version (kling-v1, kling-v1.5)
@@ -197,13 +197,13 @@ class KlingClient:
             image: Path to input image for image-to-video
             negative_prompt: What to avoid in generation
             cfg_scale: Prompt adherence (0-1)
-        
+
         Returns:
             API response with task_id
         """
         path = "/v1/videos/generate"
         url = f"{self.BASE_URL}{path}"
-        
+
         payload = {
             "model_name": model_name,
             "prompt": prompt,
@@ -211,40 +211,40 @@ class KlingClient:
             "mode": mode,
             "cfg_scale": cfg_scale,
         }
-        
+
         if negative_prompt:
             payload["negative_prompt"] = negative_prompt
-        
+
         if image:
             # Image-to-video: upload image first, then reference
             image_url = self._upload_image(image)
             payload["image"] = image_url
-        
+
         body = json.dumps(payload)
         headers = self._generate_signature("POST", path, body)
-        
+
         response = requests.post(url, headers=headers, data=body, timeout=30)
         result = response.json()
-        
+
         if result.get("code") != 0:
             raise Exception(f"Kling API error: {result.get('message', 'Unknown error')}")
-        
+
         return result["data"]
-    
+
     def query_task(self, task_id: str) -> Dict[str, Any]:
         """Query video generation task status"""
         path = f"/v1/videos/{task_id}"
         url = f"{self.BASE_URL}{path}"
-        
+
         headers = self._generate_signature("GET", path)
         response = requests.get(url, headers=headers, timeout=15)
         result = response.json()
-        
+
         if result.get("code") != 0:
             raise Exception(f"Kling query error: {result.get('message', 'Unknown error')}")
-        
+
         return result["data"]
-    
+
     def wait_for_completion(
         self,
         task_id: str,
@@ -256,49 +256,49 @@ class KlingClient:
         while time.time() - start < timeout:
             data = self.query_task(task_id)
             status = data.get("status", "")
-            
+
             if status == "succeed":
                 return data
             elif status == "failed":
                 raise Exception(f"Video generation failed: {data.get('fail_reason', 'Unknown')}")
-            
+
             # "processing" or "pending" - keep waiting
             time.sleep(poll_interval)
-        
+
         raise TimeoutError(f"Video generation timed out after {timeout}s")
-    
+
     def _upload_image(self, image_path: str) -> str:
         """Upload image for image-to-video generation"""
         path = "/v1/files/upload"
         url = f"{self.BASE_URL}{path}"
-        
+
         file_name = Path(image_path).name
         headers = self._generate_signature("POST", path)
-        
+
         with open(image_path, "rb") as f:
             files = {"file": (file_name, f, "image/png")}
             response = requests.post(url, headers=headers, files=files, timeout=60)
-        
+
         result = response.json()
         if result.get("code") != 0:
             raise Exception(f"Image upload failed: {result.get('message', 'Unknown')}")
-        
+
         return result["data"]["url"]
 
 # ─── Runway API Client ───────────────────────────────────────────
 
 class RunwayClient:
     """Runway Gen-3 API Client (fallback)"""
-    
+
     BASE_URL = "https://api.runwayml.com/v1"
-    
+
     def __init__(self, api_key: str):
         self.api_key = api_key
         self.headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
         }
-    
+
     def generate_video(
         self,
         prompt: str,
@@ -307,27 +307,27 @@ class RunwayClient:
     ) -> Dict[str, Any]:
         """Generate video using Runway Gen-3"""
         url = f"{self.BASE_URL}/generations"
-        
+
         payload = {
             "model": model,
             "prompt": prompt,
             "duration": duration,
         }
-        
+
         response = requests.post(url, headers=self.headers, json=payload, timeout=30)
         result = response.json()
-        
+
         if "id" not in result:
             raise Exception(f"Runway API error: {result}")
-        
+
         return result
-    
+
     def query_task(self, generation_id: str) -> Dict[str, Any]:
         """Query video generation status"""
         url = f"{self.BASE_URL}/generations/{generation_id}"
         response = requests.get(url, headers=self.headers, timeout=15)
         return response.json()
-    
+
     def wait_for_completion(
         self,
         generation_id: str,
@@ -339,24 +339,24 @@ class RunwayClient:
         while time.time() - start < timeout:
             data = self.query_task(generation_id)
             status = data.get("status", "")
-            
+
             if status == "SUCCEEDED":
                 return data
             elif status == "FAILED":
                 raise Exception(f"Runway generation failed")
-            
+
             time.sleep(poll_interval)
-        
+
         raise TimeoutError(f"Runway generation timed out after {timeout}s")
 
 # ─── Unified Video Generator ─────────────────────────────────────
 
 class VideoGenerator:
     """Unified interface for video generation"""
-    
+
     def __init__(self, model: str = DEFAULT_MODEL):
         self.model = model
-        
+
         if model == "kling":
             if not KLING_ACCESS_KEY or not KLING_SECRET_KEY:
                 raise ValueError("KLING_ACCESS_KEY and KLING_SECRET_KEY must be set")
@@ -367,7 +367,7 @@ class VideoGenerator:
             self.client = RunwayClient(RUNWAY_API_KEY)
         else:
             raise ValueError(f"Unsupported model: {model}")
-    
+
     def generate(
         self,
         prompt: str,
@@ -378,18 +378,18 @@ class VideoGenerator:
     ) -> Dict[str, Any]:
         """
         Generate video and save result
-        
+
         Returns:
             Dict with task_id, status, video_url, local_path
         """
         output_path = Path(output_dir)
         output_path.mkdir(parents=True, exist_ok=True)
-        
+
         print(f"[VideoGenerator] Starting generation...")
         print(f"  Model: {self.model}")
         print(f"  Prompt: {prompt[:100]}...")
         print(f"  Duration: {duration}s")
-        
+
         # Submit generation task
         if self.model == "kling":
             task = self.client.generate_video(
@@ -400,34 +400,34 @@ class VideoGenerator:
             )
             task_id = task.get("task_id", "")
             print(f"  Task ID: {task_id}")
-            
+
             # Wait for completion
             print(f"  Waiting for completion (this may take 2-10 minutes)...")
             result = self.client.wait_for_completion(task_id)
-            
+
             # Extract video URL
             videos = result.get("videos", [])
             if not videos:
                 raise Exception("No videos in response")
-            
+
             video_info = videos[0]
             video_url = video_info.get("url", "")
-            
+
         elif self.model == "runway":
             task = self.client.generate_video(prompt=prompt, duration=duration)
             gen_id = task.get("id", "")
             print(f"  Generation ID: {gen_id}")
-            
+
             print(f"  Waiting for completion...")
             result = self.client.wait_for_completion(gen_id)
             video_url = result.get("output", [{}])[0].get("url", "")
-        
+
         # Download video
         if video_url:
             safe_name = "".join(c for c in prompt[:30] if c.isalnum() or c in " _-").strip()
             timestamp = int(time.time())
             local_file = output_path / f"video_{timestamp}_{safe_name}.mp4"
-            
+
             print(f"  Downloading to: {local_file}")
             resp = requests.get(video_url, timeout=120)
             with open(local_file, "wb") as f:
@@ -436,7 +436,7 @@ class VideoGenerator:
         else:
             local_file = None
             print(f"  ⚠️ No video URL in response")
-        
+
         return {
             "task_id": task_id if self.model == "kling" else gen_id,
             "status": "completed",
@@ -449,7 +449,7 @@ class VideoGenerator:
 
 def main():
     import argparse
-    
+
     parser = argparse.ArgumentParser(description="Generate video using AI API")
     parser.add_argument("--prompt", "-p", required=True, help="Video description prompt")
     parser.add_argument("--duration", "-d", type=int, default=5, help="Duration in seconds")
@@ -458,9 +458,9 @@ def main():
     parser.add_argument("--image", "-i", help="Input image for image-to-video")
     parser.add_argument("--negative-prompt", "-n", help="Negative prompt")
     parser.add_argument("--wait", action="store_true", default=True, help="Wait for completion")
-    
+
     args = parser.parse_args()
-    
+
     generator = VideoGenerator(model=args.model)
     result = generator.generate(
         prompt=args.prompt,
@@ -469,7 +469,7 @@ def main():
         image=args.image,
         negative_prompt=args.negative_prompt,
     )
-    
+
     print(f"\n=== Result ===")
     print(json.dumps(result, indent=2, ensure_ascii=False))
 

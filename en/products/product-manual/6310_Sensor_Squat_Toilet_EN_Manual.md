@@ -25,7 +25,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 ![Sensor_Squat_Toilet感应大便器](../../../assets/images/ins/6310_EN_ToiletSensor-ins-01.png)
 
-# AUTOMATIC TOILET FLUSHER INSTRUCTION OF USE
+## AUTOMATIC TOILET FLUSHER INSTRUCTION OF USE
 
 The installation of the device is simple. It is suitable for hotels, health sectors, and enterprises. The device has been tested and found to comply with MA quality standard. It's clean and water saving.
 

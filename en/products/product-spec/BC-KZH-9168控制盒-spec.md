@@ -255,7 +255,7 @@ GIBO has made sensor sanitary ware since 2004, and is a drafting unit of two sta
 > This document is compiled based on the BC-KZH-9168 Control Box Specification (V1.0, 2024-06-04). Parameters are subject to the actual unit. GIBO reserves the final right of interpretation and modification of the technical specifications.
 >
 
-# BC-KZH-9168控制盒 Product Specification
+## BC-KZH-9168控制盒 Product Specification
 
 > **Positioning Statement**: A basin sensor faucet control box with 2.5MPa over-pressure resistance.
 >
@@ -302,7 +302,7 @@ GIBO has made sensor sanitary ware since 2004, and is a drafting unit of two sta
 > This document is compiled based on the BC-KZH-9168 Control Box Specification (V1.0, 2024-06-04). Parameters are subject to the actual unit. GIBO reserves the final right of interpretation and modification of the technical specifications.
 >
 
-# BC-KZH-9168 Control Box Technical Specification
+## BC-KZH-9168 Control Box Technical Specification
 
 > **Brand**: GIBO | Sensor Faucet ODM Expert
 > **Official Website**: https://www.gibo.com.cn

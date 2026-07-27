@@ -186,7 +186,7 @@ related:
 keywords: sensor faucet, sensor flush valve, sensor soap dispenser, dTOF sensor, smart bathroom, GIBO products, GIBO core products, product catalog
 ---
 
-# GIBO 2026 Full Series Product Catalog
+## GIBO 2026 Full Series Product Catalog
 
 **Scope**: Product Selection, Engineering Project Quotation, ODM Customization Reference, E-commerce Operations, AI Knowledge Base Index
 
@@ -307,35 +307,35 @@ keywords: sensor faucet, sensor flush valve, sensor soap dispenser, dTOF sensor,
 | Model | Product Name | Product Dimensions | USD | RMB | MOQ | Material | Performance Parameters | Core Features & Selling Points |
 |------|---------|---------|:---:|:---:|:---:|------|---------|---------|
 | `G33604` | ⭐Sensor Foam Soap Dispenser | 85×123×214mm | $11 | ¥77 | 480 | Inner Size:
-130x90x213mm 
+130x90x213mm
 Cart | 1.Product size: 85*118*206mm                 2.Soap type: Foam soap<br>3.Material:ABS<br>4.Capacity:280ml      <br>5.Voltage: DC6V<br>6.Power: 4* | 🏠 Foam soap dispenser, ABS material, DC6V (4×AA batteries), capacity 280ml; output 1-3ml adjustable, 2 settings; product size 85×118×206mm |
 | `G33605` | ⭐Sensor Foam Soap Dispenser | 76×118×193mm | $11 | ¥77 | 480 | Inner Box:
-130*90*213mm 
+130*90*213mm
 Carto | 1.Product size: 76*118*193mm                 2.Soap type: Foam soap<br>3.Material:ABS<br>4.Capacity:330ml      <br>5.Voltage: DC6V<br>6.Power: 4* | 🏠 Foam soap dispenser, ABS material, DC6V (4×AA batteries), capacity 330ml; output 0.5-1.5ml adjustable, 3 settings; product size 76×118×193mm |
 | `G33606` | ⭐Sensor Foam Soap Dispenser (Chrome) | 65×101×191mm | $14 | ¥98 | 480 | Inner Box:
-130*90*213mm 
+130*90*213mm
 Carto | 1.Product size: 65*100*195mm                 2.Soap type: Foam soap<br>3.Material:ABS chrome<br>4.Capacity:280ml      <br>5.Voltage: DC3.4～ | 🏠 Foam soap dispenser, ABS chrome, rechargeable lithium battery 3.7V/1200mA; capacity 280ml, output 0.5-2.5ml adjustable, 4 settings; product size 65×100×195mm |
 | `G33608` | ⭐Sensor Foam Soap Dispenser (White) | 76×115×185mm | $14 | ¥98 | 480 | Inner Box:
-130*90*213mm 
+130*90*213mm
 Carto | 1.Product size: 76*115*185mm                 2.Soap type: Foam soap<br>3.Material:ABS white<br>4.Capacity:320ml      <br>5.Voltage: DC3.4～4 | 🏠 Foam soap dispenser, ABS white, rechargeable lithium battery 3.7V/1200mA; capacity 320ml, output 0.5-1.5ml adjustable, 2 settings; product size 76×115×185mm |
-| `G33611` | Large Capacity Sensor Soap Dispenser | 110×120×132mm | $25 | ¥175 | 480 | Inner Size: 
+| `G33611` | Large Capacity Sensor Soap Dispenser | 110×120×132mm | $25 | ¥175 | 480 | Inner Size:
 122 x 135 x 145mm | 1. Capacity: 600ML;          <br>2. Liquid type;                    <br>3. Color: white,<br>4. Wall-mounted installation;            <br>5. Power: DC6V;      | 600ml large capacity soap dispenser, liquid type, ABS white, wall-mounted; DC6V power supply, sensing distance 10cm |
-| `G33611L` | Large Capacity Sensor Soap Dispenser (Upgraded) | 110×120×132mm | $31 | ¥217 | 480 | Inner Size: 
+| `G33611L` | Large Capacity Sensor Soap Dispenser (Upgraded) | 110×120×132mm | $31 | ¥217 | 480 | Inner Size:
 122 x 135 x 145mm | 1. Capacity: 600ML;          <br>2. Liquid type;                    <br>3. Color: white,<br>4. Wall-mounted installation;            <br>5. Power: DC6V;      | 600ml large capacity soap dispenser (upgraded), liquid type, ABS white, wall-mounted; DC6V power supply, sensing distance 10cm |
-| `G33612` | Large Capacity Sensor Soap Dispenser (Lockable) | 110×100×165mm | $25 | ¥175 | 480 | Inner Size: 
+| `G33612` | Large Capacity Sensor Soap Dispenser (Lockable) | 110×100×165mm | $25 | ¥175 | 480 | Inner Size:
 115 x 102 x 177mm | 1. Capacity: 600ML;          <br>2. Liquid type;                       <br>3. Lockable design;                         <br>4. Wall-mounted installation    | 600ml large capacity soap dispenser with lock, liquid type, wall-mounted; DC6V power supply, sensing distance 10cm, anti-theft design |
-| `GBL-6630AD` | All-Brass Countertop Soap Dispenser | 26×131×168mm | $77 | ¥539 | 480 | Inner Size: 
+| `GBL-6630AD` | All-Brass Countertop Soap Dispenser | 26×131×168mm | $77 | ¥539 | 480 | Inner Size:
 380x260x120mm
 Car | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Material: All-brass chrome-plated;                               | All-brass chrome-plated countertop soap dispenser, capacity 500ml/1500ml selectable, AC110-240V power; output 0.5-1.5ml adjustable, compatible with liquid/foam soap |
-| `GBL-6631AD` | All-Brass Countertop Soap Dispenser | 50×145×105mm | $93 | ¥651 | 480 | Inner Size: 
+| `GBL-6631AD` | All-Brass Countertop Soap Dispenser | 50×145×105mm | $93 | ¥651 | 480 | Inner Size:
 380 x 260 x 120mm | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Material: All-brass chrome-plated;                               | All-brass chrome-plated countertop soap dispenser, capacity 500ml/1500ml selectable, AC110-240V power; output 0.5-1.5ml adjustable, compatible with liquid/foam soap |
-| `GBL-6634AD` | All-Brass Countertop Soap Dispenser (Compact) | 35×123×89mm | $63 | ¥441 | 480 | Inner Size: 
+| `GBL-6634AD` | All-Brass Countertop Soap Dispenser (Compact) | 35×123×89mm | $63 | ¥441 | 480 | Inner Size:
 380 x 260 x 120mm | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Material: All-brass chrome-plated;                               | All-brass chrome-plated countertop soap dispenser (compact), capacity 500ml/1500ml selectable, AC110-240V power; output 0.5-1.5ml adjustable |
-| `GBL-6635AD` | All-Brass Countertop Soap Dispenser | 35×116×111mm | $73 | ¥511 | 480 | Inner Size: 
+| `GBL-6635AD` | All-Brass Countertop Soap Dispenser | 35×116×111mm | $73 | ¥511 | 480 | Inner Size:
 380 x 260 x 120mm | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Material: All-brass chrome-plated;                               | All-brass chrome-plated countertop soap dispenser, capacity 500ml/1500ml selectable, AC110-240V power; output 0.5-1.5ml adjustable |
-| `GBL-6632AD` | All-Brass Wall-Mounted Soap Dispenser | 65×192×71mm | $80 | ¥560 | 480 | Inner Size: 
+| `GBL-6632AD` | All-Brass Wall-Mounted Soap Dispenser | 65×192×71mm | $80 | ¥560 | 480 | Inner Size:
 380 x 260 x 120mm | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Material: All-brass chrome-plated;                               | All-brass chrome-plated wall-mounted soap dispenser, capacity 500ml/1500ml selectable, AC110-240V power; output 0.5-1.5ml adjustable |
-| `GBL-6636AD` | ⭐All-Brass Wall-Mounted Soap Dispenser (Compact) | 60×125×60mm | $69 | ¥483 | 480 | Inner Size: 
+| `GBL-6636AD` | ⭐All-Brass Wall-Mounted Soap Dispenser (Compact) | 60×125×60mm | $69 | ¥483 | 480 | Inner Size:
 380 x 260 x 120mm | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Material: All-brass chrome-plated;                               | 🔥 All-brass chrome-plated wall-mounted soap dispenser (compact), capacity 500ml/1500ml selectable, AC110-240V power; output 0.5-1.5ml adjustable |
 
 ---
@@ -344,76 +344,76 @@ Car | 1. Capacity: 17oz(500ml) /50oz(1500ml);                         <br>2. Mat
 
 | Model | Product Name | Product Dimensions | USD | RMB | MOQ | Material | Performance Parameters | Core Features & Selling Points |
 |------|---------|---------|:---:|:---:|:---:|------|---------|---------|
-| `GBL-6202D` | ⭐Surface-Mounted Urinal Flush Valve (Brass Valve) | 48×90×124mm | $67 | ¥469 | 480 | Inner Size: 
+| `GBL-6202D` | ⭐Surface-Mounted Urinal Flush Valve (Brass Valve) | 48×90×124mm | $67 | ¥469 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V(AC110-240V power customized)<br>2. Material: All-brass chrome-plated.<br>3. Sensing distance: 60cm±4cm.                                      | 🔥 Surface-mounted urinal flush valve, all-brass chrome-plated, DC6V (AC110-240V customizable); sensing distance 60±4cm, integrated surface-mount design, brass valve with adjuster, 500K cycles lifespan |
-| `GBL-6291DH` | ⭐Surface-Mounted Urinal Flush Valve (ABS) | 110×120×60mm | $29 | ¥203 | 480 | Inner Size: 
+| `GBL-6291DH` | ⭐Surface-Mounted Urinal Flush Valve (ABS) | 110×120×60mm | $29 | ¥203 | 480 | Inner Size:
 190×181×107mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: ABS engineering plastic.<br>3. Sensing distance: 60cm±4cm.                                   | 🔧 Surface-mounted urinal flush valve, ABS material, DC6V (AC110-240V customizable); sensing distance 60±4cm, integrated surface-mount design, plastic valve no adjuster, 500K cycles lifespan |
-| `GBL-6291DS` | ⭐Surface-Mounted Urinal Flush Valve (ABS) | 110×120×60mm | $31 | ¥217 | 480 | Inner Size: 
+| `GBL-6291DS` | ⭐Surface-Mounted Urinal Flush Valve (ABS) | 110×120×60mm | $31 | ¥217 | 480 | Inner Size:
 190×181×107mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: ABS engineering plastic.<br>3. Sensing distance: 60cm±4cm.                                   | 🔧 Surface-mounted urinal flush valve, ABS material, DC6V (AC110-240V customizable); sensing distance 60±4cm, integrated surface-mount design, plastic valve no adjuster, 500K cycles lifespan |
-| `GBL-6213AD` | ⭐Concealed Urinal Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 110×117×80mm | $60 | ¥420 | 480 | Inner Size: 
+| `GBL-6213AD` | ⭐Concealed Urinal Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 110×117×80mm | $60 | ¥420 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | 🔥 Concealed urinal flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan |
-| `GBL-8200AD` | Concealed Urinal Flush Valve (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $61 | ¥427 | 480 | Inner Size: 
+| `GBL-8200AD` | Concealed Urinal Flush Valve (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $61 | ¥427 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan |
-| `GBL-8201AD` | Concealed Urinal Flush Valve (Plastic Valve Economy) | Panel: 128×128×85mm | Box: 110×117×80mm | $50 | ¥350 | 480 | Inner Size: 
+| `GBL-8201AD` | Concealed Urinal Flush Valve (Plastic Valve Economy) | Panel: 128×128×85mm | Box: 110×117×80mm | $50 | ¥350 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve with adjuster, 500K cycles lifespan, economy model |
-| `GBL-8203AD` | Concealed Urinal Flush Valve (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $63 | ¥441 | 480 | Inner Size: 
+| `GBL-8203AD` | Concealed Urinal Flush Valve (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $63 | ¥441 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan |
-| `GBL-8207AD` | Concealed Urinal Flush Valve (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $63 | ¥441 | 480 | Inner Size: 
+| `GBL-8207AD` | Concealed Urinal Flush Valve (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $63 | ¥441 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan |
-| `GBL-8209AD` | Concealed Urinal Flush Valve (Plastic Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $53 | ¥371 | 480 | Inner Size: 
+| `GBL-8209AD` | Concealed Urinal Flush Valve (Plastic Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $53 | ¥371 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve with adjuster, 500K cycles lifespan |
-| `GBL-8220AD` | Concealed Urinal Flush Valve Touch (Brass Valve) | Panel: 131×131×85mm | Box: 110×117×80mm | $80 | ¥560 | 480 | Inner Size: 
+| `GBL-8220AD` | Concealed Urinal Flush Valve Touch (Brass Valve) | Panel: 131×131×85mm | Box: 110×117×80mm | $80 | ¥560 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve (touch), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, LED ring touch button, 500K cycles lifespan |
-| `GBL-8221AD` | ⭐Concealed Urinal Flush Valve Touch (Glass Panel) | Panel: 140×140×85mm | Box: 110×117×80mm | $82 | ¥574 | 480 | Inner Size: 
+| `GBL-8221AD` | ⭐Concealed Urinal Flush Valve Touch (Glass Panel) | Panel: 140×140×85mm | Box: 110×117×80mm | $82 | ¥574 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Glass panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                  | 🔥 Concealed urinal flush valve (touch), glass panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, LED ring touch button, 500K cycles lifespan |
-| `GBL-8207ADM` | Concealed Urinal Flush Valve Button (Brass Valve) | Panel: 130×130×85mm | Box: 110×117×80mm | $80 | ¥560 | 480 | Inner Size: 
+| `GBL-8207ADM` | Concealed Urinal Flush Valve Button (Brass Valve) | Panel: 130×130×85mm | Box: 110×117×80mm | $80 | ¥560 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, button with customizable LED, 500K cycles lifespan |
-| `GBL-8208ADM` | Concealed Urinal Flush Valve Button (Brass Valve Large Panel) | Panel: 175×130×85mm | Box: 160×110×80mm | $98 | ¥686 | 480 | Inner Size: 
+| `GBL-8208ADM` | Concealed Urinal Flush Valve Button (Brass Valve Large Panel) | Panel: 175×130×85mm | Box: 160×110×80mm | $98 | ¥686 | 480 | Inner Size:
 280×200×160mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: SS plate &  embedded box<br>3. Sensing distance: 60cm±4cm             | Concealed urinal flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, button with customizable LED, 500K cycles lifespan |
-| `GBL-8200ADM` | Concealed Urinal Flush Valve Button (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $70 | ¥490 | 480 | Inner Size: 
+| `GBL-8200ADM` | Concealed Urinal Flush Valve Button (Brass Valve) | Panel: 128×128×85mm | Box: 110×117×80mm | $70 | ¥490 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, push-button type, 500K cycles lifespan |
-| `GBL-8209ADM` | Concealed Urinal Flush Valve Button (Plastic Valve) | Panel: 130×130×85mm | Box: 110×117×80mm | $63 | ¥441 | 480 | Inner Size: 
+| `GBL-8209ADM` | Concealed Urinal Flush Valve Button (Plastic Valve) | Panel: 130×130×85mm | Box: 110×117×80mm | $63 | ¥441 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed urinal flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve with adjuster, push-button type, 500K cycles lifespan |
-| `GBL-K6230D1` | Ceramic Integrated Urinal Flush Valve | 84×58×11mm | $36 | ¥252 | 480 | Inner Size: 
+| `GBL-K6230D1` | Ceramic Integrated Urinal Flush Valve | 84×58×11mm | $36 | ¥252 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, mounting hole ≥71×31mm, 500K cycles lifespan |
-| `GBL-K6231D1` | Ceramic Integrated Urinal Flush Valve | 82×53×10mm | $38 | ¥266 | 480 | Inner Size: 
+| `GBL-K6231D1` | Ceramic Integrated Urinal Flush Valve | 82×53×10mm | $38 | ¥266 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, mounting hole ≥48×22mm, 500K cycles lifespan |
-| `GBL-K6233D1` | Ceramic Integrated Urinal Flush Valve | 84×58×5mm | $42 | ¥294 | 480 | Inner Size: 
+| `GBL-K6233D1` | Ceramic Integrated Urinal Flush Valve | 84×58×5mm | $42 | ¥294 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, mounting hole ≥55×28mm, 500K cycles lifespan |
-| `GBL-K6235D1` | Ceramic Integrated Urinal Flush Valve | 80×45×10mm | $36 | ¥252 | 480 | Inner Size: 
+| `GBL-K6235D1` | Ceramic Integrated Urinal Flush Valve | 80×45×10mm | $36 | ¥252 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, mounting hole ≥40×25mm, 500K cycles lifespan |
-| `GBL-K6236D1` | Ceramic Integrated Urinal Flush Valve | 84×58×3mm | $39 | ¥273 | 480 | Inner Size: 
+| `GBL-K6236D1` | Ceramic Integrated Urinal Flush Valve | 84×58×3mm | $39 | ¥273 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, mounting hole ≥56×25mm, 500K cycles lifespan |
-| `GBL-6237.1D` | Ceramic Integrated Urinal Flush Valve (Plastic Valve) | 39×39×5.5mm | $49 | ¥343 | 480 | Inner Size: 
+| `GBL-6237.1D` | Ceramic Integrated Urinal Flush Valve (Plastic Valve) | 39×39×5.5mm | $49 | ¥343 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve no adjuster, mounting hole ≥ø30mm, 500K cycles lifespan |
-| `GBL-6238.2D` | Ceramic Integrated Urinal Flush Valve (ABS Panel) | 50×50×10mm | $44 | ¥308 | 480 | Inner Size: 
+| `GBL-6238.2D` | Ceramic Integrated Urinal Flush Valve (ABS Panel) | 50×50×10mm | $44 | ¥308 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: ABS engineering plastic chromed plate.<br>3. Sensing distance: 60cm±4cm.                    | Ceramic integrated urinal flush valve, ABS chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve no adjuster, mounting hole ≥ø40mm, 500K cycles lifespan |
-| `GBL-6238.5D` | Ceramic Integrated Urinal Flush Valve (Brass Panel) | 50×50×10mm | $51 | ¥357 | 480 | Inner Size: 
+| `GBL-6238.5D` | Ceramic Integrated Urinal Flush Valve (Brass Panel) | 50×50×10mm | $51 | ¥357 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: All-brass chrome-plated plate.<br>3. Sensing distance: 60cm±4cm.                               | Ceramic integrated urinal flush valve, brass chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve no adjuster, mounting hole ≥ø40mm, 500K cycles lifespan |
-| `GBL-6238.1D` | Ceramic Integrated Urinal Flush Valve (ABS Panel) | 45×45×9.5mm | $40 | ¥280 | 480 | Inner Size: 
+| `GBL-6238.1D` | Ceramic Integrated Urinal Flush Valve (ABS Panel) | 45×45×9.5mm | $40 | ¥280 | 480 | Inner Size:
 206×181×75mm
 Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: ABS engineering plastic chromed plate.<br>3. Sensing distance: 60cm±4cm.                    | Ceramic integrated urinal flush valve, ABS chrome-plated panel, DC6V (AC110-240V customizable); sensing distance 60±4cm, plastic valve no adjuster, mounting hole ≥ø30mm, 500K cycles lifespan |
 
@@ -423,49 +423,49 @@ Cart | 1. DC6V (AC110-240V power customized)<br>2. Material: ABS engineering pla
 
 | Model | Product Name | Product Dimensions | USD | RMB | MOQ | Material | Performance Parameters | Core Features & Selling Points |
 |------|---------|---------|:---:|:---:|:---:|------|---------|---------|
-| `GBL-6303-D1` | Surface-Mounted Toilet Flush Valve (Foot Pedal) | 240×55×230mm | $142 | ¥994 | 480 | Inner Size: 
+| `GBL-6303-D1` | Surface-Mounted Toilet Flush Valve (Foot Pedal) | 240×55×230mm | $142 | ¥994 | 480 | Inner Size:
 288×215×80mm
 Cart | 1. DC6V(AC110-240V power customized)<br>2. Material: All-brass chrome-plated.<br>3. Sensing distance: 80cm±5cm.                                      | Surface-mounted toilet flush valve, all-brass chrome-plated, DC6V (AC110-240V customizable); sensing distance 80±5cm, integrated surface-mount, brass valve with foot pedal, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-6303-D2` | Surface-Mounted Toilet Flush Valve (Handle) | 240×55×230mm | $142 | ¥994 | 480 | Inner Size: 
+| `GBL-6303-D2` | Surface-Mounted Toilet Flush Valve (Handle) | 240×55×230mm | $142 | ¥994 | 480 | Inner Size:
 288×215×80mm
 Cart | 1. DC6V(AC110-240V power customized)<br>2. Material: All-brass chrome-plated.<br>3. Sensing distance: 80cm±5cm.                                      | Surface-mounted toilet flush valve, all-brass chrome-plated, DC6V (AC110-240V customizable); sensing distance 80±5cm, integrated surface-mount, brass valve with handle, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-6306D` | Surface-Mounted Toilet Flush Valve (ABS) | 128×102×135mm | $64 | ¥448 | 480 | Inner Size: 
+| `GBL-6306D` | Surface-Mounted Toilet Flush Valve (ABS) | 128×102×135mm | $64 | ¥448 | 480 | Inner Size:
 255×165×152mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: ABS engineering plastic.<br>3. Sensing distance: 80cm±5cm.                                   | Surface-mounted toilet flush valve, ABS material, DC6V (AC110-240V customizable); sensing distance 80±5cm, integrated surface-mount, brass valve, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-6313AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $76 | ¥532 | 480 | Inner Size: 
+| `GBL-6313AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $76 | ¥532 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-8300AD` | ⭐Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $77 | ¥539 | 480 | Inner Size: 
+| `GBL-8300AD` | ⭐Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $77 | ¥539 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | 🔥 Concealed toilet flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-8301AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $67 | ¥469 | 480 | Inner Size: 
+| `GBL-8301AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $67 | ¥469 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-8303AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $80 | ¥560 | 480 | Inner Size: 
+| `GBL-8303AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $80 | ¥560 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-8307AD` | ⭐Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $80 | ¥560 | 480 | Inner Size: 
+| `GBL-8307AD` | ⭐Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $80 | ¥560 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | 🔥 Concealed toilet flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-8309AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $70 | ¥490 | 480 | Inner Size: 
+| `GBL-8309AD` | Concealed Toilet Flush Valve (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $70 | ¥490 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve, stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, 500K cycles lifespan; Inlet/Outlet G1" |
-| `GBL-8320AD` | Concealed Toilet Flush Valve Touch (Brass Valve) | Panel: 131×131×85mm | Box: 160×110×80mm | $89 | ¥623 | 480 | Inner Size: 
+| `GBL-8320AD` | Concealed Toilet Flush Valve Touch (Brass Valve) | Panel: 131×131×85mm | Box: 160×110×80mm | $89 | ¥623 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve (touch), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, LED ring touch button, 500K cycles lifespan |
-| `GBL-8321AD` | Concealed Toilet Flush Valve Touch (Glass Panel) | Panel: 140×140×85mm | Box: 160×110×80mm | $94 | ¥658 | 480 | Inner Size: 
+| `GBL-8321AD` | Concealed Toilet Flush Valve Touch (Glass Panel) | Panel: 140×140×85mm | Box: 160×110×80mm | $94 | ¥658 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Glass panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                  | Concealed toilet flush valve (touch), glass panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, LED ring touch button, 500K cycles lifespan |
-| `GBL-8307ADM` | Concealed Toilet Flush Valve Button (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $78 | ¥546 | 480 | Inner Size: 
+| `GBL-8307ADM` | Concealed Toilet Flush Valve Button (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $78 | ¥546 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, button with customizable LED |
-| `GBL-8308ADM` | Concealed Toilet Flush Valve Button (Brass Valve Large Panel) | Panel: 175×130×85mm | Box: 160×110×80mm | $113 | ¥791 | 480 | Inner Size: 
+| `GBL-8308ADM` | Concealed Toilet Flush Valve Button (Brass Valve Large Panel) | Panel: 175×130×85mm | Box: 160×110×80mm | $113 | ¥791 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: SS plate &  embedded box<br>3. Sensing distance: 60cm±4cm             | Concealed toilet flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, button with customizable LED |
-| `GBL-8300ADM` | Concealed Toilet Flush Valve Button (Brass Valve) | Panel: 128×128×85mm | Box: 160×110×80mm | $88 | ¥616 | 480 | Inner Size: 
+| `GBL-8300ADM` | Concealed Toilet Flush Valve Button (Brass Valve) | Panel: 128×128×85mm | Box: 160×110×80mm | $88 | ¥616 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, push-button type |
-| `GBL-8309ADM` | Concealed Toilet Flush Valve Button (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $80 | ¥560 | 480 | Inner Size: 
+| `GBL-8309ADM` | Concealed Toilet Flush Valve Button (Brass Valve) | Panel: 130×130×85mm | Box: 160×110×80mm | $80 | ¥560 | 480 | Inner Size:
 378×165×112mm
 Car | 1. DC6V(AC110-240V power customized)<br>2. Material: Stainless steel panel + embedded box.<br>3. Sensing distance: 60cm±4cm.                                 | Concealed toilet flush valve (button), stainless steel panel + embedded box, DC6V (AC110-240V customizable); sensing distance 60±4cm, brass valve with adjuster, push-button type |
 

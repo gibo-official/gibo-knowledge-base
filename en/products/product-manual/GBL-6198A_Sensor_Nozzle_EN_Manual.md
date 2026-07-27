@@ -24,9 +24,9 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# Automatic Hand Washer
+## Automatic Hand Washer
 
-# Use Instruction
+## Use Instruction
 
 Thankyou for choosing our sanitaryware . hope to bring you sat is fa tion and good service !
 

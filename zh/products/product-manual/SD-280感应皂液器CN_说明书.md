@@ -22,7 +22,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "皂液器", "AI知识库"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# 成品尺寸 285x138mm
+## 成品尺寸 285x138mm
 
 ![感应皂液器成品尺寸 285x138mm](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-01.png)
 

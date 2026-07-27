@@ -25,7 +25,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "皂液器", "AI知识库"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# 产品说明书自动喷香机
+## 产品说明书自动喷香机
 ## 喷香机结构
 ![感应皂液器喷香机结构](../../../assets/images/ins/GIBO_CN_EN_SoapDispenser-ins-01.png)
 ## 喷香机安装

@@ -16,7 +16,7 @@ summary: "标准编号: DIN EN681-1"
 updated: 2026-07-14
 ---
 
-# DIN EN681-1 
+# DIN EN681-1
 
 **文档版本**：V1.0
 **最后更新**：2026-07-14
@@ -84,19 +84,19 @@ b) Änderung EN 682/A3 eingearbeitet; Abschnitt 6 Eigene Produktionskontrolle“
 
 Frühere Ausgaben
 
-DIN 4060-1: 1976-03   
-DIN 4060: 1988-12   
-DIN EN 681-1: 1996-06, 1998-12, 2003-05   
+DIN 4060-1: 1976-03
+DIN 4060: 1988-12
+DIN EN 681-1: 1996-06, 1998-12, 2003-05
 DIN EN 681-1 Berichtigung 1: 2003-08
 
 ICS 23.040.80
 
 Deutsche Fassung
 
-# Elastomer-Dichtungen— Werkstoff-Anforderungen für Rohrleitungs-Dichtungen für Anwendungen in der Wasserversorgung und Entwässerung — Teil 1: Vulkanisierter Gummi
+## Elastomer-Dichtungen— Werkstoff-Anforderungen für Rohrleitungs-Dichtungen für Anwendungen in der Wasserversorgung und Entwässerung — Teil 1: Vulkanisierter Gummi
 
-Elastomeric seals —   
-Material requirements for pipe joint seals   
+Elastomeric seals —
+Material requirements for pipe joint seals
 used in water and drainage applications — Part 1: Vulcanized rubber
 
 Garnitures d'étanchéité en caoutchouc — Spécification des matériaux pour garnitures d'étanchéité utilisés dans le domaine de l'eau et du drainage — Partie 1:Caoutchouc vulcanisé
@@ -127,55 +127,55 @@ Management-Zentrum: rue de Stassart, 36 B-1050 Brüssel
 
 ## Inhalt
 
-Seite   
-Vorwort3   
-Vorwort zur Änderung A1 3   
-Vorwort zur Änderung A2 4   
-Vorwort zur Änderung A3 4   
-Einleitung.   
-1 Anwendungsbereich 6   
-2 Normative Verweisungen.6   
-3 Kategorien   
-4 Anforderungen   
-4.1 Werkstoffe   
-4.2 Anforderungen an die fertigen Dichtungen .8   
-4.3 Freigestellte Anforderungen für Dichtungen für Kaltwasserversorgung, Entwässerung   
-und Kanalisation...   
-5.1 Prüfkörper und Prüftemperatur 14   
-Vorbereitung der Probekörper  14   
-5.2 Prüftemperatur..... 14   
-6 Werkseigene Produktionskontrolle  14   
-7 Prüfung zur Produktionskontrolle 14   
-7.1 Probenahmen14   
-7.2 Routineprüfungen14   
-7.3 Typprüfungen15   
-8 Lagerun15   
-9 Bezeichnung…15   
-10 Kennzeichnung und Beschilderung  15   
-Anhang A (normativ) Bestimmung der Spannungsrelaxation im Zugversuh... 17   
-A.1 Prinzip17   
-A.2 Prüfgerät17   
-A.3 Probekörper17   
-A.4 Prüfbedingungen17   
-A.5 Durchführung 17   
-Anhang B (normativ) Druckverformungsrest in heißem Wasser bei $1 1 0 ^ { \circ } \mathsf { C }$ …19   
-B.1 Prinzip19   
-B.2 Prüfgerät19   
-B.3 Probekörper19   
-B.4 Durchführung19   
-Anhang C (normativ) Festigkeit der Verbindungsstellen.. 20   
-C.1 Prinzip... 20   
-C.2 Probekorper20   
-C.3 Durchführung20   
-Anhang D (informativ) Empfehlungen für die Lagerung der Dichtungen.. 21   
-Anhang ZA (informativ) Abschnitte in dieser Europäischen Norm, die grundlegende   
-Anforderungen oder andere Vorgaben von EU-Richtlinien betreffen.....   
-ZA.1 Anwendungsbereich und Abschnitte dieser Europäischen Norm, die grundlegenden   
-Anforderungen der EU-Bauprodukten Richtlinie betreffen.   
-ZA.2 System der Konformitätsbescheinigung  23   
+Seite
+Vorwort3
+Vorwort zur Änderung A1 3
+Vorwort zur Änderung A2 4
+Vorwort zur Änderung A3 4
+Einleitung.
+1 Anwendungsbereich 6
+2 Normative Verweisungen.6
+3 Kategorien
+4 Anforderungen
+4.1 Werkstoffe
+4.2 Anforderungen an die fertigen Dichtungen .8
+4.3 Freigestellte Anforderungen für Dichtungen für Kaltwasserversorgung, Entwässerung
+und Kanalisation...
+5.1 Prüfkörper und Prüftemperatur 14
+Vorbereitung der Probekörper  14
+5.2 Prüftemperatur..... 14
+6 Werkseigene Produktionskontrolle  14
+7 Prüfung zur Produktionskontrolle 14
+7.1 Probenahmen14
+7.2 Routineprüfungen14
+7.3 Typprüfungen15
+8 Lagerun15
+9 Bezeichnung…15
+10 Kennzeichnung und Beschilderung  15
+Anhang A (normativ) Bestimmung der Spannungsrelaxation im Zugversuh... 17
+A.1 Prinzip17
+A.2 Prüfgerät17
+A.3 Probekörper17
+A.4 Prüfbedingungen17
+A.5 Durchführung 17
+Anhang B (normativ) Druckverformungsrest in heißem Wasser bei $1 1 0 ^ { \circ } \mathsf { C }$ …19
+B.1 Prinzip19
+B.2 Prüfgerät19
+B.3 Probekörper19
+B.4 Durchführung19
+Anhang C (normativ) Festigkeit der Verbindungsstellen.. 20
+C.1 Prinzip... 20
+C.2 Probekorper20
+C.3 Durchführung20
+Anhang D (informativ) Empfehlungen für die Lagerung der Dichtungen.. 21
+Anhang ZA (informativ) Abschnitte in dieser Europäischen Norm, die grundlegende
+Anforderungen oder andere Vorgaben von EU-Richtlinien betreffen.....
+ZA.1 Anwendungsbereich und Abschnitte dieser Europäischen Norm, die grundlegenden
+Anforderungen der EU-Bauprodukten Richtlinie betreffen.
+ZA.2 System der Konformitätsbescheinigung  23
 ZA.3 CE-Kennzeichnung24
 
-# EN681-1:1996 + A1:1998 + A2:2002 + AC:2002 + A3:2005 (D)
+## EN681-1:1996 + A1:1998 + A2:2002 + AC:2002 + A3:2005 (D)
 
 ## Vorwort
 
@@ -390,7 +390,7 @@ Dichtungen für Heißwasser-Versorgung
 
 7 d bei (23 ± 2) °C und 100 d bei(23 ± 2) ℃
 
-7 d bei(23 ± 2) °℃ und   
+7 d bei(23 ± 2) °℃ und
 7 d bei (125 ± 2) °℃
 
 Die Prüftemperatur muss während der gesamten Prüfdauer innerhalb der Toleranzgrenzen gehalten und mit einem geeigneten, kontinuierlich arbeitenden Aufzeichnungsgerät aufgezeichnet werden.
@@ -581,9 +581,9 @@ g) Abkürzung für den Kautschuk, z. B. SBR.
 Tabelle 4 — Bezeichnung der Elastomer-Dichtungen nach Typ, Anwendung und Anforderungen
 <table><tr><td rowspan=1 colspan=1>Typ</td><td rowspan=1 colspan=1>Anwendung</td><td rowspan=1 colspan=1>Anforderungen</td><td rowspan=1 colspan=1>AbschnittNr.</td></tr><tr><td rowspan=1 colspan=1>WA</td><td rowspan=1 colspan=1>Trinkwasserversorgung, kalt(bis $5 0 ~ ^ { \circ } C )$ </td><td rowspan=1 colspan=1>Tabelle 2Einflüsse auf die Wasserqualität</td><td rowspan=1 colspan=1>4.1.2</td></tr><tr><td rowspan=1 colspan=1>WB</td><td rowspan=1 colspan=1>Trinkwasserversorgung, heiß(ununterbrochene Temperaturbis $1 1 0 ^ { \circ } \mathrm { C } )$ </td><td rowspan=1 colspan=1>Tabelle 3Einflüsse auf die Wasserqualität</td><td rowspan=1 colspan=1>4.1.2</td></tr><tr><td rowspan=1 colspan=1>WC</td><td rowspan=1 colspan=1>Brauchwasserversorgung, kalt,Entwässerung-, Abwasser- undRegenwasserleitungen(ununterbrochener Durchflussbis $4 5 ~ ^ { \circ } \mathsf { C }$ und zeitweilig bis $9 5 ^ { \circ } \mathrm { C } )$ </td><td rowspan=1 colspan=1>Tabelle 2</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>WD</td><td rowspan=1 colspan=1>Brauchwasserversorgung, heiß(ununterbrochene Temperaturbis $1 1 0 ^ { \circ } \mathrm { C } )$ </td><td rowspan=1 colspan=1>Tabelle 3</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>WE</td><td rowspan=1 colspan=1>Trinkwasserversorgung, heiß(ununterbrochene Temperaturbis $1 1 0 ^ { \circ } \mathrm { C } )$ Dichtungen aus Isobuten-Isopren-Kautschuk</td><td rowspan=1 colspan=1>Tabelle 3Einflüsse auf die WasserqualitätDruckverformungsrest in heißem Wasser</td><td rowspan=1 colspan=1>4.1.24.2.11</td></tr><tr><td rowspan=1 colspan=1>WF</td><td rowspan=1 colspan=1>Brauchwasserversorgung, heiß(ununterbrochene Temperaturbis $1 1 0 ^ { \circ } \mathrm { C } )$ Dichtungen aus Isobuten-Isopren-Kautschuk</td><td rowspan=1 colspan=1>Tabelle 3Druckverformungsrest in heißem Wasser</td><td rowspan=1 colspan=1>4.2.11</td></tr><tr><td rowspan=1 colspan=1>WG</td><td rowspan=1 colspan=1>Brauchwasserversorgung, kalt,Entwässerung-, Abwasser- undRegenwasserleitungen(ununterbrochener Durchflussbis $4 5 ~ ^ { \circ } \complement$ und zeitweilig bis $9 5 ^ { \circ } \mathrm { C } )$ </td><td rowspan=1 colspan=1>Tabelle 2Ölbeständigkeit</td><td rowspan=1 colspan=1>4.3.2</td></tr></table>
 
-# Anhang A (normativ)
+## Anhang A (normativ)
 
-# Bestimmung der Spannungsrelaxation im Zugversuch
+## Bestimmung der Spannungsrelaxation im Zugversuch
 
 ## A.1 Prinzip
 
@@ -630,9 +630,9 @@ Maße in mm
 ![DIN EN681-1 A.5 Durchführung](images/b044dc465409dbc75b35e863b91a4a9876dc1ef93ec1c3a5ec2142425704f717.jpg)
 Bild A.1 — Beispiel eines Gerätes zur Prüfung der Spannungsrelaxation im Zugversuch (alle Maße sind Richtwerte)
 
-# Anhang B (normativ)
+## Anhang B (normativ)
 
-# Druckverformungsrest in heißem Wasser bei $1 1 0 ^ { \circ } \mathsf { C }$
+## Druckverformungsrest in heißem Wasser bei $1 1 0 ^ { \circ } \mathsf { C }$
 
 ## B.1 Prinzip
 
@@ -661,9 +661,9 @@ Maße in mm
 ![DIN EN681-1 B.4Durchführung](images/7d66315b203c995c5e5beff8a556694b8962ef822aa14fb037423e9c79c82712.jpg)
 Bild B.1 — Spannvorrichtung für den Druckverformungsrest in heißem Wasser
 
-# Anhang C (normativ)
+## Anhang C (normativ)
 
-# Festigkeit der Verbindungsstellen
+## Festigkeit der Verbindungsstellen
 
 ## C.1 Prinzip
 
@@ -680,9 +680,9 @@ Zwei Bezugsmarken werden auf dem Probekörper im Abstand von je 50 mm von der Ve
 Tabelle C.1 — Dehnung zwischen den Bezugsmarken zur Bestimmung der Festigkeit der Verbindungsstellen
 <table><tr><td>Härtekategorie</td><td>Dehnung in %</td></tr><tr><td>bis 70</td><td>100</td></tr><tr><td>80</td><td>75</td></tr><tr><td>90</td><td>50</td></tr></table>
 
-# Anhang D (informativ)
+## Anhang D (informativ)
 
-# Empfehlungen für die Lagerung der Dichtungen
+## Empfehlungen für die Lagerung der Dichtungen
 
 In allen Zwischenstationen zwischen Herstellung und Einsatz sind die Dichtungen nach den Empfehlungen von ISO 22301) zu lagern.
 
@@ -698,9 +698,9 @@ d) Die Dichtungen sollten entspannt, d. h. ohne Zug, Druck oder andere Verformun
 
 e) Die Dichtungen sollten sauber gehalten werden.
 
-# Anhang ZA (informativ)
+## Anhang ZA (informativ)
 
-# Abschnitte in dieser Europäischen Norm, die grundlegende Anforderungen oder andere Vorgaben von EU-Richtlinien betreffen
+## Abschnitte in dieser Europäischen Norm, die grundlegende Anforderungen oder andere Vorgaben von EU-Richtlinien betreffen
 
 ## ZA.1 Anwendungsbereich und Abschnitte dieser Europäischen Norm, die grundlegenden Anforderungen der EU-Bauprodukten Richtlinie betreffen
 

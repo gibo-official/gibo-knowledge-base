@@ -11,6 +11,8 @@ product: "GBL-6170_Sensor_Basin_Faucet_EN_Manual"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
+# GIBO Sensor Faucet Product Manual
+
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
@@ -27,8 +29,8 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 
 ●Please prepare the following tools: Monkey wrench, Glove, Batteries(4pcs of AA),etc.
 
-12  
-Step 1  
+12
+Step 1
 ![Sensor_Basin_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-01.jpg)
 
 ![Sensor_Basin_Faucet BEFORE YOU BEGIN](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-02.jpg)
@@ -51,10 +53,10 @@ Step 1
 
 7. Suit basin as following picture.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-05.jpg)  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-05.jpg)
 Available for under counter basin
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-06.jpg)  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-06.jpg)
 Unavailable for above counter basin
 
 ## INSTALLATION OF THE FAUCET
@@ -89,7 +91,7 @@ Sixth step:
 
 Open the cold and hot angle valve, reach for induction and wave for side induction, and turn on/off the handl to test whether the product is in normal use, then check whether the water hose and the adapter are leaking.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-10.jpg)  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-10.jpg)
 Integral installation drawing
 
 02.Free your hands. Open and close the water automatically with manual switch, easy to use.
@@ -110,13 +112,13 @@ Integral installation drawing
 
 ![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-11.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-12.jpg)  
-Weak power indicating  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-12.jpg)
+Weak power indicating
 Power-off automatic shutoff
 
 ![Sensor_Basin_Faucet Fourth step:](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-13.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-14.jpg)  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-14.jpg)
 1 minute timeout protection
 
 3 minutes time out protection
@@ -133,11 +135,11 @@ Power-off automatic shutoff
 
 ![Sensor_Basin_Faucet NOTES OF USE](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-18.jpg)
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-19.jpg)  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-19.jpg)
 Do not clean with water instead with clean and dry soft cloth.
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-20.jpg)  
-Do not shake the faucet in case of any damage.  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-20.jpg)
+Do not shake the faucet in case of any damage.
 Do not wash with alkaline or acid detergents.
 
 ## USE EXPOSITION
@@ -218,8 +220,8 @@ Note: The polarity of batteries must be correct. Do not mix old and new batterie
 
 ## SERVICE PARTSPAGE
 
-![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-29.jpg)  
-Installation tool  
+![](../../../assets/images/ins/GBL-6170_EN_SensorFaucet-ins-29.jpg)
+Installation tool
 Hose
 
 FUJIAN GIBO KITCHEN & BATHROOM TEC. CO., LTD. Address :B-54, Pushang Inductrial park,Cangshan District Fuzhou,China Tel:400-6622-16 www.gibo.com.cn

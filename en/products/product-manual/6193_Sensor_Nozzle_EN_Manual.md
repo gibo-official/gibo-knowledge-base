@@ -23,7 +23,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# Diy Sensor Tap Installation Manual
+## Diy Sensor Tap Installation Manual
 
 ## Function
 
@@ -49,7 +49,7 @@ There are two sensors on the diy tap device .
 
 ![Sensor_Nozzle Technical Information](../../../assets/images/ins/6193_EN_SensorNozzle-ins-01.png)
 
-# Preparation Before Installation
+## Preparation Before Installation
 
 1. please note that tap water is required . if water is not clean it may requireafilter to avoid damage to the devise .
 

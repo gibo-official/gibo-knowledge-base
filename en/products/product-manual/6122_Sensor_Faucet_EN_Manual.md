@@ -23,7 +23,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# Automatic Sensor Faucet
+## Automatic Sensor Faucet
 
 INSTALLATION
 

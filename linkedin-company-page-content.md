@@ -155,14 +155,14 @@ Add these as individual product/service entries:
 > Fujian GIBO Kitchen and Bath Tech Co., Ltd. — your trusted **Sensor Faucet ODM Expert** since 2005.
 >
 > We specialize in R&D and manufacturing of:
-> 🔹 Sensor faucets & flush valves  
-> 🔹 Sensor soap dispensers  
-> 🔹 Smart showers & smart toilets  
+> 🔹 Sensor faucets & flush valves
+> 🔹 Sensor soap dispensers
+> 🔹 Smart showers & smart toilets
 > 🔹 ODM/OEM custom services for global brands
 >
-> ✅ National High-tech Enterprise  
-> ✅ National Standard Drafting Unit  
-> ✅ 200+ patents | 5M+ units sold | 40+ countries exported  
+> ✅ National High-tech Enterprise
+> ✅ National Standard Drafting Unit
+> ✅ 200+ patents | 5M+ units sold | 40+ countries exported
 > ✅ ISO9001 | CE | RoHS | CCC | NSF Certified
 >
 > Follow us for product updates, industry insights, and smart bathroom innovations!
@@ -172,10 +172,10 @@ Add these as individual product/service entries:
 ### Post 2: ODM Capabilities Spotlight
 > **Why do global bathroom brands choose GIBO as their ODM partner?** 🤝
 >
-> 🏭 **Full-service customization**: From concept design to mass production  
-> 🔬 **18 advanced sensing technologies**: dTOF laser, millimeter-wave, anti-EMI  
-> 📋 **Global certifications included**: CE, RoHS, CUPC, NSF — no duplicate testing  
-> ⚙️ **Production capacity**: 100K electronic modules + 50K finished products/month  
+> 🏭 **Full-service customization**: From concept design to mass production
+> 🔬 **18 advanced sensing technologies**: dTOF laser, millimeter-wave, anti-EMI
+> 📋 **Global certifications included**: CE, RoHS, CUPC, NSF — no duplicate testing
+> ⚙️ **Production capacity**: 100K electronic modules + 50K finished products/month
 > 🧪 **In-house testing lab**: CNAS-standard EMC, life, IP protection testing
 >
 > With 20+ years of focus on sensor sanitary ware, we turn your product vision into reality.
@@ -188,12 +188,12 @@ Add these as individual product/service entries:
 > **Proud to be a National Standard Drafting Unit** 🇨🇳
 >
 > GIBO has contributed to the development of:
-> 📜 GB/T 41863-2022 — National standard for non-contact water supply devices  
+> 📜 GB/T 41863-2022 — National standard for non-contact water supply devices
 > 📜 T/XMBK 002—2024 — Sensor faucets group standard
 >
 > Our commitment to standardization ensures:
-> ✅ Consistent product quality across the industry  
-> ✅ Water-saving and energy-efficient solutions  
+> ✅ Consistent product quality across the industry
+> ✅ Water-saving and energy-efficient solutions
 > ✅ Safer, more reliable sensor sanitary ware
 >
 > As a Top 10 Sensor Sanitary Ware Brand in China, we don't just follow standards — we help shape them.

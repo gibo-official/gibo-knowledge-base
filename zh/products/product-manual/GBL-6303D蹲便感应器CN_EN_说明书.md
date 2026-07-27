@@ -11,6 +11,8 @@ product: "GBL-6303D蹲便感应器CN_EN_说明书"
 tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_说明书", "AI知识库"]
 ---
 
+# 洁博利GIBO 蹲便感应器 产品说明书
+
 **文档版本**：V1.0
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
@@ -85,15 +87,15 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_�
 
 5. Please open the master valve to clean the water way before installing the product to avoid the blockage.
 
-1. 安装前确认配电电压与产品规格是否相符。  
-2. 安装前测量好蹲便器及冲水器面板的安装位置。  
-3. 蹲便器与冲水器保持在同一中心线上。  
-4. 务必确认进水管径大于G1(DN25)。  
+1. 安装前确认配电电压与产品规格是否相符。
+2. 安装前测量好蹲便器及冲水器面板的安装位置。
+3. 蹲便器与冲水器保持在同一中心线上。
+4. 务必确认进水管径大于G1(DN25)。
 5. 安装产品前请开启总阀清洗水路，以免造成新装产品的堵塞。
 
 ## INSTALLATION DRAWING
 
-![](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-04.jpg)  
+![](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-04.jpg)
 Unit: mm
 
 ![D蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-05.jpg)
@@ -151,8 +153,8 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 ## 注意
 
-\*电池正负(十一)极性必须正确；  
-\*不同新旧、类型或品牌的电池不可混合使用；  
+\*电池正负(十一)极性必须正确；
+\*不同新旧、类型或品牌的电池不可混合使用；
 \*指示灯一直闪烁，表示电池电量不足，请及时更换电池。
 
 ## NOTE

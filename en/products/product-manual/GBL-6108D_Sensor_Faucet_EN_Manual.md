@@ -11,6 +11,8 @@ product: "GBL-6108D_Sensor_Faucet_EN_Manual"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
+# GIBO Sensor Faucet Product Manual
+
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
@@ -219,7 +221,7 @@ DO NOT mix batteries with different brands.
 
 ## FAULT DETECT
 
-Please refer to the following suggested solutions if any abnormal phenomena happens. Any problems please contact local distributor.  
+Please refer to the following suggested solutions if any abnormal phenomena happens. Any problems please contact local distributor.
 ![D_Sensor_Faucet FAULT DETECT](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-14.jpg)
 
 ## 简单故障排除
@@ -270,7 +272,7 @@ Supplier has right to use latest maintenance accessories.
 
 ## GBL-6108D InspectionStandards
 
-Inspection Basis:CJ/T194-2004 "Touch Free Water Supply Facility"  
+Inspection Basis:CJ/T194-2004 "Touch Free Water Supply Facility"
 ![D_Sensor_Faucet GBL-6108D InspectionStandards](../../../assets/images/ins/Sensor_faucet_GBL-6108D-ins-18.jpg)
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 

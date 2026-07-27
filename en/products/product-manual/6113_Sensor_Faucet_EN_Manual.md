@@ -23,7 +23,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# Automatic Faucet Instruction of Use
+## Automatic Faucet Instruction of Use
 
 Features : automatic faucet , which is adopted with infrared sensor principle , flushes once 1. gbl -6113 adsense without touching and avoid cross bacterium infection , makes your life clean and perfect . usage : when you stretch your hands customarily under the outletof faucet , water flows automatically due 2. to sensor , and when your hands drawback water stop automatically .
 

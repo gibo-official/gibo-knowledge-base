@@ -12,6 +12,8 @@ product: "8207"
 tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ---
 
+# GIBO 8207 Urinal Flusher Product Manual
+
 **Document Version**: V1.0
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Product Showcase, Bidding Materials, AI Knowledge Base Citation
@@ -106,15 +108,15 @@ INSTALLATION & INSTRUCTIONS
 
 面板组件
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-03.jpg)  
-预埋盒组件  
-墙内管  
-说明书  
-电池盒  
-7字形墙外管  
-工形塞  
-电源适配器  
-装饰罩  
+![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-03.jpg)
+预埋盒组件
+墙内管
+说明书
+电池盒
+7字形墙外管
+工形塞
+电源适配器
+装饰罩
 4\*25螺丝
 
 ## 技术参数
@@ -129,13 +131,13 @@ INSTALLATION & INSTRUCTIONS
 
 3. 小便器将在 24 小时内自动冲洗。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-05.jpg)  
+![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-05.jpg)
 人体进入感应范围时，感应器便发出感应指示信号。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-06.jpg)  
+![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-06.jpg)
 当确认感应时电磁阀进行预冲洗。
 
-![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-07.jpg)  
+![](../../../assets/images/ins/8207_EN_UrinalSensor-ins-07.jpg)
 便后，人体离开小便斗，冲水阀便自动放水冲洗一次。
 
 ## 维护说明

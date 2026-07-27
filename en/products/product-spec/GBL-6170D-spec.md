@@ -878,7 +878,7 @@ Empowering partners technically, making innovation more commercially valuable
 Gathering intelligence into bathroom technology, for people's better life
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
-# GBL-6170D Product Specification
+## GBL-6170D Product Specification
 
 > **Positioning Tagline**: A commercial/residential basin sensor faucet that won the Boiling Quality Gold Award (2020)
 >
@@ -1330,7 +1330,7 @@ Empowering partners technically, making innovation more commercially valuable
 Gathering intelligence into bathroom technology, for people's better life
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
-# GBL-6170D Aishang – Basin Sensor Faucet Product Specification
+## GBL-6170D Aishang – Basin Sensor Faucet Product Specification
 
 > **Brand**: GIBO | Sensor Faucet ODM Expert
 > **Official Website**: https://www.gibo.com.cn

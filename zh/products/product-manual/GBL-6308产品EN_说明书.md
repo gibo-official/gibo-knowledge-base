@@ -145,7 +145,7 @@ The magnet could be used to set up the different working mode to meet different 
 
 2. for example , if you want to set up the mode 6, you need put the magnet against the sensor window to stimulate the indicator flashing 6 times ; and then leave the magnet immediately . waiting for the indicator repeat it for 3 times to confirm . after the indicators top flashing , the mode 6 is set up then .
 
-# Closet Electronic Flushometer
+## Closet Electronic Flushometer
 
 ① note : to set up the working mode only in two conditions :
 (1) the battery is original installation .

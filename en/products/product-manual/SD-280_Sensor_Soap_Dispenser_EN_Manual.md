@@ -22,7 +22,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-# 成品尺寸 285x138mm
+## 成品尺寸 285x138mm
 
 ![Sensor_Soap_Dispenser成品尺寸 285x138mm](../../../assets/images/ins/SD-280_EN_SoapDispenser-ins-01.png)
 

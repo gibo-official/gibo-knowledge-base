@@ -92,14 +92,14 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 ![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-06.png)
 
-![](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-07.png)  
+![](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-07.png)
 2.当手伸到水龙头感应范围时，水龙头自动出水。
 
 3.当手离开水龙头感应范围时，水龙头自动关水。
 
 ![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-08.png)
 
-![](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-09.png)  
+![](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-09.png)
 2.请不要摇晃龙头，否则易引起故障。
 
 1.请不要用水擦洗，应使用洁净的干软布清洁。

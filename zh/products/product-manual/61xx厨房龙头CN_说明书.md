@@ -32,7 +32,7 @@ ISO9001: 2008
 ![厨房龙头感应水龙头](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-03.png)
 中装协会员单位
 
-# Double Sensor Kitchen Faucet
+## Double Sensor Kitchen Faucet
 
 智能厨房双模龙头
 

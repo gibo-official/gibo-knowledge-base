@@ -26,7 +26,7 @@ ASME A112.18.2-2005/CSA B125.2-05
 
 Plumbing waste fittings
 
-# Legal Notice for Harmonized Standard Jointly Developed by ASME and CSA
+## Legal Notice for Harmonized Standard Jointly Developed by ASME and CSA
 
 ## Intellectual property rights and ownership
 
@@ -66,7 +66,7 @@ In addition, users may not and may not permit others to
 
 If you do not agree with any of the terms and conditions contained in this Legal Notice, you may not load or use this document or make any copies of the contents hereof, and if you do make such copies, you are required to destroy them immediately. Use of this document constitutes your acceptance of the terms and conditions of this Legal Notice.
 
-# CSA Standards Update Service ASME A112.18.2-2005/CSA B125.2-05 June 2005
+## CSA Standards Update Service ASME A112.18.2-2005/CSA B125.2-05 June 2005
 
 Title: Plumbing waste fittings
 
@@ -100,20 +100,20 @@ I consent to CSA collecting and using the above information to send me updates r
 
 Visit CSA's policy on privacy at www.csagroup.org/legal to find out how we protect your personal information.
 
-ASSOCIATION CANADIENNE DE   
-NORMALISATION   
-BUREAU CENTRAL DE L'INFORMATION   
-5060, SPECTRUM WAY, BUREAU 100   
-MISSISSAUGA ON L4W 5N6   
+ASSOCIATION CANADIENNE DE
+NORMALISATION
+BUREAU CENTRAL DE L'INFORMATION
+5060, SPECTRUM WAY, BUREAU 100
+MISSISSAUGA ON L4W 5N6
 CANADA
 
 Affranchir suffisamment Place Stamp Here
 
-CANADIAN STANDARDS   
-ASSOCIATION   
-CONSOLIDATED MAILING LIST   
-5060 SPECTRUM WAY, SUITE 100   
-MISSISSAUGA ON L4W 5N6   
+CANADIAN STANDARDS
+ASSOCIATION
+CONSOLIDATED MAILING LIST
+5060 SPECTRUM WAY, SUITE 100
+MISSISSAUGA ON L4W 5N6
 CANADA
 
 ASME/CSA Standard
@@ -138,11 +138,11 @@ CANADIAN STANDARDS ASSOCIATION
 
 This Standard is issued jointly by the American Society of Mechanical Engineers (ASME) and the Canadian Standards Association (CSA). Amendments to this Standard will be made only after processing according to the Standards writing procedures of both ASME and CSA.
 
-The American Society of Mechanical   
-Engineers (ASME)   
-Three Park Avenue   
-New York, NY 10016-5990   
-USA   
+The American Society of Mechanical
+Engineers (ASME)
+Three Park Avenue
+New York, NY 10016-5990
+USA
 www.asme.org
 
 ISBN 0-7918-2983-9
@@ -151,53 +151,53 @@ ISBN 0-7918-2983-9
 
 The 2005 edition of this Standard is being issued with an automatic addenda subscription service. The use of addenda allows revisions made in response to public review comments or committee actions to be published as necessary.
 
-Published in June 2005 by Canadian   
-Standards Association   
-A not-for-profit private sector organization   
-5060 Spectrum Way, Suite 100   
-Mississauga, Ontario, Canada   
-L4W 5N6   
-1-800-463-6727 • 416-747-4044   
+Published in June 2005 by Canadian
+Standards Association
+A not-for-profit private sector organization
+5060 Spectrum Way, Suite 100
+Mississauga, Ontario, Canada
+L4W 5N6
+1-800-463-6727 • 416-747-4044
 Visit the CSA Online Store at www.ShopCSA.ca
 
 ISBN 1-55436-875-8 Technical Editor: Abraham I. Murra
 
 © Canadian Standards Association — 2005
 
-1 Scope 1 1 cope 1   
-2 Reference publications 1   
-2.1 ASME and CSA publications 1   
-2.2 Other publications 2   
-3 Definitions and abbreviations 3   
-3.1 Definitions 3   
-3.2 Abbreviations 4   
-4 General requirements 4   
-4.1 Materials 4   
-4.2 Installation 5   
-4.2.1 Connection to waste system 5   
-4.2.2 Protection of finish 5   
-4.2.3 Fixture seal 5   
-4.3 Threads 5   
-4.3.1 DWV plastic pipe and fittings 5   
-4.3.2 Metallic pipes and fittings 5   
-4.3.3 Compression and union nuts 6   
-4.3.4 Tapped bosses 6   
-4.4 Solder connections 6   
-4.5 Replacement parts 6   
-4.5.1 Use of standard tools 6   
-4.5.2 Replacement part design 6   
-4.6 Dimensions 6   
-4.6.1 Outlet size 6   
-4.6.2 Slip joints 6   
-4.6.3 Wall thickness 6   
-4.6.4 Sink strainer assemblies 7   
-4.6.5 Traps 7   
-4.6.6 Mechanical stoppers 7   
-4.6.7 Elastomeric fittings 7   
-4.6.8 Tubing stops 8   
-4.6.9 Subdrains for built-up shower pans 8   
-5 Performance requirements and test methods 8   
-5.1 General 8   
+1 Scope 1 1 cope 1
+2 Reference publications 1
+2.1 ASME and CSA publications 1
+2.2 Other publications 2
+3 Definitions and abbreviations 3
+3.1 Definitions 3
+3.2 Abbreviations 4
+4 General requirements 4
+4.1 Materials 4
+4.2 Installation 5
+4.2.1 Connection to waste system 5
+4.2.2 Protection of finish 5
+4.2.3 Fixture seal 5
+4.3 Threads 5
+4.3.1 DWV plastic pipe and fittings 5
+4.3.2 Metallic pipes and fittings 5
+4.3.3 Compression and union nuts 6
+4.3.4 Tapped bosses 6
+4.4 Solder connections 6
+4.5 Replacement parts 6
+4.5.1 Use of standard tools 6
+4.5.2 Replacement part design 6
+4.6 Dimensions 6
+4.6.1 Outlet size 6
+4.6.2 Slip joints 6
+4.6.3 Wall thickness 6
+4.6.4 Sink strainer assemblies 7
+4.6.5 Traps 7
+4.6.6 Mechanical stoppers 7
+4.6.7 Elastomeric fittings 7
+4.6.8 Tubing stops 8
+4.6.9 Subdrains for built-up shower pans 8
+5 Performance requirements and test methods 8
+5.1 General 8
 5.1.1 Preconditioning 8
 
 ## Contents
@@ -214,35 +214,35 @@ Preface xii
 
 CSA Foreword xiv
 
-5.1.2 Installation for testing 8   
-5.1.3 Testing sequence 8   
-5.2 Corrosion 9   
-5.2.1 Performance requirements 9   
-5.2.2 Test procedure 9   
-5.3 Thermal cycling 10   
-5.3.1 Performance requirements 10   
-5.3.2 Test procedure 10   
-5.4 Coatings 10   
-5.5 Shower drain strainers 10   
-5.5.1 Performance requirements 10   
-5.5.2 Load test procedure 10   
-5.6 Sink strainer assemblies 10   
-5.6.1 Performance requirements 10   
-5.6.2 Hot oil exposure 11   
-5.6.3 Water absorption 11   
-5.6.4 Point impact 11   
-5.7 Body and clamping rings of subdrains for built-up shower pans 12   
-5.8 Minimum flow rate 12   
-5.8.1 Performance requirements 12   
-5.8.2 Test procedure 12   
-5.9 Strength 12   
-5.9.1 Thread torque strength 12   
-5.9.2 Hydrostatic pressure 12   
-5.10 Life cycle 13   
-5.10.1 Performance requirements 13   
-5.10.2 Test procedure 13   
-5.11 Seals leakage 13   
-5.11.1 Waste fittings for drainage flow control 13   
+5.1.2 Installation for testing 8
+5.1.3 Testing sequence 8
+5.2 Corrosion 9
+5.2.1 Performance requirements 9
+5.2.2 Test procedure 9
+5.3 Thermal cycling 10
+5.3.1 Performance requirements 10
+5.3.2 Test procedure 10
+5.4 Coatings 10
+5.5 Shower drain strainers 10
+5.5.1 Performance requirements 10
+5.5.2 Load test procedure 10
+5.6 Sink strainer assemblies 10
+5.6.1 Performance requirements 10
+5.6.2 Hot oil exposure 11
+5.6.3 Water absorption 11
+5.6.4 Point impact 11
+5.7 Body and clamping rings of subdrains for built-up shower pans 12
+5.8 Minimum flow rate 12
+5.8.1 Performance requirements 12
+5.8.2 Test procedure 12
+5.9 Strength 12
+5.9.1 Thread torque strength 12
+5.9.2 Hydrostatic pressure 12
+5.10 Life cycle 13
+5.10.1 Performance requirements 13
+5.10.2 Test procedure 13
+5.11 Seals leakage 13
+5.11.1 Waste fittings for drainage flow control 13
 5.11.2 Other waste fittings 13
 
 ## 6 Markings 14
@@ -281,7 +281,7 @@ A (informative) — Unit conversion criteria 23
 
 11 — Typical lavatory pop-up drain 22
 
-# ASME Standards Committee A112 on Plumbing Materials and Equipment
+## ASME Standards Committee A112 on Plumbing Materials and Equipment
 
 D.W. Viola Plumbing Manufacturers Institute, Chair Schaumburg, Illinois, USA
 
@@ -341,7 +341,7 @@ W.C. Whitehead Plumbing & Drainage Institute, North Andover, Massachusetts, USA
 
 C.J. Gomez ASME International, Staff Secretary New York, New York, USA
 
-# ASME Project Team 18.2 — Fixture Waste Fittings
+## ASME Project Team 18.2 — Fixture Waste Fittings
 
 D.W. Viola Plumbing Manufacturers Institute, Chair Schaumburg, Illinois, USA
 
@@ -399,7 +399,7 @@ J.A. Sargent
 
 La Crosse, Wisconsin, USA
 
-# CSA Technical Committee on Plumbing Fittings
+## CSA Technical Committee on Plumbing Fittings
 
 A. Knapp A. Knapp & Associates, Chair Toronto, Ontario
 
@@ -467,7 +467,7 @@ C. Wrigley-Thomas Canadian Institute of Plumbing and Heating, Associate Toronto,
 
 A.I. Murra CSA, Project Manager Mississauga, Ontario
 
-# ASME/CSA Joint Harmonization Task Group on Plumbing Fittings
+## ASME/CSA Joint Harmonization Task Group on Plumbing Fittings
 
 P. Paré Watts Industries (Canada) Inc., Co-Chair Burlington, Ontario
 
@@ -507,7 +507,7 @@ Project Manager
 
 This Standard is dedicated to the memory of Patrick J. Higgins, whose vision and commitment to standards activities in both Canada and the United States were an inspiration in the development of this harmonized Standard.
 
-# Preface
+## Preface
 
 This is the first edition of ASME A112.18.2/CSA B125.2, Plumbing waste fittings.
 
@@ -575,7 +575,7 @@ Interpretations are published on the ASME Web site under the Committee Pages at 
 
 Committee interpretations are processed in accordance with the CSA Directives and guidelines governing standardization and are published in CSA's periodical Info Update, which is available on the CSA Web site at www.csa.ca.
 
-# CSA Foreword
+## CSA Foreword
 
 The Canadian Standards Association (CSA) develops standards under the name Canadian Standards Association, and provides certification and testing under the name CSA International. CSA International provides certification services for manufacturers who, under license from CSA, wish to use the appropriate registered CSA Marks on certain products of their manufacture to indicate conformity with CSA Standards.
 
@@ -593,7 +593,7 @@ If this Standard is to be used in obtaining CSA Certification please remember, w
 
 ASME A112.18.2-2005/CSA B125.2-05
 
-# Plumbing waste fittings
+## Plumbing waste fittings
 
 ## 1 Scope
 
@@ -669,11 +669,11 @@ A 536-84 (1999) e1 Standard Specification for Ductile Iron Castings
 
 B117-03 Standard Practice for Operating Salt Spray (Fog) Apparatus
 
-D 1784-03   
-Standard Specification for Rigid Poly(Vinyl Chloride) (PVC) Compounds and Chlorinated Poly(Vinyl Chloride)   
-(CPVC) Compounds   
-D 2661-02   
-Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40 Plastic Drain, Waste, and Vent Pipe   
+D 1784-03
+Standard Specification for Rigid Poly(Vinyl Chloride) (PVC) Compounds and Chlorinated Poly(Vinyl Chloride)
+(CPVC) Compounds
+D 2661-02
+Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) Schedule 40 Plastic Drain, Waste, and Vent Pipe
 and Fittings
 
 D 2665-04 Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Drain, Waste, and Vent Pipe and Fittings
@@ -912,7 +912,7 @@ When measured on a straight portion of the part, the wall thickness of metal tub
 
 ## 4.6.3.2 Plastic tube and tubular fittings
 
-The wall thickness of plastic tube and tubular fittings shall be at least 1.58 mm (0.062 in).   
+The wall thickness of plastic tube and tubular fittings shall be at least 1.58 mm (0.062 in).
 Note: This requirement does not apply to tapered or bevelled edges.
 
 ## 4.6.4 Sink strainer assemblies
@@ -985,7 +985,7 @@ No obstructions shall be permitted in the caulking area.
 
 ## 4.6.9.3 Weep holes
 
-Cast iron bodies shall have at least three weep holes, each with a minimum diameter of 6 mm (0.25 in).   
+Cast iron bodies shall have at least three weep holes, each with a minimum diameter of 6 mm (0.25 in).
 Weep holes shall be located above the clamping ring.
 
 ## 4.6.9.4 Clamping bolts and fasteners

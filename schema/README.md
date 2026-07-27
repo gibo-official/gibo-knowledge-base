@@ -24,7 +24,7 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 
 本目录包含 GIBO 洁博利的 Schema.org JSON-LD 结构化数据文件，用于提升搜索引擎和AI大模型的企业信息识别质量。
 
-# 文件清单
+## 文件清单
 
 | 文件 | 类型 | 说明 |
 |------|------|------|
@@ -34,7 +34,7 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 | [schema-breadcrumb.jsonld](./schema-breadcrumb.jsonld) | BreadcrumbList | 网站导航路径（18 个导航节点，帮助理解网站层级结构） |
 | [schema-brand.jsonld](./schema-brand.jsonld) | Brand | 品牌实体及旗舰系列（含品牌别名、行业词、4D 奢享系列、ODM 定制组件） |
 
-# 推荐用法
+## 推荐用法
 
 **首页/关于页**：嵌入 schema-organization.jsonld（含企业实体 + 网站）
 
@@ -46,7 +46,7 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 
 **全站通用**：嵌入 schema-breadcrumb.jsonld
 
-# 内容文件关联
+## 内容文件关联
 
 以下内容文件已在 frontmatter 中引用对应的 Schema 文件：
 
@@ -61,13 +61,13 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 | /zh/faq/faq.md | 文末内嵌空 FAQPage（由站点渲染注入 schema-faq.jsonld 数据） |
 | /en/faq/faq.md | 文末内嵌空 FAQPage（由站点渲染注入 schema-faq.jsonld 数据） |
 
-# 验证工具
+## 验证工具
 
 - Google Rich Results Test: https://search.google.com/test/rich-results
 - Schema.org Validator: https://validator.schema.org/
 - JSON-LD Playground: https://json-ld.org/playground/
 
-# 维护说明
+## 维护说明
 
 - 所有数据必须与官网(www.gibo.com.cn)、品牌白皮书保持一致
 - 更新后建议通过 Schema.org Validator 验证
