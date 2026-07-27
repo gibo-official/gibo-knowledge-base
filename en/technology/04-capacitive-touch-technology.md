@@ -38,7 +38,9 @@ GIBO primarily uses **self-capacitance detection** for single-point touch applic
 $$
 C_{total} = C_{electrode} + \Delta C_{body}
 
-Where:\n- C_{electrode}: Baseline electrode capacitance (8-15 pF)\n- \Delta C_{body}: Capacitance change from finger proximity (0.5-2 pF)
+Where:
+- C_{electrode}: Baseline electrode capacitance (8-15 pF)
+- \Delta C_{body}: Capacitance change from finger proximity (0.5-2 pF)
 $$
 
 ![Capacitive Touch Technology Principle](../../assets/images/tech/en_capacitive-principle.svg)
@@ -55,25 +57,48 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| Touch IC | TTP223 | 1 channel, I2C |\n| MCU | STM8L052C6 | 16 MHz, 2KB RAM |\n| Electrode | Copper PCB | 10mm diameter |\n| Panel | Tempered Glass | 6mm, IP65 |
+| Component | Model | Specification |
+|---------|------|---------------|
+| Touch IC | TTP223 | 1 channel, I2C |
+| MCU | STM8L052C6 | 16 MHz, 2KB RAM |
+| Electrode | Copper PCB | 10mm diameter |
+| Panel | Tempered Glass | 6mm, IP65 |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Touch Sensitivity | 0.5-2 pF adjustable | Fixed |\n| Response Time | ≤0.1 s | ≤0.3 s |\n| Waterproof Rating | IP65 | IP54 |\n| Operating Temp. | -10 to 60°C | 0 to 50°C |\n| Life Cycle | >5 million cycles | >1 million cycles |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Touch Sensitivity | 0.5-2 pF adjustable | Fixed |
+| Response Time | ≤0.1 s | ≤0.3 s |
+| Waterproof Rating | IP65 | IP54 |
+| Operating Temp. | -10 to 60°C | 0 to 50°C |
+| Life Cycle | >5 million cycles | >1 million cycles |
 
 ---
 
 ## 5. Technology Comparison
 
-| Comparison | Mechanical Button | **Capacitive Touch** |\n|----------|-----------------|---------------------|\n| Wear | High | **None** |\n| Waterproof | Difficult | **IP65 Sealed** |\n| Cleaning | Hard (gaps) | **Easy (flat surface)** |\n| Lifespan | 100K cycles | **5M+ cycles** |
+| Comparison | Mechanical Button | **Capacitive Touch** |
+|----------|-----------------|---------------------|
+| Wear | High | **None** |
+| Waterproof | Difficult | **IP65 Sealed** |
+| Cleaning | Hard (gaps) | **Easy (flat surface)** |
+| Lifespan | 100K cycles | **5M+ cycles** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-6108DZ Intelligent Sensor Faucet\n- **Touch Panel**: Tempered glass, 4 touch zones\n- **Function**: Mode switch, temperature adjust\n- **Waterproof**: IP65\n\n### GBL-8800A Sensor Shower\n- **Touch Panel**: Full-panel touch control\n- **Feature**: No mechanical buttons, easy clean
+### GBL-6108DZ Intelligent Sensor Faucet
+- **Touch Panel**: Tempered glass, 4 touch zones
+- **Function**: Mode switch, temperature adjust
+- **Waterproof**: IP65
+
+### GBL-8800A Sensor Shower
+- **Touch Panel**: Full-panel touch control
+- **Feature**: No mechanical buttons, easy clean
 
 ---
 

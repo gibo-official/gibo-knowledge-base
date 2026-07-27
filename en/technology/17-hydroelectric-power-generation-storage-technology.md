@@ -42,14 +42,24 @@ The system converts water flow kinetic energy to electrical energy:
 - Supercapacitor (5F, 5.5V) for storage
 
 **3. Energy Management**
-- Charge priority: Supercap → Battery (Li-ion 3.7V)\n- Auto-switch: Battery → Supercap when low\n- Protection: Over-charge/discharge/current
+- Charge priority: Supercap → Battery (Li-ion 3.7V)
+- Auto-switch: Battery → Supercap when low
+- Protection: Over-charge/discharge/current
 
 ### 2.1 Mathematical Model
 
 $$
 P = \eta \cdot \rho \cdot g \cdot Q \cdot h
 
-Where:\n- P: Output power (W)\n- \eta: System efficiency (35%)\n- \rho: Water density (1000 kg/m³)\n- g: Gravity (9.81 m/s²)\n- Q: Flow rate (0.083 L/s = 5 L/min)\n- h: Effective head (2 m)\n\nP = 0.35 × 1000 × 9.81 × 0.000083 × 2 = 0.57 W
+Where:
+- P: Output power (W)
+- \eta: System efficiency (35%)
+- \rho: Water density (1000 kg/m³)
+- g: Gravity (9.81 m/s²)
+- Q: Flow rate (0.083 L/s = 5 L/min)
+- h: Effective head (2 m)
+
+P = 0.35 × 1000 × 9.81 × 0.000083 × 2 = 0.57 W
 
 Per use (30s): E = 0.57 × 30 = 17 J
 Daily (50 uses): E = 850 J → Sufficient for standby (18μA × 24h = 1555 J)
@@ -69,25 +79,48 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Specification |\n|---------|--------------|\n| Turbine | 4-blade, 15mm, NdFeB N42 |\n| Generator | 3-phase, 500 rpm@5L/min |\n| Rectifier | Schottky, 0.3V drop |\n| Storage | Supercap 5F/5.5V + Li-ion 3.7V |
+| Component | Specification |
+|---------|--------------|
+| Turbine | 4-blade, 15mm, NdFeB N42 |
+| Generator | 3-phase, 500 rpm@5L/min |
+| Rectifier | Schottky, 0.3V drop |
+| Storage | Supercap 5F/5.5V + Li-ion 3.7V |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Output Power | 0.57 W @ 5 L/min | 0.2 W |\n| Storage | Supercap + Li-ion | Supercap only |\n| Maintenance-free | 10+ years | 2-3 years |\n| Min Flow Rate | 3 L/min | 5 L/min |\n| Battery Life | 10+ years (Li-ion) | N/A |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Output Power | 0.57 W @ 5 L/min | 0.2 W |
+| Storage | Supercap + Li-ion | Supercap only |
+| Maintenance-free | 10+ years | 2-3 years |
+| Min Flow Rate | 3 L/min | 5 L/min |
+| Battery Life | 10+ years (Li-ion) | N/A |
 
 ---
 
 ## 5. Technology Comparison
 
-| Power Source | Battery Only | **Hydroelectric** |\n|------------|------------|-------------------|\n| Maintenance | Replace 1-2 years | **10+ years** |\n| Cost (10yr) | Battery × 5 | **One-time** |\n| Environmental | Battery waste | **Eco-friendly** |\n| Reliability | Battery failure | **Always powered** |
+| Power Source | Battery Only | **Hydroelectric** |
+|------------|------------|-------------------|
+| Maintenance | Replace 1-2 years | **10+ years** |
+| Cost (10yr) | Battery × 5 | **One-time** |
+| Environmental | Battery waste | **Eco-friendly** |
+| Reliability | Battery failure | **Always powered** |
 
 ---
 
 ## 6. Typical Applications
 
-### Self-powered Sensor Faucet (GBL-7700A)\n- **Power**: Hydroelectric + Li-ion\n- **Maintenance**: 10+ years, no battery change\n- **Flow**: 5 L/min (charging)\n\n### Public Restroom Solution\n- **Advantage**: Zero wiring, zero maintenance\n- **ROI**: 2 years (battery savings)
+### Self-powered Sensor Faucet (GBL-7700A)
+- **Power**: Hydroelectric + Li-ion
+- **Maintenance**: 10+ years, no battery change
+- **Flow**: 5 L/min (charging)
+
+### Public Restroom Solution
+- **Advantage**: Zero wiring, zero maintenance
+- **ROI**: 2 years (battery savings)
 
 ---
 

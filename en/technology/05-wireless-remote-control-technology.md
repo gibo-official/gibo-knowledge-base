@@ -41,7 +41,11 @@ The remote encoder modulates control commands onto the RF carrier, and the devic
 $$
 P_{received} = P_{transmit} \cdot G_t \cdot G_r \cdot \left(\frac{\lambda}{4\pi d}\right)^2
 
-Where:\n- P: Power (mW)\n- G: Antenna gain (dBi)\n- \lambda: Wavelength (m)\n- d: Distance (m)
+Where:
+- P: Power (mW)
+- G: Antenna gain (dBi)
+- \lambda: Wavelength (m)
+- d: Distance (m)
 $$
 
 ![Wireless Remote Control Technology Principle](../../assets/images/tech/en_wireless-protocol.svg)
@@ -58,25 +62,48 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| RF Module | CC1101 | 433MHz, -116dBm |\n| MCU | STM8L052C6 | 16 MHz, low-power |\n| Antenna | PCB Trace | 433MHz quarter-wave |\n| Encoder | EV1527 | Fixed code, 20-bit |
+| Component | Model | Specification |
+|---------|------|---------------|
+| RF Module | CC1101 | 433MHz, -116dBm |
+| MCU | STM8L052C6 | 16 MHz, low-power |
+| Antenna | PCB Trace | 433MHz quarter-wave |
+| Encoder | EV1527 | Fixed code, 20-bit |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Frequency | 433.92 MHz | 433 MHz |\n| Range (open) | >50 m | 10-20 m |\n| Range (through-wall) | >15 m | 3-5 m |\n| Standby Current | ≤1 μA | ≤10 μA |\n| Battery Life | >3 years | >1 year |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Frequency | 433.92 MHz | 433 MHz |
+| Range (open) | >50 m | 10-20 m |
+| Range (through-wall) | >15 m | 3-5 m |
+| Standby Current | ≤1 μA | ≤10 μA |
+| Battery Life | >3 years | >1 year |
 
 ---
 
 ## 5. Technology Comparison
 
-| Comparison | IR Remote | **RF Remote** |\n|----------|----------|--------------|\n| Wall Penetration | None | **Yes (15m+)** |\n| Line-of-Sight | Required | **Not Required** |\n| Directional | Yes | **Omnidirectional** |\n| Cost | Low | **Medium** |
+| Comparison | IR Remote | **RF Remote** |
+|----------|----------|--------------|
+| Wall Penetration | None | **Yes (15m+)** |
+| Line-of-Sight | Required | **Not Required** |
+| Directional | Yes | **Omnidirectional** |
+| Cost | Low | **Medium** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-6108DZ Remote Control Faucet\n- **Frequency**: 433MHz\n- **Range**: 15m through-wall\n- **Feature**: Elderly-friendly, bedside control\n\n### GBL-9500A Smart Shower System\n- **Frequency**: 2.4GHz bidirectional\n- **Feature**: Multi-device pairing, scene linkage
+### GBL-6108DZ Remote Control Faucet
+- **Frequency**: 433MHz
+- **Range**: 15m through-wall
+- **Feature**: Elderly-friendly, bedside control
+
+### GBL-9500A Smart Shower System
+- **Frequency**: 2.4GHz bidirectional
+- **Feature**: Multi-device pairing, scene linkage
 
 ---
 

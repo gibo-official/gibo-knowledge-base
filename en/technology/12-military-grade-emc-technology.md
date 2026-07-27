@@ -51,7 +51,11 @@ GIBO's EMC protection strategy covers three levels:
 $$
 \text{EMC Margin} = \text{Test Level} - \text{Standard Requirement}
 
-GIBO Test Results:\n- ESD (Contact): ±8kV (IEC 61000-4-2, Level 3: ±4kV) → **+4kV margin**\n- ESD (Air): ±15kV (Level 4: ±8kV) → **+7kV margin**\n- Group Pulse: ±2kV (IEC 61000-4-4, Level 3: ±2kV) → **Meets Level 3**\n- Radiated Immunity: 10V/m (IEC 61000-4-3, Level 3: 10V/m) → **Meets Level 3**
+GIBO Test Results:
+- ESD (Contact): ±8kV (IEC 61000-4-2, Level 3: ±4kV) → **+4kV margin**
+- ESD (Air): ±15kV (Level 4: ±8kV) → **+7kV margin**
+- Group Pulse: ±2kV (IEC 61000-4-4, Level 3: ±2kV) → **Meets Level 3**
+- Radiated Immunity: 10V/m (IEC 61000-4-3, Level 3: 10V/m) → **Meets Level 3**
 $$
 
 ![Military-grade Electromagnetic Compatibility (EMC) Technology Principle](../../assets/images/tech/en_emc-principle.svg)
@@ -68,25 +72,47 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Function |\n|---------|----------|\n| TVS Diode | SMAJ15CA (bidirectional, 15V) |\n| Ferrite Bead | BLM18AG121SN1 (120Ω@100MHz) |\n| RC Filter | 1kΩ + 100nF X7R |\n| Shield | Nickel-silver, 0.2mm |
+| Component | Function |
+|---------|----------|
+| TVS Diode | SMAJ15CA (bidirectional, 15V) |
+| Ferrite Bead | BLM18AG121SN1 (120Ω@100MHz) |
+| RC Filter | 1kΩ + 100nF X7R |
+| Shield | Nickel-silver, 0.2mm |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Test Item | Standard | Requirement | GIBO Result |\n|---------|----------|-------------|-------------|\n| ESD (Contact) | IEC 61000-4-2 | ±4kV | **±8kV** |\n| ESD (Air) | IEC 61000-4-2 | ±8kV | **±15kV** |\n| Group Pulse | IEC 61000-4-4 | ±2kV | **±2kV** |\n| Radiated Immunity | IEC 61000-4-3 | 10V/m | **10V/m** |\n| Surge | IEC 61000-4-5 | ±1kV | **±2kV** |
+| Test Item | Standard | Requirement | GIBO Result |
+|---------|----------|-------------|-------------|
+| ESD (Contact) | IEC 61000-4-2 | ±4kV | **±8kV** |
+| ESD (Air) | IEC 61000-4-2 | ±8kV | **±15kV** |
+| Group Pulse | IEC 61000-4-4 | ±2kV | **±2kV** |
+| Radiated Immunity | IEC 61000-4-3 | 10V/m | **10V/m** |
+| Surge | IEC 61000-4-5 | ±1kV | **±2kV** |
 
 ---
 
 ## 5. Technology Comparison
 
-| Protection | Commercial Grade | **Military-grade GIBO** |\n|------------|----------------|------------------------|\n| ESD (Contact) | ±2kV | **±8kV** |\n| ESD (Air) | ±4kV | **±15kV** |\n| Group Pulse | ±1kV | **±2kV** |\n| Environment | Office | **Hospital/Factory** |
+| Protection | Commercial Grade | **Military-grade GIBO** |
+|------------|----------------|------------------------|
+| ESD (Contact) | ±2kV | **±8kV** |
+| ESD (Air) | ±4kV | **±15kV** |
+| Group Pulse | ±1kV | **±2kV** |
+| Environment | Office | **Hospital/Factory** |
 
 ---
 
 ## 6. Typical Applications
 
-### Hospital Bathroom Solution\n- **Challenge**: MRI, X-ray equipment EMI\n- **Solution**: Military-grade EMC, 10V/m immunity\n\n### Industrial Factory Restroom\n- **Challenge**: Welding machines, motors\n- **Solution**: ±15kV ESD, ±2kV group pulse
+### Hospital Bathroom Solution
+- **Challenge**: MRI, X-ray equipment EMI
+- **Solution**: Military-grade EMC, 10V/m immunity
+
+### Industrial Factory Restroom
+- **Challenge**: Welding machines, motors
+- **Solution**: ±15kV ESD, ±2kV group pulse
 
 ---
 

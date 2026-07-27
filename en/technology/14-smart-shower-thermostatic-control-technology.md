@@ -43,7 +43,12 @@ The PID algorithm updates every 100ms, ensuring stable temperature even with pre
 $$
 u(t) = K_p \cdot e(t) + K_i \int_0^t e(\tau) d\tau + K_d \frac{de(t)}{dt}
 
-Where:\n- e(t) = T_{set} - T_{measured} (temperature error)\n- K_p = 2.0 (proportional gain)\n- K_i = 0.1 (integral gain)\n- K_d = 0.5 (derivative gain)\n- u(t) = valve position command
+Where:
+- e(t) = T_{set} - T_{measured} (temperature error)
+- K_p = 2.0 (proportional gain)
+- K_i = 0.1 (integral gain)
+- K_d = 0.5 (derivative gain)
+- u(t) = valve position command
 $$
 
 ![Smart Shower Precise Thermostatic Control Technology Principle](../../assets/images/tech/en_thermostat-principle.svg)
@@ -60,25 +65,48 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| Temp Sensor | NTC 10K | ±0.1°C, 1s response |\n| MCU | STM32L432 | 80MHz, FPU |\n| Proportional Valve | Custom | Stepper motor, 0.5°/step |\n| Anti-scald | Hardware comparator | <0.5s cutoff at 50°C |
+| Component | Model | Specification |
+|---------|------|---------------|
+| Temp Sensor | NTC 10K | ±0.1°C, 1s response |
+| MCU | STM32L432 | 80MHz, FPU |
+| Proportional Valve | Custom | Stepper motor, 0.5°/step |
+| Anti-scald | Hardware comparator | <0.5s cutoff at 50°C |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Temperature Accuracy | ±0.5°C | ±2°C |\n| Response Time | <2 s | <5 s |\n| Anti-scald Cutoff | <0.5 s at 50°C | <2 s at 55°C |\n| Set Range | 30-45°C | 20-50°C |\n| Pressure Range | 0.05-0.5 MPa | 0.1-0.3 MPa |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Temperature Accuracy | ±0.5°C | ±2°C |
+| Response Time | <2 s | <5 s |
+| Anti-scald Cutoff | <0.5 s at 50°C | <2 s at 55°C |
+| Set Range | 30-45°C | 20-50°C |
+| Pressure Range | 0.05-0.5 MPa | 0.1-0.3 MPa |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | Mechanical Thermostat | **GIBO Electronic PID** |\n|---------|----------------------|------------------------|\n| Accuracy | ±2°C | **±0.5°C** |\n| Anti-scald Speed | 2-3 s | **<0.5 s** |\n| Pressure Adapt | Poor | **Excellent** |\n| Digital Display | None | **LED temperature** |
+| Feature | Mechanical Thermostat | **GIBO Electronic PID** |
+|---------|----------------------|------------------------|
+| Accuracy | ±2°C | **±0.5°C** |
+| Anti-scald Speed | 2-3 s | **<0.5 s** |
+| Pressure Adapt | Poor | **Excellent** |
+| Digital Display | None | **LED temperature** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-8800A Sensor Shower\n- **Temperature**: 38°C default, 30-45°C adjustable\n- **Display**: LED digital temperature\n- **Safety**: Anti-scald at 50°C\n\n### Hotel Smart Shower System\n- **Feature**: Preset temperature profiles\n- **Remote**: APP control via Bluetooth
+### GBL-8800A Sensor Shower
+- **Temperature**: 38°C default, 30-45°C adjustable
+- **Display**: LED digital temperature
+- **Safety**: Anti-scald at 50°C
+
+### Hotel Smart Shower System
+- **Feature**: Preset temperature profiles
+- **Remote**: APP control via Bluetooth
 
 ---
 

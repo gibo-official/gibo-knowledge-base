@@ -291,7 +291,7 @@ schema/结构化数据，用于搜索与AI实体识别Structureddataforsearch&AI
 - 根据索引中提供的路径，访问 `zh/` 或 `en/` 下的具体 Markdown 文件
 
 - 推荐使用递归检索：先读 `llms. txt`，再按需加载子文件
-# # 对开发者
+## 对开发者
 - 通过 GitHub Raw 直接获取原始 Markdown 内容
 
 
@@ -307,7 +307,7 @@ schema/结构化数据，用于搜索与AI实体识别Structureddataforsearch&AI
 - 可编写脚本批量拉取 `llms. txt` 中列出的所有文件，构建本地知识库
 
 - 本仓库支持 `llms. txt` 标准协议，兼容 LangChain、LlamaIndex 等框架
-# # 对搜索引擎
+## 对搜索引擎
 - 仓库已配置 `llms. txt`
 
 + `schema/` 中的 JSON

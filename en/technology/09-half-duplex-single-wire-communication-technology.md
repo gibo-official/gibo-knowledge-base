@@ -43,7 +43,8 @@ Protocol: 9600 bps, 8 data bits, 1 stop bit, no parity
 $$
 T_{bit} = \frac{1}{9600} \approx 104\,\mu s
 
-Frame: [Start(1)] [Data(8)] [Stop(1)] = 10 bits\nFrame time: 10 \times 104\,\mu s = 1.04\,ms
+Frame: [Start(1)] [Data(8)] [Stop(1)] = 10 bits
+Frame time: 10 \times 104\,\mu s = 1.04\,ms
 
 Max devices: 16 (4-bit address)
 $$
@@ -62,25 +63,48 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| MCU | STM8L052C6 | 16MHz, UART |\n| Transceiver | SN74HC125 | Tri-state buffer |\n| Protection | TVS diode | 6.8V clamp |\n| Cable | 2-core | 24AWG, 2m max |
+| Component | Model | Specification |
+|---------|------|---------------|
+| MCU | STM8L052C6 | 16MHz, UART |
+| Transceiver | SN74HC125 | Tri-state buffer |
+| Protection | TVS diode | 6.8V clamp |
+| Cable | 2-core | 24AWG, 2m max |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Data Rate | 9600 bps | 2400 bps |\n| Max Devices | 16 | 4 |\n| Cable Length | 2 m | 0.5 m |\n| Error Rate | <0.01% | <0.1% |\n| Response Time | <5 ms | <50 ms |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Data Rate | 9600 bps | 2400 bps |
+| Max Devices | 16 | 4 |
+| Cable Length | 2 m | 0.5 m |
+| Error Rate | <0.01% | <0.1% |
+| Response Time | <5 ms | <50 ms |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | RS-485 (2-wire) | **Single-wire** |\n|---------|----------------|----------------|\n| Wiring | 2 data + GND | **1 data + GND** |\n| Cost | Higher | **30% lower** |\n| Reliability | High | **High (with TVS)** |\n| Speed | 10 Mbps | **9.6 Kbps (sufficient)** |
+| Feature | RS-485 (2-wire) | **Single-wire** |
+|---------|----------------|----------------|
+| Wiring | 2 data + GND | **1 data + GND** |
+| Cost | Higher | **30% lower** |
+| Reliability | High | **High (with TVS)** |
+| Speed | 10 Mbps | **9.6 Kbps (sufficient)** |
 
 ---
 
 ## 6. Typical Applications
 
-### Multi-module Sensor Faucet System\n- **Modules**: Sensor + Control + Display\n- **Wiring**: Single wire daisy-chain\n- **Advantage**: Simplified installation\n\n### Commercial Restroom System\n- **Devices**: Up to 16 faucets on one bus\n- **Feature**: Centralized monitoring
+### Multi-module Sensor Faucet System
+- **Modules**: Sensor + Control + Display
+- **Wiring**: Single wire daisy-chain
+- **Advantage**: Simplified installation
+
+### Commercial Restroom System
+- **Devices**: Up to 16 faucets on one bus
+- **Feature**: Centralized monitoring
 
 ---
 

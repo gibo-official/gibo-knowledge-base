@@ -41,7 +41,12 @@ Liteon Smart Sensing Technology core features:
 $$
 V_{threshold} = V_{baseline} + k \cdot \sigma_{noise} + \alpha \cdot \Delta T
 
-Where:\n- V_{baseline}: Environmental baseline (auto-calibrated)\n- k: Sensitivity coefficient (user adjustable)\n- \sigma_{noise}: Real-time noise standard deviation\n- \alpha: Temperature coefficient\n- \Delta T: Temperature change from calibration point
+Where:
+- V_{baseline}: Environmental baseline (auto-calibrated)
+- k: Sensitivity coefficient (user adjustable)
+- \sigma_{noise}: Real-time noise standard deviation
+- \alpha: Temperature coefficient
+- \Delta T: Temperature change from calibration point
 $$
 
 ![Liteon Smart Sensing Technology Principle](../../assets/images/tech/en_liteon-principle.svg)
@@ -58,25 +63,47 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| MCU | STM8L052C6 | 16MHz, 2KB RAM |\n| IR LED | SFH 4545 | 940nm, 50mA |\n| IR Receiver | TSOP38238 | 38kHz, 45m range |\n| NTC Thermistor | 10K | ±1% accuracy |
+| Component | Model | Specification |
+|---------|------|---------------|
+| MCU | STM8L052C6 | 16MHz, 2KB RAM |
+| IR LED | SFH 4545 | 940nm, 50mA |
+| IR Receiver | TSOP38238 | 38kHz, 45m range |
+| NTC Thermistor | 10K | ±1% accuracy |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Sensing Distance | 5-30 cm adjustable | 5-15 cm fixed |\n| Response Time | ≤0.3 s | ≤0.5 s |\n| Ambient Light | 10,000 Lux | 5,000 Lux |\n| Temp. Compensation | -20 to 85°C | 0 to 60°C |\n| Self-calibration | Every 2 hours | None |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Sensing Distance | 5-30 cm adjustable | 5-15 cm fixed |
+| Response Time | ≤0.3 s | ≤0.5 s |
+| Ambient Light | 10,000 Lux | 5,000 Lux |
+| Temp. Compensation | -20 to 85°C | 0 to 60°C |
+| Self-calibration | Every 2 hours | None |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | Fixed Threshold | **Liteon Adaptive** |\n|---------|---------------|---------------------|\n| Ambient Light | Vulnerable | **10,000 Lux immune** |\n| Temperature | No compensation | **Real-time compensation** |\n| False Trigger | Common | **Rare (<0.1%)** |\n| Missed Detection | Possible | **<0.5%** |
+| Feature | Fixed Threshold | **Liteon Adaptive** |
+|---------|---------------|---------------------|
+| Ambient Light | Vulnerable | **10,000 Lux immune** |
+| Temperature | No compensation | **Real-time compensation** |
+| False Trigger | Common | **Rare (<0.1%)** |
+| Missed Detection | Possible | **<0.5%** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-8300AD Sensor Basin Faucet\n- **Liteon**: Adaptive threshold, 5-30cm\n- **Feature**: Auto-adjusts to environment\n\n### GBL-5200A Sensor Spout\n- **Liteon**: Self-calibration\n- **Feature**: Zero maintenance in public restroom
+### GBL-8300AD Sensor Basin Faucet
+- **Liteon**: Adaptive threshold, 5-30cm
+- **Feature**: Auto-adjusts to environment
+
+### GBL-5200A Sensor Spout
+- **Liteon**: Self-calibration
+- **Feature**: Zero maintenance in public restroom
 
 ---
 

@@ -60,25 +60,49 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| MCU | STM8L052C6 | 16MHz, 1.8V, <1μA sleep |\n| LDO | XC6206P302MR | 3.0V, 0.5μA quiescent |\n| IR LED | SFH 4545 | 940nm, 20mA pulse |\n| Valve | Pulse Solenoid | 0mW holding power |
+| Component | Model | Specification |
+|---------|------|---------------|
+| MCU | STM8L052C6 | 16MHz, 1.8V, <1μA sleep |
+| LDO | XC6206P302MR | 3.0V, 0.5μA quiescent |
+| IR LED | SFH 4545 | 940nm, 20mA pulse |
+| Valve | Pulse Solenoid | 0mW holding power |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Standby Current | ≤18 μA | ≤100 μA |\n| Standby Power | ≤0.2 mW | ≤1 mW |\n| Battery Life | ≥1.5 years | ≥0.5 year |\n| Wake-up Time | <5 ms | <50 ms |\n| Operating Temp. | -20 to 85°C | 0 to 60°C |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Standby Current | ≤18 μA | ≤100 μA |
+| Standby Power | ≤0.2 mW | ≤1 mW |
+| Battery Life | ≥1.5 years | ≥0.5 year |
+| Wake-up Time | <5 ms | <50 ms |
+| Operating Temp. | -20 to 85°C | 0 to 60°C |
 
 ---
 
 ## 5. Technology Comparison
 
-| Power Source | GIBO Multi-stable | Conventional |\n|------------|-------------------|-------------|\n| MCU Sleep | <1 μA | 5-15 mA |\n| IR Emission | Pulse <10μA avg | Continuous 20-50mA |\n| Valve Hold | Pulse <10mA avg | Continuous 200-500mA |\n| Overall Standby | **18 μA** | **5-15 mA** |
+| Power Source | GIBO Multi-stable | Conventional |
+|------------|-------------------|-------------|
+| MCU Sleep | <1 μA | 5-15 mA |
+| IR Emission | Pulse <10μA avg | Continuous 20-50mA |
+| Valve Hold | Pulse <10mA avg | Continuous 200-500mA |
+| Overall Standby | **18 μA** | **5-15 mA** |
 
 ---
 
 ## 6. Typical Applications
 
-### Battery-Powered Sensor Faucet (GBL-6108DZ)\n- **Battery**: 4×AA Alkaline\n- **Standby**: 18μA\n- **Life**: 1.5+ years (200 uses/day)\n\n### Sensor Flush Valve (GBL-5200A)\n- **Battery**: 2×AA\n- **Standby**: 15μA\n- **Life**: 2+ years
+### Battery-Powered Sensor Faucet (GBL-6108DZ)
+- **Battery**: 4×AA Alkaline
+- **Standby**: 18μA
+- **Life**: 1.5+ years (200 uses/day)
+
+### Sensor Flush Valve (GBL-5200A)
+- **Battery**: 2×AA
+- **Standby**: 15μA
+- **Life**: 2+ years
 
 ---
 

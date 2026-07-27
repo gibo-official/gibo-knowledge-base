@@ -32,20 +32,32 @@ IoT (Internet of Things) Access Technology is GIBO's smart connectivity solution
 GIBO's IoT architecture has four layers:
 
 **1. Device Layer**
-- Sensor faucet + WiFi/Bluetooth module\n- Data: flow count, temperature, battery status\n
+- Sensor faucet + WiFi/Bluetooth module
+- Data: flow count, temperature, battery status
+
 **2. Gateway Layer**
-- WiFi gateway connects up to 32 devices\n- Protocol: MQTT over TLS\n
+- WiFi gateway connects up to 32 devices
+- Protocol: MQTT over TLS
+
 **3. Cloud Layer**
-- GIBO Cloud Platform (AWS/Aliyun)\n- Data storage, analytics, OTA management\n
+- GIBO Cloud Platform (AWS/Aliyun)
+- Data storage, analytics, OTA management
+
 **4. Application Layer**
-- Web dashboard, mobile APP\n- Real-time monitoring, alerts, reports
+- Web dashboard, mobile APP
+- Real-time monitoring, alerts, reports
 
 ### 2.1 Mathematical Model
 
 $$
 \text{Daily Water Saving} = \sum_{i=1}^{n} (V_{traditional,i} - V_{sensor,i})
 
-Where:\n- n: Number of uses per day\n- V_{traditional}: Traditional faucet volume (L)\n- V_{sensor}: Sensor faucet volume (L)\n\nTypical saving: 60-70% (commercial restroom)
+Where:
+- n: Number of uses per day
+- V_{traditional}: Traditional faucet volume (L)
+- V_{sensor}: Sensor faucet volume (L)
+
+Typical saving: 60-70% (commercial restroom)
 $$
 
 ![IoT (Internet of Things) Access Technology Principle](../../assets/images/tech/en_iot-architecture.svg)
@@ -62,25 +74,51 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| WiFi Module | ESP32-WROOM | 2.4GHz, 802.11 b/g/n |\n| Bluetooth | nRF52832 | BLE 5.0, -96dBm |\n| MCU | STM32L432 | 80MHz, 256KB Flash |\n| Antenna | PCB Trace | 2.4GHz, 2dBi |
+| Component | Model | Specification |
+|---------|------|---------------|
+| WiFi Module | ESP32-WROOM | 2.4GHz, 802.11 b/g/n |
+| Bluetooth | nRF52832 | BLE 5.0, -96dBm |
+| MCU | STM32L432 | 80MHz, 256KB Flash |
+| Antenna | PCB Trace | 2.4GHz, 2dBi |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Connectivity | WiFi + BLE | WiFi only |\n| Max Devices | 32 per gateway | 8 |\n| Data Rate | 150 Mbps (WiFi) | 50 Mbps |\n| OTA Upgrade | Yes (remote) | No |\n| Protocol | MQTT/TLS | HTTP |\n| Power | AC + Battery backup | AC only |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Connectivity | WiFi + BLE | WiFi only |
+| Max Devices | 32 per gateway | 8 |
+| Data Rate | 150 Mbps (WiFi) | 50 Mbps |
+| OTA Upgrade | Yes (remote) | No |
+| Protocol | MQTT/TLS | HTTP |
+| Power | AC + Battery backup | AC only |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | Standalone Faucet | **IoT Faucet** |\n|---------|-----------------|----------------|\n| Remote Monitor | No | **Yes (real-time)** |\n| Water Analytics | No | **Yes (daily/monthly)** |\n| OTA Upgrade | No | **Yes (remote)** |\n| Smart Linkage | No | **Yes (scene mode)** |\n| Maintenance | Scheduled | **Predictive** |
+| Feature | Standalone Faucet | **IoT Faucet** |
+|---------|-----------------|----------------|
+| Remote Monitor | No | **Yes (real-time)** |
+| Water Analytics | No | **Yes (daily/monthly)** |
+| OTA Upgrade | No | **Yes (remote)** |
+| Smart Linkage | No | **Yes (scene mode)** |
+| Maintenance | Scheduled | **Predictive** |
 
 ---
 
 ## 6. Typical Applications
 
-### Commercial Building (Smart Office)\n- **Devices**: 32 faucets per floor\n- **Features**: Water usage report, leak alert\n- **ROI**: 30% water saving, 50% maintenance reduction\n\n### Hotel Smart Bathroom\n- **Features**: Scene mode (welcome/clean/sleep)\n- **Remote**: APP control, temperature preset\n- **Analytics**: Guest usage pattern analysis
+### Commercial Building (Smart Office)
+- **Devices**: 32 faucets per floor
+- **Features**: Water usage report, leak alert
+- **ROI**: 30% water saving, 50% maintenance reduction
+
+### Hotel Smart Bathroom
+- **Features**: Scene mode (welcome/clean/sleep)
+- **Remote**: APP control, temperature preset
+- **Analytics**: Guest usage pattern analysis
 
 ---
 

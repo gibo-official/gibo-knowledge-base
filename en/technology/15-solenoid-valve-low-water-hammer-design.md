@@ -49,7 +49,13 @@ Water hammer occurs when fast-closing valves suddenly stop water flow, creating 
 $$
 \Delta P = -\rho \cdot c \cdot \Delta v
 
-Where:\n- \Delta P: Pressure surge (Pa)\n- \rho: Water density (1000 kg/m³)\n- c: Wave speed in pipe (~1400 m/s)\n- \Delta v: Velocity change (m/s)\n\nGIBO dual-stage: \Delta v reduced by 70% → \Delta P reduced by 70%
+Where:
+- \Delta P: Pressure surge (Pa)
+- \rho: Water density (1000 kg/m³)
+- c: Wave speed in pipe (~1400 m/s)
+- \Delta v: Velocity change (m/s)
+
+GIBO dual-stage: \Delta v reduced by 70% → \Delta P reduced by 70%
 $$
 
 ![Solenoid Valve Low Water Hammer Design Technology Principle](../../assets/images/tech/en_waterhammer-principle.svg)
@@ -66,25 +72,46 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Specification |\n|---------|--------------|\n| Valve Body | Brass H59, CNC machined |\n| Diaphragm | EPDM, 2mm |\n| Spring | Stainless 304, 0.8N/mm |\n| Damping Chamber | 2cm³, integrated |
+| Component | Specification |
+|---------|--------------|
+| Valve Body | Brass H59, CNC machined |
+| Diaphragm | EPDM, 2mm |
+| Spring | Stainless 304, 0.8N/mm |
+| Damping Chamber | 2cm³, integrated |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard | Standard |\n|---------|--------------|------------------|----------|\n| Water Hammer Pressure | 0.3 MPa | 1.0 MPa | EN 15091 |\n| Closing Time | 250 ms (dual-stage) | 50 ms (single) | – |\n| Noise Level | <45 dB | <60 dB | EN 817 |\n| Cycle Life | 1,000,000+ | 500,000 | – |
+| Parameter | GIBO Solution | Industry Standard | Standard |
+|---------|--------------|------------------|----------|
+| Water Hammer Pressure | 0.3 MPa | 1.0 MPa | EN 15091 |
+| Closing Time | 250 ms (dual-stage) | 50 ms (single) | – |
+| Noise Level | <45 dB | <60 dB | EN 817 |
+| Cycle Life | 1,000,000+ | 500,000 | – |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | Conventional Valve | **GIBO Low Hammer** |\n|---------|-------------------|---------------------|\n| Closing | Single-stage (50ms) | **Dual-stage (250ms)** |\n| Hammer Pressure | 1.0 MPa | **0.3 MPa (−70%)** |\n| Noise | 55-65 dB | **<45 dB** |\n| Pipe Damage Risk | Medium | **Very Low** |
+| Feature | Conventional Valve | **GIBO Low Hammer** |
+|---------|-------------------|---------------------|
+| Closing | Single-stage (50ms) | **Dual-stage (250ms)** |
+| Hammer Pressure | 1.0 MPa | **0.3 MPa (−70%)** |
+| Noise | 55-65 dB | **<45 dB** |
+| Pipe Damage Risk | Medium | **Very Low** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-6108DZ Sensor Basin Faucet\n- **Valve**: Dual-stage low hammer\n- **Noise**: <45 dB (quiet operation)\n\n### Commercial Sensor Flush Valve\n- **Standard**: EN 15091 Water Hammer Test\n- **Performance**: 0.3 MPa peak (70% reduction)
+### GBL-6108DZ Sensor Basin Faucet
+- **Valve**: Dual-stage low hammer
+- **Noise**: <45 dB (quiet operation)
+
+### Commercial Sensor Flush Valve
+- **Standard**: EN 15091 Water Hammer Test
+- **Performance**: 0.3 MPa peak (70% reduction)
 
 ---
 

@@ -65,25 +65,46 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Specification |\n|---------|--------------|\n| Optical Filter | 940nm ±10nm bandpass |\n| IR Receiver | TSOP38238 (with filter) |\n| MCU | STM8L052C6 |\n| ADC | 12-bit, 1 MSPS |
+| Component | Specification |
+|---------|--------------|
+| Optical Filter | 940nm ±10nm bandpass |
+| IR Receiver | TSOP38238 (with filter) |
+| MCU | STM8L052C6 |
+| ADC | 12-bit, 1 MSPS |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Ambient Light Immunity | 100,000 Lux | 10,000 Lux |\n| False Trigger Rate | <0.1% | <5% |\n| Response Time | ≤0.3 s | ≤0.5 s |\n| Operating Temp. | -20 to 85°C | 0 to 60°C |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Ambient Light Immunity | 100,000 Lux | 10,000 Lux |
+| False Trigger Rate | <0.1% | <5% |
+| Response Time | ≤0.3 s | ≤0.5 s |
+| Operating Temp. | -20 to 85°C | 0 to 60°C |
 
 ---
 
 ## 5. Technology Comparison
 
-| Environment | Standard IR | **Dual-mode GIBO** |\n|------------|-----------|-------------------|\n| Indoor (500 Lux) | OK | **OK** |\n| Window (5,000 Lux) | Occasional false | **OK** |\n| Outdoor (50,000 Lux) | Fails | **OK** |\n| Direct Sun (100,000 Lux) | Fails completely | **OK** |
+| Environment | Standard IR | **Dual-mode GIBO** |
+|------------|-----------|-------------------|
+| Indoor (500 Lux) | OK | **OK** |
+| Window (5,000 Lux) | Occasional false | **OK** |
+| Outdoor (50,000 Lux) | Fails | **OK** |
+| Direct Sun (100,000 Lux) | Fails completely | **OK** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-9500A Outdoor Sensor Faucet\n- **Environment**: Park, direct sunlight\n- **Performance**: 100,000 Lux immunity\n\n### GBL-8300AD Window-side Faucet\n- **Environment**: Bright window lighting\n- **Performance**: Zero false triggers
+### GBL-9500A Outdoor Sensor Faucet
+- **Environment**: Park, direct sunlight
+- **Performance**: 100,000 Lux immunity
+
+### GBL-8300AD Window-side Faucet
+- **Environment**: Bright window lighting
+- **Performance**: Zero false triggers
 
 ---
 

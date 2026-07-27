@@ -50,7 +50,9 @@ GIBO's anti-clogging strategy:
 $$
 \text{Deposit Rate} = k \cdot \frac{\text{Hardness} \cdot \text{Flow}}{\text{Coating Factor}}
 
-GIBO PTFE coating: Coating Factor = 10x\nResult: Deposit rate reduced by 90%\nMaintenance interval: 3 months → 2+ years
+GIBO PTFE coating: Coating Factor = 10x
+Result: Deposit rate reduced by 90%
+Maintenance interval: 3 months → 2+ years
 $$
 
 ![Solenoid Valve Self-cleaning & Anti-clogging Technology Principle](../../assets/images/tech/en_selfclean-principle.svg)
@@ -67,25 +69,47 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Material | Specification |\n|---------|---------|--------------|\n| Valve Seat | 316L SS + PTFE | <0.1μm roughness |\n| Diaphragm | EPDM + PTFE | 2mm, food-grade |\n| Flow Path | Vortex design | CFD optimized |\n| Strainer | 60 mesh | Stainless 304 |
+| Component | Material | Specification |
+|---------|---------|--------------|
+| Valve Seat | 316L SS + PTFE | <0.1μm roughness |
+| Diaphragm | EPDM + PTFE | 2mm, food-grade |
+| Flow Path | Vortex design | CFD optimized |
+| Strainer | 60 mesh | Stainless 304 |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Hardness Tolerance | 500 mg/L CaCO₃ | 200 mg/L |\n| Maintenance Interval | 2+ years | 3 months |\n| Auto Flush | Every 24h / 500 cycles | None |\n| Blockage Rate | <0.1% | <5% |\n| Cycle Life | 1,000,000+ | 500,000 |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Hardness Tolerance | 500 mg/L CaCO₃ | 200 mg/L |
+| Maintenance Interval | 2+ years | 3 months |
+| Auto Flush | Every 24h / 500 cycles | None |
+| Blockage Rate | <0.1% | <5% |
+| Cycle Life | 1,000,000+ | 500,000 |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | Standard Valve | **GIBO Self-cleaning** |\n|---------|--------------|------------------------|\n| Hardness Tolerance | 200 mg/L | **500 mg/L** |\n| Maintenance | Every 3 months | **Every 2 years** |\n| Auto Flush | No | **Yes (24h cycle)** |\n| Blockage Rate | <5% | **<0.1%** |
+| Feature | Standard Valve | **GIBO Self-cleaning** |
+|---------|--------------|------------------------|
+| Hardness Tolerance | 200 mg/L | **500 mg/L** |
+| Maintenance | Every 3 months | **Every 2 years** |
+| Auto Flush | No | **Yes (24h cycle)** |
+| Blockage Rate | <5% | **<0.1%** |
 
 ---
 
 ## 6. Typical Applications
 
-### Hard Water Region (North China)\n- **Water Hardness**: 350-500 mg/L CaCO₃\n- **Performance**: 2+ year maintenance-free\n\n### Public Restroom (High Traffic)\n- **Usage**: 500+ cycles/day\n- **Feature**: Auto flush at 500 cycles
+### Hard Water Region (North China)
+- **Water Hardness**: 350-500 mg/L CaCO₃
+- **Performance**: 2+ year maintenance-free
+
+### Public Restroom (High Traffic)
+- **Usage**: 500+ cycles/day
+- **Feature**: Auto flush at 500 cycles
 
 ---
 

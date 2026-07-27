@@ -45,7 +45,11 @@ By combining both modes, the system recognizes gestures:
 $$
 Gesture = f(d_1, d_2, ..., d_n, \Delta d, \Delta t)
 
-Where:\n- d_i: Distance samples (cm)\n- \Delta d: Distance change rate (cm/s)\n- \Delta t: Time between samples (ms)\n- n: Number of samples (typically 8)
+Where:
+- d_i: Distance samples (cm)
+- \Delta d: Distance change rate (cm/s)
+- \Delta t: Time between samples (ms)
+- n: Number of samples (typically 8)
 $$
 
 ![Single-window Dual-mode Gesture Recognition Technology Principle](../../assets/images/tech/en_gesture-principle.svg)
@@ -62,25 +66,47 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Specification |\n|---------|------|---------------|\n| IR Sensor | GP2Y0A21 | 10-80cm range |\n| MCU | STM32L432 | 80MHz, 64KB Flash |\n| Signal Cond | TLV2372 | Low-noise op-amp |\n| Valve Driver | DRV8833 | Dual H-bridge |
+| Component | Model | Specification |
+|---------|------|---------------|
+| IR Sensor | GP2Y0A21 | 10-80cm range |
+| MCU | STM32L432 | 80MHz, 64KB Flash |
+| Signal Cond | TLV2372 | Low-noise op-amp |
+| Valve Driver | DRV8833 | Dual H-bridge |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Gesture Types | 5 gestures | 1 (on/off only) |\n| Recognition Rate | >95% | N/A |\n| Response Time | ≤0.5 s | ≤1.0 s |\n| Sensing Distance | 5-30 cm | 5-15 cm |\n| False Trigger | <2% | <10% |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Gesture Types | 5 gestures | 1 (on/off only) |
+| Recognition Rate | >95% | N/A |
+| Response Time | ≤0.5 s | ≤1.0 s |
+| Sensing Distance | 5-30 cm | 5-15 cm |
+| False Trigger | <2% | <10% |
 
 ---
 
 ## 5. Technology Comparison
 
-| Feature | Single-mode IR | **Dual-mode Gesture** |\n|---------|--------------|----------------------|\n| Interaction | On/Off only | **5 gestures** |\n| Mode Switch | Manual button | **Touchless swipe** |\n| Flow Control | Fixed | **Gesture-adjustable** |\n| Hygiene | Good | **Excellent (no touch)** |
+| Feature | Single-mode IR | **Dual-mode Gesture** |
+|---------|--------------|----------------------|
+| Interaction | On/Off only | **5 gestures** |
+| Mode Switch | Manual button | **Touchless swipe** |
+| Flow Control | Fixed | **Gesture-adjustable** |
+| Hygiene | Good | **Excellent (no touch)** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-6108DZ Dual-sensor Digital Display Faucet\n- **Gestures**: Swipe (mode), Hover (fill), Tap (wash)\n- **Feature**: Fully touchless operation\n\n### GBL-9165D Kitchen Pull-out Faucet\n- **Gestures**: Wave (stop), Tap (start)\n- **Feature**: Cook-friendly, no cross-contamination
+### GBL-6108DZ Dual-sensor Digital Display Faucet
+- **Gestures**: Swipe (mode), Hover (fill), Tap (wash)
+- **Feature**: Fully touchless operation
+
+### GBL-9165D Kitchen Pull-out Faucet
+- **Gestures**: Wave (stop), Tap (start)
+- **Feature**: Cook-friendly, no cross-contamination
 
 ---
 

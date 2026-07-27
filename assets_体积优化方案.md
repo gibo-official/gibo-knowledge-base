@@ -120,7 +120,7 @@ Icon14MB0.6%
 standard6.8MB0.3%
 
 Exhibition5MB0.2%
-# # # 按文件类型
+### 按文件类型
 类型数量大小备注
 
 
@@ -296,7 +296,7 @@ products(434)
 - 预计
 
 **省约 0. 25–0. 35GB**
-。 # #
+。
 # Tier 3 — 清理死亡重量（省 ~0. 06GB）
 
 - 删除 `assets/certificates/. Temp/optimize_original/`（17. 5MB 历史备份，不该进仓库）。
@@ -318,7 +318,7 @@ products(434)
 - 配置 `. gitattributes` 用
 **Git LFS**兜底剩余
 > 50MB 文件（video / 大 PDF）。
-# # # 预计结果
+### 预计结果
 阶段累计大小
 
 

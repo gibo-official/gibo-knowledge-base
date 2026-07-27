@@ -50,7 +50,10 @@ When any condition triggers, MCU immediately cuts valve power and activates alar
 $$
 \text{Overflow Risk} = f(\text{Water Level}, \text{Flow Time}, \text{Valve State})
 
-Trigger conditions (OR logic):\n1. Water Level > Warning Level\n2. Continuous Flow Time > 180 s\n3. Valve Closed + Flow > 0.1 L/min for > 600 s
+Trigger conditions (OR logic):
+1. Water Level > Warning Level
+2. Continuous Flow Time > 180 s
+3. Valve Closed + Flow > 0.1 L/min for > 600 s
 $$
 
 ![Intelligent Overflow Power-off Safety Protection Technology Principle](../../assets/images/tech/en_overflow-principle.svg)
@@ -67,25 +70,48 @@ $$
 
 ### 3.1 Key Components
 
-| Component | Model | Function |\n|---------|------|---------|\n| Water Level Sensor | Optical (ITR9909) | Basin level detection |\n| Flow Sensor | YF-S201 | Flow rate monitoring |\n| MCU | STM8L052C6 | Logic control |\n| Relay | G5V-1-DC5 | Valve power cutoff |
+| Component | Model | Function |
+|---------|------|---------|
+| Water Level Sensor | Optical (ITR9909) | Basin level detection |
+| Flow Sensor | YF-S201 | Flow rate monitoring |
+| MCU | STM8L052C6 | Logic control |
+| Relay | G5V-1-DC5 | Valve power cutoff |
 
 ---
 
 ## 4. Key Technical Indicators
 
-| Parameter | GIBO Solution | Industry Standard |\n|---------|--------------|------------------|\n| Overflow Detection Time | <0.5 s | <2 s |\n| Flow Timeout | 180 s adjustable | Fixed 60 s |\n| Leak Detection | Yes (0.1 L/min) | No |\n| Alarm Type | LED + Buzzer | LED only |\n| Auto Recovery | Manual reset | Auto reset |
+| Parameter | GIBO Solution | Industry Standard |
+|---------|--------------|------------------|
+| Overflow Detection Time | <0.5 s | <2 s |
+| Flow Timeout | 180 s adjustable | Fixed 60 s |
+| Leak Detection | Yes (0.1 L/min) | No |
+| Alarm Type | LED + Buzzer | LED only |
+| Auto Recovery | Manual reset | Auto reset |
 
 ---
 
 ## 5. Technology Comparison
 
-| Safety Feature | Standard Faucet | **GIBO Overflow Protection** |\n|------------|----------------|---------------------------|\n| Overflow Prevention | None | **Triple-redundant** |\n| Leak Detection | None | **0.1 L/min sensitivity** |\n| Response Time | N/A | **<0.5 s** |\n| Auto Shutoff | No | **Yes (valve + power)** |
+| Safety Feature | Standard Faucet | **GIBO Overflow Protection** |
+|------------|----------------|---------------------------|
+| Overflow Prevention | None | **Triple-redundant** |
+| Leak Detection | None | **0.1 L/min sensitivity** |
+| Response Time | N/A | **<0.5 s** |
+| Auto Shutoff | No | **Yes (valve + power)** |
 
 ---
 
 ## 6. Typical Applications
 
-### GBL-6108DZ Intelligent Basin Faucet\n- **Overflow Sensor**: Optical, basin rim\n- **Flow Timeout**: 180s (adjustable)\n- **Feature**: Auto shutoff + alarm\n\n### Hospital Patient Room\n- **Application**: Patient safety, unattended use\n- **Feature**: Mandatory shutoff, staff alert
+### GBL-6108DZ Intelligent Basin Faucet
+- **Overflow Sensor**: Optical, basin rim
+- **Flow Timeout**: 180s (adjustable)
+- **Feature**: Auto shutoff + alarm
+
+### Hospital Patient Room
+- **Application**: Patient safety, unattended use
+- **Feature**: Mandatory shutoff, staff alert
 
 ---
 
