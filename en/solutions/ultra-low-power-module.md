@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "超低功耗控制模块"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "TOF双感应模块"
 product: ""
 tags: ["GIBO", "solution", "sensor-module", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

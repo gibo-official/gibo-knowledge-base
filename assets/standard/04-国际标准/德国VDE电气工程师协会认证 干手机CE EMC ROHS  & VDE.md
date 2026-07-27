@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE"
 product: ""
 tags: ["GIBO", "洁博利", "标准规范", "干手机", "AI知识库"]
 summary: "标准编号: 德国VDE电气工程师协会认证 干手机CE EMC ROHS  & VDE"

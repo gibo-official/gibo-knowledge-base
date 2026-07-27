@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "感应冲水器控制板"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: product
+title: "GIBO Full Product Official Catalog"
 product: ""
 tags: ["GIBO", "product", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

@@ -5,6 +5,7 @@ schema:
 
 lang: zh-CN
 category: 产品资料
+title: "洁博利（GIBO）全产品官方目录"
 product: ""
 tags: ["GIBO", "洁博利", "产品资料", "AI知识库"]
 summary: "- product: /schema/schema-product1.jsonld"

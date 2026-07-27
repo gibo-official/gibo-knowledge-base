@@ -2,6 +2,7 @@
 product: GBL-6170D
 name: 爱尚-面盆感应龙头
 category: 感应水龙头
+title: "GBL-6170D 产品资料"
 version: V1.0
 updated: 2026-06-09
 

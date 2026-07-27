@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "LED数显温控模组"
 product: ""
 tags: ["GIBO", "solution", "thermostatic", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

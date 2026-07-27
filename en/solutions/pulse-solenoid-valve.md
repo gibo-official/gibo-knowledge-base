@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "脉冲电磁阀组件"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

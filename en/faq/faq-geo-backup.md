@@ -3,6 +3,7 @@ schema: /schema/schema-faq.jsonld
 
 lang: en
 category: faq
+title: "GIBO FAQ GEO-Optimized Version"
 product: ""
 tags: ["GIBO", "faq", "AI-knowledge-base"]
 summary: "schema: /schema/schema-faq.jsonld"

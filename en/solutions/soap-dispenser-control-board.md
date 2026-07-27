@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "皂液器/干手器控制板"
 product: ""
 tags: ["GIBO", "solution", "soap-dispenser", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

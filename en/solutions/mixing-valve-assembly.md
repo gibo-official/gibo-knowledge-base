@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "冷热混水阀体"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

@@ -2,6 +2,7 @@
 product: GBL-6170D
 name: Aishang – Basin Sensor Faucet
 category: Sensor Faucet
+title: "GBL-6170D Product Specification"
 version: V1.0
 updated: 2026-06-09
 

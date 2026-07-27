@@ -60,11 +60,11 @@ temperature adjusting, swivel faucet, suction hose and switching of soft water a
 
 ![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-06.jpg)
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-07.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-07.jpg)
 screwdriver
 wrench
 
-![](../../../assets/images/ins/9160_EN_SensorFaucet-ins-08.jpg)
+![Sensor_Faucet INSTALLATION TOOLS](../../../assets/images/ins/9160_EN_SensorFaucet-ins-08.jpg)
 4 AA alkaline battery
 glove
 

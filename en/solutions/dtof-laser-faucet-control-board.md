@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "dTOF激光感应龙头控制板"
 product: ""
 tags: ["GIBO", "solution", "sensor-faucet", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

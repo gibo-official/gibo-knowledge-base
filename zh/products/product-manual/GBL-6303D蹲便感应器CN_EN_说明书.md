@@ -95,7 +95,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_�
 
 ## INSTALLATION DRAWING
 
-![](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-04.jpg)
+![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-04.jpg)
 Unit: mm
 
 ![D蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-05.jpg)

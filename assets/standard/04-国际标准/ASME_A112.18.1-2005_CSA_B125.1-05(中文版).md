@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "ASME_A112.18.1-2005_CSA_B125.1-05(中文版)"
 product: "2005"
 tags: ["GIBO", "洁博利", "标准规范", "标准", "AI知识库"]
 summary: "标准编号: ASMEA112.18.1-2005CSAB125.1-05(中文版)"

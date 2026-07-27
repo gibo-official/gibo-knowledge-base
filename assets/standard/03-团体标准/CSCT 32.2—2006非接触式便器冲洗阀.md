@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "CSCT 32.2—2006非接触式便器冲洗阀"
 product: "2006"
 tags: ["GIBO", "洁博利", "标准规范", "冲洗阀", "标准", "AI知识库"]
 summary: "标准编号: CSCT 32.2—2006非接触式便器冲洗阀"

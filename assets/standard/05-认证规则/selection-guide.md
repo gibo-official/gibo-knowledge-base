@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "selection-guide"
 product: ""
 tags: ["GIBO", "洁博利", "标准规范", "AI知识库"]
 summary: "标准编号: selection-guide"

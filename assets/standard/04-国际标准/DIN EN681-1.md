@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "DIN EN681-1"
 product: "EN681-1."
 tags: ["GIBO", "洁博利", "标准规范", "标准", "EN", "AI知识库"]
 summary: "标准编号: DIN EN681-1"

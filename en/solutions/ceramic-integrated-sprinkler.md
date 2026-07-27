@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "陶瓷一体式感应洒水器"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

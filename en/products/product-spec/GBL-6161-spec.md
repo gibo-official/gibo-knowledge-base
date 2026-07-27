@@ -2,6 +2,7 @@
 product: GBL-6161D
 name: Basin Sensor Faucet
 category: Sensor Faucet (Infrared Sensing R-type)
+title: "GBL-6161D Basin Sensor Faucet Product Specification"
 version: 1.0
 updated: 2019-10-18
 source: gibo-GBL-6161-规格书（版次1.0）.pdf

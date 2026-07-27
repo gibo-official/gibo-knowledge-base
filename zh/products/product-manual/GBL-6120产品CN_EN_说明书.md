@@ -168,7 +168,7 @@ Insert the other end of the control wire into the aviation socket and screw tigh
 
 ## 第二步
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.jpg)
+![GBL-6120产品第二步](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.jpg)
 Step2
 
 ## 龙头安装
@@ -189,7 +189,7 @@ Step 3
 
 ![产品第三步：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.jpg)
 
-![](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.jpg)
+![GBL-6120产品第三步：](../../../assets/images/ins/GBL6120-1orNS8321%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.jpg)
 Step 2
 
 1. 方便：开启和关闭水源均由机器自动完成，无需人为操作。

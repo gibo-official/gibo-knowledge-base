@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "IP65防水密封组件"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

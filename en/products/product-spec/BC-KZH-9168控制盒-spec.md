@@ -2,6 +2,7 @@
 product: BC-KZH-9168
 name: Control Box (Basin Sensor Module Accessory)
 category: Sensor Control Component
+title: "BC-KZH-9168控制盒 Product Specification"
 version: V1.0
 updated: 2024-06-04
 source: BC-KZH-9168 控制盒规格书V1.0_20240604.docx / .pdf

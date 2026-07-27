@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "IoT智能通信模组"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

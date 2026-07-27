@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "快装式结构组件"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

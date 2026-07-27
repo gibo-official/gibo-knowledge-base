@@ -87,7 +87,7 @@ d e <sub>p</sub> re s i ó n <sub>,</sub> <sub>p</sub> a ra <sub>q</sub> u e s e
 
 ## A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>
 
-![](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.jpg)
 1 U<sub>nscrew</sub> th<sub>e</sub> f<sub>auce</sub>t <sub>nozz</sub>l<sub>e</sub>
 1 P re n d s l a b o u c h e d u ro b i n e t d e l <sup>'</sup> e a u
 1 . S a ca r l a b o ca d e s d e l a <sub>g</sub> ri fe r ía .
@@ -104,7 +104,7 @@ d e <sub>p</sub> re s i ó n <sub>,</sub> <sub>p</sub> a ra <sub>q</sub> u e s e
 
 2 . S e l e cc i o n a r u n a co <sub>p</sub> l e a d a <sub>p</sub> ta b l e d e d i e n te i n te ri o r co r re s <sub>p</sub> o n d i e n te a l a <sub>g</sub> r i fe r ía .
 
-![](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-06.jpg)
+![Sensor_Nozzle_EN_FR A Des éta <sub>p</sub>es d <sup>'</sup> i nstal lation d u fi l et extérieu r](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-06.jpg)
 3 . S<sub>crew</sub> th<sub>e correc</sub>t <sub>connec</sub>t<sub>or</sub>.
 3 M e tte z l <sup>'</sup> é c ro u a u - d e s s u s i n s ta l l e z l e b o u t d <sup>'</sup> a d a <sub>p</sub> ta t i o n d e d e n t i n té r i e u r s u r l e ro b i n e t d e l <sup>'</sup> e a u
 3 . P o n e r l a t u e rca ta <sub>p</sub> a a ct i va h a c i a a rri b a <sub>y</sub> co n e cta r e l a co <sub>p</sub> l e a d a <sub>p</sub> ta b l e d e d i e n te i n t e r i o r c o n l a <sub>g</sub> r i fe r í a
@@ -112,7 +112,7 @@ M e d i d a s <sub>p</sub> a ra l a I n s ta l a c i ó n
 
 ## A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores
 
-![](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-07.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-07.jpg)
 4 . S<sub>crew</sub> th<sub>e sensor</sub> t<sub>ap on</sub>t<sub>o</sub> th<sub>e connec</sub>t<sub>or</sub>. Th<sub>e</sub> i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub> i<sub>s comp</sub>l<sub>e</sub>t<sub>e an</sub>d th<sub>e sensor</sub> ta<sub>p</sub> <sup>i</sup>s rea<sup>d</sup><sub>y</sub> to use.
 4 . S e rre z l <sup>'</sup> é c ro u fi xe z l a m a c h i n e <sub>p</sub> ri n c i <sub>p</sub> a l l <sup>'</sup> i n s t a l l a t i o n e s t f i n i e
 

@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "ASME A112.18.2-2005"
 product: "2005"
 tags: ["GIBO", "洁博利", "标准规范", "标准", "AI知识库"]
 summary: "标准编号: ASME A112.18.2-2005"

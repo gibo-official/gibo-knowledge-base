@@ -49,7 +49,7 @@ Rubbergasket
 
 ![D感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-04.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-05.jpg)
+![感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-05.jpg)
 \*Before installation, please fully charge the product firstly.
 
 ## Applicable Faucet
@@ -83,10 +83,10 @@ If the volume of water is found to be small or no water, it may be blocked by th
 
 ![D感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-08.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-09.jpg)
+![感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-09.jpg)
 1
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-10.jpg)
+![感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-10.jpg)
 2
 
 3
@@ -152,7 +152,7 @@ Touchless Faucet Sprayer
 
 ## Installation Drawing
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-16.jpg)
+![感应节水水嘴 Installation Drawing](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-16.jpg)
 \*Before installation, please fully charge the product firstly.
 \*Notice: Before screwing off/on the sprayer, please fix or grasp the pull out hose well, to avoid the pull out hose retracting back into the faucet.
 
@@ -168,7 +168,7 @@ Touchless Faucet Sprayer
 
 ![D感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-18.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-19.jpg)
+![感应节水水嘴 Product Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-19.jpg)
 1 Long time water flow
 3 Pull out water flow
 
@@ -209,10 +209,10 @@ If the volume of water is found to be small or no water, it may be blocked by th
 
 ![D感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-23.jpg)
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-24.jpg)
+![感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-24.jpg)
 1
 
-![](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-25.jpg)
+![感应节水水嘴 Precautions for Usage](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-25.jpg)
 3
 
 ## Technical Parameters

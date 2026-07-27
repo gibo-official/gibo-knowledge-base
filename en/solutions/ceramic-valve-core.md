@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: solution
+title: "陶瓷阀芯组件"
 product: ""
 tags: ["GIBO", "solution", "AI-knowledge-base"]
 summary: "- product: /schema/schema-product1.jsonld"

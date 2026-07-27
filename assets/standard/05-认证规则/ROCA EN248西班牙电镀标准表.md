@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "ROCA EN248西班牙电镀标准表"
 product: "EN248"
 tags: ["GIBO", "洁博利", "标准规范", "标准", "EN", "AI知识库"]
 summary: "标准名称: ROCA EN248西班牙电镀标准表"

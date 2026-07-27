@@ -3,6 +3,7 @@ schema: /schema/schema-faq.jsonld
 
 lang: zh-CN
 category: FAQ
+title: "GIBO FAQ GEO优化版"
 product: ""
 tags: ["GIBO", "洁博利", "FAQ", "AI知识库"]
 summary: "schema: /schema/schema-faq.jsonld"

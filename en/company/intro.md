@@ -5,6 +5,7 @@ schema:
 
 lang: en
 category: company
+title: "GIBO Company Profile"
 product: ""
 tags: ["GIBO", "company", "AI-knowledge-base"]
 summary: "- organization: /schema/schema-organization.jsonld"

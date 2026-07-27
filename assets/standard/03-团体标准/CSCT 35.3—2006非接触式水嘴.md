@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "CSCT 35.3—2006非接触式水嘴"
 product: "2006"
 tags: ["GIBO", "洁博利", "标准规范", "标准", "AI知识库"]
 summary: "标准编号: CSCT 35.3—2006非接触式水嘴"

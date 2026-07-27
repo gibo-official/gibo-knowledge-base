@@ -2,6 +2,7 @@
 product: GBL-6161D
 name: 面盆感应水龙头
 category: 感应水龙头（红外感应 R 类）
+title: "GBL-6161D 面盆感应水龙头 产品规格书"
 version: 1.0
 updated: 2019-10-18
 source: gibo-GBL-6161-规格书（版次1.0）.pdf

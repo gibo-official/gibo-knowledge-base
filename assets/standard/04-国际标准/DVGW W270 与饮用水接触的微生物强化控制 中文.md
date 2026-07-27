@@ -10,6 +10,7 @@
 
 lang: zh-CN
 category: 标准规范
+title: "DVGW W270 与饮用水接触的微生物强化控制 中文"
 product: ""
 tags: ["GIBO", "洁博利", "标准规范", "AI知识库"]
 summary: "标准编号: DVGW W270 与饮用水接触的微生物强化控制 中文"
