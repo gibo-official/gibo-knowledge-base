@@ -36,20 +36,15 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 
 # 推荐用法
 
-**首页/关于页**
-：嵌入 schema-organization.jsonld（含企业实体 + 网站）
+**首页/关于页**：嵌入 schema-organization.jsonld（含企业实体 + 网站）
 
-**产品详情页/产品目录页**
-：嵌入 schema-product1.jsonld 中的单个 Product 条目（当前收录 16 个产品实体）
+**产品详情页/产品目录页**：嵌入 schema-product1.jsonld 中的单个 Product 条目（当前收录 16 个产品实体）
 
-**FAQ 页面**
-：嵌入 schema-faq.jsonld（当前收录 22 组常见问答）
+**FAQ 页面**：嵌入 schema-faq.jsonld（当前收录 22 组常见问答）
 
-**品牌介绍页**
-：嵌入 schema-brand.jsonld（含品牌实体与旗舰产品）
+**品牌介绍页**：嵌入 schema-brand.jsonld（含品牌实体与旗舰产品）
 
-**全站通用**
-：嵌入 schema-breadcrumb.jsonld
+**全站通用**：嵌入 schema-breadcrumb.jsonld
 
 # 内容文件关联
 
