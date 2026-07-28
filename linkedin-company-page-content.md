@@ -1,12 +1,21 @@
----
-lang: zh-CN
-category: 仓库文档
-title: "linkedin-company-page-content"
-summary: "最后更新：2026-07-14"
-updated: 2026-07-14
-product: ""
-tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
----
+---
+
+lang: zh-CN
+
+category: 仓库文档
+
+title: "linkedin-company-page-content"
+
+summary: "最后更新：2026-07-28"
+
+updated: 2026-07-28
+
+product: ""
+
+tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
+
+---
+
 
 # GIBO LinkedIn Company Page — English Content Pack
 

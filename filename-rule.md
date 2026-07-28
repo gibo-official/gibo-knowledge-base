@@ -5,7 +5,7 @@ category: 仓库文档
 product: ""
 tags: ["GIBO", "洁博利", "文件命名", "规范", "AI知识库"]
 summary: "GIBO 知识库文件命名规则：小写、连字符、无空格，语言目录与 FAQ 子文件命名约定，以及允许的例外。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # 文件命名规则（filename-rule）

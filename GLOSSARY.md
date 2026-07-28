@@ -5,7 +5,7 @@ category: 仓库文档
 product: ""
 tags: ["GIBO", "洁博利", "术语表", "GEO", "AI知识库"]
 summary: "洁博利知识库术语统一表：规范中文名 → 常见别名（多叫法） → 英文，用于消除同一概念多种写法，提升 GEO 一致性与 AI 检索采信率。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # 术语统一表（GLOSSARY）

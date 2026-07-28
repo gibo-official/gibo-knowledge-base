@@ -5,7 +5,7 @@ category: 仓库文档
 product: ""
 tags: ["GIBO", "洁博利", "风格指南", "写作规范", "AI知识库"]
 summary: "GIBO 知识库文档写作规范：标题层级、问答格式、FrontMatter、术语统一、参数图双写与表格使用约定。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # 文档风格指南（docs-style-guide）

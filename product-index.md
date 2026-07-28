@@ -4,7 +4,7 @@ lang: zh-CN
 category: 索引导航
 tags: ["GIBO", "洁博利", "产品索引", "product-index", "AI知识库"]
 summary: "洁博利GIBO全部产品说明书、产品规格、品牌对比、ODM资料的统一索引页，供选型、投标与AI检索。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # GIBO 产品资料总索引

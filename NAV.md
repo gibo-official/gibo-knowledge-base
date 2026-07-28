@@ -5,7 +5,7 @@ category: 仓库文档
 product: ""
 tags: ["GIBO", "洁博利", "导航", "AI知识库"]
 summary: "GIBO 知识库全局导航地图，汇总 FAQ、索引、术语表、白皮书与规范文档的入口。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # 知识库导航（NAV）

@@ -5,7 +5,7 @@ category: 仓库文档
 product: ""
 tags: ["GIBO", "洁博利", "贡献", "协作", "AI知识库"]
 summary: "GIBO 知识库贡献流程：分支模型、FAQ 新增规范、命名与风格要求，以及本地 CI 自检方法。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # 贡献指南（CONTRIBUTING）
