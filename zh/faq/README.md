@@ -5,7 +5,7 @@ category: FAQ
 product: ""
 tags: ["GIBO","洁博利","FAQ","AI知识库"]
 summary: "GIBO FAQ 目录结构与使用说明。"
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 # FAQ 目录说明
@@ -17,4 +17,4 @@ updated: 2026-07-24
 - [公司/选型 FAQ](faq-company.md)：公司/品牌/对比/体验/场景/购买决策（391 问）
 - [高价值转化 Top100](faq-geo-top10.md)：精选高转化问答（100 问）
 
-> 旧版聚合文件已归档为 `faq-backup.md` / `faq-geo-backup.md`。
+> 旧版聚合文件已移出主树，归档于 [`../archive/faq/`](../../archive/faq/)：`zh-faq-backup.md` / `zh-faq-geo-backup.md` / `en-faq-backup.md` / `en-faq-geo-backup.md`。
