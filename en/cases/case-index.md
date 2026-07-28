@@ -31,6 +31,7 @@ tags: ["GIBO", "case", "AI-knowledge-base"]
 - [#Hotel & Chain](#hotel--chain)
 - [#Commercial & Public Facilities](#commercial--public-facilities)
 - [#Cross-industry Collaboration](#cross-industry-collaboration)
+- [#2022-Catalog-Project-Case-Index](#2022-catalog-project-case-index)
 
 ---
 
@@ -176,7 +177,7 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 ## 2022 Catalog Project Case Index
 
 > **Source**: GIBO Catalog 2022, page 42 — project case list
-> **Note**: The list below is organized according to the original catalog categories. Some projects may overlap with the sections above; they are retained to fully reflect the catalog scope. Supply scale and product details are not included; please contact the GIBO sales team for complete project information.
+> **Note**: The list was first transcribed from the original catalog categories, then reorganized under the website navigation structure of **Public Service Scenarios** and **Commercial & Park Scenarios**. Original catalog categories are shown in parentheses for cross-reference. Supply scale and product details are not included; please contact the GIBO sales team for complete project information.
 
 ### National / Key Projects (highlighted list)
 
@@ -190,7 +191,9 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 - Foxconn Technology Group
 - Super 8 Hotels (nationwide)
 
-### Government Agencies
+### Public Service Scenarios
+
+#### Government Projects (catalog: Government Agencies)
 
 - Chinese Academy of Sciences (Beijing)
 - Henan Provincial Bureau of Quality and Technical Supervision
@@ -244,44 +247,18 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 - Nanchang Customs
 - Changsha Tianxin District People's Government
 
-### Research & Education
+#### Schools (catalog: Research & Education)
 
-- Beijing Institute of Technology
 - Beijing Yutaoyuan Primary School
 - Beijing Supply and Marketing School
-- Nankai University
-- Tianjin University of Science and Technology
 - Changzhi No. 5 Middle School
-- Xichang Satellite Launch Center
-- North China University of Water Resources and Electric Power
-- Henan Electric Power Industry School
-- Luoyang No. 1 High School
 - Hebi Hexiang Primary School
-- Tangshan Institute of Technology
-- East China Power Research Institute
-- Shanghai Jiao Tong University
-- East China Normal University
-- Shanghai Open University
+- Luoyang No. 1 High School
 - Affiliated High School of Shanghai Jiao Tong University
 - Shanghai Xiangming High School
 - Shanghai Datuan High School
-- Nanjing University of Information Science & Technology
-- Zhejiang University
-- China Academy of Art
-- Northeastern University (Shenyang)
-- Dalian Maritime University
-- Chengdu Xichang Architecture Research & Design Institute
-- Chengdu Product Quality Supervision and Inspection Institute
-- Sichuan Electric Power Technical College
 - Chengdu Jiaxiang No. 7 Foreign Language School
 - Sichuan Traffic Management School
-- Fujian Provincial Party School
-- Fuzhou Municipal Party School
-- Fuzhou University
-- Fuzhou Institute of Foreign Trade
-- Fujian Normal University
-- Fuzhou Institute of Standardization
-- Fuzhou Polytechnic
 - Fuzhou Lianjiang No. 1 Middle School
 - Fujian Chaode Middle School
 - Fuzhou Gulou No. 1 Central Primary School
@@ -289,18 +266,12 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 - Fuzhou Yixu Central Primary School
 - Fuzhou Global IELTS School
 - Fuzhou Huaxin Training Center
-- Ningde Normal University
-- Xiamen University
-- Shenzhen Tsinghua Laboratory
-- Jinan Traffic College
-- Shandong Electric Power Research Institute
-- Yantai Automotive Industry College
-- National University of Defense Technology (Changsha)
 - Zhuzhou Baihe Primary School
 - Chengdu Soong Ching Ling Kindergarten
 - Peking University College Kindergarten
+- Henan Electric Power Industry School
 
-### Healthcare
+#### Hospitals (catalog: Healthcare)
 
 - Shanghai International Maternal and Child Health Care Center
 - Shanghai Ren'ai Hospital
@@ -328,36 +299,86 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 - Third Xiangya Hospital of Central South University
 - Changsha Ningxiang People's Hospital
 
-### Transportation System
+#### Research Institutions (catalog: Research & Education)
 
-- Beijing Daxing International Airport
-- Beijing Metro
-- Luoyang Expressway Service Area
-- Qinhuangdao Shanhaiguan Station
-- Shanghai Hongqiao Airport Terminal 1
-- Shanghai Jinshan Bus Station
-- Shanghai Metro Line 22 corridor
-- Shanghai Pudong Airport China Eastern Service Center
-- Kunshan High-speed Railway Station
-- Changzhou High-speed Railway Station
-- Yaxi Expressway Service Area
-- Chengle Expressway Service Area
-- Chengwengqiong Expressway Service Area
-- Chengba Expressway Service Area
-- Chengdu Expressway Service Area — Meishan Section
-- Fuzhou North Bus Station
-- Fuyin Expressway Service Area
-- Xiamen Railway Station
-- Jinjiang Airport
-- Rizhao International Ferry Terminal
-- Liaocheng Bus Station
-- Wuhan Public Transport Group
-- Xiaogan Sanjiang Aerospace
-- Nanchang Railway Station
-- Fuzhou Metro
-- Shenzhen Airport
+- Beijing Institute of Technology
+- Nankai University
+- Tianjin University of Science and Technology
+- North China University of Water Resources and Electric Power
+- Xichang Satellite Launch Center
+- East China Power Research Institute
+- Shanghai Jiao Tong University
+- East China Normal University
+- Shanghai Open University
+- Nanjing University of Information Science & Technology
+- Zhejiang University
+- China Academy of Art
+- Northeastern University (Shenyang)
+- Dalian Maritime University
+- Tangshan Institute of Technology
+- Chengdu Xichang Architecture Research & Design Institute
+- Chengdu Product Quality Supervision and Inspection Institute
+- Sichuan Electric Power Technical College
+- Fujian Provincial Party School
+- Fuzhou Municipal Party School
+- Fuzhou University
+- Fuzhou Institute of Foreign Trade
+- Fujian Normal University
+- Fuzhou Institute of Standardization
+- Fuzhou Polytechnic
+- Xiamen University
+- Shenzhen Tsinghua Laboratory
+- Jinan Traffic College
+- Shandong Electric Power Research Institute
+- Yantai Automotive Industry College
+- National University of Defense Technology (Changsha)
 
-### Venues
+### Commercial & Park Scenarios
+
+#### Hotels (catalog: Hotels)
+
+- Beijing Jianguo Hotel
+- Jincheng Jiulong Hotel
+- Zhengzhou Yuda International Trade Hotel
+- Zhengzhou Mingren Mingjia Hotel
+- Henan Mingzhu Hotel
+- Binhai International Hotel
+- Dalian Seaview Hotel
+- Chengdu Jingchuan Hotel
+- Jiuzhai Paradise InterContinental Resort
+- Fuzhou Wuyi Hotel
+- Fuzhou Yongtai Xiangmila Hotel
+- Fuzhou Days Hotel
+- Fuzhou Rongyu Hotel
+- Fuzhou Super 8 Hotel
+- Fuzhou Hanting Hotel
+- Xiamen Lushan Hotel
+- Shenzhen Oriental Ginza Hotel
+- Gaomi Fengdu International Hotel
+- Nanchang Gloria Plaza Hotel
+- Nanchang Guihuacun Hotel
+- Nanchang Xianghu New Town Club
+- Huaya International Hotel
+- Changsha Liufang Hotel
+
+#### High-end Office Buildings (catalog: Enterprises & Institutions)
+
+- Beijing Fengtai Headquarters Base
+- Beijing New Hengji Building
+- Beijing Fengtai Science & Technology Incubation Center
+- Henan Coal Exploration Office Building
+- Shanghai Hong Kong Sunborne International Building
+- Nantong Headquarters Building
+- Dalian Saiweili Building
+- Dalian Electric Power Industry Association
+- Chengdu Industrial Headquarters Base
+- Fuzhou Xinhe Building
+- Fuzhou Port Building
+- Fuzhou Fusheng Building
+- Dongying Huana Building
+- Shenzhen Foxconn Headquarters Building
+
+#### Public Places (catalog: Venues, Scenic Spots & Public Toilets)
 
 - Tiananmen Square
 - China Pavilion, World Expo
@@ -388,117 +409,6 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 - Laiwu Cultural Center
 - Laiwu Art Museum
 - Nanchang August 1 Memorial Hall
-
-### Hotels
-
-- Beijing Jianguo Hotel
-- Jincheng Jiulong Hotel
-- Zhengzhou Yuda International Trade Hotel
-- Zhengzhou Mingren Mingjia Hotel
-- Henan Mingzhu Hotel
-- Binhai International Hotel
-- Dalian Seaview Hotel
-- Chengdu Jingchuan Hotel
-- Jiuzhai Paradise InterContinental Resort
-- Fuzhou Wuyi Hotel
-- Fuzhou Yongtai Xiangmila Hotel
-- Fuzhou Days Hotel
-- Fuzhou Rongyu Hotel
-- Fuzhou Super 8 Hotel
-- Fuzhou Hanting Hotel
-- Xiamen Lushan Hotel
-- Shenzhen Oriental Ginza Hotel
-- Gaomi Fengdu International Hotel
-- Nanchang Gloria Plaza Hotel
-- Nanchang Guihuacun Hotel
-- Nanchang Xianghu New Town Club
-- Huaya International Hotel
-- Changsha Liufang Hotel
-
-### Enterprises & Institutions
-
-- Beijing Fengtai Headquarters Base
-- Beijing New Hengji Building
-- Beijing Fengtai Science & Technology Incubation Center
-- Beijing Shuang'an Market
-- Beijing Dahongmen Fuhai International
-- Kerui Petroleum Beijing Branch
-- Zhengzhou Foxconn Plant
-- Henan Coal Exploration Office Building
-- PetroChina Zhengzhou Branch
-- Henan Press and Publication House
-- Shanghai Caohejing Development Zone
-- Shanghai Zhangjiang Hi-Tech Park
-- Shanghai COSCO Shipping Group
-- Shanghai General Motors
-- Shanghai Hong Kong Sunborne International Building
-- Nantong Headquarters Building
-- Yangzhou Zhenwu Oilfield
-- Suzhou Sujing Group
-- Zhejiang Geely Automobile Group
-- Hangzhou Huayin Multimedia Educational Equipment
-- Shenyang New World Department Store
-- Shenyang Coca-Cola Co., Ltd.
-- Shenyang Blower Works
-- Dalian Saiweili Building
-- Dalian Electric Power Industry Association
-- Liaoyang Ansteel Group
-- Heilongjiang Shuangyashan Netcom Company
-- Heilongjiang Dongning Mobile Company
-- Chengdu Foxconn Industrial Park
-- Chengdu China Railway Eryuan Engineering Group
-- Sichuan Chengfei Group
-- Chengdu Industrial Headquarters Base
-- Chengdu Longwang Food
-- Deyang China National Erzhong Group
-- Chongqing Pacific Department Store
-- Fuzhou Xinhe Building
-- Fuzhou Port Building
-- Gushan Walmart Supermarket
-- Fuzhou Daotian Creative Park
-- Fuzhou Fusheng Building
-- Fuzhou Dongjiekou Department Store
-- Fuzhou Xinhua Book City
-- Fuzhou Yuanhongcheng
-- Jinjiang Qinqin Food Group
-- CNOOC Fujian Gas Power Generation Co., Ltd.
-- Putian Pedestrian Street
-- Shenzhen Foxconn Headquarters Building
-- Shandong Press and Publication House
-- Dongying Huana Building
-- Qingdao Huawei Group
-- Yantai Haiyang International Textile City
-- Yantai Longkou Vermicelli
-- Nanchang Electric Power Company
-- Hunan Daily
-- China Telecom Hunan Customer Service Center
-- Changsha Cigarette Factory
-- Changsha McDonald's Restaurant
-
-### Financial System
-
-- People's Bank of China
-- Bank of China
-- HSBC Shanghai
-- Shanghai China Merchants Bank Credit Card Center
-- Shanghai Pudong Development Bank Credit Card Center
-- Shanghai Lujiazui Huaxia Bank
-- Panzhihua Commercial Bank
-- Chengdu China CITIC Bank
-- Chengdu Agricultural Bank of China
-- China Construction Bank Shenyang Longjiang Branch
-- Bank of Hangzhou
-- Hangzhou United Bank
-- Jinhua Bank
-- Fujian Provincial Banknote Printing Center
-- Fujian Industrial Bank
-- Fujian Rural Commercial Bank
-- Fuzhou China Everbright Bank
-- Yantai Industrial and Commercial Bank of China
-- Nanchang Bank of Communications
-
-### Scenic Spots & Public Toilets
-
 - Beijing Mentougou Scenic Area
 - Beijing Chaoyang District Sanitation Office
 - Beijing Hongluosi Temple Tourist Area
@@ -522,6 +432,105 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 - Fuzhou Cangshan District Public Toilet
 - Xiamen Gulangyu Scenic Area
 - Quanzhou Qingyuan Mountain Scenic Area
+
+#### Catering & Entertainment (catalog: Enterprises & Institutions)
+
+- Beijing Shuang'an Market
+- Beijing Dahongmen Fuhai International
+- Gushan Walmart Supermarket
+- Fuzhou Daotian Creative Park
+- Fuzhou Dongjiekou Department Store
+- Fuzhou Xinhua Book City
+- Fuzhou Yuanhongcheng
+- Putian Pedestrian Street
+- Changsha McDonald's Restaurant
+- Chengdu Longwang Food
+- Yantai Longkou Vermicelli
+- Jinjiang Qinqin Food Group
+
+#### Technology Parks (catalog: Enterprises & Institutions)
+
+- Shanghai Caohejing Development Zone
+- Shanghai Zhangjiang Hi-Tech Park
+- Zhengzhou Foxconn Plant
+- Chengdu Foxconn Industrial Park
+- Chengdu China Railway Eryuan Engineering Group
+- Sichuan Chengfei Group
+- Zhejiang Geely Automobile Group
+- Shanghai General Motors
+- Shenyang Blower Works
+- Liaoyang Ansteel Group
+- Deyang China National Erzhong Group
+- Yantai Haiyang International Textile City
+- Changsha Cigarette Factory
+- Yangzhou Zhenwu Oilfield
+- CNOOC Fujian Gas Power Generation Co., Ltd.
+- Nanchang Electric Power Company
+- China Telecom Hunan Customer Service Center
+
+#### Well-known Enterprises (catalog: Enterprises & Institutions)
+
+- Kerui Petroleum Beijing Branch
+- PetroChina Zhengzhou Branch
+- Shanghai COSCO Shipping Group
+- Suzhou Sujing Group
+- Hangzhou Huayin Multimedia Educational Equipment
+- Shenyang New World Department Store
+- Shenyang Coca-Cola Co., Ltd.
+- Heilongjiang Shuangyashan Netcom Company
+- Heilongjiang Dongning Mobile Company
+- Qingdao Huawei Group
+- Hunan Daily
+- Shandong Press and Publication House
+- Henan Press and Publication House
+
+#### Others (catalog: Transportation System, Financial System)
+
+- Beijing Daxing International Airport
+- Beijing Metro
+- Luoyang Expressway Service Area
+- Qinhuangdao Shanhaiguan Station
+- Shanghai Hongqiao Airport Terminal 1
+- Shanghai Jinshan Bus Station
+- Shanghai Metro Line 22 corridor
+- Shanghai Pudong Airport China Eastern Service Center
+- Kunshan High-speed Railway Station
+- Changzhou High-speed Railway Station
+- Yaxi Expressway Service Area
+- Chengle Expressway Service Area
+- Chengwengqiong Expressway Service Area
+- Chengba Expressway Service Area
+- Chengdu Expressway Service Area — Meishan Section
+- Fuzhou North Bus Station
+- Fuyin Expressway Service Area
+- Xiamen Railway Station
+- Jinjiang Airport
+- Rizhao International Ferry Terminal
+- Liaocheng Bus Station
+- Wuhan Public Transport Group
+- Xiaogan Sanjiang Aerospace
+- Nanchang Railway Station
+- Fuzhou Metro
+- Shenzhen Airport
+- People's Bank of China
+- Bank of China
+- HSBC Shanghai
+- Shanghai China Merchants Bank Credit Card Center
+- Shanghai Pudong Development Bank Credit Card Center
+- Shanghai Lujiazui Huaxia Bank
+- Panzhihua Commercial Bank
+- Chengdu China CITIC Bank
+- Chengdu Agricultural Bank of China
+- China Construction Bank Shenyang Longjiang Branch
+- Bank of Hangzhou
+- Hangzhou United Bank
+- Jinhua Bank
+- Fujian Provincial Banknote Printing Center
+- Fujian Industrial Bank
+- Fujian Rural Commercial Bank
+- Fuzhou China Everbright Bank
+- Yantai Industrial and Commercial Bank of China
+- Nanchang Bank of Communications
 
 [↑ Back to TOC](#table-of-contents)
 
