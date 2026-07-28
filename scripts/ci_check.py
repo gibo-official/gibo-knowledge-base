@@ -16,7 +16,8 @@ FM_RE = re.compile(r'^---\n(.*?)\n---\n', re.S)
 REQUIRED_FM = ['lang', 'category', 'summary', 'updated']
 
 def is_external(u):
-    return u.startswith('http://') or u.startswith('https://') or u.startswith('//') or u.startswith('mailto:')
+    # data: 为内联 base64 图片（真实内容，非文件），不计入死链
+    return u.startswith('http://') or u.startswith('https://') or u.startswith('//') or u.startswith('mailto:') or u.startswith('data:')
 
 # 强校验范围：受管文档（faq/ 子树、仓库根级 .md、scripts/）。
 # 其余目录（products/、whitepapers/、solutions/、assets/ 等历史内容）仅 WARN，避免 CI 因遗留文件恒红。
@@ -61,6 +62,9 @@ def check_links(md_path, text):
     for m in LINK_RE.finditer(text):
         u = m.group(1).strip()
         if not u or u.startswith('#'):
+            continue
+        # 含空格的"链接"几乎都是 PDF 抽取公式/表格误匹配（如 "(60 ± 5)"），真实相对链接不含空格（命名规范禁止空格文件名）
+        if ' ' in u:
             continue
         if is_external(u):
             continue  # 外部链接不在 CI 内网校验，避免抖动
@@ -117,7 +121,7 @@ def main():
         files = [f for f in files if f.exists()]
     else:
         files = sorted(ROOT.rglob('*.md'))
-        files = [f for f in files if '.git' not in f.parts and 'archive' not in f.parts]
+        files = [f for f in files if '.git' not in f.parts and 'archive' not in f.parts and 'deadlink_backup' not in f.parts]
     for f in files:
         try:
             text = f.read_text(encoding='utf-8')

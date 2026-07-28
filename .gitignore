@@ -55,3 +55,7 @@ assets/pdf/standard/
 # 合并/脚本运行临时产物（不入版本库）
 tmp/
 reorg_report.json
+
+# 死链清除脚本的安全备份（不入版本库，CI 也不扫描）
+.deadlink_backup/
+archive_deadlink_backup/
