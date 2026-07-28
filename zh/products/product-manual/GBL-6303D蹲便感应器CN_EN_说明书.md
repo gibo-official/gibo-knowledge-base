@@ -17,7 +17,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_�
 **最后更新**：2026-07-10
 **适用范围**：产品展示、投标材料、AI知识库引用
 
-![D蹲便感应器](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-01.jpg)
+![D蹲便感应器](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-01.jpg)
 
 ## BEFORE YOU BEGIN
 
@@ -75,11 +75,11 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_�
 
 ## PRODUCT SPECIFICATIONS
 
-![D蹲便感应器 PRODUCT SPECIFICATIONS](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-02.jpg)
+![D蹲便感应器 PRODUCT SPECIFICATIONS](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-02.jpg)
 
 ## 产品规格
 
-![D蹲便感应器产品规格](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-03.jpg)
+![D蹲便感应器产品规格](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-03.jpg)
 
 2. Measure the installation position of the squat and flushing machine panel.
 3. Make sure the squat on the same centerline with the flushing machine.
@@ -95,25 +95,25 @@ tags: ["GIBO", "洁博利", "产品说明书", "GBL-6303D蹲便感应器CN_EN_�
 
 ## INSTALLATION DRAWING
 
-![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-04.jpg)
+![蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-04.jpg)
 Unit: mm
 
-![D蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-05.jpg)
+![D蹲便感应器 INSTALLATION DRAWING](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-05.jpg)
 
 ## 安装示意图
 
-![D蹲便感应器安装示意图](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-06.jpg)
+![D蹲便感应器安装示意图](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-06.jpg)
 
-![D蹲便感应器安装示意图](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-07.jpg)
+![D蹲便感应器安装示意图](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-07.jpg)
 
 ## NOTE
 
-![D蹲便感应器 NOTE](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-08.jpg)
+![D蹲便感应器 NOTE](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-08.jpg)
 
 \*Test run the water for the inlet pipe to ensure it is free of leakage.
 \*进行进水管路给水测试，确认管路无渗漏水之处。
 
-![D蹲便感应器 NOTE](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-09.jpg)
+![D蹲便感应器 NOTE](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-09.jpg)
 
 ## MAINTENANCE INSTRUCTIONS
 
@@ -133,7 +133,7 @@ NOTE: Clean the filter before the water supply valve to be closed.
 
 需要清洗过滤网时,请用活动扳手旋出阀盖,取下活塞过滤网,用清水冲洗干净后重新装回即可。
 
-![D蹲便感应器维护须知](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-10.jpg)
+![D蹲便感应器维护须知](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-10.jpg)
 
 注意：清洗过滤网前须关闭供水阀。
 
@@ -163,7 +163,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 Use wet cloth to clean it.
 
-![D蹲便感应器 NOTE](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-11.jpg)
+![D蹲便感应器 NOTE](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-11.jpg)
 
 \*Do not crush it or failure may be caused.
 
@@ -177,9 +177,9 @@ Use wet cloth to clean it.
 
 If anything abnormal happens while using, please refer to the following table and solve accordingly. If the problem remains, call the service number.
 
-![D蹲便感应器注意](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-12.jpg)
+![D蹲便感应器注意](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-12.jpg)
 
-![D蹲便感应器注意](../../../assets/images/ins/GBL-6303D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E8%8B%B1-ins-13.jpg)
+![D蹲便感应器注意](../../../assets/images/ins/GBL-6303D蹲便感应器说明中英-ins-13.jpg)
 
 如果在使用过程中发现异常情况，请参照下表来解决。
 

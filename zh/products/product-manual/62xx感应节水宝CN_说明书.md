@@ -27,28 +27,28 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 ---
 2 短出水模式
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-01.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-01.png)
 
 Mini感应节水水嘴
 
 Mini touchless faucet adapter
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-02.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-02.png)
 \*本产品适配M22外牙与M24内牙的龙头水嘴.
 
 长出水: 侧感应窗为挥手出水, 再挥手停水. (连续出水超过 $180\pm 10$ 秒, 自动断水)短出水: 下感应窗为伸手出水, 收手停水. (连续出水超过 $60\pm 10$ 秒, 自动断水)
 安装图示
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-03.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-03.png)
 产品使用
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-04.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-04.png)
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-05.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-05.png)
 
 1 本产品适合安装在浴室龙头, 高脚/高弯菜盘龙头上, 原龙头出水嘴距离台面需≥25cm.
 
 2 本产品不适合安装在抽拉龙头, 低弯菜盘龙头和其它异形龙头上.
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-06.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-06.png)
 
 如果发现出水量变小或不出水, 可能因过滤网堵塞, 请旋开进水接头, 取出过滤垫片, 并用清水洗净, 装回即可.
 
@@ -56,9 +56,9 @@ Mini touchless faucet adapter
 
 提示正常使用时, 电池续航时间约9个月; 若长期不使用, 请至少9个月内充电一次, 以防止电量耗尽, 无法充电.
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-07.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-07.png)
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-08.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-08.png)
 使用注意事项
 1 感应窗口部位, 请勿使用粗糙物品擦洗, 如: 粗糙麻布, 刷子, 钢丝球等, 请勿用水冲淋或滴水的湿布擦拭产品, 以免造成感应失灵或产品损伤.
 
@@ -70,13 +70,13 @@ Mini touchless faucet adapter
 
 5 产品使用时, 请确保充电保护塞扣紧贴合, 以防水气进入, 锈蚀充电口.
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-09.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-09.png)
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-10.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-10.png)
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-11.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-11.png)
 
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-12.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-12.png)
 技术参数 1 安装后漏水
 1.1 请确认进水接头处是否有装垫片, 及垫片厚度是否合适.
 1.2 请确认水压是否在0.05-0.8MPa范围内.
@@ -110,9 +110,9 @@ Mini touchless faucet adapter
 2.3对于误用, 滥用, 疏忽和使用非原厂配件所产生的质量问题, 不包括在此保证范围内, 如: 使用钢丝球等硬质抹布或强酸碱类清洁剂清洗产品, 导致感应窗口和外壳被刮伤, 腐蚀; 水压不在产品限定的范围中使用; 水质不良导致水路淤堵或锈蚀; 水路结冰后导致产品受损等.
 2.4其它不可抗力因素造成的损坏.
 合格证
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-13.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-13.png)
 保修卡
-![感应节水宝感应水嘴](../../../assets/images/ins/Mini%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E6%96%87%20%E9%9D%A2%E7%9B%86%E7%89%88qu-ins-14.png)
+![感应节水宝感应水嘴](../../../assets/images/ins/Mini感应节水器说明书-中文 面盆版qu-ins-14.png)
 ---
 ## 联系方式
 | | |

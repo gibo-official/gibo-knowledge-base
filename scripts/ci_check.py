@@ -117,7 +117,7 @@ def main():
         files = [f for f in files if f.exists()]
     else:
         files = sorted(ROOT.rglob('*.md'))
-        files = [f for f in files if '.git' not in f.parts]
+        files = [f for f in files if '.git' not in f.parts and 'archive' not in f.parts]
     for f in files:
         try:
             text = f.read_text(encoding='utf-8')

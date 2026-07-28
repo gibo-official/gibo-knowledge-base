@@ -23,9 +23,9 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![感应水箱感应大便器](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-01.png)
+![感应水箱感应大便器](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-01.png)
 
-![感应水箱感应大便器](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-02.png)
+![感应水箱感应大便器](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-02.png)
 
 Sensor toilet tank
 感应水箱使用说明书 ## 产品功能
@@ -49,7 +49,7 @@ Sensor toilet tank
 
 8, 美观: 流线型水箱设计, 美观大方.
 ## 出厂清单
-![感应水箱出厂清单](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-03.png)
+![感应水箱出厂清单](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-03.png)
 ## 安装步骤
 水箱安装方式有如下两种方法(明管与暗管), 安装步骤如下:
 
@@ -61,21 +61,21 @@ Sensor toilet tank
 注: 如右图. ## 安装图示
 注: 如下图所示尺寸322.5, 可按实际需要锯短.
 
-![感应水箱安装图示](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-04.png)
+![感应水箱安装图示](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-04.png)
 
-![感应水箱安装图示](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-05.png)
+![感应水箱安装图示](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-05.png)
 暗管 ## 产品尺寸图
-![感应水箱产品尺寸图](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-06.png)
+![感应水箱产品尺寸图](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-06.png)
 370 单位: mm
-![感应水箱产品尺寸图](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-07.png)
+![感应水箱产品尺寸图](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-07.png)
 ## 技术参数
-![感应水箱技术参数](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-08.png)
+![感应水箱技术参数](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-08.png)
 ## 注意事项
-![感应水箱注意事项](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-09.png)
+![感应水箱注意事项](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-09.png)
 
-![感应水箱注意事项](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-10.png)
+![感应水箱注意事项](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-10.png)
 
-![感应水箱注意事项](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-11.png)
+![感应水箱注意事项](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-11.png)
 1. 水箱总水量(全排水量)调节把螺杆从浮螺纹处分开, 下拉浮桶, 把浮桶调至水箱总水量要求的高度, 然后把螺杆扣回浮桶螺纹处. (最高水位为溢流管口下方10mm处)
 
 请勿用花洒, 水管等对水箱进行喷淋清洗, 以免对盖板内部电路和加热丝造成短路, 损坏产品; 可用绒质软布擦拭盖板.
@@ -86,16 +86,16 @@ Sensor toilet tank
 ## 水量调节
 因蹲便器种类繁多, 不同蹲便器的冲刷效果略有不同, 其用水量不也相同, 为满足不同的冲水量需求, 进水阀可作如下调节:
 
-![感应水箱水量调节](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-12.png)
+![感应水箱水量调节](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-12.png)
 
 2, 半排水量调节
 上下拉动半排浮桶, 把半排浮桶调至半排水量要求的高度.
 
-![感应水箱水量调节](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-13.png)
+![感应水箱水量调节](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-13.png)
 ## 产品维护
 受水质的影响, 水箱内进水阀与排水阀中会产生大量的泥沙等杂质, 导致进水阀与排水阀可能产生以下问题. 请参照以下分析进行清理, 可使水箱恢复正常使用.
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-14.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-14.png)
 1, 水箱不进水
 如图所示, 把过滤网取出, 用细毛刷对过滤网孔进行清理,
 将过滤网上的泥沙等杂质清除. 若还不进水, 请将进水阀拆开,
@@ -105,26 +105,26 @@ Sensor toilet tank
 
 进水阀拆卸与冲洗步骤如下:
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-15.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-15.png)
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-16.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-16.png)
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-17.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-17.png)
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-18.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-18.png)
 
 3, 排水阀不止水/按钮不动
 
 将排水阀从水箱内底座上旋出, 拿到水龙头下进行冲洗, 使排水阀内的泥沙等杂质从排水阀体内彻底清除, 然后按动按钮, 感觉按钮是否还会卡涩, 若感觉还有卡涩, 请持续冲洗至顺滑为止.
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-19.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-19.png)
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-20.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-20.png)
 A, 在水箱内旋下排水阀
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-21.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-21.png)
 
-![感应水箱产品维护](../../../assets/images/ins/%E6%84%9F%E5%BA%94%E6%B0%B4%E7%AE%B1GIBO%E8%AF%B4%E6%98%8E%E4%B9%A6A3%E4%B8%AD%E6%96%87-ins-22.png)
+![感应水箱产品维护](../../../assets/images/ins/感应水箱GIBO说明书A3中文-ins-22.png)
 
 D, 确保冲洗至3所示的孔通畅; 冲洗时4所示全排调节片需进行旋转.
 

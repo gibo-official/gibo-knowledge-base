@@ -23,13 +23,13 @@ tags: ["GIBO", "洁博利", "产品说明书", "厨房龙头", "AI知识库"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![厨房龙头感应水龙头](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-01.png)
+![厨房龙头感应水龙头](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-01.png)
 
-![厨房龙头感应水龙头](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-02.png)
+![厨房龙头感应水龙头](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-02.png)
 ISO9001: 2008
 质量检验中心
 
-![厨房龙头感应水龙头](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-03.png)
+![厨房龙头感应水龙头](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-03.png)
 中装协会员单位
 
 ## Double Sensor Kitchen Faucet
@@ -52,9 +52,9 @@ ISO9001: 2008
 
 7, 以下图例安装步骤仅供参考, 一切以所购买实物为准, 如遇到不明之处, 请联系您的销售商.
 
-![厨房龙头安装之前](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-04.png)
+![厨房龙头安装之前](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-04.png)
 
-![厨房龙头安装之前](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-05.png)
+![厨房龙头安装之前](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-05.png)
 ## 功能特点
 1. 双模出水: GIBO智能出水识别技术, 正面感应, 顶部感应与手动开关水随意切换, 实现完美使用体验.
 
@@ -72,12 +72,12 @@ ISO9001: 2008
 
 7. 节水: 洗手与装水均可由感应完成, 伸手开水, 收手停水, 有效节水.
 ## 技术参数
-![厨房龙头技术参数](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-06.png)
+![厨房龙头技术参数](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-06.png)
 ## 龙头安装一
-![厨房龙头龙头安装一](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-07.png)
+![厨房龙头龙头安装一](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-07.png)
 图1
 
-![厨房龙头龙头安装一](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-08.png)
+![厨房龙头龙头安装一](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-08.png)
 图2 ## 一, 龙头体安装
 1. 先将龙头底座上的螺帽, 金属垫片, 橡胶垫片取出;
 
@@ -89,10 +89,10 @@ ISO9001: 2008
 
 2, 螺帽上的螺丝应确保不突出螺帽, 若龙头固定不牢固, 可再将螺丝拧紧以加强固定.
 ## 龙头安装二
-![厨房龙头龙头安装二](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-09.png)
+![厨房龙头龙头安装二](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-09.png)
 图3
 
-![厨房龙头龙头安装二](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-10.png)
+![厨房龙头龙头安装二](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-10.png)
 图4 ## 二, 控制盒安装
 1. 先在台盆下方离地面约50厘米处的墙上水平打两个孔距为11.5厘米, 直径0.5厘米, 深度3.5厘米的孔, 并将配件包内膨胀螺丝插入孔内;
 
@@ -106,7 +106,7 @@ ISO9001: 2008
 
 3, 若墙上安装控制盒的条件不允许, 可将控制挂牢于三角阀等牢固物件上, 但控制盒需正面朝上, 不可倒装.
 
-![厨房龙头注意: !](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-11.png)
+![厨房龙头注意: !](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-11.png)
 ## 龙头安装三
 ## 三, 软管/铅锤/信号线安装
 
@@ -136,7 +136,7 @@ ISO9001: 2008
 
 4, 洒水/柔水切换: 压按花洒头上的出水切换钮, 实现洒水与柔水出水方式的切换.
 
-![厨房龙头使用说明](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-12.png)
+![厨房龙头使用说明](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-12.png)
 
 5, 感应出水的温度调节: 感应出水的温度由控制盒上的感温手柄独立控制, 左右旋转调节冷热水.
 ## 注意:
@@ -144,9 +144,9 @@ ISO9001: 2008
 
 2, 请勿将龙头弯管作360度旋转, 否则可能造成产品损坏, 龙头弯管旋转角度为左右各75度.
 
-![厨房龙头注意:](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-13.png)
+![厨房龙头注意:](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-13.png)
 ## 更换电池
-![厨房龙头更换电池](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-14.png)
+![厨房龙头更换电池](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-14.png)
 
 1. 使用电池的产品, 电池电能耗尽时, 该指示灯每隔3-4s闪亮一次, 以通知更换电池.
 
@@ -160,21 +160,21 @@ ISO9001: 2008
 
 不同品牌, 不同新旧的电池不可混用, 否则可能烧坏感应部件和电池盒.
 ## 简单故障排除
-![厨房龙头简单故障排除](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-15.png)
+![厨房龙头简单故障排除](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-15.png)
 ## 维护与保养
-![厨房龙头维护与保养](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-16.png)
+![厨房龙头维护与保养](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-16.png)
 
-![厨房龙头维护与保养](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-17.png)
+![厨房龙头维护与保养](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-17.png)
 
-![厨房龙头维护与保养](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-18.png)
+![厨房龙头维护与保养](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-18.png)
 
 感应模组处及龙头体, 请勿使用粗糙物品擦洗, 如: 粗糙麻布, 刷子, 铁砂等, 以免造成感应失灵或产品损伤. 请不要摇晃龙头, 否则易引起故障.
 
 不能使用强酸碱类洗涤剂清洗.
 ## 包装清单
-![厨房龙头包装清单](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-19.png)
+![厨房龙头包装清单](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-19.png)
 ## 部件名称
-![厨房龙头部件名称](../../../assets/images/ins/%E4%B8%AD%E6%80%A7%E5%8E%A8%E6%88%BF%E9%BE%99%E5%A4%B4%E6%95%B4%E6%9C%AC40x13cm-ins-20.png)
+![厨房龙头部件名称](../../../assets/images/ins/中性厨房龙头整本40x13cm-ins-20.png)
 ---
 ## 联系方式
 | | |

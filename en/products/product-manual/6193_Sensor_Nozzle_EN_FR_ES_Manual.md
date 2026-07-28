@@ -27,7 +27,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 5 <sub>.</sub> S <sub>a v</sub> i <sub>n g</sub> <sub>w a</sub>t <sub>e r .</sub> I <sub>n</sub> t <sub>e</sub> l l i <sub>g e n</sub> t t<sub>u rn</sub> <sub>o n</sub> <sub>a n</sub> d t<sub>u rn</sub> <sub>o</sub> ff t <sub>o</sub> <sub>s a v e</sub> th <sub>e</sub> <sub>w a</sub>t <sub>e r</sub> <sub>c o</sub> n <sub>s u</sub>m<sub>p</sub> ti <sub>o</sub> n m<sub>o</sub>r<sub>e</sub> th <sub>a</sub>n 3 0 %
 
 TECHNICAL INFORMATION
-![Sensor_Nozzle_EN_FR FUNCTION](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.jpg)
+![Sensor_Nozzle_EN_FR FUNCTION](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-01.jpg)
 
 ## L e s ca ra cté ri s t i <sub>q</sub> u e s d e s <sub>p</sub> ro d u i ts
 
@@ -40,14 +40,14 @@ TECHNICAL INFORMATION
 4 . L <sup>'</sup> h <sub>yg</sub> i è n e : o n n <sup>'</sup> a <sub>p</sub> a s b e s o i n d e to u c h e r a u c u n e <sub>p</sub> i è ce d e ro b i n e t d e l <sup>'</sup> e a u e t l e l ev i e r ave c d e l <sup>'</sup> e a u i l <sub>p</sub> e u t év i d e r va l a b l e m e n t l a co n ta m i n a t i o n c ro i s é e e t l a co n ta m i n a t i o n d <sup>'</sup> a l i m e n ta t i o n d e va i s s e l l e d <sup>'</sup> u s te n s i l e d e c u s i n e e t d e ré c i <sub>p</sub> i e n t <sub>p</sub> a r l a b a cté ri e 5 . L <sup>'</sup> é co n o m i e : l e l a va <sub>g</sub> e d e s m a i n s e t l e ré c i <sub>p</sub> i e n t to u s s o n t fi n i s <sub>p</sub> a r l <sup>'</sup> i n d u ct i o n <sub>q</sub> u a n d o n te n d l a m a i n l <sup>'</sup> e a u é co u l e ra <sub>q</sub> u a n d o n ré c u <sub>p</sub> è re l a m a i n l <sup>'</sup> e a u a rrê te i l s <sup>'</sup> a <sub>p p</sub> e l l e l <sup>'</sup> é co n o m i e d e l <sup>'</sup> e a u
 
 L e s <sub>p</sub> a ra m è t re s te c h n i <sub>q</sub> u e s
-![Sensor_Nozzle_EN_FR L e s ca ra cté ri s t i <sub>q</sub> u e s d e s <sub>p</sub> ro d u i ts](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.jpg)
+![Sensor_Nozzle_EN_FR L e s ca ra cté ri s t i <sub>q</sub> u e s d e s <sub>p</sub> ro d u i ts](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-02.jpg)
 
 ## F u n c i o n e s <sub>y</sub> C a ra ct e r íst i c a s d e l P ro d u ct o
 
 1 S a l i r a <sub>g</sub> u a a t ravé s d e a m b o s s e n s o re s : A <sub>p</sub> l i ca n d o l a te c n o l o <sub>g</sub> ía i n te l i <sub>g</sub> e n te d e N o s co n re s <sub>p</sub> e cto a <sub>q</sub> u e s e d i st i n <sub>g</sub> u e l a s a l i d a d e a <sub>g</sub> u a e n co sta d o <sub>y</sub> e n l a b o ca d e l l ave ex i ste n s e n s o re s <sub>p</sub> a ra fa c i l i ta r e l i n te rca m b i o l i b re e n t re a ct i va r <sub>y</sub> a <sub>p</sub> a <sub>g</sub> a r l o c u a l a l ca n z a rá l a ex <sub>p</sub> e ri e n c i a d e u s o <sub>p</sub> e rfe cta
 
 Pa rá m et ro s Té c n i c o s
-![Sensor_Nozzle_EN_FR F u n c i o n e s <sub>y</sub> C a ra ct e r íst i c a s d e l P ro d u ct o](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.jpg)
+![Sensor_Nozzle_EN_FR F u n c i o n e s <sub>y</sub> C a ra ct e r íst i c a s d e l P ro d u ct o](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-03.jpg)
 
 2 . S e n s o r i n te l i <sub>g</sub> e n te : s e a ct i va a u to m á t i ca m e n te c u a n d o co l o <sub>q</sub> u e s u s m a n o s ce rca d e l a b o ca d e l l ave <sub>y</sub> s e a <sub>p</sub> a <sub>g</sub> a c u a n d o l a s re t i re c u e n ta co n u n s e <sub>g</sub> u ro d e a <sub>p</sub> a <sub>g</sub> a d o d e m a n e ra a u to m á t i ca d e s <sub>p</sub> u é s d e 1 8 0 s e <sub>g</sub> u n d o s <sub>;</sub> <sub>y</sub> ta m b i é n a l co l o ca r s u s m a n o s u n a ve z e n co sta d o d e l l ave s e a ct i va <sub>,</sub> <sub>y</sub> ot ra ve z s e a <sub>p</sub> a <sub>g</sub> a <sub>,</sub> d e s <sub>p</sub> u é s d e 1 8 0 s e <sub>g</sub> u n d o s s e a <sub>p</sub> a <sub>g</sub> a a u to m át i ca m e n te
 
@@ -87,12 +87,12 @@ d e <sub>p</sub> re s i ó n <sub>,</sub> <sub>p</sub> a ra <sub>q</sub> u e s e
 
 ## A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-04.jpg)
 1 U<sub>nscrew</sub> th<sub>e</sub> f<sub>auce</sub>t <sub>nozz</sub>l<sub>e</sub>
 1 P re n d s l a b o u c h e d u ro b i n e t d e l <sup>'</sup> e a u
 1 . S a ca r l a b o ca d e s d e l a <sub>g</sub> ri fe r ía .
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> M<sub>a</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-05.jpg)
 
 ## L a m é t h o d e d <sup>'</sup> i n s ta l l a t i o n
 
@@ -104,7 +104,7 @@ d e <sub>p</sub> re s i ó n <sub>,</sub> <sub>p</sub> a ra <sub>q</sub> u e s e
 
 2 . S e l e cc i o n a r u n a co <sub>p</sub> l e a d a <sub>p</sub> ta b l e d e d i e n te i n te ri o r co r re s <sub>p</sub> o n d i e n te a l a <sub>g</sub> r i fe r ía .
 
-![Sensor_Nozzle_EN_FR A Des éta <sub>p</sub>es d <sup>'</sup> i nstal lation d u fi l et extérieu r](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-06.jpg)
+![Sensor_Nozzle_EN_FR A Des éta <sub>p</sub>es d <sup>'</sup> i nstal lation d u fi l et extérieu r](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-06.jpg)
 3 . S<sub>crew</sub> th<sub>e correc</sub>t <sub>connec</sub>t<sub>or</sub>.
 3 M e tte z l <sup>'</sup> é c ro u a u - d e s s u s i n s ta l l e z l e b o u t d <sup>'</sup> a d a <sub>p</sub> ta t i o n d e d e n t i n té r i e u r s u r l e ro b i n e t d e l <sup>'</sup> e a u
 3 . P o n e r l a t u e rca ta <sub>p</sub> a a ct i va h a c i a a rri b a <sub>y</sub> co n e cta r e l a co <sub>p</sub> l e a d a <sub>p</sub> ta b l e d e d i e n te i n t e r i o r c o n l a <sub>g</sub> r i fe r í a
@@ -112,33 +112,33 @@ M e d i d a s <sub>p</sub> a ra l a I n s ta l a c i ó n
 
 ## A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-07.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-07.jpg)
 4 . S<sub>crew</sub> th<sub>e sensor</sub> t<sub>ap on</sub>t<sub>o</sub> th<sub>e connec</sub>t<sub>or</sub>. Th<sub>e</sub> i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub> i<sub>s comp</sub>l<sub>e</sub>t<sub>e an</sub>d th<sub>e sensor</sub> ta<sub>p</sub> <sup>i</sup>s rea<sup>d</sup><sub>y</sub> to use.
 4 . S e rre z l <sup>'</sup> é c ro u fi xe z l a m a c h i n e <sub>p</sub> ri n c i <sub>p</sub> a l l <sup>'</sup> i n s t a l l a t i o n e s t f i n i e
 
 4 . A p r e t a r l a t u e r c a t a p a a c t i v a y f i j a r e l c u e r<sub>p</sub> o d e l l ave a s í s e h a l l eva d o a ca b o l a i n s ta l a c i ó n
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-08.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-08.jpg)
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-09.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-09.jpg)
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-10.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-10.jpg)
 
-![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-11.jpg)
+![Sensor_Nozzle_EN_FR A<sub>.</sub> Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas exteriores](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-11.jpg)
 
 ## B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>
 
-![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-12.jpg)
+![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-12.jpg)
 
 1 U<sub>nscrew</sub> th<sub>e</sub> f<sub>auce</sub>t <sub>nozz</sub>l<sub>e</sub> 1 . P re n d s l a b o u c h e d u ro b i n e t d e l <sup>'</sup> e a u 1 S a ca r l a b o ca d e s d e l a <sub>g</sub> ri fe r ía
 
-![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-13.jpg)
+![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-13.jpg)
 
-![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-14.jpg)
+![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-14.jpg)
 
 <sub>Please</sub> <sub>DO</sub> <sub>NOT</sub> <sub>use</sub> <sub>rough</sub> <sub>items</sub> <sub>to</sub> <sub>clean</sub> <sub>the</sub> <sub>sensor</sub> <sub>eye</sub>.!
 
-![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-15.jpg)
+![Sensor_Nozzle_EN_FR B F<sub>ema</sub>l<sub>e connec</sub>t<sub>or</sub> f<sub>auce</sub>t i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-15.jpg)
 
 <sup>Pl</sup>ease <sup>DO</sup> <sup>NOT</sup> use ac<sup>id/</sup>a<sup>lk</sup>a<sup>li</sup>ne <sup>d</sup>etergents <sup>f</sup>or c<sup>l</sup>ean<sup>i</sup>ng .!
 
@@ -152,13 +152,13 @@ Pl<sub>ease</sub> <sub>avo</sub>id <sub>any</sub> <sub>roc</sub>ki<sub>ng</sub> 
 
 ## BATTERY INSTALLATION
 
-![Sensor_Nozzle_EN_FR BATTERY INSTALLATION](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-16.jpg)
+![Sensor_Nozzle_EN_FR BATTERY INSTALLATION](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-16.jpg)
 
 <sup>b</sup>atter<sub>y</sub> case
 
 3<sub>pcs</sub> AAA <sub>a</sub>lk<sub>a</sub>li<sub>ne</sub> b<sub>a</sub>tt<sub>er</sub>i<sub>es</sub> (not included)
 
-![Sensor_Nozzle_EN_FR BATTERY INSTALLATION](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-17.jpg)
+![Sensor_Nozzle_EN_FR BATTERY INSTALLATION](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-17.jpg)
 
 1 . S <sub>ensor</sub> i<sub>n</sub>di<sub>ca</sub>t<sub>or</sub> li<sub>g</sub>ht <sub>w</sub>ill fl<sub>as</sub>h 5 <sub>secon</sub>d<sub>s</sub> if b<sub>a</sub>tt<sub>ery</sub> <sub>power</sub> i<sub>s</sub> l<sub>ow,</sub> <sub>a</sub>l<sub>er</sub>ti<sub>ng</sub> <sub>you</sub> t<sub>o</sub> <sub>c</sub>h<sub>ange</sub> b<sub>a</sub>tt<sub>er</sub>i<sub>es</sub> . 2 . St<sub>ep</sub> 1 <sub>:</sub> Pl<sub>ease</sub> <sub>remove</sub> th<sub>e</sub> b<sub>a</sub>tt<sub>ery</sub> <sub>case</sub> <sub>cover</sub> <sub>an</sub>d <sub>ge</sub>t <sub>ou</sub>t <sub>o</sub>f th<sub>e</sub> b<sub>a</sub>tt<sub>ery</sub> kit. 3 . St<sub>ep</sub> 2 <sub>:</sub> R<sub>ep</sub>l<sub>ace w</sub>ith th<sub>ree</sub> AAA <sub>a</sub>lk<sub>a</sub>li<sub>ne</sub> b<sub>a</sub>tt<sub>er</sub>i<sub>es an</sub>d i<sub>ns</sub>t<sub>a</sub>ll th<sub>e cover</sub> <sub>on</sub>t<sub>o</sub> th<sub>e</sub> b<sub>a</sub>tt<sub>ery case</sub>
 
@@ -172,9 +172,9 @@ Pl<sub>ease</sub> <sub>avo</sub>id <sub>any</sub> <sub>roc</sub>ki<sub>ng</sub> 
 
 ## Filt<sub>er</sub> N<sub>e</sub>t Cl<sub>ean</sub>i<sub>ng</sub>
 
-![Sensor_Nozzle_EN_FR Filt<sub>er</sub> N<sub>e</sub>t Cl<sub>ean</sub>i<sub>ng</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-18.jpg)
+![Sensor_Nozzle_EN_FR Filt<sub>er</sub> N<sub>e</sub>t Cl<sub>ean</sub>i<sub>ng</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-18.jpg)
 
-![Sensor_Nozzle_EN_FR Filt<sub>er</sub> N<sub>e</sub>t Cl<sub>ean</sub>i<sub>ng</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-19.jpg)
+![Sensor_Nozzle_EN_FR Filt<sub>er</sub> N<sub>e</sub>t Cl<sub>ean</sub>i<sub>ng</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-19.jpg)
 
 filt<sub>er</sub> <sub>ne</sub>t <sub>gas</sub>k<sub>e</sub>t
 
@@ -194,11 +194,11 @@ filt<sub>er</sub> <sub>ne</sub>t <sub>gas</sub>k<sub>e</sub>t
 
 3 M e tte z l <sup>'</sup> é c ro u a u - d e s s u s i n s ta l l e z l e b o u t d <sup>'</sup> a d a ta t i o n d e d e n t exté r i e u r s u r l e ro b i n e t d e l <sup>'</sup> e a u
 
-![Sensor_Nozzle_EN_FR 3 . S<sub>crew</sub> th<sub>e</sub> <sub>correc</sub>t <sub>connec</sub>t<sub>or</sub>.](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-20.jpg)
+![Sensor_Nozzle_EN_FR 3 . S<sub>crew</sub> th<sub>e</sub> <sub>correc</sub>t <sub>connec</sub>t<sub>or</sub>.](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-20.jpg)
 
 ## L e s re m a r<sub>q</sub> u e s i m <sub>p</sub> o rta n te s
 
-![Sensor_Nozzle_EN_FR L e s re m a r<sub>q</sub> u e s i m <sub>p</sub> o rta n te s](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-21.jpg)
+![Sensor_Nozzle_EN_FR L e s re m a r<sub>q</sub> u e s i m <sub>p</sub> o rta n te s](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-21.jpg)
 
 <sup>!</sup> P <sub>o u</sub> r l <sub>e s</sub> <sub>p o s</sub> i t i <sub>o</sub> n d <sup>'</sup> i n d <sub>u c</sub> t i <sub>o</sub> n à f<sub>e</sub> n ê t r <sub>e ,</sub> i l <sub>e s</sub> t i n t <sub>e</sub> rd i t d <sup>'</sup> <sub>u</sub> t i l i <sub>s e</sub> r d <sub>e s</sub> <sub>o</sub> b<sub>j e</sub> t <sub>s</sub> r <sub>u g u e u x</sub> <sub>,</sub> <sub>p</sub> a r exe m <sub>p</sub> l e : l e l i n ru <sub>g</sub> u e u x l e b ro s s e e t l e l i m a i l l e d e fe r <sub>p</sub> o u r év i te r d <sup>'</sup> avo i r l e d o m m a <sub>g</sub> e d u <sub>p</sub> ro d u i t o u l a d éfa i l l a n ce d <sup>'</sup> i n d u ct i o n 9
 
@@ -212,9 +212,9 @@ filt<sub>er</sub> <sub>ne</sub>t <sub>gas</sub>k<sub>e</sub>t
 
 L a b oîte d e b a tte ri e
 
-![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-22.jpg)
+![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-22.jpg)
 
-![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-23.jpg)
+![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-23.jpg)
 
 3 s e ct i o n s b a tte ri e s d u n u m é ro 7 ( ave c s o i )
 
@@ -222,11 +222,11 @@ L a b oîte d e b a tte ri e
 
 Att e n t i o n :
 
-![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-24.jpg)
+![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-24.jpg)
 
 ! U t i l i s e z AAA 3 s e ct i o n s b a tte r i e s a l ca l i n s d u n u m é ro 7 d e <sub>q</sub> u a l i té s u <sub>p</sub> e r i e u re <sub>,</sub> n <sup>'</sup> u t i l i s e z <sub>p</sub> a s d e s b a tte r i e s d e A <sub>q</sub> u a l i té m a u va i s e <sub>p</sub> o u r év i d e r i n fl u e n ce r l a l o n <sub>g</sub> év i té e t l e ca ra cté ri st i <sub>q</sub> u e d e b a tte ri e
 
-![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-25.jpg)
+![Sensor_Nozzle_EN_FR L e c h a n <sub>g</sub> e m e n t d e b a tte ri e](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-25.jpg)
 
 1 S e refe rre z à l a d i re ct i o n s i <sub>g</sub> n é e d <sup>'</sup> é l e ct ro d e <sub>p</sub> o s i t i ve d e l a b oîte d e b a tte ri e <sub>p</sub> o u r c h a r<sub>g</sub> e r l e s b a tte ri e s s i n o n i l va ca u s e r l e b rû l e m e n t d e s <sub>p</sub> i è ce s d <sup>'</sup> i n d u ct i o n e t l a b oîte d e b a tte ri e
 
@@ -234,17 +234,17 @@ Att e n t i o n :
 
 ## L ave z l a ro n d e l l e d e fi l t re
 
-![Sensor_Nozzle_EN_FR L ave z l a ro n d e l l e d e fi l t re](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-26.jpg)
+![Sensor_Nozzle_EN_FR L ave z l a ro n d e l l e d e fi l t re](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-26.jpg)
 
 l a ro n d e l l e d e fi l t re
 
 ! <sub>S i</sub> <sub>o n</sub> <sub>re m a rq u e</sub> <sub>q u e</sub> <sub>l a</sub> <sub>p ro d u ct i o n</sub> <sub>d</sub> ' <sub>e a u</sub> <sub>e n</sub> <sub>s o rt i e</sub> <sub>d e v i e n t</sub> <sub>e s t</sub> <sub>m o i n s</sub> i m <sub>p</sub> o rta n te <sub>p</sub> e u t- ê t re <sub>p</sub> a rce <sub>q</sub> u <sup>'</sup> i l <sub>y</sub> a d u e m b o u te i l l a <sub>g</sub> e d e fi l t re s o rte z l a ro n d e l l e d e fi l t re e t l a ve z - l a i l s u ffi t u <sup>'</sup> o n l e re m e t
 
-![Sensor_Nozzle_EN_FR L ave z l a ro n d e l l e d e fi l t re](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-27.jpg)
+![Sensor_Nozzle_EN_FR L ave z l a ro n d e l l e d e fi l t re](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-27.jpg)
 
 ## B . Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas i nteriores
 
-![Sensor_Nozzle_EN_FR B . Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas i nteriores](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-28.jpg)
+![Sensor_Nozzle_EN_FR B . Pasos <sub>p</sub>ara <sub>g</sub> rifería con roscas i nteriores](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-28.jpg)
 
 4 S<sub>crew</sub> th<sub>e sensor</sub> t<sub>ap on</sub>t<sub>o</sub> th<sub>e connec</sub>t<sub>or</sub> Th<sub>e</sub> i<sub>ns</sub>t<sub>a</sub>ll<sub>a</sub>ti<sub>on</sub> i<sub>s</sub> <sub>comp</sub>l<sub>e</sub>t<sub>e</sub> <sub>an</sub>d th<sub>e</sub> <sub>sensor</sub> t<sub>ap</sub> i<sub>s</sub> <sub>rea</sub>d<sub>y</sub> t<sub>o</sub> <sub>use</sub> .
 
@@ -252,13 +252,13 @@ l a ro n d e l l e d e fi l t re
 
 4 S e r re z l <sup>'</sup> é c ro u fi xe z l a m a c h i n e <sub>p</sub> r i n c i <sub>p</sub> a l l <sup>'</sup> i n s ta l l a t i o n e s t fi n i e
 
-![Sensor_Nozzle_EN_FR Ad<sub>ve</sub>rt<sub>e</sub>n<sub>c</sub>i<sub>as</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-29.jpg)
+![Sensor_Nozzle_EN_FR Ad<sub>ve</sub>rt<sub>e</sub>n<sub>c</sub>i<sub>as</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-29.jpg)
 
 4 A p re ta r l a t u e rca ta p a a ct i va y fij a r e l c u e rp o d e l l ave a s í s e h a l l eva d o a ca b o l a i n sta l a c i ó n
 
 ! N o l i m p i e l a s p a rte s d e s e n s o r co n l o s o bj e to s g ro ce ro s p o r ej e m p l o l i n o ce p i l l o a re n a s d e h i e rro e tc . <sub>p</sub> a ra ev i ta r <sub>q</sub> u e n o fu n c i o n e b i e n e l s e n s o r o s e d e te ri o re e l <sub>p</sub> re s e n te <sub>p</sub> ro d u cto
 
-![Sensor_Nozzle_EN_FR Ad<sub>ve</sub>rt<sub>e</sub>n<sub>c</sub>i<sub>as</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-30.jpg)
+![Sensor_Nozzle_EN_FR Ad<sub>ve</sub>rt<sub>e</sub>n<sub>c</sub>i<sub>as</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-30.jpg)
 
 <sub>N o</sub> <sub>ag ite</sub> <sub>el</sub> <sub>prese nte</sub> <sub>prod u cto ,</sub> <sub>o</sub> <sub>d e</sub> <sub>lo</sub> <sub>contra rio ,</sub> <sub>ge n e ra rá</sub> <sub>ave ría</sub> .!
 
@@ -268,13 +268,13 @@ l a ro n d e l l e d e fi l t re
 
 ## C<sub>a</sub> m bi<sub>o</sub> d<sub>e</sub> B<sub>a</sub>t<sub>e</sub>rí<sub>a s</sub>
 
-![Sensor_Nozzle_EN_FR C<sub>a</sub> m bi<sub>o</sub> d<sub>e</sub> B<sub>a</sub>t<sub>e</sub>rí<sub>a s</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-31.jpg)
+![Sensor_Nozzle_EN_FR C<sub>a</sub> m bi<sub>o</sub> d<sub>e</sub> B<sub>a</sub>t<sub>e</sub>rí<sub>a s</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-31.jpg)
 
 Tapa de la caja de baterías
 
 0
 
-![Sensor_Nozzle_EN_FR C<sub>a</sub> m bi<sub>o</sub> d<sub>e</sub> B<sub>a</sub>t<sub>e</sub>rí<sub>a s</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-32.jpg)
+![Sensor_Nozzle_EN_FR C<sub>a</sub> m bi<sub>o</sub> d<sub>e</sub> B<sub>a</sub>t<sub>e</sub>rí<sub>a s</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-32.jpg)
 
 Tres baterías No 7 (preparadas por su propio uso)
 
@@ -284,11 +284,11 @@ Tres baterías No 7 (preparadas por su propio uso)
 
 ! F avo r u s e t re s b a te r ía s a l ca l i n a s N o 7 t i <sub>p</sub> o <sup>“</sup>AAA<sup>”</sup> d e b u e n a ca l i d a d e s <sub>p</sub> ro h i b i d o u t i l i z a r l a s b a te r ía s d e m a l a ca l i d a d a ra ev i ta r afe cta r l a v i d a ú t i l l a s ca a c i d a d e s d e l re s e n te ro d u cto A
 
-![Sensor_Nozzle_EN_FR Advertencia :](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-33.jpg)
+![Sensor_Nozzle_EN_FR Advertencia :](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-33.jpg)
 
 ! C a rg u e l a s b a te r ía s co n refe re n c i a a l a d i re cc i ó n p o s i t i va y n e g a t i va i n d i ca d a e n l a caj a s i n o s e r ía n q u e m a d a s l a s p i e z a s d e s e n s o r y l a caj a d e b a te r ía s .
 
-![Sensor_Nozzle_EN_FR Advertencia :](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-34.jpg)
+![Sensor_Nozzle_EN_FR Advertencia :](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-34.jpg)
 
 ! N o e s tá p e rm i t i d o u s a r j u n ta m e n te l a s b a te r ía s a n t i g u a s y n u e va s <sub>,</sub> ta m p o co l a s d e d i fe re n te s m a rca s <sub>,</sub> s i n o <sub>,</sub> s e r ía n q u e m a d a s l a s p i e z a s d e s e n s o r y l a caj a d e b a te r ía s
 
@@ -296,7 +296,7 @@ Tres baterías No 7 (preparadas por su propio uso)
 
 Arandela <sub>p</sub>ara la mal la de fi ltración
 
-![Sensor_Nozzle_EN_FR Li <sub>m p</sub>i<sub>eza</sub> d<sub>e</sub> l<sub>a a ra n</sub>d<sub>e</sub>l<sub>a</sub> d<sub>e</sub> fi lt<sub>rac</sub>ió<sub>n</sub>](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-35.jpg)
+![Sensor_Nozzle_EN_FR Li <sub>m p</sub>i<sub>eza</sub> d<sub>e</sub> l<sub>a a ra n</sub>d<sub>e</sub>l<sub>a</sub> d<sub>e</sub> fi lt<sub>rac</sub>ió<sub>n</sub>](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-35.jpg)
 
 ! E <sub>n ca s o</sub> d <sub>e q u e e s</sub>té <sub>re</sub> d <sub>u c</sub> i <sub>e n</sub> d <sub>o</sub> l <sub>a ca n</sub> t i d <sub>a</sub> d d <sub>e a g u a q u e s a</sub> l <sub>e</sub> d <sub>e</sub> l <sub>a g r</sub>i f<sub>e r</sub> í<sub>a</sub> <sub>p</sub> ro b a b l e m e n te s e r ía ta <sub>p</sub> a d a l a m a l l a d e fi l t ra c i ó n F avo r a b ra l a ca b e za d e l c u e r <sub>p</sub> o d e l l a ve <sub>,</sub> l u e <sub>g</sub> o s a <sub>q</sub> u e l a a ra n d e l a d e fi l t ra c i ó n <sub>y</sub> l i m <sub>p</sub> i e co n a <sub>g</sub> u a <sub>,</sub> <sub>y</sub> <sub>p</sub> o r ú l t i m o l a <sub>p</sub> o n a b i e n d e s <sub>p</sub> u é s d e to d o e s o s e re s o l ve rá d i c h o <sub>p</sub> ro b l e m a
 
@@ -304,9 +304,9 @@ Arandela <sub>p</sub>ara la mal la de fi ltración
 
 <sub>n</sub><sup>ut</sup> vis à l'écrou Tuerca tapa activa
 
-![Sensor_Nozzle_EN_FR SPARE PARTS](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-36.jpg)
+![Sensor_Nozzle_EN_FR SPARE PARTS](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-36.jpg)
 
-![Sensor_Nozzle_EN_FR SPARE PARTS](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-37.jpg)
+![Sensor_Nozzle_EN_FR SPARE PARTS](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-37.jpg)
 
 filter net gasket
 
@@ -314,21 +314,21 @@ Acople adaptador le bout d'adaptation
 
 connector
 
-![Sensor_Nozzle_EN_FR SPARE PARTS](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-38.jpg)
+![Sensor_Nozzle_EN_FR SPARE PARTS](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-38.jpg)
 
 Arandela para la malla de filtración la rondelle de filtre
 
 ## L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts
 
-![Sensor_Nozzle_EN_FR L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-39.jpg)
+![Sensor_Nozzle_EN_FR L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-39.jpg)
 
 Cuerpo de llave con sensor inteligente le corps de la bouche d'eau intellectuelle DIY sensor tap body
 
-![Sensor_Nozzle_EN_FR L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-40.jpg)
+![Sensor_Nozzle_EN_FR L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-40.jpg)
 
 Ventana de sensor en costado la fenêtre de induction latérale side sensor
 
-![Sensor_Nozzle_EN_FR L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-41.jpg)
+![Sensor_Nozzle_EN_FR L e s n o m s d e s a cce s s o ri e s d e <sub>p</sub> ro d u i ts](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-41.jpg)
 
 ## D e n o m i n a c i ó n d e Ac c e s o r i o s d e l P ro d u cto
 
@@ -338,13 +338,13 @@ intérieur et extérieur le bout d'adaptation de dent female connector
 
 interior y exterior Acople adaptador de diente male connector.
 
-![Sensor_Nozzle_EN_FR D e n o m i n a c i ó n d e Ac c e s o r i o s d e l P ro d u cto](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-42.jpg)
+![Sensor_Nozzle_EN_FR D e n o m i n a c i ó n d e Ac c e s o r i o s d e l P ro d u cto](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-42.jpg)
 
 ntérieur et extérieur le bout d'adaptation de dent
 
 interior y exterior Acople adaptador de diente
 
-![Sensor_Nozzle_EN_FR D e n o m i n a c i ó n d e Ac c e s o r i o s d e l P ro d u cto](../../../assets/images/ins/%E8%8B%B1%E6%B3%95%E8%A5%BF%E6%96%876193%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-43.jpg)
+![Sensor_Nozzle_EN_FR D e n o m i n a c i ó n d e Ac c e s o r i o s d e l P ro d u cto](../../../assets/images/ins/英法西文6193智能感应水嘴说明书-ins-43.jpg)
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com

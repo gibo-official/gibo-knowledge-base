@@ -27,7 +27,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 ---
 ## 产品说明书自动喷香机
 ## 喷香机结构
-![自动喷香机喷香机结构](../../../assets/images/ins/%E8%87%AA%E5%8A%A8%E5%96%B7%E9%A6%99%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-ins-01.png)
+![自动喷香机喷香机结构](../../../assets/images/ins/自动喷香机说明书-中英双语-ins-01.png)
 ## 喷香机安装
 本产品建议安装的高度: 离地面约2.1米- 2.7米高.
 
@@ -39,7 +39,7 @@ tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
 
 ## the Dispenser Structure
 
-![自动喷香机 the Dispenser Structure](../../../assets/images/ins/%E8%87%AA%E5%8A%A8%E5%96%B7%E9%A6%99%E6%9C%BA%E8%AF%B4%E6%98%8E%E4%B9%A6-%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD-ins-02.png)
+![自动喷香机 the Dispenser Structure](../../../assets/images/ins/自动喷香机说明书-中英双语-ins-02.png)
 
 ## Mounting the Dispenser
 

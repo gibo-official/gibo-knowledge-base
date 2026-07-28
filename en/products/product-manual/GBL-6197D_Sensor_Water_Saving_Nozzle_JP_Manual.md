@@ -28,29 +28,29 @@ For your better life
 
 ## 感応節水の蛇口 Touchless Faucet Adapter
 
-![D_Sensor_Water_Saving_Nozzle感応節水の蛇口 Touchless Faucet Adapter](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-01.png)
+![D_Sensor_Water_Saving_Nozzle感応節水の蛇口 Touchless Faucet Adapter](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-01.png)
 ## 製品配置
-![D_Sensor_Water_Saving_Nozzle製品配置](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-02.png)
+![D_Sensor_Water_Saving_Nozzle製品配置](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-02.png)
 \*本製品はM22外歯とM24内歯の蛇口にフィットする.
 ## 機能指示
-![D_Sensor_Water_Saving_Nozzle機能指示](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-03.png)
+![D_Sensor_Water_Saving_Nozzle機能指示](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-03.png)
 長い出水: 側感応窓は手を振って水を出し, 再び手を振って停止します.
 短い出水: 下感応窓は手を伸ばして水を出し, 手を離して水が切れます.
 ## 取り付け図
-![D_Sensor_Water_Saving_Nozzle取り付け図](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-04.png)
+![D_Sensor_Water_Saving_Nozzle取り付け図](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-04.png)
 ## 製品使用
 1 長い出水: 側感応窓て手を振って水を出し, 再び手を振って停止する; 3分後自動的に水が止まります.
 
-![D_Sensor_Water_Saving_Nozzle製品使用](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-05.png)
+![D_Sensor_Water_Saving_Nozzle製品使用](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-05.png)
 
 2 短い出水: 下感応窓て手を伸ばして水を出し, 手を離して断水する; 3分後自動的に水が止まります.
 
-![D_Sensor_Water_Saving_Nozzle製品使用](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-06.png)
+![D_Sensor_Water_Saving_Nozzle製品使用](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-06.png)
 \*使用習慣によって, 設置時の側方感応窓が内側または左右両側に向くようにすることがおすすめします.
 
 ## 技術パラメータ
 
-![D_Sensor_Water_Saving_Nozzle技術パラメータ](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-07.png)
+![D_Sensor_Water_Saving_Nozzle技術パラメータ](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-07.png)
 
 ## 適用される蛇口
 
@@ -58,7 +58,7 @@ For your better life
 
 2 本制品は引抜き蛇口, 低曲げ皿蛇口, 面鉢蛇口, その他異形蛇口には装着できません.
 
-![D_Sensor_Water_Saving_Nozzle適用される蛇口](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-08.png)
+![D_Sensor_Water_Saving_Nozzle適用される蛇口](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-08.png)
 
 1 出水量が小さくなったり出ない場合は, フィルターが诘まっている可能性がありますので, 水継手に回して, フィルターガスケットを取り出し, 水洗いして, 戻してください.
 
@@ -68,9 +68,9 @@ For your better life
 
 ## 1 水継手に回して取り外す
 
-![D_Sensor_Water_Saving_Nozzle1 水継手に回して取り外す](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-09.png)
+![D_Sensor_Water_Saving_Nozzle1 水継手に回して取り外す](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-09.png)
 2 充電ヒント
-![D_Sensor_Water_Saving_Nozzle1 水継手に回して取り外す](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-10.png)
+![D_Sensor_Water_Saving_Nozzle1 水継手に回して取り外す](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-10.png)
 充電を挿入する
 充電が満タンになると
 青信号が点灯する
@@ -106,9 +106,9 @@ For your better life
 4.1 管路の水圧が小さくなっているか, 角弁が一番大きくなっているか確認してください.
 4.2 フィルタ詰まり: 使用メンテナンスなかのフィルターガスケットを洗浄すの流れ操作を参照してください.
 ## 合格証明書
-![D_Sensor_Water_Saving_Nozzle合格証明書](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-11.png)
+![D_Sensor_Water_Saving_Nozzle合格証明書](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-11.png)
 ## 保証書
-![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-12.png)
+![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-12.png)
 
 1 感応窓の部位は, 粗い麻, ブラシ, ワイヤーボールなどの粗製のものを使用しないでください, 感電障害や制品損傷の原因とならないように, 水や水滴の湿布で制品を拭かないでください.
 
@@ -120,13 +120,13 @@ For your better life
 
 5 制品をご使用の際は, 水気が入る, サビ充電口にならないように, USB充電用保護プラグを密着させてください.
 
-![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-13.png)
+![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-13.png)
 1
 
-![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D%20%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6%E4%B8%AD12-ins-14.png)
+![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/6197D 感应节水水嘴说明书中12-ins-14.png)
 2
 
-![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/GBL-6197D___D-C%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A6EN_2%E5%90%881-ins-15.jpg)
+![D_Sensor_Water_Saving_Nozzle保証書](../../../assets/images/ins/GBL-6197D___D-C感应节水水嘴说明书EN_2合1-ins-15.jpg)
 3 保障說明
 仕様実装と使用が証明された場合,品質保証期間は12か月です.
 

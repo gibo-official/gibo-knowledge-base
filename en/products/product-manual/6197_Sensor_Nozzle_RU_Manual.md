@@ -23,11 +23,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | **安装使用说明书** | **INSTALLATION INSTRUCTIONS** |
 
 ---
-![Sensor_Nozzle感应水嘴](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-01.png)
+![Sensor_Nozzle感应水嘴](../../../assets/images/ins/吸塑后盖-俄文中性6197说明书-ins-01.png)
 ## 正面
 ## Touchless Faucet Adapter Installation Manual
 
-![Sensor_Nozzle Touchless Faucet Adapter Installation Manual](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-02.png)
+![Sensor_Nozzle Touchless Faucet Adapter Installation Manual](../../../assets/images/ins/吸塑后盖-俄文中性6197说明书-ins-02.png)
 ⚠️ before installation , please fully charge the product firstly .
 \* this product is match to male m 22 and female m 24 of faucet nozzle
 
@@ -35,11 +35,11 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 ## 背面
 ## Technical Parameters
 
-![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-03.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/吸塑后盖-俄文中性6197说明书-ins-03.png)
 
 Qualification Certificate
 
-![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-04.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/吸塑后盖-俄文中性6197说明书-ins-04.png)
 Душ със сензор, модел: GBL-6197D
 Вносител: Синхро ООД
 гр.Пазарджик, ул."К.Величков" №28
@@ -48,7 +48,7 @@ Qualification Certificate
 Китчън енд Бат Тек Ко., Лтд.
 Произведено в Китай
 
-![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/%E5%90%B8%E5%A1%91%E5%90%8E%E7%9B%96-%E4%BF%84%E6%96%87%E4%B8%AD%E6%80%A76197%E8%AF%B4%E6%98%8E%E4%B9%A6-ins-05.png)
+![Sensor_Nozzle Technical Parameters](../../../assets/images/ins/吸塑后盖-俄文中性6197说明书-ins-05.png)
 ---
 ## 联系方式
 | | |

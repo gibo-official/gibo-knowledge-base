@@ -47,7 +47,7 @@ There are two sensors on the diy tap device .
 
 ## Technical Information
 
-![感应水嘴 Technical Information](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-01.png)
+![感应水嘴 Technical Information](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-01.png)
 
 1. please note that tap water is required . if water is not clean it may requireafilter to avoid damage to the devise .
 
@@ -63,67 +63,67 @@ There are two sensors on the diy tap device .
 
 ## a . Male Connector Faucet Installation
 
-![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-02.png)
+![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-02.png)
 
-![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-03.png)
+![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-03.png)
 2. select correct male connector .
 
 1. unscrew the faucet nozzle .
 
-![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-04.png)
+![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-04.png)
 3. screw the correct connector .
 
-![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-05.png)
+![感应水嘴 a . Male Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-05.png)
 4. screw the sensor tap onto the connector . the installation is complete and the sensor tap is ready to use .
 
 ## B . Female Connector Faucet Installation
 
-![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-06.png)
+![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-06.png)
 
 1. unscrew the faucet nozzle .
 
 2. select correct female connector .
 
-![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-07.png)
+![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-07.png)
 
 3. screw the correct connector .
 
-![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-08.png)
+![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-08.png)
 4. screw the sensor tap onto the connector . the installation is complete and the sensor tap is ready to use .
 
-![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-09.png)
+![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-09.png)
 
-![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-10.png)
+![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-10.png)
 
-![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-11.png)
+![感应水嘴 B . Female Connector Faucet Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-11.png)
 
 ## Maintenance
 
-![感应水嘴 Maintenance](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-12.png)
+![感应水嘴 Maintenance](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-12.png)
 
-![感应水嘴 Maintenance](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-13.png)
+![感应水嘴 Maintenance](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-13.png)
 
-![感应水嘴 Maintenance](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-14.png)
+![感应水嘴 Maintenance](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-14.png)
 
 ⚠️ please do not use rough items to clean the sensor eye .
 
 ⚠️ please avoid any rocking or violent motion .
 
-![感应水嘴 Maintenance](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-15.png)
+![感应水嘴 Maintenance](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-15.png)
 
 Please do not use acid / alkaline detergents for cleaning .
 
-![感应水嘴 Maintenance](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-16.png)
+![感应水嘴 Maintenance](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-16.png)
 
 ⚠️ please turn off the faucet handle if you do not use the product foracertain time , for example at night .
 
-![感应水嘴 Maintenance](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-17.png)
+![感应水嘴 Maintenance](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-17.png)
 
 The water pressure may havealittle effect after the cleaning of water tank in your building , but it is only temporarily .
 
 ## Battery Installation
 
-![感应水嘴 Battery Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-18.png)
+![感应水嘴 Battery Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-18.png)
 Red LED flashes
 
 1. sensor indicator light will flash 5 seconds if battery power is low , alerting you to change batteries .
@@ -131,7 +131,7 @@ Red LED flashes
 
 3. step 2: replace with three aaa alkaline batteries and install the cover onto the battery case .
 
-![感应水嘴 Battery Installation](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-19.png)
+![感应水嘴 Battery Installation](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-19.png)
 
 3pcs AAA alkaline batteries (not included)
 
@@ -143,41 +143,41 @@ make sure the batteries are installed correctly ("+" positive and "-" negative c
 
 ## Filter Net Cleaning
 
-![感应水嘴 Filter Net Cleaning](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-20.png)
+![感应水嘴 Filter Net Cleaning](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-20.png)
 
 Filter net gasket
 
-![感应水嘴 Filter Net Cleaning](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-21.png)
+![感应水嘴 Filter Net Cleaning](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-21.png)
 
 Please getoutof the filter net and clean it with clean water if water flow is low . please install back after cleaning .
 
 ## Spare Parts
 
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-22.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-22.png)
 nut
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-23.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-23.png)
 gasket
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-24.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-24.png)
 
 connector
 
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-25.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-25.png)
 
 Filter net gasket
 
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-26.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-26.png)
 
 Diy sensor tap body
 
 Side sensor
 
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-27.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-27.png)
 
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-28.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-28.png)
 
 A1 female connector
 
-![感应水嘴 Spare Parts](../../../assets/images/ins/new%E8%8B%B1%E6%96%87%E6%99%BA%E8%83%BD%E6%84%9F%E5%BA%94%E6%B0%B4%E5%98%B4%E8%AF%B4%E6%98%8E%E4%B9%A620161215PDF-ins-29.png)
+![感应水嘴 Spare Parts](../../../assets/images/ins/new英文智能感应水嘴说明书20161215PDF-ins-29.png)
 B1
 B1male connector.
 ---

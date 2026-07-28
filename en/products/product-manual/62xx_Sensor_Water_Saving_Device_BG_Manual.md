@@ -34,25 +34,25 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 
 Конфигурация на продукта
 
-![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-01.png)
+![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-01.png)
 
 Индикатори
 
-![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-02.png)
+![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-02.png)
 1. Страничен сензор за продължително течеща вода. Помахайте с ръка пред сензора за да включите или изключите водата.
 2. Сензор долу за краткотрайно течаща вода. Автоматично се включва/изключва ако има/няма движение пред сензора.
 
 1. Отстранете "женският" накрайник от чучура. Поставете гуменото уплътнение и душа със сензор, завийте добре. Отворете крана.
 2. Отстранете "мъжкият" накрайник от чучура. Поставете уплътненията и душа със сензор, завийте добре. Отворете крана.
 
-![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-03.png)
+![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-03.png)
 
 1 Раздвижете ръцете си пред страничния сензор да да го за действане и раздвижете отново за гою изключите. Ако няма повторно движение в рамките на 3 минутитой автоматично ще се изключи и водата ще спре.
 2 Автоматично включване/изключване когато сензора отдолу засече/незасече движението на ръцете Ви. Автоматично ще се изключи след 3 минутна употреба.
 
-![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-04.png)
+![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-04.png)
 
-![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-05.png)
+![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-05.png)
 1 long time water output
 2 short time water output
 
@@ -60,7 +60,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 
 2 Сензора не е подходящ за подвижен чучур, къс чучур и др.
 
-![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-06.png)
+![Sensor_Water_Saving_Device Душ Със Сензор](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-06.png)
 
 1 Ако струята на водата е малка или няма такава това означава, че има блокаж при филтъра. Моля, развийте входящия фитинг, отстранете уплътнението на филтъра и го измийте с вода, след това го поставете обратно на мястото.
 
@@ -85,13 +85,13 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 в противен случай водата може да кале или да изтича.
 5 Когато използвате продукта моля, уверете се че USB протектора е пытно прилепнал, в противен случай USB слота може да ръждяса.
 
-![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-07.png)
+![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-07.png)
 
-![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-08.png)
+![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-08.png)
 1
-![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-09.png)
+![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-09.png)
 23
-![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-10.png)
+![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-10.png)
 
 Този продуктима СЕ маркировка, което свидетелства за неговото съответствие сизискванията на 2014/30/EU (EMC), 2011/65/EU (RoHS) и 2006/66/EC.
 
@@ -135,7 +135,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 
 София-ул. Кричим №44; Тел.: 02/8681344
 
-![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A-%E6%84%9F%E5%BA%94%E8%8A%82%E6%B0%B4%E5%AE%9D%E8%AF%B4%E6%98%8E%E4%B9%A6-12%E7%89%88qu-ins-11.png)
+![Sensor_Water_Saving_Device Не Използвайте Груби Или Грапави Материи, С Които Да Забършете](../../../assets/images/ins/保加利亚-感应节水宝说明书-12版qu-ins-11.png)
 ---
 ## 联系方式
 | | |

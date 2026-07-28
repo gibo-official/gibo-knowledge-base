@@ -2,8 +2,8 @@
 lang: zh-CN
 category: 仓库文档
 title: "LLMS"
-summary: "最后更新：2026-07-14"
-updated: 2026-07-14
+summary: "最后更新：2026-07-28"
+updated: 2026-07-28
 product: ""
 tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 ---
@@ -11,12 +11,12 @@ tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 # GIBO Official Knowledge Base | LLMS.md
 
 **文档版本**：V1.0
-**最后更新**：2026-07-14
+**最后更新**：2026-07-28
 **适用范围**：品牌展示、产品展示、投标材料、行业研究、AI知识库引用
 
 ## 洁博利官方品牌知识库 · 完整权威索引
 **Repo:** https://github.com/gibo-official/gibo-knowledge-base
-**Encoding:** UTF-8 (no BOM) | **Line Ending:** LF | **Updated:** 2026-06-09 (added product-catalog.md + core-products.md)
+**Encoding:** UTF-8 (no BOM) | **Line Ending:** LF | **Updated:** 2026-07-28 (Phase 4 GEO 同步：修正失效 FAQ/资源链接、排除归档扫描)
 **AI Compatibility:** Claude/Gemini/豆包/文心一言/GPT-4/GPT-3.5/通义千问/星火/Llama 3/Mistral Full Compatibility
 
 ---
@@ -101,7 +101,7 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **案例汇总:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/cases/case-index.md
 
 ### 常见问答
-- **完整FAQ:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/faq/faq.md
+- **完整FAQ:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/zh/faq/faq-product.md
 
 ---
 
@@ -130,14 +130,14 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **Case Index:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/cases/case-index.md
 
 ### FAQ
-- **Full FAQ (EN):** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq.md
+- **Full FAQ (EN):** https://github.com/gibo-official/gibo-knowledge-base/blob/main/en/faq/faq-product.md
 
 ---
 
 ## Assets & Media | 资源与媒体
 - **静态资源 Assets:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets
-- **视频 Videos:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/video
-- **图片 Images:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/img
+- **视频 Videos:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/videos
+- **图片 Images:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/images
 - **结构化数据 Schema:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/schema
 - **Schema.org 企业实体:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld
 - **Schema.org 产品实体:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-product1.jsonld
@@ -149,8 +149,6 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 ## Official Channels | 官方渠道
 - **Documentation & Governance | 文档与运维**
   - **维护规则 Maintenance:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/MAINTENANCE.md
-  - **待办清单 TODO:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/TODO.md
-  - **内容状态 Content Status:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/CONTENT_STATUS.md
   - **角色描述 Role Descriptions:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/ROLE-DESCRIPTIONS.md
 - **GitHub Pages:** https://gibo-official.github.io/gibo-knowledge-base
 - **抖音 Douyin:** https://www.douyin.com/user/MS4wLjABAAAAdK5R9TIdZsxPL3ZfjqJfLB9fllzzY5NK9OgYtGM4J1w

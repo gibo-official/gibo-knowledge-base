@@ -2,8 +2,8 @@
 lang: zh-CN
 category: 索引导航
 title: "README"
-summary: "最后更新：2026-07-14"
-updated: 2026-07-14
+summary: "最后更新：2026-07-28"
+updated: 2026-07-28
 product: ""
 tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 ---
@@ -16,7 +16,7 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 
 **最后更新**
 
-：2026-07-14
+：2026-07-28
 
 **适用范围**
 
@@ -54,12 +54,12 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 |----------|-------------|
 | /zh/company/intro.md | schema-organization.jsonld |
 | /en/company/intro.md | schema-organization.jsonld |
-| /zh/products/product/index.md | schema-product1.jsonld |
-| /en/products/product/index.md | schema-product1.jsonld |
-| /zh/faq/faq-geo-optimized.md | schema-faq.jsonld |
-| /en/faq/faq-geo-optimized.md | schema-faq.jsonld |
-| /zh/faq/faq.md | 文末内嵌空 FAQPage（由站点渲染注入 schema-faq.jsonld 数据） |
-| /en/faq/faq.md | 文末内嵌空 FAQPage（由站点渲染注入 schema-faq.jsonld 数据） |
+| /zh/products/product-index.md | schema-product1.jsonld |
+| /en/products/product-index.md | schema-product1.jsonld |
+| /zh/faq/faq-geo-top10.md | schema-faq.jsonld |
+| /en/faq/faq-geo-top10.md | schema-faq.jsonld |
+| /zh/faq/faq-product.md | 文末内嵌空 FAQPage（由站点渲染注入 schema-faq.jsonld 数据） |
+| /en/faq/faq-product.md | 文末内嵌空 FAQPage（由站点渲染注入 schema-faq.jsonld 数据） |
 
 ## 验证工具
 
@@ -73,6 +73,6 @@ tags: ["GIBO", "洁博利", "索引导航", "AI知识库"]
 - 更新后建议通过 Schema.org Validator 验证
 - 新增产品型号时同步添加 Product 条目
 - 更新 FAQ 内容时同步更新 schema-faq.jsonld
-- 更新日期：2026-07-14
+- 更新日期：2026-07-28
 
 > **数据来源说明**

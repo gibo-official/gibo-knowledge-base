@@ -44,7 +44,7 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 3．在水压高于0.7MPa使用时，应加装减压装置，以免对机器造成破坏。
 
-![DZ产品安装使用准备工作](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-01.png)
+![DZ产品安装使用准备工作](../../../assets/images/ins/GBL-6108DZ中文-ins-01.png)
 ## 龙头安装
 第1步：从包装盒里取出水龙头，旋下固定螺帽和垫圈。第2步：如果需要，将装饰盖板安装到龙头体上。第3步：按示意图所示顺序安装垫圈、螺帽和螺丝，并将组装好的水龙头固定在面盆上。
 
@@ -58,9 +58,9 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 第11步：将标有4的皂液管连接到标有4的龙头皂液器上。
 放置支架
-![DZ产品龙头安装](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-02.png)
+![DZ产品龙头安装](../../../assets/images/ins/GBL-6108DZ中文-ins-02.png)
 
-![DZ产品龙头安装](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-03.png)
+![DZ产品龙头安装](../../../assets/images/ins/GBL-6108DZ中文-ins-03.png)
 
 第12步: 第一次使用龙头皂液器: 连接电源线1分钟内，将手放在传感器范围内，直到皂液流出。皂液应在10秒内滴出，皂液器现在启动了并可以出液。
 
@@ -84,22 +84,22 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 省电：使用4节1号碱性电池，以3000次／月的使用频率，约1年不需要更换电池。
 ## 技术参数
-![DZ产品技术参数](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-04.png)
+![DZ产品技术参数](../../../assets/images/ins/GBL-6108DZ中文-ins-04.png)
 ## 使用说明
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-05.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-05.png)
 
 1.当手伸到皂液器感应范围时，皂液器自动出皂液。
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-06.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-06.png)
 
-![GBL-6108DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-07.png)
+![GBL-6108DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-07.png)
 2.当手伸到水龙头感应范围时，水龙头自动出水。
 
 3.当手离开水龙头感应范围时，水龙头自动关水。
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-08.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-08.png)
 
-![GBL-6108DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-09.png)
+![GBL-6108DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-09.png)
 2.请不要摇晃龙头，否则易引起故障。
 
 1.请不要用水擦洗，应使用洁净的干软布清洁。
@@ -108,17 +108,17 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 重复这个过程，直到水从感应皂液器中流出。如果仍然阻塞，从水龙头顶部拆卸皂液软管(通过挤压连接软管的搭扣)，并按照下面的步骤更换皂液软管。
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-10.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-10.png)
 
 3.不能用酸碱性强的洗涤剂擦洗。
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-11.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-11.png)
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-12.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-12.png)
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-13.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-13.png)
 
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-14.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-14.png)
 
 第1步:断开电源、感应器接线和所有接线如图所示。旋下龙头上盖，断开皂液软管。拆卸堵塞的皂液软管。
 (见图1、2)
@@ -126,7 +126,7 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 (见图3、4) 5
 第3步:用卡扣把皂液软管连接起来，再把龙头上盖旋回去。
 (见图5、6)
-![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-15.png)
+![DZ产品使用说明](../../../assets/images/ins/GBL-6108DZ中文-ins-15.png)
 
 第4步:用卡扣把皂液软管重新连接到皂液瓶的瓶盖上。
 (见7)
@@ -140,9 +140,9 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 4.注意：电池的正负极性必须正确，不同新旧或不同品牌的电池不能混用。
 
-![DZ产品电池安装与更换](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-16.png)
+![DZ产品电池安装与更换](../../../assets/images/ins/GBL-6108DZ中文-ins-16.png)
 ## 常见问题处理
-![DZ产品常见问题处理](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-17.png)
+![DZ产品常见问题处理](../../../assets/images/ins/GBL-6108DZ中文-ins-17.png)
 
 \* 我司对产品的最终客户有广泛的质量保证，我司产品在被证明正常安装和使用的请提下，保修期为1年。
 
@@ -160,7 +160,7 @@ C:\Users\Lenovo\Documents\WXWork\1688853171284393\WeDrive\洁博利智能厨卫\
 
 \* 公司保留维修时使用最新配件的权利。
 ## 产品部件图
-![DZ产品产品部件图](../../../assets/images/ins/GBL-6108DZ%E4%B8%AD%E6%96%87-ins-18.png)
+![DZ产品产品部件图](../../../assets/images/ins/GBL-6108DZ中文-ins-18.png)
 ---
 ## 联系方式
 | | |

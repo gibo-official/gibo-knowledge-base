@@ -55,7 +55,7 @@ NOTE: Clean the filter before the water supply valve to be closed.
 
 注意: 清洗过滤网前须关闭供水阀.
 
-![蹲便感应器 BEFORE YOU BEGIN](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-01.png)
+![蹲便感应器 BEFORE YOU BEGIN](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-01.png)
 
 ## CHANGE OF BATTERY
 
@@ -75,7 +75,7 @@ Take out the battery box from the mounting and insert in batteries according to 
 
 \*指示灯一直闪烁, 表示电池电量不足, 请及时更换电池.
 
-![蹲便感应器 CHANGE OF BATTERY](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-02.png)
+![蹲便感应器 CHANGE OF BATTERY](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-02.png)
 ## NOTE
 \*Please do not directly wash it with water,
 
@@ -89,21 +89,21 @@ Use wet cloth to clean it.
 \*请不要撞击否则易引起故障.
 \*不能用酸碱一类强腐蚀性洗涤剂来擦洗.
 
-![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-03.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-03.png)
 
-![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-04.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-04.png)
 
-![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-05.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-05.png)
 维修零件图
 If anything abnormal happens while using, please refer to the following table and solve accordingly. If the problem remains, call the service number.
 
-![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-06.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-06.png)
 
 如果在使用过程中发现异常情况, 请参照下表来解决. 若仍有疑问, 请拨打服务电话联系解决.
 
-![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-07.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-07.png)
 
-![蹲便感应器 NOTE](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-08.png)
+![蹲便感应器 NOTE](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-08.png)
 
 ## B&C MODEL B, C型
 
@@ -135,13 +135,13 @@ If anything abnormal happens while using, please refer to the following table an
 
 INSTALLATION DRAWING FOR B&C MODEL
 
-![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-09.png)
+![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-09.png)
 
 B, C型/安装示意图
 
-![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-10.png)
+![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-10.png)
 
-![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D%E8%B9%B2%E4%BE%BF%E6%84%9F%E5%BA%94%E5%99%A8%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%80%A7%E4%B8%AD%E8%8B%B1-ins-11.png)
+![蹲便感应器B&C MODEL B, C型](../../../assets/images/ins/63068506D蹲便感应器说明中性中英-ins-11.png)
 ---
 ## 联系方式
 | | |
