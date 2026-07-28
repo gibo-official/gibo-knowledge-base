@@ -42,7 +42,5 @@ updated: 2026-07-24
 - [资产命名规范](NAMING-CONVENTION.md)
 
 ## 专项资料
-- [资产体积优化方案](assets_体积优化方案.md)
-- [视频生成集成方案](video-generation-integration-plan.md)
 - [LinkedIn 公司主页内容](linkedin-company-page-content.md)
 - 标准/白皮书：见 `zh/`、`en/` 下的 `whitepapers/`、`products/`、`solutions/`、`assets/standard/`
