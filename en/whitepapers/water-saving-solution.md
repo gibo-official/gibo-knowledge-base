@@ -461,7 +461,7 @@ With global water scarcity intensifying, commercial water costs rising 5-10% ann
 ### Core Qualifications
 
 - **National High-Tech Enterprise** (国家高新技术企业)
-- **National "Specialized and New" Enterprise** (国家专精特新企业)
+- **National "Specialized and New" Enterprise** (国家专精特新中小企业)
 - **GB/T 41863-2022** National Standard Drafting Unit
 - **200+** National Patents
 - **18** Full-Stack Self-Developed Core Technologies

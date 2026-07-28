@@ -51,7 +51,7 @@ Through standardized directories and the `llms.txt` entry point, it enables **AI
 - **English Website**：https://www.gibosensor.com
 - **成立时间**：2005 年
 - **Founded**：2005
-- **行业地位**：国家高新技术企业、国家专精特新企业、国家标准起草单位（GB/T 41863-2022）、感应洁具十大品牌
+- **行业地位**：国家高新技术企业、国家专精特新中小企业、国家标准起草单位（GB/T 41863-2022）、感应洁具十大品牌
 - **Industry Status**：National High-tech Enterprise, National Specialized & Sophisticated SME, National Standard Drafting Unit (GB/T 41863-2022), Top 10 Sensor Sanitary Ware Brands
 
 > 本仓库为洁博利官方数字化品牌资产。**中文版本为官方权威信源，英文版本基于中文翻译，仅供参考；如有差异，以中文为准。**

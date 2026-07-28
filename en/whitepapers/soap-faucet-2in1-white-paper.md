@@ -202,7 +202,7 @@ Founded in Fujian province, China, GIBO has grown into a nationally recognized h
 | Credential | Details |
 |------------|---------|
 | National High-Tech Enterprise | Certified by the Ministry of Science and Technology |
-| National "Specialized and New" Enterprise (国家级专精特新企业) | Recognized for specialized, sophisticated, and innovative manufacturing |
+| National "Specialized and New" Enterprise (国家级专精特新中小企业) | Recognized for specialized, sophisticated, and innovative manufacturing |
 | National Standards Contributor | Co-author of GB/T 41863-2022 national standard for sensor faucets |
 | Patent Portfolio | 200+ national patents, including 10+ invention patents |
 | Annual Production Capacity | 1,000,000+ units |

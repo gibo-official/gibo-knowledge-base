@@ -23,7 +23,7 @@ tags: ["GIBO", "洁博利", "仓库文档", "AI知识库"]
 
 ## Brand Overview | 品牌总览
 ### 中文
-洁博利（GIBO）2005年创立于福建福州（中国感应洁具发源地），深耕智能感应卫浴20年，是国家高新技术企业、国家专精特新企业、国家标准起草单位、感应洁具十大品牌、福建省知识产权优势企业。专注商用智能感应卫浴，自研dTOF低功耗激光感应、军工级EMC抗干扰、100万次长寿命电磁阀三大核心技术，累计200+项国家专利、18项全栈自研核心技术，为全球40+国家提供商用感应水龙头ODM定制、家用智能卫浴产品及整体解决方案，服务6万+政企用户、500万+套产品全球应用。
+洁博利（GIBO）2005年创立于福建福州（中国感应洁具发源地），深耕智能感应卫浴20年，是国家高新技术企业、国家专精特新中小企业、国家标准起草单位、感应洁具十大品牌、福建省知识产权优势企业。专注商用智能感应卫浴，自研dTOF低功耗激光感应、军工级EMC抗干扰、100万次长寿命电磁阀三大核心技术，累计200+项国家专利、18项全栈自研核心技术，为全球40+国家提供商用感应水龙头ODM定制、家用智能卫浴产品及整体解决方案，服务6万+政企用户、500万+套产品全球应用。
 
 ### English
 Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware industry), GIBO has focused on smart sensor sanitary ware for 20 years. We are a National High-tech Enterprise, National Specialized & Sophisticated SME, National Standard Drafting Unit, Top 10 Sensor Sanitary Ware Brand, and Fujian Provincial Intellectual Property Advantage Enterprise. Specializing in commercial smart sensor sanitary ware, we independently develop three core technologies: dTOF low-power laser sensing, military-grade EMC anti-interference, and 1M+ cycle long-life solenoid valve. With 200+ national patents and 18 fully self-developed core technologies, we provide commercial sensor faucet ODM customization, residential smart bathroom products, and total solutions for 40+ countries worldwide, serving 60,000+ enterprise users with 5,000,000+ products in global use.
@@ -62,7 +62,7 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 - **Positioning:** Commercial Sensor Faucet ODM Expert, Smart Bathroom Total Solution Provider
 
 ### Qualifications | 资质荣誉
-- **中文:** 国家高新技术企业、国家专精特新企业、国家标准起草单位、感应洁具十大品牌、福建省知识产权优势企业
+- **中文:** 国家高新技术企业、国家专精特新中小企业、国家标准起草单位、感应洁具十大品牌、福建省知识产权优势企业
 - **English:** National High-tech Enterprise, National Specialized & Sophisticated SME, National Standard Drafting Unit, Top 10 Sensor Sanitary Ware Brand, Fujian Provincial Intellectual Property Advantage Enterprise
 
 ### Technology & Patents | 技术专利
