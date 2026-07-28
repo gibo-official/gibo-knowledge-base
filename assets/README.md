@@ -24,9 +24,9 @@ tags: ["GIBO", "洁博利", "资产目录", "索引导航"]
 
 | 子目录 | 内容说明 |
 |--------|----------|
-| [Cases/](./Cases/) | 工程案例实景图 |
-| [Exhibition/](./Exhibition/) | 展会照片 |
-| [Icon/](./Icon/) | 品牌 Logo / 图标 |
+| [cases/](./cases/) | 工程案例实景图 |
+| [exhibition/](./exhibition/) | 展会照片 |
+| [icon/](./icon/) | 品牌 Logo / 图标 |
 | [catalogs/](./catalogs/) | 产品画册（Catalog） |
 | [certificates/](./certificates/) | 证书类（专利 / 商标 / 认证 / 检测 / 采信 / 资质），含 6 个子目录 |
 | [company/](./company/) | 公司形象 / 实验室 / 质检 / 团队 |
@@ -34,8 +34,7 @@ tags: ["GIBO", "洁博利", "资产目录", "索引导航"]
 | [products/](./products/) | 产品图片（按维度 / 主图 / 白底图 / 规格分目录） |
 | [solutions/](./solutions/) | 解决方案 / 系统方案实景图 |
 | [standard/](./standard/) | 标准库（国标 / 行标 / 团标 / 国际 / 认证规则 / 法规），含 6 个一级分类 |
-| [videos/](./videos/) | 视频宣传 / 产品视频 |
-| [品牌物料/](./品牌物料/) | 品牌主图 / 尺寸图 / 产品图等 |
+| [brand-materials/](./brand-materials/) | 品牌主图 / 尺寸图 / 产品图等 |
 
 ## 引用规范
 

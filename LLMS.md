@@ -136,7 +136,6 @@ Founded in 2005 in Fuzhou, Fujian (birthplace of China's sensor sanitary ware in
 
 ## Assets & Media | 资源与媒体
 - **静态资源 Assets:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets
-- **视频 Videos:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/videos
 - **图片 Images:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/assets/images
 - **结构化数据 Schema:** https://github.com/gibo-official/gibo-knowledge-base/tree/main/schema
 - **Schema.org 企业实体:** https://github.com/gibo-official/gibo-knowledge-base/blob/main/schema/schema-organization.jsonld
