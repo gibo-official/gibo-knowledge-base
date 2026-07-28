@@ -204,3 +204,5 @@ A: As a GB/T 41863-2022 drafting unit, GIBO's in-house laboratory can independen
 > Updated: 2026-07-05 | GIBO | GB/T 41863-2022 Drafting Unit | Website: https://www.gibo.com.cn
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [The Responsibility of a National Standard Drafting Unit: In-Depth Interpretation of GB/T 41863-2022 'Non-Contact Water Supply Devices](standard-white-paper.md) | [Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware](technical-white-paper.md) | [Official Judging Standard for High-Quality Sensor Faucets & Sanitary Ware](high-quality-sensor-sanitary-ware-judging-standard.md) | [GIBO White Papers & Technology Achievement Reports](README.md) | [Industry Standards and Compliance in China's Sensor Sanitary Ware Sector](industry-standards-white-paper.md)

@@ -691,3 +691,5 @@ Fujian GIBO Kitchen & Bath Tech Co., Ltd.
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [BC-KZH-YH01 Product Specification](BC-KZH-YH01-spec.md) | [BC-YMH-8308 Product Specification](BC-YMH-8308-spec.md) | [蓝锷L-31516 Product Specification](蓝锷L-31516-spec.md) | [Z系列智能马桶 Product Specification](Z系列智能马桶-spec.md) | [GBL-9160 Product Specification](GBL-9160-spec.md)

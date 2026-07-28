@@ -155,4 +155,6 @@ The sensor stops the water flow when the body leaves the sensing area. 当人体
 
 ---
 
+> **关联文档**：[洁博利GIBO 6712 感应淋浴器 产品说明书](6712淋浴器CN_说明书.md) | [洁博利GIBO 63xx 蹲便感应器 产品说明书](63xx蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 6303 蹲便感应器 产品说明书](6303蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 64106 蹲便感应器 产品说明书](64106蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 蹲便感应器 产品说明书](GBL-6303D蹲便感应器CN_EN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

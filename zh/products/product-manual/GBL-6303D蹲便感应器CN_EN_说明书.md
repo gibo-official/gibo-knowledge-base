@@ -211,4 +211,6 @@ If anything abnormal happens while using, please refer to the following table an
 
 \*公司保留维修时使用最新配件的权利。
 
+> **关联文档**：[洁博利GIBO 6303 蹲便感应器 产品说明书](6303蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 63xx 蹲便感应器 产品说明书](63xx蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 8307 蹲便感应器 产品说明书](8307蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 8308 蹲便感应器 产品说明书](8308蹲便感应器CN_EN_说明书.md) | [洁博利GIBO 63068 蹲便感应器 产品说明书](63068蹲便感应器CN_EN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

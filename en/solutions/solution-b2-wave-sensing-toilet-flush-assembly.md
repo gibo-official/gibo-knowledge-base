@@ -166,3 +166,5 @@ GIBO ODM flush assemblies have been mass-produced for multiple brand projects:
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [A3 - Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution](solution-a3-toilet-dtof-wave-kick-flush-control-module.md) | [A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution](solution-a5-mmwave-urinal-flush-control-assembly.md) | [B1 Pulse Solenoid Valve Assembly Solution](solution-b1-pulse-solenoid-valve-assembly.md) | [A4 - dTOF Spout Laser Sensing Faucet Control Board Solution](solution-a4-dtof-laser-faucet-control-board.md) | [A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution](solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md)

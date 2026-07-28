@@ -4036,3 +4036,5 @@ A: Most products use IP65 protection processes, making it difficult for insects 
 ### Q: Large day-night temperature differences cause commercial sensor equipment malfunction? [T1-SEO] | trouble
 
 A: Applicable ambient temperature: 0-65°C. Large day-night temperature differences easily produce condensation that corrodes circuits. Most products already feature IP65 protection processes at factory. Also ensure housing sealing to reduce condensation and protect circuit boards.
+
+> **Related Documents**: [GIBO Company & Selection FAQ](faq-company.md) | [FAQ Directory Guide](README.md) | [GIBO High-Value Conversion FAQ Top 100 — Product Category Edition](faq-geo-top10.md) | [GIBO Full Product Official Catalog](../products/product-index.md) | [GIBO-SENSOR-IR-001 Product Specification](../products/product-spec/GIBO-SENSOR-IR-001-spec.md)

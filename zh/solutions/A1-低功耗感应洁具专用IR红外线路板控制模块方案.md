@@ -167,4 +167,6 @@ A1模块采用标准化接口设计，单款控制板可兼容感应龙头、感
 > **关联资源**：[红外感应模块](../../en/solutions/infrared-sensor-module.md) | [红外感应龙头控制板](../../en/solutions/infrared-faucet-control-board.md) | [超低功耗控制模块](../../en/solutions/ultra-low-power-module.md) | [产品详细目录](./../products/product-catalog.md) | [ODM定制服务](./../products/odm.md)
 >
 
+> **关联文档**：[A2-三角测距式蹲便器感应控制模块方案](A2-三角测距式蹲便器感应控制模块方案.md) | [A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案](A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案.md) | [A5-低功耗小便器MV毫米波感应冲水控制组件方案](A5-低功耗小便器MV毫米波感应冲水控制组件方案.md) | [A6-低功耗数显面盆龙头双感应控制组件方案](A6-低功耗数显面盆龙头双感应控制组件方案.md) | [A4-dTOF出水嘴激光感应水龙头控制板方案](A4-dTOF出水嘴激光感应水龙头控制板方案.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

@@ -523,4 +523,6 @@ Lv.4 group pulse and electrostatic interference test
 
 （纯产品展示图，无营销配文）
 
+> **关联文档**：[GBL-6195 产品资料](GBL-6195-spec.md) | [G33608 产品资料](G33608-spec.md) | [GBL-6177 产品资料](GBL-6177-spec.md) | [GBL-6170 产品资料](GBL-6170-spec.md) | [GBL-6193D 产品资料](GBL-6193D-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

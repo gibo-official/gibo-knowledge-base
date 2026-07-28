@@ -341,3 +341,5 @@ A: Factory default 30cm, adjustable via APP to 5–50cm.
 ---
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis](06-low-power-multi-stable-sensing-technology.md) | [Triangular Ranging Sensing Technology — Technical Principle Analysis](01-triangular-ranging-sensing-technology.md) | [Liteon Smart Sensing Technology — Technical Principle Analysis](07-liteon-smart-sensing-technology.md) | [Solenoid Valve Low Water Hammer Design Technology — Technical Principle Analysis](15-solenoid-valve-low-water-hammer-design.md) | [Millimeter Wave Sensing Technology — Technical Principle Analysis](03-millimeter-wave-sensing-technology.md)

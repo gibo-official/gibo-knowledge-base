@@ -169,3 +169,5 @@ ODM integration for sanitary ware brands' premium product lines. The A6 Assembly
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution](solution-a5-mmwave-urinal-flush-control-assembly.md) | [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md) | [C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution](solution-c2-foam-soap-dispenser-2in1-control-assembly.md) | [A4 - dTOF Spout Laser Sensing Faucet Control Board Solution](solution-a4-dtof-laser-faucet-control-board.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md)

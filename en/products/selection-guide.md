@@ -275,3 +275,5 @@ For selection needs, refer to the following GIBO product lines:
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Full Product Official Catalog](product-index.md) | [Products](README.md) | [GIBO Marketing Asset Library (by Product Category)](营销素材库.md) | [Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit](../whitepapers/water-saving-solution.md) | [Industry Standards and Compliance in China's Sensor Sanitary Ware Sector](../whitepapers/industry-standards-white-paper.md)

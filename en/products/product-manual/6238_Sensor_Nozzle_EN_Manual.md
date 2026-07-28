@@ -219,3 +219,5 @@ Our company provides one years warranty for it's valve free during normal reside
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 62xx Sensor Nozzle Product Manual](62xx_Sensor_Nozzle_EN_Manual.md) | [GIBO 6237 Sensor Nozzle Product Manual](6237_Sensor_Nozzle_EN_Manual.md) | [GIBO 20161 Sensor Nozzle Product Manual](20161_Sensor_Nozzle_EN_Manual.md) | [GIBO 20201 Sensor Nozzle Product Manual](20201_Sensor_Nozzle_EN_Manual.md) | [GIBO 6193 Sensor Nozzle Product Manual](6193_Sensor_Nozzle_EN_Manual.md)

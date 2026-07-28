@@ -232,3 +232,5 @@ Note: make sure the batteries are installed correctly( "+" positive and "-" nega
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 9105 Sensor Faucet Product Manual](9105_Sensor_Faucet_EN_Manual.md) | [GIBO 91601 Sensor Faucet Product Manual](91601_Sensor_Faucet_EN_Manual.md) | [GIBO 6170 Sensor Faucet Product Manual](6170_Sensor_Faucet_EN_Manual.md) | [GIBO 6101 Sensor Faucet Product Manual](6101_Sensor_Faucet_EN_Manual.md) | [GIBO Sensor Faucet Product Manual](GBL-6106_Sensor_Faucet_EN_Manual.md)

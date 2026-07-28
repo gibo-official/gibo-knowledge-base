@@ -215,3 +215,5 @@ Fujian GIBO Kitchen & Bath Tech Co., Ltd., established in 2005, has been dedicat
 > Updated: 2026-06-09 | GIBO | Website: https://www.gibo.com.cn
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO ODM/OEM Custom Services](../products/odm.md) | [Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit](water-saving-solution.md) | [2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export](industry-development-white-paper.md) | [2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration](../solutions/2020-smart-sensor-faucet-key-technology-rd.md) | [Sensor Sanitary Ware Industry Selection Guide](../products/selection-guide.md)

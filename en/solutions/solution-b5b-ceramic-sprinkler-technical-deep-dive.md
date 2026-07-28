@@ -197,3 +197,5 @@ Calculated over a 10-year usage cycle, the Total Cost of Ownership (TCO) of cera
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [B5 Ceramic Integrated Sensor Sprinkler Solution](solution-b5-ceramic-integrated-sensor-sprinkler.md) | [B1 Pulse Solenoid Valve Assembly Solution](solution-b1-pulse-solenoid-valve-assembly.md) | [D2 Smart Shower Thermostatic Control Solution (Industrial)](solution-d2-smart-shower-thermostatic-control-industrial.md) | [A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution](solution-a5-mmwave-urinal-flush-control-assembly.md) | [2020 Smart Sensor Faucet Key Technology R&D and Industrialization Demonstration](2020-smart-sensor-faucet-key-technology-rd.md)

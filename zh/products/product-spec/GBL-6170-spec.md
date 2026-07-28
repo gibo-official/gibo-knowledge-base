@@ -474,4 +474,6 @@ Coming Soon......
 为合作伙伴技术赋能，让创新更具商业价值
 集智慧于卫浴科技  为人们之美好生活
 
+> **关联文档**：[GBL-6178 产品资料](GBL-6178-spec.md) | [GBL-6636AD 产品资料](GBL-6636AD-spec.md) | [GBL-6172A 产品资料](GBL-6172A-spec.md) | [GBL-6110 产品资料](GBL-6110-spec.md) | [GBL-9165D 产品资料](GBL-9165D-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

@@ -177,3 +177,5 @@ Warranty is invalid if:
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 91601 Sensor Faucet Product Manual](91601_Sensor_Faucet_EN_Manual.md) | [GIBO 6122 Sensor Faucet Product Manual](6122_Sensor_Faucet_EN_Manual.md) | [GIBO 6170 Sensor Faucet Product Manual](6170_Sensor_Faucet_EN_Manual.md) | [GIBO 1051 Sensor Faucet Product Manual](1051_Sensor_Faucet_EN_Manual.md) | [GIBO 6101 Sensor Faucet Product Manual](6101_Sensor_Faucet_EN_Manual.md)

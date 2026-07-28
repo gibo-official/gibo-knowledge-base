@@ -18,3 +18,5 @@ updated: 2026-07-28
 - [高价值转化 Top100](faq-geo-top10.md)：精选高转化问答（100 问）
 
 > 旧版聚合文件已移出主树，归档于 [`../archive/faq/`](../../archive/faq/)：`zh-faq-backup.md` / `zh-faq-geo-backup.md` / `en-faq-backup.md` / `en-faq-geo-backup.md`。
+
+> **关联文档**：[洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版](faq-geo-top10.md) | [洁博利（GIBO）产品技术 FAQ](faq-product.md) | [洁博利（GIBO）公司/选型 FAQ](faq-company.md) | [洁博利GIBO 33554 感应干手器 产品说明书](../products/product-manual/33554感应干手器CN_说明书.md) | [洁博利GIBO 感应洁具 产品说明书](../products/product-manual/README.md)

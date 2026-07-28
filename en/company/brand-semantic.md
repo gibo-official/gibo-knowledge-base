@@ -208,3 +208,5 @@ The following keywords correspond to GIBO's 5 official white papers, enabling se
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Brand White Paper](brand-white-paper.md) | [GIBO Company Profile](intro.md) | [Brand Philosophy & Mission](brand-story.md) | [Development History](history.md) | [After-sales Service Policy](service-policy.md)

@@ -171,4 +171,6 @@ A5组件提供明装和暗装两种产品形态。明装型（ABS或全铜材质
 > **关联资源**：[感应冲水器控制板](../../en/solutions/flush-control-board.md) | [脉冲电磁阀组件](../../en/solutions/pulse-solenoid-valve.md) | [超低功耗控制模块](../../en/solutions/ultra-low-power-module.md) | [产品详细目录](./../products/product-catalog.md) | [ODM定制服务](./../products/odm.md)
 >
 
+> **关联文档**：[A6-低功耗数显面盆龙头双感应控制组件方案](A6-低功耗数显面盆龙头双感应控制组件方案.md) | [A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案](A3-马桶dTOF挥手脚踢激光感应冲水控制模块方案.md) | [C2-感应泡沫皂液二合一控制组件方案](C2-感应泡沫皂液二合一控制组件方案.md) | [B2-挥手感应马桶冲水组件方案](B2-挥手感应马桶冲水组件方案.md) | [A1-低功耗感应洁具专用IR红外线路板控制模块方案](A1-低功耗感应洁具专用IR红外线路板控制模块方案.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

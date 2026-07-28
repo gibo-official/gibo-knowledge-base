@@ -197,4 +197,6 @@ related:
 > **关联资源**：[快装式结构组件](../../en/solutions/quick-install-structure.md) | [超低功耗控制模块](../../en/solutions/ultra-low-power-module.md) | [产品详细目录](./../products/product-catalog.md) | [ODM定制服务](./../products/odm.md)
 >
 
+> **关联文档**：[A4-dTOF出水嘴激光感应水龙头控制板方案](A4-dTOF出水嘴激光感应水龙头控制板方案.md) | [A1-低功耗感应洁具专用IR红外线路板控制模块方案](A1-低功耗感应洁具专用IR红外线路板控制模块方案.md) | [B2-挥手感应马桶冲水组件方案](B2-挥手感应马桶冲水组件方案.md) | [A2-三角测距式蹲便器感应控制模块方案](A2-三角测距式蹲便器感应控制模块方案.md) | [C1-厨房二合一出水出泡感应龙头方案](C1-厨房二合一出水出泡感应龙头方案.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

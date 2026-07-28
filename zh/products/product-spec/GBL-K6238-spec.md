@@ -282,4 +282,6 @@ GBL-K6238 一体化小便感应洒水器是洁博利（GIBO）于 2012 年行业
 
 _（本产品暂无独立的微盘营销素材，相关公司级资料见 00-公共营销素材.md）_
 
+> **关联文档**：[GBL-8221AD 产品资料](GBL-8221AD-spec.md) | [GBL-8300AD 产品资料](GBL-8300AD-spec.md) | [GBL-8307AD 产品资料](GBL-8307AD-spec.md) | [GBL-6239 产品资料](GBL-6239-spec.md) | [GBL-6213AD 产品资料](GBL-6213AD-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

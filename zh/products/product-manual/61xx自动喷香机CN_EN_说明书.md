@@ -152,4 +152,6 @@ Factory setting is 25 minutes pray time with 24 hours operations .
 
 ---
 
+> **关联文档**：[洁博利GIBO 66xx 感应皂液器 产品说明书](66xx感应皂液器CN_EN_说明书.md) | [洁博利GIBO 61xx 感应龙头 产品说明书](61xx感应龙头CN_说明书.md) | [洁博利GIBO 61xx 感应龙头 产品说明书](61xx厨房龙头CN_EN_说明书.md) | [洁博利GIBO 61xx 感应龙头 产品说明书](61xx感应龙头CN_EN_说明书.md) | [洁博利GIBO 61xx 感应洗手器 产品说明书](61xx感应洗手器CN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

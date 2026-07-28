@@ -141,3 +141,5 @@ A: 3 years for commercial use, 5 years for residential use.
 ---
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis](08-single-window-gesture-recognition-technology.md) | [Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis](06-low-power-multi-stable-sensing-technology.md) | [Wireless Remote Control Technology — Technical Principle Analysis](05-wireless-remote-control-technology.md) | [Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis](13-intelligent-overflow-protection-technology.md) | [IoT (Internet of Things) Access Technology — Technical Principle Analysis](18-iot-internet-of-things-access-technology.md)

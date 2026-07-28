@@ -173,3 +173,5 @@ Restrooms at scenic spots, parks, service areas, and other outdoor public sanita
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution](solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md) | [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md) | [C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution](solution-c2-foam-soap-dispenser-2in1-control-assembly.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md) | [A3 - Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution](solution-a3-toilet-dtof-wave-kick-flush-control-module.md)

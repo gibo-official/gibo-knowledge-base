@@ -269,3 +269,5 @@ _(This product currently has no independent Micro Drive marketing materials; rel
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GBL-双模感应厨房水龙头 Product Specification](GBL-双模感应厨房水龙头-spec.md) | [GBL-6110 Product Specification](GBL-6110-spec.md) | [GBL-6634-1 Product Specification](GBL-6634-1-spec.md) | [GBL-6127 Product Specification](GBL-6127-spec.md) | [GBL-6291DH-DS Product Specification](GBL-6291DH-DS-spec.md)

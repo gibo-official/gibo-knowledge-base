@@ -153,3 +153,5 @@ GIBO ceramic sprinklers can be optionally equipped with a solar self-powering mo
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Ceramic Sprinkler Technical Deep Dive](solution-b5b-ceramic-sprinkler-technical-deep-dive.md) | [A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution](solution-a5-mmwave-urinal-flush-control-assembly.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md) | [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md) | [A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware](solution-a7-acdc-smart-switching-power-adapter.md)

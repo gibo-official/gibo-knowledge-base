@@ -168,3 +168,5 @@ Provides ODM-customized control boards for sanitary ware brands. GIBO's dual-chi
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [A7 - AC/DC Smart Switching Power Adapter Solution for Sensor Sanitary Ware](solution-a7-acdc-smart-switching-power-adapter.md) | [A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution](solution-a5-mmwave-urinal-flush-control-assembly.md) | [A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution](solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md) | [A4 - dTOF Spout Laser Sensing Faucet Control Board Solution](solution-a4-dtof-laser-faucet-control-board.md)

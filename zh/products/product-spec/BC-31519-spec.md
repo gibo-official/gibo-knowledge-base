@@ -626,4 +626,6 @@ For the good life of people
 [图片]
 Fujian Gibo Kitchen&Bath Tech Co.,ltd.
 
+> **关联文档**：[BC-KZH-YH01 产品资料](BC-KZH-YH01-spec.md) | [BC-YMH-8308 产品资料](BC-YMH-8308-spec.md) | [蓝锷L-31516 产品资料](蓝锷L-31516-spec.md) | [厨房二合一新品 产品资料](厨房二合一新品-spec.md) | [GBL-6178 产品资料](GBL-6178-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

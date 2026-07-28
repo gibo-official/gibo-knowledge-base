@@ -27,3 +27,5 @@ GIBO certification and compliance documents — corporate honors, patent list, s
 - [test-institution](./test-institution.md)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Authorized Testing & Certification Institutions](test-institution.md) | [GIBO Corporate Honors & Awards Wall](honors.md) | [Standards Participation & Certification Index](standards-index.md) | [Project Cases | 工程案例](../cases/README.md) | [Company](../company/README.md)

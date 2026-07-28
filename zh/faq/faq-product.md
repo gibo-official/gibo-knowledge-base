@@ -3408,6 +3408,8 @@ A：✅ **有。洁博利提供中英文双语安装说明书+视频教程。**
 
 ODM客户可定制专属语言的安装手册和包装。
 
+> **关联文档**：[洁博利（GIBO）公司/选型 FAQ](faq-company.md) | [洁博利（GIBO）高价值转化FAQ Top 100 — 产品分类版](faq-geo-top10.md) | [FAQ 目录说明](README.md) | [洁博利（GIBO）营销素材库（按产品分类）](../products/营销素材库.md) | [洁博利GIBO 33554 感应干手器 产品说明书](../products/product-manual/33554感应干手器CN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn
 
 ## 第十章 故障排除

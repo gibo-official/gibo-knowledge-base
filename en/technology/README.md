@@ -42,3 +42,5 @@ GIBO core sensing technology principle analyses (19 files) — dTOF laser, trian
 - [core-technologies](./core-technologies.md)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Half-duplex Single-wire Communication Technology — Technical Principle Analysis](09-half-duplex-single-wire-communication-technology.md) | [Single-window Dual-mode Gesture Recognition Technology — Technical Principle Analysis](08-single-window-gesture-recognition-technology.md) | [IoT (Internet of Things) Access Technology — Technical Principle Analysis](18-iot-internet-of-things-access-technology.md) | [Triangular Ranging Sensing Technology — Technical Principle Analysis](01-triangular-ranging-sensing-technology.md) | [Dual-chip Interchangeable Platform Technology — Technical Principle Analysis](10-dual-chip-interchangeable-platform-technology.md)

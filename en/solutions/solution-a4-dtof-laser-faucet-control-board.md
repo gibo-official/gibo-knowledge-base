@@ -174,3 +174,5 @@ ODM integration solutions for sanitary ware brands. The A4 Control Board provide
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [A3 - Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution](solution-a3-toilet-dtof-wave-kick-flush-control-module.md) | [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md) | [A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution](solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md) | [C1 Kitchen 2-in-1 Water & Foam Sensor Faucet Solution](solution-c1-kitchen-2in1-foam-sensor-faucet.md)

@@ -131,3 +131,5 @@ SD-280 외관 설명
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 33604 Soap Dispenser Product Manual](33604_Sensor_Soap_Dispenser_EN_Manual.md) | [GIBO 6630 Soap Dispenser Product Manual](6630_Sensor_Soap_Dispenser_EN_Manual.md) | [GIBO 6631 Soap Dispenser Product Manual](6631_Foam_Soap_Dispenser_EN_Manual.md) | [GIBO 6632 Soap Dispenser Product Manual](6632_Foam_Soap_Dispenser_EN_Manual.md) | [GIBO 6155 Sensor Faucet Product Manual](6155_Sensor_Faucet_EN_Manual.md)

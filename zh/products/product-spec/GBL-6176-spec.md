@@ -489,4 +489,6 @@ totu368
 3 | GBL-6177D | 4DeLuxe Pro | 冷热双感应数显（家用） | 218 | 398 | 880 | 200
 4 | GBL-6178D | 4DeLuxe Max | 冷热双感应数显+皂液二合一（家用） | 318 | 598 | 1280 | 200
 
+> **关联文档**：[GBL-6177 产品资料](GBL-6177-spec.md) | [GBL-6178 产品资料](GBL-6178-spec.md) | [GBL-6172A 产品资料](GBL-6172A-spec.md) | [GBL-6150 产品资料](GBL-6150-spec.md) | [GBL-9165D 产品资料](GBL-9165D-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

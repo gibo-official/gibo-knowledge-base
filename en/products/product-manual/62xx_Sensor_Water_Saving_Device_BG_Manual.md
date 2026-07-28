@@ -167,3 +167,5 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 62xx Sensor Sanitary Ware Product Manual](62xx_Sensor_Water_Saving_Device_PT_Manual.md) | [GIBO 6238 Sensor Sanitary Ware Product Manual](6238_All_in_One_EN_Manual.md) | [GIBO 61xx Sensor Sanitary Ware Product Manual](61xx_All_in_One_EN_Manual.md) | [GIBO Sensor Sanitary Ware Product Manual](README.md) | [GIBO 62xx Sensor Nozzle Product Manual](62xx_Sensor_Nozzle_EN_Manual.md)

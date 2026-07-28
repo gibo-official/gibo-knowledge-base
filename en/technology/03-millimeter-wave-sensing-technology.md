@@ -182,3 +182,5 @@ A: Medium cost. 2–3× infrared, but 50% cost of dTOF.
 ---
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Triangular Ranging Sensing Technology — Technical Principle Analysis](01-triangular-ranging-sensing-technology.md) | [Liteon Smart Sensing Technology — Technical Principle Analysis](07-liteon-smart-sensing-technology.md) | [Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis](06-low-power-multi-stable-sensing-technology.md) | [Wireless Remote Control Technology — Technical Principle Analysis](05-wireless-remote-control-technology.md) | [Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis](14-smart-shower-thermostatic-control-technology.md)

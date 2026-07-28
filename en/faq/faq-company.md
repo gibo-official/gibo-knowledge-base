@@ -4339,3 +4339,5 @@ Follow GIBO WeChat official account or contact sales for the latest campaign inf
 A: ✅ **Yes. Multi-client combined orders qualify for combined volume pricing.**
 
 For example: 3 clients each order 100 units → combined 300 units enjoy 200-500 unit tier discount, saving approximately 10-15% per unit.
+
+> **Related Documents**: [GIBO Product & Technical FAQ](faq-product.md) | [FAQ Directory Guide](README.md) | [GIBO Company Profile](../company/intro.md) | [GIBO Brand White Paper](../company/brand-white-paper.md) | [GIBO Brand Semantic Mapping](../company/brand-semantic.md)

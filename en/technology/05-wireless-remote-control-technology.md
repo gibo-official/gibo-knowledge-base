@@ -140,3 +140,5 @@ A: 3 years for commercial use, 5 years for residential use.
 ---
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis](14-smart-shower-thermostatic-control-technology.md) | [IoT (Internet of Things) Access Technology — Technical Principle Analysis](18-iot-internet-of-things-access-technology.md) | [Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis](06-low-power-multi-stable-sensing-technology.md) | [Liteon Smart Sensing Technology — Technical Principle Analysis](07-liteon-smart-sensing-technology.md) | [Half-duplex Single-wire Communication Technology — Technical Principle Analysis](09-half-duplex-single-wire-communication-technology.md)

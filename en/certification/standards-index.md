@@ -92,3 +92,5 @@ GIBO operates independent labs with full-spectrum testing capabilities:
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Industry Standards and Compliance in China's Sensor Sanitary Ware Sector](../whitepapers/industry-standards-white-paper.md) | [Authorized Testing & Certification Institutions](test-institution.md) | [GIBO Project Case Index](../cases/case-index.md) | [GIBO ODM/OEM Custom Services](../products/odm.md) | [Certifications](README.md)

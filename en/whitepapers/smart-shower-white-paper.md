@@ -379,3 +379,5 @@ With annual production capacity exceeding 1,000,000 units and exports to 40+ cou
 > **Updated**: 2026-06-09 | GIBO | Website: https://www.gibo.com.cn
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Commercial Bathroom Water-Saving Solutions: A Complete Guide to Smart Sensor Sanitary Ware Retrofit](water-saving-solution.md) | [Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware](technical-white-paper.md) | [2-in-1 Soap Dispenser Faucets: The Smart Solution for Commercial Hygiene and Efficiency](soap-faucet-2in1-white-paper.md) | [2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export](industry-development-white-paper.md) | [GIBO White Papers & Technology Achievement Reports](README.md)

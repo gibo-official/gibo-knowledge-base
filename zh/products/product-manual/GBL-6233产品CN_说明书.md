@@ -86,4 +86,6 @@ The warranty , including products , is limited clearly . our company is not resp
 
 ---
 
+> **关联文档**：[洁博利GIBO 6237 感应洁具 产品说明书](6237产品CN_EN_说明书.md) | [洁博利GIBO 6238 感应洁具 产品说明书](6238一体式CN_EN_说明书.md) | [洁博利GIBO 感应洁具 产品说明书](GBL-6120产品CN_EN_说明书.md) | [洁博利GIBO 9162 感应洁具 产品说明书](9162产品CN_说明书.md) | [洁博利GIBO 感应洁具 产品说明书](GBL-9162产品CN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

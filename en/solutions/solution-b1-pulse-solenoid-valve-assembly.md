@@ -161,3 +161,5 @@ GIBO pulse solenoid valve assemblies support the following customization dimensi
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [B2 Wave Sensing Toilet Flush Assembly Solution](solution-b2-wave-sensing-toilet-flush-assembly.md) | [A5 - Low-power Urinal mmWave Sensor Flush Control Assembly Solution](solution-a5-mmwave-urinal-flush-control-assembly.md) | [A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution](solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md) | [C2 Sensor Foam Soap Dispenser 2-in-1 Control Assembly Solution](solution-c2-foam-soap-dispenser-2in1-control-assembly.md) | [B4 Auto Valve Control & Water-saving Irrigation System Solution](solution-b4-auto-valve-water-saving-irrigation.md)

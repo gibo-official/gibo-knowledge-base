@@ -41,4 +41,6 @@ tags: ["GIBO", "洁博利", "资料", "AI知识库"]
 - [core-technologies](./core-technologies.md)
 - [三角测距感应技术原理解析](./三角测距感应技术原理解析.md)
 
+> **关联文档**：[GIBO-智能激光感应技术 产品资料](../products/product-spec/GIBO-智能激光感应技术-spec.md) | [dTOF激光感应智能卫浴应用技术白皮书](../whitepapers/dTOF激光感应智能卫浴应用技术白皮书.md) | [洁博利（GIBO）产品技术 FAQ](../faq/faq-product.md) | [2026商用感应洁具ODM行业发展趋势白皮书：从替代进口到技术出口](../whitepapers/感应洁具行业发展白皮书.md) | [GB/T 41863-2022《非接触式给水器具 节水性能通用技术条件》与CJ/T 194-2014差异对比白皮书](../whitepapers/GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

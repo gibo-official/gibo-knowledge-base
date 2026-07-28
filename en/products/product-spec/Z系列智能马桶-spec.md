@@ -681,3 +681,5 @@ For Your Better Life
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [智能恒温淋浴花洒 Product Specification](智能恒温淋浴花洒-spec.md) | [智能花洒泡泡机 Product Specification](智能花洒泡泡机-spec.md) | [GBL-智能加热盖板 Product Specification](GBL-智能加热盖板-spec.md) | [GBL-6197D Product Specification](GBL-6197D-spec.md) | [GBL-6636AD Product Specification](GBL-6636AD-spec.md)

@@ -404,3 +404,5 @@ Body: Renting and don't want a big renovation? One shower head solves it. GIBO S
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [智能恒温淋浴花洒 Product Specification](智能恒温淋浴花洒-spec.md) | [Z系列智能马桶 Product Specification](Z系列智能马桶-spec.md) | [厨房二合一新品 Product Specification](厨房二合一新品-spec.md) | [GIBO-智能激光感应技术 Product Specification](GIBO-智能激光感应技术-spec.md) | [GBL-智能加热盖板 Product Specification](GBL-智能加热盖板-spec.md)

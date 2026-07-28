@@ -253,4 +253,6 @@ KCM-SJ02 是三角测距专用感应组件，可直接配套：
 > 本文档基于 洁博利KCM-SJ02 三角测距感应组件规格书 V1.0（2025.01.16）编制，参数以实机为准。洁博利保留技术规格的最终解释权和变更权。
 >
 
+> **关联文档**：[KCM-6150J-HS 产品资料](KCM-6150J-HS-spec.md) | [KCM-ET07-水龙头感应模块 产品资料](KCM-ET07-水龙头感应模块-spec.md) | [KCM-组合面板-WDW 产品资料](KCM-组合面板-WDW-spec.md) | [KCM-DQ01 产品资料](KCM-DQ01-spec.md) | [GBL-TOF 产品资料](GBL-TOF-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

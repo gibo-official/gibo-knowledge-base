@@ -149,3 +149,5 @@ A: 3 years for commercial use, 5 years for residential use.
 ---
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Intelligent Overflow Power-off Safety Protection Technology — Technical Principle Analysis](13-intelligent-overflow-protection-technology.md) | [Low-power Multi-stable Smart Sensing Technology — Technical Principle Analysis](06-low-power-multi-stable-sensing-technology.md) | [Half-duplex Single-wire Communication Technology — Technical Principle Analysis](09-half-duplex-single-wire-communication-technology.md) | [Dual-chip Interchangeable Platform Technology — Technical Principle Analysis](10-dual-chip-interchangeable-platform-technology.md) | [Liteon Smart Sensing Technology — Technical Principle Analysis](07-liteon-smart-sensing-technology.md)

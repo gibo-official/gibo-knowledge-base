@@ -29,3 +29,5 @@ GIBO corporate profiles — company intro, brand story, brand semantic map, bran
 - [service-policy](./service-policy.md)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Company Profile](intro.md) | [GIBO Brand White Paper](brand-white-paper.md) | [GIBO Brand Semantic Mapping](brand-semantic.md) | [Brand Philosophy & Mission](brand-story.md) | [After-sales Service Policy](service-policy.md)

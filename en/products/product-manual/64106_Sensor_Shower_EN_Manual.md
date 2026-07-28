@@ -193,3 +193,5 @@ please keep your invoice of our product properly to ensure better service from u
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 63068 Squat Toilet Sensor Product Manual](63068_Sensor_Squat_Toilet_EN_Manual.md) | [GIBO 6291 Sensor Nozzle Product Manual](6291_Sensor_Nozzle_EN_Manual.md) | [GIBO 6303 Squat Toilet Sensor Product Manual](6303_Sensor_Squat_Toilet_EN_Manual.md) | [GIBO 8300 Squat Toilet Sensor Product Manual](8300_Sensor_Squat_Toilet_EN_Manual.md) | [GIBO 8301 Squat Toilet Sensor Product Manual](8301_Sensor_Squat_Toilet_EN_Manual.md)

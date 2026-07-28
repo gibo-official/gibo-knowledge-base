@@ -268,3 +268,5 @@ GIBO began developing sensor sanitary ware in 2004 and was among the first domes
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [TOF-激光脚感应模块组件 Product Specification](TOF-激光脚感应模块组件-spec.md) | [GBL-TOF Product Specification](GBL-TOF-spec.md) | [KCM-6150J-HS Product Specification](KCM-6150J-HS-spec.md) | [GBL-9168 Product Specification](GBL-9168-spec.md) | [KCM-ET07-水龙头感应模块 Product Specification](KCM-ET07-水龙头感应模块-spec.md)

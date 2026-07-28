@@ -390,4 +390,6 @@ Car | 1. DC6V(AC110-240V供电 customized)<br>2. 材质：不锈钢面板+预埋
 
 ---
 
+> **关联文档**：[洁博利（GIBO）营销素材库（按产品分类）](营销素材库.md) | [产品中心](README.md) | [洁博利GIBO 6210 小便感应冲水器 产品说明书](product-manual/6210小便冲水器CN_说明书.md) | [洁博利GIBO 6215 小便感应冲水器 产品说明书](product-manual/6215小便冲水器CN_说明书.md) | [洁博利GIBO 6213 小便感应冲水器 产品说明书](product-manual/6213小便冲水器CN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

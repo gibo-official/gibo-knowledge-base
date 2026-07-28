@@ -50,3 +50,5 @@ EMC electromagnetic compatibility, high/low temperature environmental testing, w
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Certifications](README.md) | [GIBO Corporate Honors & Awards Wall](honors.md) | [Standards Participation & Certification Index](standards-index.md) | [GIBO Brand White Paper](../company/brand-white-paper.md) | [GIBO Company Profile](../company/intro.md)

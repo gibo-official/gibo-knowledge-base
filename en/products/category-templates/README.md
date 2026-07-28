@@ -33,3 +33,5 @@ Standardized content templates for each product category (10 types: sensor fauce
 - [感应给皂器-模版](./感应给皂器-模版.md)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Sensor Foam Hand Washer (Subcategory General Content Template)](感应泡沫洗手机-模版.md) | [Sensor Soap Dispenser — Subcategory General Content Template](感应给皂器-模版.md) | [Integrated Sensor Shower Head (Shower Sprinkler)](一体化感应花洒头（淋浴洒水头）-模版.md) | [Specification Deduplication & To-be-Generated List](规格书去重待生成清单.md) | [Sensor Shower — Subcategory General Content Template](感应淋浴器-模版.md)

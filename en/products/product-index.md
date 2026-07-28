@@ -148,3 +148,5 @@ Complete sensor sanitary ware core component customization services:
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Marketing Asset Library (by Product Category)](营销素材库.md) | [Sensor Sanitary Ware Industry Selection Guide](selection-guide.md) | [Products](README.md) | [GIBO-智能激光感应技术 Product Specification](product-spec/GIBO-智能激光感应技术-spec.md) | [GIBO High-Value Conversion FAQ Top 100 — Product Category Edition](../faq/faq-geo-top10.md)

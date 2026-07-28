@@ -76,3 +76,5 @@ Awards are guided by the China Quality Certification Center (CQC) and organized 
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Certifications](README.md) | [Authorized Testing & Certification Institutions](test-institution.md) | [GIBO Company Profile](../company/intro.md) | [GIBO Brand White Paper](../company/brand-white-paper.md) | [GIBO Brand Semantic Mapping](../company/brand-semantic.md)

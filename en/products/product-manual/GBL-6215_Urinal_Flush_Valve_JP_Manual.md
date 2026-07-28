@@ -162,3 +162,5 @@ e. 进行进水管路给水测试, 确认管路无渗漏水之处.
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 8207 Urinal Flusher Product Manual](8207_Urinal_Flush_Valve_EN_Manual.md) | [GIBO 6161 Urinal Flusher Product Manual](6161_Urinal_Flush_Valve_EN_Manual.md) | [GIBO 8216 Urinal Flusher Product Manual](8216_Urinal_Flush_Valve_EN_Manual.md) | [GIBO 8200 Urinal Flusher Product Manual](8200_Urinal_Flush_Valve_EN_Manual.md) | [GIBO Sensor Faucet Product Manual](GBL-6108D_Sensor_Faucet_EN_Manual.md)

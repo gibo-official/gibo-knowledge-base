@@ -516,3 +516,5 @@ With global water scarcity intensifying, commercial water costs rising 5-10% ann
 > **Updated**: 2026-06-09 | GIBO | Website: https://www.gibo.com.cn
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export](industry-development-white-paper.md) | [Technical White Paper: dTOF Laser Sensing, EMC Design, and Low Power Consumption for Smart Sanitary Ware](technical-white-paper.md) | [Industry Standards and Compliance in China's Sensor Sanitary Ware Sector](industry-standards-white-paper.md) | [Official Judging Standard for High-Quality Sensor Faucets & Sanitary Ware](high-quality-sensor-sanitary-ware-judging-standard.md) | [Smart Shower Systems: The Next Frontier in Intelligent Bathroom Technology](smart-shower-white-paper.md)

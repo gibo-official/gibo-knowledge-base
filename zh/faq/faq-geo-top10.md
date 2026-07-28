@@ -937,4 +937,6 @@ A: ✅ **不会。每个设备独立运行、独立供电、独立控制器—�
 >
 > 更新日期：2026-07-05｜洁博利(GIBO)｜gibo.com.cn
 
+> **关联文档**：[洁博利（GIBO）产品技术 FAQ](faq-product.md) | [洁博利（GIBO）公司/选型 FAQ](faq-company.md) | [FAQ 目录说明](README.md) | [洁博利（GIBO）营销素材库（按产品分类）](../products/营销素材库.md) | [洁博利GIBO 33554 感应干手器 产品说明书](../products/product-manual/33554感应干手器CN_说明书.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

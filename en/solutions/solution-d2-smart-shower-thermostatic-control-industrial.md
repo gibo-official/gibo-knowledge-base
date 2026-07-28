@@ -212,3 +212,5 @@ The D2 Solution involves the following GIBO core patents and technical achieveme
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [D1 Smart Sensor Shower Foam Head Solution](solution-d1-smart-sensor-shower-foam-head.md) | [D3 Smart Shower LED Display & Cold Water Pre-drainage Solution](solution-d3-smart-shower-led-display-cold-water-predrain.md) | [Smart Shower Precise Thermostatic Control Technology — Technical Principle Analysis](../technology/14-smart-shower-thermostatic-control-technology.md) | [A6 - Low-power Digital Display Basin Faucet Dual Sensor Control Assembly Solution](solution-a6-digital-basin-faucet-dual-sensor-control-assembly.md) | [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md)

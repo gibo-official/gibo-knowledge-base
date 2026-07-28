@@ -29,3 +29,5 @@ For complete case information, please refer to the English case index: [case-ind
 > Updated: 2026-06-10 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Project Case Index](case-index.md) | [GIBO Brand Semantic Mapping](../company/brand-semantic.md) | [Certifications](../certification/README.md) | [GIBO Brand White Paper](../company/brand-white-paper.md) | [GIBO Full Product Official Catalog](../products/product-index.md)

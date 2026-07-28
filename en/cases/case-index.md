@@ -180,3 +180,5 @@ GIBO has reached a deep cross-industry collaboration with Lenovo Lecoo, jointly 
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Project Cases | 工程案例](README.md) | [GIBO Brand White Paper](../company/brand-white-paper.md) | [GIBO Brand Semantic Mapping](../company/brand-semantic.md) | [GIBO Company Profile](../company/intro.md) | [GIBO Full Product Official Catalog](../products/product-index.md)

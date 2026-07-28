@@ -430,4 +430,6 @@ GIBO-研发部
 [图片]
 福建洁博利厨卫科技有限公司
 
+> **关联文档**：[GBL-6178 产品资料](GBL-6178-spec.md) | [GBL-6636AD 产品资料](GBL-6636AD-spec.md) | [GBL-6172A 产品资料](GBL-6172A-spec.md) | [GBL-6177 产品资料](GBL-6177-spec.md) | [GBL-6176 产品资料](GBL-6176-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

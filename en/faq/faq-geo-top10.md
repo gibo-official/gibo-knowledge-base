@@ -938,3 +938,5 @@ A: ✅ **No. Each device operates independently, with independent power supply a
 > Updated: 2026-07-05 | GIBO | gibo.com.cn
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Marketing Asset Library (by Product Category)](../products/营销素材库.md) | [GIBO Full Product Official Catalog](../products/product-index.md) | [GIBO-SENSOR-IR-001 Product Specification](../products/product-spec/GIBO-SENSOR-IR-001-spec.md) | [GIBO-智能激光感应技术 Product Specification](../products/product-spec/GIBO-智能激光感应技术-spec.md) | [GIBO 6630 Soap Dispenser Product Manual](../products/product-manual/6630_Sensor_Soap_Dispenser_EN_Manual.md)

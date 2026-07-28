@@ -136,3 +136,5 @@ GIBO has long provided ODM/OEM services to **over a dozen globally renowned sani
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [ODM Cooperation Complete Guide: 22 Key Milestones from Requirements Alignment to Mass Production Delivery](../whitepapers/odm-white-paper-appendix-22-milestones.md) | [GIBO Brand White Paper](../company/brand-white-paper.md) | [GIBO Brand Comparison Analysis](brand-comparison.md) | [2026 Commercial Sensor Sanitary Ware ODM Trends: From Import Substitution to Technology Export](../whitepapers/industry-development-white-paper.md) | [GIBO Company Profile](../company/intro.md)

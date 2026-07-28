@@ -266,4 +266,6 @@ tags: ["GIBO", "洁博利", "产品规格", "KCM-组合面板-WDW-spec", "AI知�
 > 本文档基于 KCM-1312-WDW,KCM-8307-WDW北京王大维组合面板规格书（V1.0，2024-05-28）编制，参数以实机为准。洁博利保留技术规格的最终解释权和变更权。
 >
 
+> **关联文档**：[KCM-ET07-水龙头感应模块 产品资料](KCM-ET07-水龙头感应模块-spec.md) | [KCM-6150J-HS 产品资料](KCM-6150J-HS-spec.md) | [KCM-DQ01 产品资料](KCM-DQ01-spec.md) | [KCM-SJ02 产品资料](KCM-SJ02-spec.md) | [GBL-6239 产品资料](GBL-6239-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

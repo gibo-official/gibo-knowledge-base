@@ -258,4 +258,6 @@ tags: ["GIBO", "洁博利", "产品规格", "BC-YMH-8308-spec", "AI知识库"]
 > 本文档基于 BC-YMH-8308 产品规格书（V1.0, 2024-01-19）编制，参数以实机为准。洁博利保留技术规格的最终解释权和变更权。
 >
 
+> **关联文档**：[BC-31519 产品资料](BC-31519-spec.md) | [BC-KZH-YH01 产品资料](BC-KZH-YH01-spec.md) | [GBL-8307AD 产品资料](GBL-8307AD-spec.md) | [GBL-6239 产品资料](GBL-6239-spec.md) | [WYJ-G003 产品资料](WYJ-G003-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

@@ -168,3 +168,5 @@ Scenario characteristics: Pursuit of intelligent experience, multi-device collab
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md) | [A3 - Toilet dTOF Wave/Kick Laser Sensing Flush Control Module Solution](solution-a3-toilet-dtof-wave-kick-flush-control-module.md) | [D2 Smart Shower Thermostatic Control Solution (Industrial)](solution-d2-smart-shower-thermostatic-control-industrial.md) | [B4 Auto Valve Control & Water-saving Irrigation System Solution](solution-b4-auto-valve-water-saving-irrigation.md)

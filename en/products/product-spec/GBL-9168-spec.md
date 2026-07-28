@@ -277,3 +277,5 @@ Related patents (granted):
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GBL-6239 Product Specification](GBL-6239-spec.md) | [GBL-6175 Product Specification](GBL-6175-spec.md) | [GBL-双模感应厨房水龙头 Product Specification](GBL-双模感应厨房水龙头-spec.md) | [GBL-6193D Product Specification](GBL-6193D-spec.md) | [GBL-6161D Product Specification](GBL-6161D-spec.md)

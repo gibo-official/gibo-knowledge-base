@@ -55,3 +55,5 @@ Products are widely used in hospitals, clean rooms, campuses, government/enterpr
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Brand White Paper](brand-white-paper.md) | [GIBO Brand Semantic Mapping](brand-semantic.md) | [Company](README.md) | [Development History](history.md) | [Brand Philosophy & Mission](brand-story.md)

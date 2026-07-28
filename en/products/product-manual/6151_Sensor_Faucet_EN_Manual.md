@@ -133,3 +133,5 @@ To i<sub>nspec</sub>t <sub>or c</sub>l<sub>ean:</sub>
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 6150 Sensor Faucet Product Manual](6150_Sensor_Faucet_EN_Manual.md) | [GIBO 6152 Sensor Faucet Product Manual](6152_Sensor_Faucet_EN_Manual.md) | [GIBO 6153 Sensor Faucet Product Manual](6153_Sensor_Faucet_EN_Manual.md) | [GIBO 6193 Sensor Nozzle Product Manual](6193_Sensor_Nozzle_EN_FR_ES_Manual.md) | [GIBO 6155 Sensor Faucet Product Manual](6155_Sensor_Faucet_EN_Manual.md)

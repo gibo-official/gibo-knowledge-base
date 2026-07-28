@@ -492,3 +492,5 @@ Seq | Model | Series | Function Description | Factory Price | E-commerce Price |
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GBL-6177 Product Specification](GBL-6177-spec.md) | [GBL-6178 Product Specification](GBL-6178-spec.md) | [GBL-6172A Product Specification](GBL-6172A-spec.md) | [GBL-6636AD Product Specification](GBL-6636AD-spec.md) | [GBL-9165D Product Specification](GBL-9165D-spec.md)

@@ -127,3 +127,5 @@ Responsible commitment creates a shared win-win future!
 > **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Brand Semantic](./brand-semantic.md) | [Development History](./history.md)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO Brand White Paper](brand-white-paper.md) | [GIBO Brand Semantic Mapping](brand-semantic.md) | [GIBO Company Profile](intro.md) | [Development History](history.md) | [After-sales Service Policy](service-policy.md)

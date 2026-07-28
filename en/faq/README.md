@@ -18,3 +18,5 @@ FAQ in this directory keeps only 3 files (no per-topic sub-files, no sub-directo
 - [Top100 Conversion](faq-geo-top10.md): curated high-conversion Q&A (100 Q)
 
 > Legacy aggregated files moved out of the main tree, archived under [`../archive/faq/`](../../archive/faq/): `zh-faq-backup.md` / `zh-faq-geo-backup.md` / `en-faq-backup.md` / `en-faq-geo-backup.md`.
+
+> **Related Documents**: [GIBO Company & Selection FAQ](faq-company.md) | [GIBO Product & Technical FAQ](faq-product.md) | [GIBO High-Value Conversion FAQ Top 100 — Product Category Edition](faq-geo-top10.md) | [Sensor Sanitary Ware Industry Selection Guide](../products/selection-guide.md) | [GIBO Product Marketing Copy Style Guide](../products/category-templates/产品营销文案风格规范.md)

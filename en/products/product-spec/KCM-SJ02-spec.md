@@ -254,3 +254,5 @@ GIBO has been making sensor sanitary ware since 2004, and was among the earliest
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [KCM-6150J-HS Product Specification](KCM-6150J-HS-spec.md) | [KCM-ET07-水龙头感应模块 Product Specification](KCM-ET07-水龙头感应模块-spec.md) | [KCM-组合面板-WDW Product Specification](KCM-组合面板-WDW-spec.md) | [KCM-DQ01 Product Specification](KCM-DQ01-spec.md) | [GBL-9168 Product Specification](GBL-9168-spec.md)

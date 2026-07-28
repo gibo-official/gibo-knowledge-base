@@ -36,3 +36,5 @@ GIBO product center — core products, catalog, index, selection guide, brand co
 - [product-spec/ (consolidated per-model specs)](./product-spec/)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [Sensor Sanitary Ware Industry Selection Guide](selection-guide.md) | [GIBO Full Product Official Catalog](product-index.md) | [GIBO Marketing Asset Library (by Product Category)](营销素材库.md) | [GIBO Common Marketing Materials (company-level, shared by all products)](product-spec/00-公共营销素材.md) | [Certifications](../certification/README.md)

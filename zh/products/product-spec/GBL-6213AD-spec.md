@@ -317,4 +317,6 @@ OK
 2、更换新酒精（皂液） ；
 3、装回酒精（皂液） ，需求：方便的拆装结构，上下拔插/旋转卡扣/ 螺纹旋钮；
 
+> **关联文档**：[GBL-8221AD 产品资料](GBL-8221AD-spec.md) | [GBL-6291DH-DS 产品资料](GBL-6291DH-DS-spec.md) | [GBL-8300AD 产品资料](GBL-8300AD-spec.md) | [GBL-6127 产品资料](GBL-6127-spec.md) | [GBL-6128 产品资料](GBL-6128-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

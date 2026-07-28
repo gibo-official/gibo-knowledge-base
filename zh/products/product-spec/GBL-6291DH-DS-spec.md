@@ -264,4 +264,6 @@ DC 6V & AC 220V 50Hz
 环境湿度 | 95％RH以下
 安装示意图 | 安装示意图
 
+> **关联文档**：[GBL-8307AD 产品资料](GBL-8307AD-spec.md) | [GBL-8221AD 产品资料](GBL-8221AD-spec.md) | [GBL-8300AD 产品资料](GBL-8300AD-spec.md) | [GBL-6213AD 产品资料](GBL-6213AD-spec.md) | [GBL-K6238 产品资料](GBL-K6238-spec.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

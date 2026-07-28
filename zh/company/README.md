@@ -28,4 +28,6 @@ tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
 - [intro](./intro.md)
 - [service-policy](./service-policy.md)
 
+> **关联文档**：[洁博利（GIBO）公司/选型 FAQ](../faq/faq-company.md) | [洁博利公共营销素材（公司级通用，供所有产品调用）](../products/product-spec/00-公共营销素材.md) | [产品中心](../products/README.md) | [工程案例目录 | Project Cases](../cases/README.md) | [洁博利GIBO 感应洁具 产品说明书](../products/product-manual/README.md)
+
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

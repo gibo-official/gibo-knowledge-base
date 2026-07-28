@@ -141,3 +141,5 @@ B . Auto urinal is ready for usage.
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GIBO 8216 Urinal Flusher Product Manual](8216_Urinal_Flush_Valve_EN_Manual.md) | [GIBO 6161 Urinal Flusher Product Manual](6161_Urinal_Flush_Valve_EN_Manual.md) | [GIBO Urinal Flusher Product Manual](GBL-6215_Urinal_Flush_Valve_JP_Manual.md) | [GIBO 8207 Urinal Flusher Product Manual](8207_Urinal_Flush_Valve_EN_Manual.md) | [GIBO 6155 Sensor Faucet Product Manual](6155_Sensor_Faucet_EN_Manual.md)

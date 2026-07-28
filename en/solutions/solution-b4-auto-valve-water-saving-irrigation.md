@@ -188,3 +188,5 @@ For outdoor scenarios without grid power access, the GIBO irrigation system supp
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [B3 2.4G Wireless Remote Control Module Solution](solution-b3-24g-wireless-remote-control-module.md) | [D2 Smart Shower Thermostatic Control Solution (Industrial)](solution-d2-smart-shower-thermostatic-control-industrial.md) | [A2 - Triangulation Ranging Squat Pan Sensor Control Module Solution](solution-a2-triangulation-squat-pan-control-module.md) | [A1 - Low-power IR Infrared Control Board Module Solution for Sensor Sanitary Ware](solution-a1-ir-infrared-control-board.md) | [B1 Pulse Solenoid Valve Assembly Solution](solution-b1-pulse-solenoid-valve-assembly.md)

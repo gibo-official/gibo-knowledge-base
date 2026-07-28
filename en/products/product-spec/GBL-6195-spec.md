@@ -395,3 +395,5 @@ B: Goodbye.
 > Updated: 2026-07-14 | GIBO | Sensor Faucet ODM Expert | Web: https://www.gibosensor.com
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
+
+> **Related Documents**: [GBL-6197D Product Specification](GBL-6197D-spec.md) | [G33608 Product Specification](G33608-spec.md) | [GBL-6170 Product Specification](GBL-6170-spec.md) | [GBL-6213AD Product Specification](GBL-6213AD-spec.md) | [GBL-6176 Product Specification](GBL-6176-spec.md)
