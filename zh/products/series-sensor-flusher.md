@@ -56,9 +56,6 @@ related:
 |---|---|---|
 | **辽宁舰航空母舰** | 感应冲水器 | 国家级军事工程，极限环境稳定 |
 | **北京首都国际机场** | 感应冲水器 | 大型国际机场，高频使用 |
-| **北京地铁** | 感应冲水器系统 | 城市轨道交通多线路覆盖 |
-| **南昌动车站** | 感应冲水器 | 高铁枢纽，人流量大 |
-| **福建海峡奥体中心** | 感应洁具全面配套 | 大型综合体育场馆 |
 | **富士康科技集团** | 蹲便感应冲水器（累计超 20000 套） | 全国 8 大核心园区 |
 
 **按场景查看完整案例**：[交通枢纽](../cases/scenario-transport-hub.md) · [场馆](../cases/scenario-venue-stadium.md) · [政府办公](../cases/scenario-government-office.md) · [写字楼园区](../cases/scenario-office-park.md) · [商业中心](../cases/scenario-commercial-center.md) · [公共环卫](../cases/scenario-public-sanitation.md)

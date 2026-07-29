@@ -64,10 +64,6 @@ related:
 | **辽宁舰航空母舰** | 感应水龙头 | 国家级军事工程，验证极限环境稳定性 |
 | **北京首都国际机场** | 感应水龙头 | 大型国际机场，高频使用 |
 | **上海世博会中国馆** | 感应水龙头（超 1000 套） | 2010 世博会指定供应商 |
-| **南昌动车站** | 感应水龙头 | 高铁枢纽，人流量大 |
-| **富士康科技集团** | 感应水龙头（累计超 20000 套） | 全国 8 大核心园区 |
-| **全国速8连锁酒店** | 感应水龙头 | 全国经济型连锁酒店集采 |
-| **全国瑞慈医院** | 感应水龙头 | 全国连锁医疗机构 |
 
 **按场景查看完整案例**：[连锁酒店](../cases/scenario-hotel-chain.md) · [医疗卫生](../cases/scenario-hospital-medical.md) · [学校](../cases/scenario-school-education.md) · [政府办公](../cases/scenario-government-office.md) · [写字楼园区](../cases/scenario-office-park.md) · [场馆](../cases/scenario-venue-stadium.md) · [交通枢纽](../cases/scenario-transport-hub.md) · [商业中心](../cases/scenario-commercial-center.md)
 

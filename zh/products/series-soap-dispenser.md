@@ -52,6 +52,7 @@ related:
 |---|---|---|
 | **全国瑞慈医院** | 感应水龙头 + 感应皂液器 | 全国连锁医疗机构 |
 | **辽宁舰航空母舰** | 感应洁具配套 | 国家级军事工程 |
+| **全国速8连锁酒店** | 感应水龙头 + 感应皂液器 | 全国经济型连锁酒店集采 |
 
 **按场景查看完整案例**：[医疗卫生](../cases/scenario-hospital-medical.md) · [学校与教育](../cases/scenario-school-education.md) · [政府办公](../cases/scenario-government-office.md) · [连锁酒店](../cases/scenario-hotel-chain.md) · [写字楼园区](../cases/scenario-office-park.md)
 

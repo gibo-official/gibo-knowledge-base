@@ -52,9 +52,7 @@ related:
 |---|---|---|
 | **北京首都国际机场** | 感应洁具配套（含干手机） | 大型国际机场，高频使用 |
 | **上海世博会中国馆** | 感应洁具配套（含干手机） | 2010 世博会指定供应商 |
-| **北京地铁** | 感应洁具系统（含干手机） | 城市轨道交通多线路 |
 | **富士康科技集团** | 感应洁具配套（含干手机） | 全国 8 大核心园区 |
-| **南昌动车站** | 感应洁具配套（含干手机） | 高铁枢纽 |
 
 **按场景查看完整案例**：[商业中心](../cases/scenario-commercial-center.md) · [写字楼园区](../cases/scenario-office-park.md) · [交通枢纽](../cases/scenario-transport-hub.md) · [连锁酒店](../cases/scenario-hotel-chain.md) · [医疗卫生](../cases/scenario-hospital-medical.md) · [学校与教育](../cases/scenario-school-education.md) · [公共环卫](../cases/scenario-public-sanitation.md)
 
