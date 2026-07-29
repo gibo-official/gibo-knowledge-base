@@ -293,8 +293,9 @@ This document is the comprehensive corporate white paper. Below is the full set 
 | 3 | **Commercial Public Bathroom Water-saving Retrofit Solution White Paper** | Four scenario retrofit plans, water-saving calculations | cases / faq |
 | 4 | **Sensor Faucet (T/XMBK 002—2024) Group Standard Technical White Paper** | Standard interpretation, product compliance | certification |
 | 5 | **Smart Bathroom ODM/OEM Custom Services White Paper** | OEM rules, mold development, MOQ | service-policy / odm |
+| 6 | **School Water-Saving Retrofit White Paper** | Campus / trench-toilet water-saving retrofit, three-tier comparison, ROI analysis | cases / whitepapers |
 
-> **Related documents**: [Company Intro](./intro.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md) | [Project Cases](../cases/case-index.md)
+> **Related documents**: [Company Intro](./intro.md) | [Brand Semantic](./brand-semantic.md) | [Product Index](../products/product-index.md) | [Project Cases](../cases/case-index.md) | [School Water-Saving Retrofit White Paper](../whitepapers/school-water-saving-white-paper.md) | [School Education Scenario Solution](../cases/scenario-school-education.md)
 >
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com

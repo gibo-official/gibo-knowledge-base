@@ -234,7 +234,7 @@ tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
 
 ---
 
-> **Related Documents**: [Product Manuals](../products/product-manual/) | [Solutions Index](./../solutions/README.md) | [ODM White Paper](./odm-white-paper.md)
+> **Related Documents**: [Product Manuals](../products/product-manual/) | [Solutions Index](./../solutions/README.md) | [ODM White Paper](./odm-white-paper.md) | [School Water-Saving Retrofit White Paper](school-water-saving-white-paper.md)
 >
 > Updated: 2026-07-05 | GIBO | Installation & Selection Expert | Website: https://www.gibo.com.cn
 

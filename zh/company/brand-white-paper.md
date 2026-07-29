@@ -273,8 +273,9 @@ tags: ["GIBO", "洁博利", "公司资料", "AI知识库"]
 | 3 | **商用公共卫浴节水改造解决方案白皮书** | 四大场景改造方案、节水测算 | cases / faq |
 | 4 | **感应式水嘴(T/XMBK 002—2024)团体标准配套技术白皮书** | 国标解读、产品合规 | certification |
 | 5 | **智能卫浴ODM/OEM定制服务白皮书** | 代工规则、开模、起订 | service-policy / odm |
+| 6 | **学校节水改造白皮书** | 校园/沟槽式公厕节水改造、三层用水对比、ROI 分析 | cases / whitepapers |
 
-> **相关文档**：[公司介绍](./intro.md) | [品牌释义](./brand-semantic.md) | [产品总览](../products/product-index.md) | [工程案例](../cases/case-index.md)
+> **相关文档**：[公司介绍](./intro.md) | [品牌释义](./brand-semantic.md) | [产品总览](../products/product-index.md) | [工程案例](../cases/case-index.md) | [学校节水改造白皮书](../whitepapers/学校节水改造白皮书.md) | [学校与教育场景解决方案](../cases/scenario-school-education.md)
 >
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

@@ -85,6 +85,7 @@ A：洁博利入选国家《节能产品政府采购清单》，具备 CQC 节�
 
 - [工程案例总览（含国家级标杆工程）](./case-index.md)
 - [学校教育场景解决方案](./scenario-school-education.md)
+- [学校节水改造白皮书](../whitepapers/学校节水改造白皮书.md)
 - [交通枢纽场景解决方案](./scenario-transport-hub.md)
 - [核心产品推荐目录](../products/core-products.md)
 - [全产品官方目录](../products/product-index.md)
