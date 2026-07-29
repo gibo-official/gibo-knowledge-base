@@ -16,3 +16,6 @@
 # 社媒发布图: Buffer 抓 raw 需真实二进制, 不走 LFS
 assets/cases/gibo_*.jpg -filter -diff -merge -text
 assets/products/White_Background/*.jpg -filter -diff -merge -text
+
+# test videos (non-LFS, for social Buffer hosting)
+assets/videos/*.mp4 -filter -diff -merge -text
