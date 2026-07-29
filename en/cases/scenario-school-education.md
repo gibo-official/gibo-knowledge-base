@@ -2,7 +2,7 @@
 lang: en
 category: scenario-school
 title: GIBO | School Education Scenario – Campus Water-saving Retrofit Solution
-summary: "Water-saving retrofit solutions for campuses—universities, K-12 schools, kindergartens, vocational colleges and research institutes: selection list for sensor faucets, sensor flush valves, quick-fit sensor spouts and trench-type sensor water savers (GBL-6710/GBL-6710A); measured water savings in teaching buildings (897 L/day per unit, 69.21% saving rate); three-tier trench toilet water comparison (tank 14.4 t / running water 17.3 t / trench-type 2.5 t · 85.5% saving); working principle; payback (education discount ~RMB 1,200/unit, recouped in 1–3 months); pilot-first rollout path; real cases (Beijing Institute of Technology, Shanghai Jiao Tong University, Xiamen University and 50+ education & research institutes); and procurement FAQ."
+summary: "Water-saving retrofit solutions for campuses—universities, K-12 schools, kindergartens, vocational colleges and research institutes: selection list for sensor faucets, sensor flush valves, quick-fit sensor spouts and trench-type sensor water savers (GBL-6710/GBL-6710A); measured water savings in teaching buildings (897 L/day per unit, 69.21% saving rate); three-tier trench toilet water comparison (tank 14.4 t / running water 17.3 t / trench-type 2.5 t · 85.5% saving); working principle; payback (education discount ~RMB 1,000/unit, recouped in 1–3 months); pilot-first rollout path; real cases (Beijing Institute of Technology, Shanghai Jiao Tong University, Xiamen University and 50+ education & research institutes); and procurement FAQ."
 version: V1.1
 updated: 2026-07-29
 scope: Selection reference for new construction and water-saving retrofit projects at universities / K-12 schools / kindergartens / vocational colleges / research institutes
@@ -107,7 +107,7 @@ Besides teaching-building basins (see 3.1), the most typical high-consumption po
 4. **Two-station hand-wash**: choose GBL-6170 single-window twin sensing to reduce quantity and counter cut-outs.
 5. **Trench toilet retrofit (K-12)**: GBL-6710 needs no embedded wall parts, ~2 hours per unit, can finish whole-campus retrofit during summer/winter vacation; fill/delay time set on-site via dial per actual tank capacity and frequency (delay typically 4~5 min); northern campuses get built-in -1℃ freeze protection.
 6. **Pilot first**: retrofit 10~20 points in the highest-traffic teaching-building restroom first, meter-read for 2~3 months to verify savings and ROI, then roll out campus-wide in batches (use weekends and holidays to avoid disrupting classes).
-7. **Investment estimate (trench-type)**: education discount ~**RMB 1,200/unit**; per the *School Trench Toilet Retrofit Proposal*, comprehensive saving rate 60%~90%, full investment typically recouped in **1~3 months** (per three-tier comparison, payback ~23~29 days by water-bill savings). Validate with the pilot path above before campus-wide rollout.
+7. **Investment estimate (trench-type)**: education discount ~**RMB 1,000/unit**; per the *School Trench Toilet Retrofit Proposal*, comprehensive saving rate 60%~90%, full investment typically recouped in **1~3 months** (per three-tier comparison, payback ~23~29 days by water-bill savings). Validate with the pilot path above before campus-wide rollout.
 
 > **Boundary note**: This selection advice is for reference only. Actual selection depends on on-site water pressure, power, plumbing and project drawings; pilot verification in a sample restroom is recommended before mass implementation.
 

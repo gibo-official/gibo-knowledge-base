@@ -2,7 +2,7 @@
 lang: en
 category: whitepaper
 title: School Water-Saving Retrofit White Paper
-summary: "An authoritative guide to campus water-saving retrofit for universities, K-12 schools, kindergartens and vocational colleges: the three-tier trench toilet water comparison (tank 14.4 t / running water 17.3 t / trench-type 2.5 t · 85.5% saving), working principle and full specs of the GBL-6710/GBL-6710A trench sensor water saver, measured 69.21% saving for teaching-building sensor faucets, ROI analysis (education discount ~RMB 1,200/unit, recouped in 1–3 months), and a pilot-first rollout path."
+summary: "An authoritative guide to campus water-saving retrofit for universities, K-12 schools, kindergartens and vocational colleges: the three-tier trench toilet water comparison (tank 14.4 t / running water 17.3 t / trench-type 2.5 t · 85.5% saving), working principle and full specs of the GBL-6710/GBL-6710A trench sensor water saver, measured 69.21% saving for teaching-building sensor faucets, ROI analysis (education discount ~RMB 1,000/unit, recouped in 1–3 months), and a pilot-first rollout path."
 updated: 2026-07-29
 version: V1.0
 publisher: Fujian GIBO Kitchen & Bath Technology Co., Ltd.
@@ -103,7 +103,7 @@ Parameters below are from the *6710 Trench Product Introduction* (product-spec b
 | Delay time | 10 – 500 s (adjustable) |
 | Housing | Aluminum alloy |
 | Working mode | Confirm 6 s; flush 6 s after leaving; flush 13 s after 60 s sensing |
-| Power | AC 180–250V (50/60Hz) / DC24V |
+| Power | AC220V (50/60Hz) / DC24V |
 | Standby power | < 0.016 W (annual < 0.14 kWh) |
 | Dynamic power | < 3 W |
 | Pipe diameter | DN15 |
@@ -113,7 +113,7 @@ Parameters below are from the *6710 Trench Product Introduction* (product-spec b
 | Standard | CJ/T 194-2014 |
 | Other | Non-contact, smart urine/feces recognition, built-in water filtration & flow adjustment |
 
-> **Parameter basis note**: This table uses the *6710 Trench Product Introduction* spec basis. The older *School Trench Toilet Retrofit Proposal* listed legacy performance figures (input AC220V / output DC12V·0.5A, detection angle 120° horizontal × 30° vertical, delay 0–999 min, fill 0–99 min, ambient 0–45℃)—historical document wording differing from the product spec in power and delay range; actual parameters follow the latest spec sheet and [product manual](../../zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md). Northern campuses can choose -1℃ freeze-protection models.
+> **Parameter basis note**: The parameters in this table are unified to the 2026 standard basis—power **AC220V (50/60Hz) / DC24V**, ambient temp. **0~55℃**, education discount **RMB 1,000/unit**. The two source proposals previously differed (the older *School Trench Toilet Retrofit Proposal*: AC220V / DC12V·0.5A, 0–45℃, RMB 1,200/unit; the *6710 Trench Product Introduction*: AC180–250V / DC24V, 0~55℃); the figures above are now adopted. Actual parameters follow the latest spec sheet and [product manual](../../zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md). Northern campuses can choose -1℃ freeze-protection models.
 
 ---
 
@@ -138,7 +138,7 @@ Sensor flow stops on hand removal + 30~60 s timeout protection eliminates the th
 
 For K-12 trench toilet retrofit (per *School Trench Toilet Retrofit Proposal*):
 
-- **Equipment cost per unit**: education discount ~**RMB 1,200/unit** (proposal price system); three-tier comparison cost ~RMB 1,000/unit;
+- **Equipment cost per unit**: education discount ~**RMB 1,000/unit** (unified proposal price system and three-tier comparison);
 - **Comprehensive saving rate**: 60% ~ 90% (trench scenario);
 - **Payback**: full investment typically recouped in **1~3 months**; per three-tier "water-bill saving", payback ~**23–29 days**;
 - **Service life**: 5+ years (micro-computer control, program never lost).
