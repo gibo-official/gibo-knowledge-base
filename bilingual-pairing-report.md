@@ -25,14 +25,14 @@ tags: ["GIBO", "洁博利", "仓库文档", "双语"]
 
 - 中文说明书型号数：**68**
 - 英文说明书型号数：**59**
-- 中文有 / 英文缺（仅中文体系未覆盖）：**35** 篇
+- 中文有 / 英文缺（仅中文体系未覆盖）：**33** 篇
 - 英文有 / 中文缺（仅英文体系未覆盖）：**26** 篇
-- 合计覆盖差异：**61** 篇（**非缺陷**，按上述决策分别维护）
+- 合计覆盖差异：**59** 篇（**非缺陷**，按上述决策分别维护）
 
 > 说明：型号按文件名数字段匹配；同名不同语言视为一对。两套体系分开维护，翻译缺口不计入治理评分。
 > 若未来需补译，应基于对应手册真实内容，不可虚构技术参数，并通过 `GLOSSARY.md` / `translation-glossary.md` 统一术语。
 
-## 一、中文有 / 英文缺（待译英 35 篇）
+## 一、中文有 / 英文缺（待译英 33 篇）
 
 - `zh/products/product-manual/1086智能盖板CN_说明书.md`
 - `zh/products/product-manual/33554感应干手器CN_说明书.md`
@@ -58,8 +58,6 @@ tags: ["GIBO", "洁博利", "仓库文档", "双语"]
 - `zh/products/product-manual/6634感应龙头CN_说明书.md`
 - `zh/products/product-manual/6635感应龙头CN_说明书.md`
 - `zh/products/product-manual/66xx感应皂液器EN_说明书.md`
-- `zh/products/product-manual/6712强制淋浴器CN_说明书.md`
-- `zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md`
 - `zh/products/product-manual/8201小便冲水器CN_说明书.md`
 - `zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md`
 - `zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md`

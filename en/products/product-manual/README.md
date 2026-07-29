@@ -32,8 +32,8 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 - **Sensor Nozzles**: 21 files, 14 models
 - **Sensor Soap Dispensers**: 5 files, 5 models
 - **Sensor Urinals**: 5 files, 5 models
-- **Sensor Toilets**: 8 files, 8 models
-- **Sensor Showers**: 1 files, 1 models
+- **Sensor Toilets**: 9 files, 9 models
+- **Sensor Showers**: 2 files, 2 models
 - **Smart Toilet Seats**: 1 files, 1 models
 
 ---
@@ -135,7 +135,7 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 
 ## Sensor Toilets
 
-**Total: 8 files**
+**Total: 9 files**
 
 | # | Model | Product Name | Language | File Link |
 |---|-------|-------------|----------|----------|
@@ -147,16 +147,18 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | 6 | 8301 | Sensor_Squat_Toilet | English | [8301_Sensor_Squat_Toilet_EN_Manual.md](8301_Sensor_Squat_Toilet_EN_Manual.md) |
 | 7 | 8306 | Sensor_Squat_Toilet | English | [8306_Sensor_Squat_Toilet_EN_Manual.md](8306_Sensor_Squat_Toilet_EN_Manual.md) |
 | 8 | GBL-6308 | Sensor_Squat_Toilet | English | [GBL-6308_Sensor_Squat_Toilet_EN_Manual.md](GBL-6308_Sensor_Squat_Toilet_EN_Manual.md) |
+| 9 | 6710 | Trench_Water_Saver | English | [6710_Trench_Sensor_Water_Saver_EN_Manual.md](6710_Trench_Sensor_Water_Saver_EN_Manual.md) |
 
 ---
 
 ## Sensor Showers
 
-**Total: 1 files**
+**Total: 2 files**
 
 | # | Model | Product Name | Language | File Link |
 |---|-------|-------------|----------|----------|
 | 1 | 64106 | Sensor_Shower | English | [64106_Sensor_Shower_EN_Manual.md](64106_Sensor_Shower_EN_Manual.md) |
+| 2 | 6712 | Sensor_Forced_Shower | English | [6712_Sensor_Forced_Shower_EN_Manual.md](6712_Sensor_Forced_Shower_EN_Manual.md) |
 
 ---
 
