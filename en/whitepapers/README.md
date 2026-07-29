@@ -3,7 +3,7 @@ lang: en
 category: whitepaper
 title: "GIBO White Papers & Technology Achievement Reports"
 summary: "See zh/whitepapers/README.md for the full Chinese index."
-updated: 2026-07-05
+updated: 2026-07-29
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: GIBO,sensor sanitary ware,sensor faucet,Whitepaper
@@ -40,8 +40,10 @@ tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
 | 11 | Industry Standards & Compliance | `industry-standards-white-paper.md` | 19KB | Standards |
 | 12 | GB/T 41863-2022 vs CJ/T 194-2014 Comparison | `standard-comparison-white-paper.md` | 20KB | Standards |
 | 13 | Sensor Faucet Group Standard (T/XMBK 002-2024) | `standard-white-paper.md` | 15KB | Standards |
+| 14 | High-Quality Sensor Sanitary Ware Judging Standard | `high-quality-sensor-sanitary-ware-judging-standard.md` | 20KB | Standards |
+| 15 | School Water-Saving Retrofit | `school-water-saving-white-paper.md` | — | Solutions |
 
-> All 13 white papers have both Chinese and English versions.
+> All 15 white papers have both Chinese and English versions.
 
 ### By Category
 
@@ -68,6 +70,8 @@ tags: ["GIBO", "whitepaper", "AI-knowledge-base"]
 - [Industry Standards & Compliance](./industry-standards-white-paper.md)
 - [GB/T 41863 vs CJ/T 194 Comparison](./standard-comparison-white-paper.md)
 - [Sensor Faucet Group Standard](./standard-white-paper.md)
+- [High-Quality Sensor Sanitary Ware Judging Standard](./high-quality-sensor-sanitary-ware-judging-standard.md)
+- [School Water-Saving Retrofit](./school-water-saving-white-paper.md)
 
 ### Quick Access (Chinese)
 

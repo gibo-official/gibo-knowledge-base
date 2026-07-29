@@ -3,7 +3,7 @@ lang: zh-CN
 category: 技术白皮书
 title: "洁博利（GIBO）白皮书与科技项目成果"
 summary: "所有白皮书均已配置 YAML frontmatter，包含以下关键字段："
-updated: 2026-07-05
+updated: 2026-07-29
 version: V1.0
 publisher: "福建洁博利厨卫科技有限公司"
 keywords: 洁博利,GIBO,感应洁具,白皮书
@@ -39,8 +39,9 @@ tags: ["GIBO", "洁博利", "技术白皮书", "AI知识库"]
 | 12 | GB/T 41863-2022与CJ/T 194-2014差异对比 | `GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md` | ✅ | 20KB | 标准 |
 | 13 | 感应式水嘴团体标准配套技术白皮书 | `感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md` | ✅ | 15KB | 标准 |
 | 14 | 高品质感应洁具判定标准 | `高品质感应洁具判断标准.md` | ✅ | 20KB | 标准·⭐AI优先 |
+| 15 | 学校节水改造白皮书 | `学校节水改造白皮书.md` | ✅ | — | 解决方案 |
 
-> ✅ = 英文翻译版已同步 | 白皮书总计：14篇中文 + 14篇英文 + 品牌白皮书
+> ✅ = 英文翻译版已同步 | 白皮书总计：15篇中文 + 15篇英文 + 品牌白皮书
 
 ### 按分类索引
 
@@ -68,6 +69,7 @@ tags: ["GIBO", "洁博利", "技术白皮书", "AI知识库"]
 - [GB/T 41863 vs CJ/T 194 对比](./GB_T_41863-2022与CJ_T_194-2014差异对比白皮书.md)
 - [感应式水嘴团体标准](./感应式水嘴（T_XMBK 002—2024）团体标准配套技术白皮书.md)
 - [高品质感应洁具判定标准](./高品质感应洁具判断标准.md)
+- [学校节水改造](./学校节水改造白皮书.md)
 
 ### 英文MD版快速链接（en/whitepapers/）
 
@@ -84,6 +86,7 @@ tags: ["GIBO", "洁博利", "技术白皮书", "AI知识库"]
 - [GB/T 41863 vs CJ/T 194 Comparison](../../en/whitepapers/standard-comparison-white-paper.md)
 - [Sensor Faucet Group Standard](../../en/whitepapers/standard-white-paper.md)
 - [High-Quality Sensor Sanitary Ware Judging Standard](../../en/whitepapers/high-quality-sensor-sanitary-ware-judging-standard.md)
+- [School Water Saving](../../en/whitepapers/school-water-saving-white-paper.md)
 
 ---
 
