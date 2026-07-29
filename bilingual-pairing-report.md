@@ -58,8 +58,8 @@ tags: ["GIBO", "洁博利", "仓库文档", "双语"]
 - `zh/products/product-manual/6634感应龙头CN_说明书.md`
 - `zh/products/product-manual/6635感应龙头CN_说明书.md`
 - `zh/products/product-manual/66xx感应皂液器EN_说明书.md`
-- `zh/products/product-manual/6712淋浴器CN_说明书.md`
-- `zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md`
+- `zh/products/product-manual/6712强制淋浴器CN_说明书.md`
+- `zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md`
 - `zh/products/product-manual/8201小便冲水器CN_说明书.md`
 - `zh/products/product-manual/8303蹲便感应器CN_EN_说明书.md`
 - `zh/products/product-manual/8307蹲便感应器CN_EN_说明书.md`
@@ -68,7 +68,7 @@ tags: ["GIBO", "洁博利", "仓库文档", "双语"]
 - `zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md`
 - `zh/products/product-manual/GBL-9162产品CN_说明书.md`
 - `zh/products/product-manual/G1智能盖板CN_说明书.md`
-- `zh/products/product-manual/红外感应线路板技术原理解析.md`
+- `zh/technology/红外感应线路板技术原理解析.md`
 
 ## 二、英文有 / 中文缺（待译中 26 篇）
 

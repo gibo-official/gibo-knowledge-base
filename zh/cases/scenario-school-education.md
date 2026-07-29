@@ -114,7 +114,7 @@ A：GBL-6195 小洗宝（下感应，符合儿童洗手姿势）或 GBL-6127 抗
 - [全产品官方目录](../products/product-index.md)
 - [商用感应洁具选型避坑指南](../products/selection-guide.md)
 - [商用公共卫浴节水改造解决方案白皮书（含校园实测数据与ROI模型）](../whitepapers/商用公共卫浴节水改造解决方案白皮书.md)
-- [GBL-6710 沟槽式节水控制器产品说明书](../products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- [GBL-6710 沟槽式节水控制器产品说明书](../products/product-manual/6710沟槽式节水控制器CN_说明书.md)
 - [品牌白皮书](../company/brand-white-paper.md)
 
 ---

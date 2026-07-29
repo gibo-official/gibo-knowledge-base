@@ -137,7 +137,7 @@ A: GBL-6195 Mini (downward sensing, fits children's posture) or GBL-6127 antibac
 - [Commercial Sensor Ware Selection Guide](../products/selection-guide.md)
 - [Commercial Water-saving Retrofit Solution White Paper (campus measured data & ROI model)](../whitepapers/water-saving-solution.md)
 - [School Water-saving Retrofit White Paper (trench three-tier comparison + ROI analysis)](../whitepapers/school-water-saving-white-paper.md)
-- [GBL-6710 Trench Water Saver Manual](../../zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- [GBL-6710 Trench Water Saver Manual](../../zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md)
 - [Brand White Paper](../company/brand-white-paper.md)
 
 ---

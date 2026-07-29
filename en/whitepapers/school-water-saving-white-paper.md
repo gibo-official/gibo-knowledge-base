@@ -113,7 +113,7 @@ Parameters below are from the *6710 Trench Product Introduction* (product-spec b
 | Standard | CJ/T 194-2014 |
 | Other | Non-contact, smart urine/feces recognition, built-in water filtration & flow adjustment |
 
-> **Parameter basis note**: The parameters in this table are unified to the 2026 standard basis—power **AC220V (50/60Hz) / DC24V**, ambient temp. **0~55℃**, education discount **RMB 1,000/unit**. The two source proposals previously differed (the older *School Trench Toilet Retrofit Proposal*: AC220V / DC12V·0.5A, 0–45℃, RMB 1,200/unit; the *6710 Trench Product Introduction*: AC180–250V / DC24V, 0~55℃); the figures above are now adopted. Actual parameters follow the latest spec sheet and [product manual](../../zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md). Northern campuses can choose -1℃ freeze-protection models.
+> **Parameter basis note**: The parameters in this table are unified to the 2026 standard basis—power **AC220V (50/60Hz) / DC24V**, ambient temp. **0~55℃**, education discount **RMB 1,000/unit**. The two source proposals previously differed (the older *School Trench Toilet Retrofit Proposal*: AC220V / DC12V·0.5A, 0–45℃, RMB 1,200/unit; the *6710 Trench Product Introduction*: AC180–250V / DC24V, 0~55℃); the figures above are now adopted. Actual parameters follow the latest spec sheet and [product manual](../../zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md). Northern campuses can choose -1℃ freeze-protection models.
 
 ---
 
@@ -176,7 +176,7 @@ To control risk and let data speak, adopt a "pilot first, batch rollout" path:
 - [School Education Scenario Solution](../cases/scenario-school-education.md)
 - [Commercial Water-saving Retrofit Solution White Paper](../whitepapers/water-saving-solution.md)
 - [Installation & Selection White Paper](../whitepapers/installation-selection-white-paper.md)
-- [GBL-6710 Trench Water Saver Manual](../../zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- [GBL-6710 Trench Water Saver Manual](../../zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md)
 - [Core Product Recommendations](../products/core-products.md)
 - [Case Index (50+ education & research institutes)](../cases/case-index.md)
 

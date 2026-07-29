@@ -204,8 +204,8 @@ updated: 2026-07-28
 - 洁博利GIBO 66xx 感应水箱 产品说明书 — [zh/products/product-manual/66xx感应水箱CN_说明书.md](zh/products/product-manual/66xx感应水箱CN_说明书.md)
 - 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md](zh/products/product-manual/66xx感应皂液器CN_EN_说明书.md)
 - 洁博利GIBO 66xx 感应皂液器 产品说明书 — [zh/products/product-manual/66xx感应皂液器EN_说明书.md](zh/products/product-manual/66xx感应皂液器EN_说明书.md)
-- 洁博利GIBO 6712 感应淋浴器 产品说明书 — [zh/products/product-manual/6712淋浴器CN_说明书.md](zh/products/product-manual/6712淋浴器CN_说明书.md)
-- 洁博利GIBO 67xx 感应节水器 产品说明书 — [zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md](zh/products/product-manual/67xx沟槽式节水控制器CN_说明书.md)
+- 洁博利GIBO 6712 强制淋浴器 产品说明书 — [zh/products/product-manual/6712强制淋浴器CN_说明书.md](zh/products/product-manual/6712强制淋浴器CN_说明书.md)
+- 洁博利GIBO 6710 感应节水器 产品说明书 — [zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md](zh/products/product-manual/6710沟槽式节水控制器CN_说明书.md)
 - 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器CN_EN_说明书.md](zh/products/product-manual/8200小便冲水器CN_EN_说明书.md)
 - 洁博利GIBO 8200 小便感应冲水器 产品说明书 — [zh/products/product-manual/8200小便冲水器EN_说明书.md](zh/products/product-manual/8200小便冲水器EN_说明书.md)
 - 洁博利GIBO 8201 小便感应冲水器 产品说明书 — [zh/products/product-manual/8201小便冲水器CN_EN_说明书.md](zh/products/product-manual/8201小便冲水器CN_EN_说明书.md)
@@ -243,7 +243,7 @@ updated: 2026-07-28
 - 洁博利GIBO 感应龙头 产品说明书 — [zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md](zh/products/product-manual/GBL-9120A即热龙头CN_说明书.md)
 - 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6303D蹲便感应器CN_EN_说明书.md)
 - 洁博利GIBO 蹲便感应器 产品说明书 — [zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md](zh/products/product-manual/GBL-6306蹲便感应器CN_EN_说明书.md)
-- 红外感应线路板技术原理解析 — [zh/products/product-manual/红外感应线路板技术原理解析.md](zh/products/product-manual/红外感应线路板技术原理解析.md)
+- 红外感应线路板技术原理解析 — [zh/technology/红外感应线路板技术原理解析.md](zh/technology/红外感应线路板技术原理解析.md)
 
 ## products/product-spec
 
