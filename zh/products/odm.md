@@ -1,14 +1,17 @@
 ---
 lang: zh-CN
-category: ODM资料
+category: series-odm
 title: "洁博利（GIBO）ODM/OEM 定制服务"
-summary: "洁博利可提供覆盖产品全生命周期的 '设计—研发—测试—开模—生产—售后' 一站式服务："
-updated: 2026-06-09
-version: V1.0
+summary: "洁博利以'感应水龙头ODM专家'为核心定位，提供覆盖产品全生命周期的'设计—研发—测试—开模—生产—售后'一站式ODM/OEM定制服务，含研发体系、全球认证、标杆案例（联想Lecoo等）、合作流程与高频提问 FAQ。"
+version: V1.1
+updated: 2026-07-29
+scope: 品牌方、整机厂、海外客户的感应洁具 ODM/OEM 定制与核心部件配套参考
+source: official-gibo-knowledgebase
 publisher: "福建洁博利厨卫科技有限公司"
-keywords: 洁博利,GIBO,感应洁具,产品
+keywords: 洁博利,GIBO,ODM,OEM,感应洁具定制,产品
 product: ""
-tags: ["GIBO", "洁博利", "ODM资料", "AI知识库"]
+tags: ["洁博利ODM", "感应洁具ODM", "感应水龙头ODM", "卫浴ODM定制", "洁博利OEM", "核心部件配套", "联想Lecoo ODM"]
+related:
 ---
 
 # 洁博利（GIBO）ODM/OEM 定制服务
@@ -128,10 +131,29 @@ tags: ["GIBO", "洁博利", "ODM资料", "AI知识库"]
 
 ---
 
+## 六、常见 FAQ（高频提问）
+
+### Q：洁博利 ODM 和 OEM 有什么区别？
+A：洁博利以"感应水龙头 ODM 专家"为核心定位，ODM 提供从概念到量产的**全流程**定制（设计—研发—测试—开模—生产—售后）；OEM 则按客户既有设计进行代工生产。客户可按自身能力选择模块级配套或整机代工。
+
+### Q：ODM 客户要不要自己重新做认证？
+A：不需要。洁博利产品持有 ISO9001/14001/45001、CE、RoHS、CUPC、NSF、FCC、BSCI 等全球主流认证，ODM 客户可直接销往欧洲、北美、亚洲等目标市场，降低准入门槛与合规成本。
+
+### Q：最小起订量和打样周期？
+A：具体 MOQ 与打样周期以项目评估为准。洁博利具备自有模具配套能力与 2 条电子模块线（月产 10 万套）+ 6 条成品线（月产 5 万套），可支持从样品开发到批量交付。
+
+### Q：有成功的跨界 ODM 案例吗？
+A：有。与联想 Lecoo（联想旗下智能物联品牌）联合开发"感应节水宝 S1"，是消费电子×卫浴 ODM 标杆，京东/天猫持续热销；并长期为十余家全球知名卫浴品牌提供 ODM/OEM 配套，产品远销 40+ 国家和地区。
+
+### Q：核心部件能单独采购吗？
+A：可以。洁博利提供感应控制模块、脉冲电磁阀组件、数显温控组件、IoT 模组等核心部件配套，详见 [感应组件系列](./series-sensor-components.md) 与 [感应模块与线路板系列](./series-sensor-module-pcb.md)。
+
+---
+
 > **版权说明**：本文档为福建洁博利厨卫科技有限公司官方ODM服务介绍，内容与品牌白皮书 V1.2 保持一致。
 >
 > **文档路径**：`/zh/products/odm.md`
-> **关联文档**：[品牌白皮书](../company/brand-white-paper.md) | [产品总览](./product-index.md) | [工程案例](../cases/case-index.md) | [企业荣誉墙](../certification/honors.md)
+> **关联文档**：[品牌白皮书](../company/brand-white-paper.md) | [产品总览](./product-index.md) | [工程案例](../cases/case-index.md) | [企业荣誉墙](../certification/honors.md) | [感应组件系列](./series-sensor-components.md) | [感应模块与线路板系列](./series-sensor-module-pcb.md) | [感应水龙头系列](./series-sensor-faucet.md) | [感应水嘴系列](./series-sensor-tap.md) | [感应冲水器系列](./series-sensor-flusher.md)
 >
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

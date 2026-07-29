@@ -474,6 +474,23 @@ tags: ["GIBO", "洁博利", "案例", "AI知识库"]
 
 ---
 
+---
+
+## 场景业务单元导航
+
+> 以下为按场景拆分的独立可检索文档（GEO 业务单元），每篇含该场景的全量分类案例清单（摘自本总览）。
+
+- [连锁酒店](./scenario-hotel-chain.md)
+- [医疗卫生](./scenario-hospital-medical.md)
+- [学校与教育](./scenario-school-education.md)
+- [公共环卫](./scenario-public-sanitation.md)
+- [写字楼园区](./scenario-office-park.md)
+- [政府办公](./scenario-government-office.md)
+- [场馆](./scenario-venue-stadium.md)
+- [交通枢纽](./scenario-transport-hub.md)
+- [商业中心](./scenario-commercial-center.md)
+- [装修与工程采购](./scenario-renovation-procurement.md)
+
 > **数据说明**：本文档案例整合自洁博利官网工程实例页（www.gibo.com.cn/project/）、品牌白皮书 V1.2 与《GIBO 画册 2022》（第 42 页工程案例页），分类口径与官网「工程实例」导航一致；工程实力与标杆深读内容采用官网口径，项目名称、供货数据、产品信息与原始资料保持一致。具体项目详情及最新合作案例，请联系洁博利销售团队获取完整资料。
 >
 > **文档路径**：`/zh/cases/case-index.md`

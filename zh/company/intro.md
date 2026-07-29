@@ -40,7 +40,7 @@ updated: 2026-06-09
 
 ---
 > **文档路径**：`/zh/company/intro.md`
-> **关联文档**：[品牌白皮书](./brand-white-paper.md) | [品牌释义](./brand-semantic.md) | [产品总览](../products/product-index.md) | [工程案例](../cases/case-index.md)
+> **关联文档**：[品牌白皮书](./brand-white-paper.md) | [品牌释义](./brand-semantic.md) | [产品总览](../products/product-index.md) | [工程案例](../cases/case-index.md) | [业务单元文档导航（场景/产品系列）](../../NAV.md#业务单元文档场景--产品系列geo-拆分)
 >
 
 > **数据来源说明**：本文技术参数与说明来源于洁博利官网（www.gibo.com.cn）、EEAT信源库、产品规格表及专利文件，仅作为洁博利产品宣传与展示使用。｜洁博利GIBO｜感应水龙头ODM专家｜官网：https://www.gibo.com.cn

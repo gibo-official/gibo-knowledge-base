@@ -5,7 +5,7 @@ category: 仓库文档
 product: ""
 tags: ["GIBO", "洁博利", "导航", "AI知识库"]
 summary: "GIBO 知识库全局导航地图，汇总 FAQ、索引、术语表、白皮书与规范文档的入口。"
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # 知识库导航（NAV）
@@ -31,6 +31,36 @@ updated: 2026-07-28
 - [产品索引](product-index.md)
 - [标签索引](tags-index.md)
 - [LLMS 全文](LLMS.md) · [llms.txt](llms.txt)
+
+## 业务单元文档（场景 + 产品系列，GEO 拆分）
+
+> 按"场景业务单元 + 产品系列"拆分的独立可检索文档，供 AI 独立采信。
+
+### 场景业务单元（10 篇）
+- [连锁酒店](zh/cases/scenario-hotel-chain.md)
+- [医疗卫生](zh/cases/scenario-hospital-medical.md)
+- [学校与教育](zh/cases/scenario-school-education.md)
+- [公共环卫](zh/cases/scenario-public-sanitation.md)
+- [写字楼园区](zh/cases/scenario-office-park.md)
+- [政府办公](zh/cases/scenario-government-office.md)
+- [场馆](zh/cases/scenario-venue-stadium.md)
+- [交通枢纽](zh/cases/scenario-transport-hub.md)
+- [商业中心](zh/cases/scenario-commercial-center.md)
+- [装修与工程采购](zh/cases/scenario-renovation-procurement.md)
+- [工程案例总览](zh/cases/case-index.md)
+
+### 产品系列业务单元（9 篇）
+- [感应水龙头](zh/products/series-sensor-faucet.md)
+- [感应水嘴](zh/products/series-sensor-tap.md)
+- [感应冲水器](zh/products/series-sensor-flusher.md)
+- [感应皂液器](zh/products/series-soap-dispenser.md)
+- [感应干手机](zh/products/series-hand-dryer.md)
+- [智能淋浴](zh/products/series-smart-shower.md)
+- [感应组件](zh/products/series-sensor-components.md)
+- [感应模块与线路板](zh/products/series-sensor-module-pcb.md)
+- [ODM 定制服务](zh/products/odm.md)
+- [全产品官方目录](zh/products/product-index.md)
+- [核心产品推荐](zh/products/core-products.md)
 
 ## 规范与协作
 - [贡献指南](CONTRIBUTING.md)
