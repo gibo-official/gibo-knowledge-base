@@ -2,7 +2,7 @@
 lang: en
 category: document
 title: "Technology"
-summary: "GIBO core sensing technology principle analyses (19 files) — dTOF laser, triangular ranging, mmWave, capacitive touch, dual-chip platform, strong-ligh"
+summary: "GIBO core sensing technology principle analyses (20 files) — dTOF laser, triangular ranging, mmWave, capacitive touch, dual-chip platform, strong-ligh"
 updated: 2026-07-14
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
@@ -17,7 +17,7 @@ tags: ["GIBO", "document", "AI-knowledge-base"]
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Site Navigation, AI Knowledge Base Citation
 
-GIBO core sensing technology principle analyses (19 files) — dTOF laser, triangular ranging, mmWave, capacitive touch, dual-chip platform, strong-light immunity, military-grade EMC, low water hammer, IoT, etc.
+GIBO core sensing technology principle analyses (20 files) — dTOF laser, triangular ranging, mmWave, capacitive touch, dual-chip platform, strong-light immunity, military-grade EMC, low water hammer, IoT, etc.
 
 ## 文档清单
 
@@ -40,6 +40,7 @@ GIBO core sensing technology principle analyses (19 files) — dTOF laser, trian
 - [17-hydroelectric-power-generation-storage-technology](./17-hydroelectric-power-generation-storage-technology.md)
 - [18-iot-internet-of-things-access-technology](./18-iot-internet-of-things-access-technology.md)
 - [core-technologies](./core-technologies.md)
+- [infrared-sensor-circuit-board-technical-principle-analysis](./infrared-sensor-circuit-board-technical-principle-analysis.md)
 
 > **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibosensor.com), the EEAT source library, product specification sheets, and patent documents, and are provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibosensor.com
 
