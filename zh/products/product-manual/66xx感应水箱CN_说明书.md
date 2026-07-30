@@ -9,8 +9,10 @@ publisher: "福建洁博利厨卫科技有限公司"
 keywords: 感应水箱,洁博利,GIBO,感应洁具
 product_model: "66xx"
 product: "66xx"
-tags: ["GIBO", "洁博利", "产品说明书", "AI知识库"]
+tags: ["GIBO", "洁博利", "产品说明书", "AI知识库", "感应水箱", "蹲便", "公厕", "学校", "节水", "静音"]
 ---
+> **适配场景 / 资质 / 定位**：学校 / 公厕蹲便感应冲水 · 节水静音 · 易维护
+
 
 <img src="../../../assets/images/ins/gibo-header.png" alt="GIBO" width="200" />
 # A3
