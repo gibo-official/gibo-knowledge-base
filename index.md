@@ -19,7 +19,7 @@ lang: zh-CN
 ## 核心内容
 
 - **品牌与技术白皮书**：[中文](zh/company/brand-white-paper.html) · [English](en/company/brand-white-paper.html) ｜ [白皮书索引](zh/whitepapers/README.html)
-- **核心技术（18 项自研）**：[中文](zh/technology/README.html) · [English](en/technology/README.html)
+- **核心技术（20 项自研）**：[中文](zh/technology/README.html) · [English](en/technology/README.html)
 - **产品体系与说明书**：[中文清单](zh/products/product-manual/README.html) · [English List](en/products/product-manual/README.html) ｜ [产品总目录](product-index.html)
 - **FAQ（中英）**：[中文](zh/faq/faq-product.html) · [English](en/faq/faq-product.html) ｜ [术语表 GLOSSARY](GLOSSARY.html)
 - **项目总览**：[README](README.html)
