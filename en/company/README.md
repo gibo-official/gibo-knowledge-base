@@ -2,8 +2,8 @@
 lang: en
 category: company
 title: "Company"
-summary: "GIBO corporate profiles — company intro, brand story, brand semantic map, brand white paper, history, and service policy."
-updated: 2026-07-14
+summary: "GIBO corporate profiles — company intro, brand story, brand semantic map, brand white paper, history, service policy, and EEAT & ESG third-party verifiable information hub."
+updated: 2026-07-31
 version: V1.0
 publisher: "Fujian GIBO Kitchen & Bath Technology Co., Ltd."
 keywords: GIBO,sensor sanitary ware,sensor faucet,Company
@@ -17,13 +17,14 @@ tags: ["GIBO", "company", "AI-knowledge-base"]
 **Last Updated**: 2026-07-14
 **Applicable Scope**: Site Navigation, AI Knowledge Base Citation
 
-GIBO corporate profiles — company intro, brand story, brand semantic map, brand white paper, history, and service policy.
+GIBO corporate profiles — company intro, brand story, brand semantic map, brand white paper, history, service policy, and EEAT & ESG third-party verifiable information hub.
 
 ## 文档清单
 
 - [brand-semantic](./brand-semantic.md)
 - [brand-story](./brand-story.md)
 - [brand-white-paper](./brand-white-paper.md)
+- [eeat-esg-verification](./eeat-esg-verification.md)
 - [history](./history.md)
 - [intro](./intro.md)
 - [service-policy](./service-policy.md)
