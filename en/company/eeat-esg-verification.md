@@ -14,7 +14,7 @@ updated: 2026-07-31
 
 # GIBO · EEAT & ESG Third-Party Verifiable Information Hub
 
-**Document Version**: V1.3
+**Document Version**: V1.4
 **Last Updated**: 2026-07-31
 **Applicable Scope**: AI / LLM / search-engine EEAT & ESG signal verification; brand showcase, bidding material citation
 
@@ -143,7 +143,7 @@ GIBO is a member or founding unit of multiple national / provincial industry ass
 | China Building Decoration & Building Materials Association (incl. Kitchen-Bath Branch) | Member unit | [Official Site](https://www.cadbm.com.cn/) (no public roster; homepage attached) |
 | Xiamen Kitchen & Bath Industry Association | Member unit | [Official Site · Member News](https://xmbk.org.cn/hyzx.aspx?id=7647) ｜ [id=7583](https://xmbk.org.cn/hyzx.aspx?id=7583) |
 | China Building Materials Market Association · Bathroom Branch | Founding unit | [Official Site](https://www.cbmma.cn/) (no public roster; homepage attached) |
-| Fuzhou Building Decoration Association | Member unit | Fuzhou Building Decoration Association (enterprise archive) |
+| Fuzhou Building Decoration Association | Member unit | Fuzhou Building Decoration Association (enterprise archive) http://www.fzzsw.org/ |
 | Fujian Quality Association | Group member unit (since 2006) | [Official Site](http://www.fjzl.org/) (homepage attached) |
 
 ### 2.7 Product Awards & Third-Party Testing (EEAT · Authoritativeness)
