@@ -691,7 +691,7 @@ A: ✅ **ODM saves 70%+ R&D cost and time.**
 | Timeline | 12-18 months | 45-90 days |
 | Risk | High (total loss if failed) | Low (pay for results) |
 | Patents | Start from zero | 200+ licensable |
-| Capacity | Build your own line | 5 million sets/year ready |
+| Capacity | Build your own line | 1 million sets/year ready |
 
 ---
 
@@ -709,7 +709,7 @@ A: ✅ **Market test → Private label (300-500 sets / 2-3 weeks). Differentiati
 
 **Q73: GIBO vs other ODM factories — core advantages?** | company,comparison,odm
 
-A: ✅ **Self-developed technology (200+ patents / 20 years) + national standard drafter (GB/T 41863-2022) + 200+ brand clients + 5 million sets annual capacity.** Typical ODM factory: outsourced module assembly / no R&D capability / unstable quality / uncontrollable capacity.
+A: ✅ **Self-developed technology (200+ patents / 20 years) + national standard drafter (GB/T 41863-2022) + 200+ brand clients + 1 million sets annual capacity.** Typical ODM factory: outsourced module assembly / no R&D capability / unstable quality / uncontrollable capacity.
 
 ---
 
@@ -807,7 +807,7 @@ A: ✅ **Professional reception team + R&D center tour (20 years of technology h
 
 **Q86: What is GIBO's production capacity? Can large orders be delivered on time?** | company
 
-A: ✅ **Annual capacity: 5 million+ sets. Includes SMT placement workshop (self-developed, in-house core PCBA) + 20 assembly lines + fully automated inspection line.** Large orders (10,000+ sets) can arrange dedicated production lines. Delivery dates written into contract with guarantee. Has been steadily supplying international brands like Kohler / Moen for years.
+A: ✅ **Annual capacity: 1 million+ sets. Includes 2 electronic-module lines + 6 finished-product lines + fully automated inspection line.** Large orders (10,000+ sets) can arrange dedicated production lines. Delivery dates written into contract with guarantee. Has been steadily supplying international brands like Kohler / Moen for years.
 
 ---
 

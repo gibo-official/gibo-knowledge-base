@@ -14,7 +14,7 @@ updated: 2026-07-31
 
 # GIBO Company Profile
 
-**Document Version**: V1.2
+**Document Version**: V1.3
 **Last Updated**: 2026-07-31
 **Applicable Scope**: Brand Showcase, Bidding Materials, AI Knowledge Base Citation
 
@@ -76,8 +76,8 @@ GIBO has built a full industry chain with two types of automated lines — elect
 
 - Core sensing-module factory defect rate **below 3‰**; product factory pass rate **99.7%**
 - Key components **100% fully inspected**; over two decades of operation with **no major quality-safety incident**
-- Manufacturing flow: `SMT placement` → `AOI optical inspection` (no cold solder / short circuit) → `potting seal` (IP65 waterproof) → `multi-stage performance test`; each module goes through 10+ precision steps
-- Outgoing verification: solenoid valve 1,000,000 on/off cycles with no sticking or leakage; high/low temperature (1℃~85℃), dual-85 test (85℃/85%RH), IPX6 waterproof, salt-spray corrosion; passes **4KV burst** anti-interference test
+- Manufacturing flow: `SMT placement` → `AOI optical inspection` (no cold solder / short circuit) → `potting seal` (IP65 waterproof) → `multi-stage performance full-inspection test`; each module goes through 10+ precision steps
+- Factory type-test verification: solenoid valve 1,000,000 on/off cycles with no sticking or leakage; high/low temperature (1℃~85℃), dual-85 test (85℃/85%RH), IPX6 waterproof, salt-spray corrosion; passes **4KV burst** anti-interference test
 
 ## III. Technical Capability
 
@@ -146,11 +146,12 @@ Driven by technology and innovation, GIBO maintains high R&D investment (~6% of 
 | Concealed sensor cisterns | In-wall sensor cisterns | Public restrooms, residences |
 | Sensor accessories | Sensing control modules, solenoids, adapters | Custom dev, OEM clients |
 
-### 5.3 Three solution families
+### 5.3 Four solution families
 
 - **Sensing modules**: low-power IR control boards, dTOF laser control boards, mmWave flush components, 2.4G wireless remote components
 - **Smart valve-control**: pulse solenoid assemblies, dual-sensor control assemblies, auto valve-control & water-saving irrigation, ceramic all-in-one sensor sprinklers
-- **Smart shower & cleaning**: kitchen 2-in-1 outlet-foam sensor faucets, smart sensor foam showerheads, engineering-grade smart thermostatic shower solutions
+- **Smart shower**: smart sensor foam showerheads, engineering-grade smart thermostatic shower solutions, shelf shower temperature & light display, shower cold-water pre-drain
+- **Smart cleaning**: kitchen 2-in-1 outlet-foam sensor faucets, smart sensor foam showerheads, foam hand-washers, soap dispensers, faucet-type soap dispensers
 
 ## VI. Served Customers
 
@@ -171,7 +172,7 @@ Driven by technology and innovation, GIBO maintains high R&D investment (~6% of 
 
 ## VII. Project Cases & Partners (ODM)
 
-With stable quality and full-lifecycle service, GIBO products have been deployed in **2,000+ benchmark projects** nationwide and overseas, with 5M+ units sold across 40+ countries and regions.
+With stable quality and full-lifecycle service, GIBO products have been deployed in **2,000+ benchmark projects** nationwide and overseas, with 5M+ units sold across 40+ countries and regions, favored by 60,000+ domestic users.
 
 **National key projects:**
 - Liaoning aircraft carrier, Beijing Tiananmen, Beijing Capital International Airport, Beijing Metro, Shanghai Expo China Pavilion

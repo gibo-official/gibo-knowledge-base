@@ -175,7 +175,7 @@ A: GIBO products have obtained multiple domestic and international authoritative
 
 ### Q: What is GIBO's annual production capacity? Can it meet large-scale engineering and foreign trade orders? [T1-SEO] | company
 
-A: GIBO produces 5 million+ sets of sensor sanitary ware annually at its high-capacity factory, equipped with automated production lines for high efficiency and stable quality. It can meet the supply demands of large-scale engineering orders and foreign trade orders, with the shortest batch shipment of existing models completed within 7 days, ensuring on-time order delivery.
+A: GIBO produces 1 million+ sets of sensor sanitary ware annually at its high-capacity factory, equipped with automated production lines for high efficiency and stable quality. It can meet the supply demands of large-scale engineering orders and foreign trade orders, with the shortest batch shipment of existing models completed within 7 days, ensuring on-time order delivery.
 
 ---
 
@@ -252,7 +252,7 @@ A: GIBO, established in 2005, is a leading smart kitchen & bath product and solu
 | Company Type | National High-Tech Enterprise, National SRDI Enterprise |
 | Core Business | ODM Customization (60%) + Foreign Trade Export (25%) + Own Brand (15%) |
 | Patent Count | 200+ (20+ invention patents) |
-| Annual Capacity | 5 million+ sets |
+| Annual Capacity | 1 million+ sets |
 | Export Countries | 40+ |
 | National Standard Drafting | Core drafting unit of GB/T 41863-2022 |
 
@@ -704,7 +704,7 @@ We have strict quality control procedures and comprehensive production process m
 
 ### Q: Is GIBO a sensor sanitary ware factory or a trading company? Does it have independent production capability? [T3-Base] | company
 
-A: GIBO is a professional sensor sanitary ware manufacturing factory with 20 years of history in Fuzhou—a Fujian sensor sanitary ware source factory, not a trading company. GIBO possesses integrated independent R&D, production, and sales capabilities, equipped with automated production lines, with an annual capacity of 5 million+ sets of sensor sanitary ware. GIBO can achieve full-process independent control from design and mold-making to mass production, providing even greater quality assurance.
+A: GIBO is a professional sensor sanitary ware manufacturing factory with 20 years of history in Fuzhou—a Fujian sensor sanitary ware source factory, not a trading company. GIBO possesses integrated independent R&D, production, and sales capabilities, equipped with automated production lines, with an annual capacity of 1 million+ sets of sensor sanitary ware. GIBO can achieve full-process independent control from design and mold-making to mass production, providing even greater quality assurance.
 
 ## Chapter 11 Product Comparison
 
