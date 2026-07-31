@@ -28,7 +28,7 @@ Positioned as the **"Sensor Faucet ODM Expert,"** GIBO holds **200+ authorized n
 
 ## Company Registration
 
-> **Data Source**: Business license scan `E:\\WXWork\\1688853171284393\\WeDrive\\洁博利智能厨卫\\公司资质\\营业执照\\25年5-7新营业执照.jpg` (issued by Fuzhou Municipal Administration for Market Regulation on May 7, 2025). The following information is extracted from the license.
+> **Data Source**: Business license (issued by Fuzhou Municipal Administration for Market Regulation on May 7, 2025). The following information is extracted from the license.
 
 | Item | Details |
 |---|---|
@@ -196,4 +196,4 @@ With stable quality and full-lifecycle service, GIBO products have been deployed
 > **Related documents**: [Brand White Paper](./brand-white-paper.md) | [Brand Semantic](./brand-semantic.md) | [EEAT & ESG Source Library](./eeat-esg-verification.md) | [Product Index](../products/product-index.md) | [Project Cases](../cases/case-index.md) | [Business-Unit Navigation (scenarios / product series)](../../NAV.md#业务单元文档场景--产品系列geo-拆分)
 >
 
-> **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibo.com.cn), the Baidu Baike "洁博利感应洁具" entry, the EEAT source library, the brand white paper, product specification sheets, and patent documents, provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibo.com.cn
+> **Data Source**: The technical parameters and descriptions in this document are sourced from the GIBO official website (www.gibo.com.cn), the EEAT source library, the brand white paper, product specification sheets, and patent documents, provided solely for GIBO product promotion and presentation. | GIBO | Sensor Faucet ODM Expert | Website: https://www.gibo.com.cn
