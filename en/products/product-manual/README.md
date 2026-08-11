@@ -22,13 +22,13 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 > 📁 Directory: `en/products/product-manual/`
 > 🖼️ Image Directory: `../../../assets/images/ins/`
 
-**Total Files**: 69 | **Unique Models**: 60
+**Total Files**: 71 | **Unique Models**: 62
 
 ---
 
 ## 📊 Category Statistics
 
-- **Sensor Faucets**: 28 files, 26 models
+- **Sensor Faucets**: 30 files, 28 models
 - **Sensor Nozzles**: 21 files, 14 models
 - **Sensor Soap Dispensers**: 5 files, 5 models
 - **Sensor Urinals**: 5 files, 5 models
@@ -59,19 +59,21 @@ tags: ["GIBO", "product-manual", "AI-knowledge-base"]
 | 13 | 6155 | Sensor_Faucet | English | [6155_Sensor_Faucet_EN_Manual.md](6155_Sensor_Faucet_EN_Manual.md) |
 | 14 | 6157 | Sensor_Faucet | English | [6157_Sensor_Faucet_EN_Manual.md](6157_Sensor_Faucet_EN_Manual.md) |
 | 15 | 6170 | Sensor_Faucet | English | [6170_Sensor_Faucet_EN_Manual.md](6170_Sensor_Faucet_EN_Manual.md) |
-| 16 | 61xx | All_in_One | English | [61xx_All_in_One_EN_Manual.md](61xx_All_in_One_EN_Manual.md) |
-| 17 | 61xx | Sensor_Faucet | English | [61xx_Sensor_Faucet_EN_Manual.md](61xx_Sensor_Faucet_EN_Manual.md) |
-| 18 | 61xx | Sensor_Faucet | Japanese | [61xx_Sensor_Faucet_JP_Manual.md](61xx_Sensor_Faucet_JP_Manual.md) |
-| 19 | 9101 | Sensor_Faucet | English | [9101_Sensor_Faucet_EN_Manual.md](9101_Sensor_Faucet_EN_Manual.md) |
-| 20 | 9105 | Sensor_Faucet | English | [9105_Sensor_Faucet_EN_Manual.md](9105_Sensor_Faucet_EN_Manual.md) |
-| 21 | 9160 | Sensor_Faucet | English | [9160_Sensor_Faucet_EN_Manual.md](9160_Sensor_Faucet_EN_Manual.md) |
-| 22 | 91601 | Sensor_Faucet | English | [91601_Sensor_Faucet_EN_Manual.md](91601_Sensor_Faucet_EN_Manual.md) |
-| 23 | 91605 | Sensor_Faucet | English | [91605_Sensor_Faucet_EN_Manual.md](91605_Sensor_Faucet_EN_Manual.md) |
-| 24 | 9161 | Sensor_Faucet | English | [9161_Sensor_Faucet_EN_Manual.md](9161_Sensor_Faucet_EN_Manual.md) |
-| 25 | GBL-6103 | Sensor_Faucet | English | [GBL-6103_Sensor_Faucet_EN_Manual.md](GBL-6103_Sensor_Faucet_EN_Manual.md) |
-| 26 | GBL-6106 | Sensor_Faucet | English | [GBL-6106_Sensor_Faucet_EN_Manual.md](GBL-6106_Sensor_Faucet_EN_Manual.md) |
-| 27 | GBL-6108D | Sensor_Faucet | English | [GBL-6108D_Sensor_Faucet_EN_Manual.md](GBL-6108D_Sensor_Faucet_EN_Manual.md) |
-| 28 | GBL-6170 | Sensor_Basin_Faucet | English | [GBL-6170_Sensor_Basin_Faucet_EN_Manual.md](GBL-6170_Sensor_Basin_Faucet_EN_Manual.md) |
+| 16 | 6176 | Dual_Sensor_Display_Faucet | English | [6176_Dual_Sensor_Display_Faucet_EN_Manual.md](6176_Dual_Sensor_Display_Faucet_EN_Manual.md) |
+| 17 | 6178 | Soap_Dual_Sensor_Faucet | English | [6178_Soap_Dual_Sensor_Faucet_EN_Manual.md](6178_Soap_Dual_Sensor_Faucet_EN_Manual.md) |
+| 18 | 61xx | All_in_One | English | [61xx_All_in_One_EN_Manual.md](61xx_All_in_One_EN_Manual.md) |
+| 19 | 61xx | Sensor_Faucet | English | [61xx_Sensor_Faucet_EN_Manual.md](61xx_Sensor_Faucet_EN_Manual.md) |
+| 20 | 61xx | Sensor_Faucet | Japanese | [61xx_Sensor_Faucet_JP_Manual.md](61xx_Sensor_Faucet_JP_Manual.md) |
+| 21 | 9101 | Sensor_Faucet | English | [9101_Sensor_Faucet_EN_Manual.md](9101_Sensor_Faucet_EN_Manual.md) |
+| 22 | 9105 | Sensor_Faucet | English | [9105_Sensor_Faucet_EN_Manual.md](9105_Sensor_Faucet_EN_Manual.md) |
+| 23 | 9160 | Sensor_Faucet | English | [9160_Sensor_Faucet_EN_Manual.md](9160_Sensor_Faucet_EN_Manual.md) |
+| 24 | 91601 | Sensor_Faucet | English | [91601_Sensor_Faucet_EN_Manual.md](91601_Sensor_Faucet_EN_Manual.md) |
+| 25 | 91605 | Sensor_Faucet | English | [91605_Sensor_Faucet_EN_Manual.md](91605_Sensor_Faucet_EN_Manual.md) |
+| 26 | 9161 | Sensor_Faucet | English | [9161_Sensor_Faucet_EN_Manual.md](9161_Sensor_Faucet_EN_Manual.md) |
+| 27 | GBL-6103 | Sensor_Faucet | English | [GBL-6103_Sensor_Faucet_EN_Manual.md](GBL-6103_Sensor_Faucet_EN_Manual.md) |
+| 28 | GBL-6106 | Sensor_Faucet | English | [GBL-6106_Sensor_Faucet_EN_Manual.md](GBL-6106_Sensor_Faucet_EN_Manual.md) |
+| 29 | GBL-6108D | Sensor_Faucet | English | [GBL-6108D_Sensor_Faucet_EN_Manual.md](GBL-6108D_Sensor_Faucet_EN_Manual.md) |
+| 30 | GBL-6170 | Sensor_Basin_Faucet | English | [GBL-6170_Sensor_Basin_Faucet_EN_Manual.md](GBL-6170_Sensor_Basin_Faucet_EN_Manual.md) |
 
 ---
 
