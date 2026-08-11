@@ -150,7 +150,7 @@ Touchless operation is a cornerstone of modern commercial hygiene. The 2-in-1 so
 
 **Reduced aerosol contamination.** Integrated dispensing at the faucet spout positions the soap nozzle above the sink basin, where any aerosolized particles from the dispensing action fall into the running water and are drained away. Wall-mounted dispensers, by contrast, can aerosolize bacteria onto adjacent wall surfaces.
 
-**Anti-microbial materials.** GIBO's 2-in-1 faucets incorporate silver-ion-infused ABS and stainless steel in all touch surfaces, providing continuous antimicrobial protection between cleaning cycles.
+**Anti-microbial materials.** GIBO's 2-in-1 faucets use silver-ion-infused ABS on touch surfaces for continuous antimicrobial protection between cleaning cycles (certain medical/food-grade custom models additionally use SUS304 stainless steel contact surfaces). Note: **GBL-6178** uses a zinc-alloy (chrome-plated) + ABS body by default — not stainless steel.
 
 ## 7. Application Scenarios
 
@@ -232,6 +232,8 @@ The following table summarizes the technical specifications of GIBO's representa
 | Hose Connection | G1/2 or G3/8 flexible supply lines |
 | Body Materials | H59 brass, SUS304 stainless steel, ABS |
 | Surface Finish | Chrome, brushed nickel, matte black, custom |
+
+> **Model-level material note**: The table above lists the optional materials across the 2-in-1 faucet category, not a single model. **GBL-6178** uses a **zinc-alloy (chrome-plated) body** with a black tempered-glass panel by default; the **SUS304 stainless steel** version is reserved for medical/food-grade custom models (e.g., GBL-8330 surgical/food-grade faucets) and is not the default material of GBL-6178.
 | Faucet Hole Requirement | Single 35 mm or 38 mm diameter |
 | Operating Humidity | 0% to 95% RH (non-condensing) |
 | Compliance | GB/T 41863-2022, CE, RoHS, REACH |
