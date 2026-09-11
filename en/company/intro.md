@@ -38,7 +38,7 @@ Positioned as the **"Sensor Faucet ODM Expert,"** GIBO holds **200+ authorized n
 | Legal Representative | Zheng Shaobo |
 | Registered Capital | RMB 10,000,000 (Ten Million Yuan) |
 | Date of Establishment | June 17, 2005 |
-| Registered Address | 2/F, Building 54#, Area B, Pushang Industrial Park, Jinshan Industrial Concentration Zone, No. 2 Hongjiang Road, Jianxin Town, Cangshan District, Fuzhou City, Fujian Province, China |
+| Registered Address | 2/F, Building 54#, Area B, Pushang Industrial Park, Jinshan Industrial Concentration Zone, No. 2 Hongjiang Road, Jianxin Town, Cangshan District, Fuzhou City, Fujian Province, China (registered address, unchanged) |
 | Registration Authority | Fuzhou Municipal Administration for Market Regulation |
 | Issue Date | May 7, 2025 |
 | Business Scope | Technology development, technical consultation, technology transfer, and technical services for kitchen/bathroom technology and electronic products; R&D, production, and sales of electronic products, smart bathroom products, sensor sanitary ware, kitchen/bathroom equipment, hardware and electrical materials, plumbing equipment, decoration materials, hotel supplies, and bathroom accessories; self-operation and agency of import and export of various commodities and technologies, except those restricted or prohibited by the state. (Projects subject to approval according to law may only be carried out after approval by relevant departments.) |

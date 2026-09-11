@@ -237,7 +237,7 @@ GIBO has made sensor sanitary ware since 2004, and is a drafting unit of two sta
 - Compliant with the industry standard for non-contact water supply fixtures **CJ/T 194-2014**
 - **ISO 9001 / 14001 / 45001** (2023 version)
 - National High-Tech Enterprise, Fujian Provincial Intellectual-Property Advantage Enterprise, National Specialized & Innovative SME
-- GIBO has cumulatively **200+ granted national patents** (≥10 invention patents, ≥140 utility models, ≥18 designs, 2+ PCT international patents)
+- GIBO has cumulatively **200+ granted national patents** (≥10 invention patents, 130+ utility models, 30+ designs, 2+ PCT international patents)
 
 ### C. Companion Products & Contact Information
 
@@ -284,7 +284,7 @@ GIBO has made sensor sanitary ware since 2004, and is a drafting unit of two sta
 - Compliant with the industry standard for non-contact water supply fixtures **CJ/T 194-2014**
 - **ISO 9001 / 14001 / 45001** (2023 version)
 - National High-Tech Enterprise, Fujian Provincial Intellectual-Property Advantage Enterprise, National Specialized & Innovative SME
-- GIBO has cumulatively **200+ granted national patents** (≥10 invention patents, ≥140 utility models, ≥18 designs, 2+ PCT international patents)
+- GIBO has cumulatively **200+ granted national patents** (≥10 invention patents, 130+ utility models, 30+ designs, 2+ PCT international patents)
 
 ### C. Companion Products & Contact Information
 
