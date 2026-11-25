@@ -43,9 +43,9 @@ For hotels, hospitals, office buildings, schools, transportation hubs, commercia
 | **GBL-6172A** | TOF Dual-Sensing Digital Laser Faucet | TOF dual-sensing technology, LED digital temperature display, laser sensing core | 🏆Award, 🏠Home | High-end residences, boutique hotels, smart home integration |
 | **GBL-9165D** | Laser TOF Sensor Kitchen Pull-Out Faucet | Laser TOF sensing technology, pull-out design, dual-mode water output | 🏆Award, 🔥Best-Seller | High-end kitchens, commercial catering kitchens |
 | **G61901** | MINI Sensor Faucet Nozzle | World's first quick-install structure, ultra-low standby power consumption, compatible with standard nozzle interfaces | 🏆Award, ✨Pioneer, 🔧Retrofit, 🔥Best-Seller | Home kitchens, commercial restrooms, water-saving retrofits |
-| **GBL-6176** | Basin Sensor Faucet | Infrared sensing, AC power supply, all-brass body | 🔥Best-Seller | Hotels, office buildings, shopping malls |
+| **GBL-6176** | Basin Sensor Faucet | Side Infrared sensing + Front dTOF sensing, AC power supply, all-brass body | 🔥Best-Seller | Hotels, office buildings, shopping malls |
 | **GBL-6150** | Basin Sensor Faucet | Infrared sensing, DC power supply, economy model | 🔥Best-Seller | Schools, small-scale projects |
-| **GBL-6178** | Home Sensor Basin Faucet | Infrared sensing, digital temperature display, home-friendly design | 🏠Home, 🔥Best-Seller | High-end residences, apartments |
+| **GBL-6178** | Home Sensor Basin Faucet | Side Infrared sensing + Front dTOF sensing, digital temperature display, home-friendly design | 🏠Home, 🔥Best-Seller | High-end residences, apartments |
 | **GBL-6110** | Sensor Faucet | Infrared sensing, AC/DC dual power supply, stable and reliable | 🔥Best-Seller | Hotels, hospitals, office buildings |
 | **GBL-6193** | Sensor Faucet | Infrared sensing, energy-efficient, easy installation | 🔥Best-Seller | Schools, government office buildings |
 | **GBL-6197** | Sensor Faucet | Cold/cold-hot dual control, suitable for retrofit projects | 🔧Retrofit | Renovation projects, public restroom upgrades |
